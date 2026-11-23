@@ -1,0 +1,27 @@
+# Gebze Yol Yardım — Arama Motoru & Yapay Zeka Tarayıcı (GEO) İzinleri
+User-agent: *
+Allow: /
+
+# Yapay Zeka Arama Motorları (GEO / AI Search)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://gebzecekici.tr/sitemap.xml

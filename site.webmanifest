@@ -1,0 +1,17 @@
+{
+  "name": "Gebze Yol Yardım & Oto Çekici",
+  "short_name": "Gebze Çekici",
+  "description": "Gebze, GOSB, Çayırova, Darıca, Dilovası, TEM ve D-100 hattında 7/24 kaskolu oto çekici ve yol yardım.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#111113",
+  "icons": [
+    {
+      "src": "/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
