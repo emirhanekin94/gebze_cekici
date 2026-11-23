@@ -134,7 +134,7 @@ function head({ title, description, canonical, ogImage, heroPreload, schemas = [
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=Manrope:wght@700;800&display=swap" media="print" onload="this.media='all'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=Manrope:wght@700;800&display=swap"></noscript>
-  <link rel="stylesheet" href="/css/style.css?v=10">${gtmHeadBlock}
+  <link rel="stylesheet" href="/css/style.css?v=11">${gtmHeadBlock}
   <script>window.__SITE_ADS__=${adsConfig};</script>
 ${schemaBlocks}
 </head>
@@ -143,7 +143,7 @@ ${schemaBlocks}
 }
 
 function headerNav(activeKey, regionCtx = null) {
-  const navTitle = regionCtx ? regionCtx.navbarTitle : 'GEBZE YOL YARDIM';
+  const navTitle = regionCtx ? regionCtx.navbarTitle : 'GEBZE ÇEKİCİ';
   const navSub = regionCtx ? regionCtx.navbarSub : BUSINESS.navSub;
 
   const links = [
@@ -442,7 +442,7 @@ function lightboxModal() {
   return `<div id="gallery-lightbox" class="lightbox" role="dialog" aria-modal="true" aria-label="Saha Fotoğrafı Önizleme">
   <button type="button" id="lightbox-close" class="lightbox-close" aria-label="Kapat">${ICONS.close}</button>
   <div class="lightbox-inner">
-    <img id="lightbox-img" class="lightbox-img" src="/images/gebze-hero-otoyol.webp" alt="Gebze Yol Yardım Saha Operasyonu" width="640" height="360">
+    <img id="lightbox-img" class="lightbox-img" src="/images/gebze-hero-otoyol.webp" alt="Gebze Çekici Saha Operasyonu" width="640" height="360">
     <p id="lightbox-cap" class="lightbox-cap"></p>
   </div>
 </div>`;

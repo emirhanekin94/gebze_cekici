@@ -324,7 +324,7 @@ const BLOG_POSTS = [
           'Sektörde sürücülerin en sık mağdur olduğu durum, telefonda çok düşük bir açılış rakamı söylenip araç platforma yüklendikten sonra "vinç halatı bağladık", "gece tarifesi", "teker kilitliydi" gibi bahanelerle rakamın iki katına çıkarılmasıdır. Bundan korunmanın tek yolu telefon görüşmesinde aracınızın gerçek durumunu (tekerlek dönüyor mu, kapalı garaj mı, gidecek adres neresi) eksiksiz anlatıp <strong>her şey dahil tek sabit rakam</strong> onayı almaktır.'
         ],
         callout: {
-          title: 'Gebze Yol Yardım Sabit Fiyat Taahhüdü',
+          title: 'Gebze Çekici Sabit Fiyat Taahhüdü',
           text: '0533 945 45 14 hattımızda verdiğimiz teklif; yükleme, taşıma sigortası ve teslimatı kapsayan nihai rakamdır. Araç platforma alındıktan sonra trafikte bekleme veya gece farkı adıyla ek bedel çıkarılmaz.'
         }
       },

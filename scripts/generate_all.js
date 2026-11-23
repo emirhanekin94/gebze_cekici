@@ -86,7 +86,7 @@ function whyUsBentoSection(eyebrow = 'Neden Biz?', title = 'Sadece çekici deği
           <p class="section-desc">${P.esc(desc)}</p>
         </div>
         <div class="why-media-card">
-          ${P.pictureTag('gebze-istasyon', 'Gebze Yol Yardım modern kayar kasa çekici filosu', false)}
+          ${P.pictureTag('gebze-istasyon', 'Gebze Çekici modern kayar kasa çekici filosu', false)}
           <div class="why-media-stats">
             <div class="why-media-stat"><strong>10–15 Dk</strong><span>Ort. Varış</span></div>
             <div class="why-media-stat"><strong>%100</strong><span>Emtia Kasko</span></div>
@@ -204,7 +204,7 @@ function buildHomePage() {
   ];
 
   const html = `${P.head({
-    title: 'Gebze Oto Çekici & 7/24 Acil Yol Yardım | Gebze Yol Yardım',
+    title: 'Gebze Oto Çekici & 7/24 Acil Yol Yardım | Gebze Çekici',
     description: 'Gebze, GOSB, Çayırova, Darıca, Dilovası, TEM ve D-100 hattında 10–15 dk varışlı kaskolu kayar kasa oto çekici, ahtapot kurtarma ve akü takviye: 0533 945 45 14.',
     canonical,
     heroPreload: BUSINESS.heroImage.base,
@@ -777,7 +777,7 @@ ${P.headerNav('services')}
   </section>
 
   ${stepsSection('Standart Operasyon', 'Tüm Hizmetlerimizde 4 Adımlı Güvenli Süreç', 'Doğru araç yönlendirmesinden sigortalı teslimata kadar şeffaf ve disiplinli saha yönetimi.')}
-  ${whyUsBentoSection('Hizmet Güvencemiz', 'Neden Gebze Yol Yardım Ekipmanları?', 'Araç şasisini, batarya altını ve kaportayı koruyan yeni nesil donanımlarla sıfır hasarlı taşımacılık.')}
+  ${whyUsBentoSection('Hizmet Güvencemiz', 'Neden Gebze Çekici Ekipmanları?', 'Araç şasisini, batarya altını ve kaportayı koruyan yeni nesil donanımlarla sıfır hasarlı taşımacılık.')}
   ${galleryPreviewSection(6, 'Hizmetlerimizden Gerçek Saha Kareleri')}
   ${faqSplitSection('Hizmetler SSS', 'Hizmetlerimiz Hakkında Sıkça Sorulanlar', 'Araç sınıfları, kapalı otopark donanımları, taşıma kaskosu ve şehirlerarası nakliye süreçleri.', srvFaqs, true)}
 </main>
@@ -1241,7 +1241,7 @@ function buildAboutPage() {
   ];
 
   const html = `${P.head({
-    title: 'Hakkımızda & Filomuz | Gebze Yol Yardım 7/24 Kaskolu Çekici',
+    title: 'Hakkımızda & Filomuz | Gebze Çekici 7/24 Kaskolu Çekici',
     description: '14+ yıllık Gebze saha tecrübesi, K1/K2 yetki belgeli modern kayar kasa, ahtapot ve kapalı otopark çekici filomuzla %100 kaskolu oto kurtarma.',
     canonical,
     ogImage: 'gebze-istasyon',
@@ -1286,12 +1286,12 @@ ${P.headerNav('about')}
         <div>
           <span class="section-eyebrow" style="margin-bottom:12px;">Biz Kimiz?</span>
           <h2 class="section-title" style="margin-bottom:16px;">Dürüst Esnaflık, Net Sabit Fiyat ve Yerel Gebze Hakimiyeti</h2>
-          <p style="color:var(--ink-2);margin-bottom:14px;">Gebze Yol Yardım, yolda kalmanın sürücü için ne kadar stresli bir an olduğunu bilerek yola çıktı. Sektördeki en büyük sorun olan geç varış, yükleme sonrası sürpriz fiyat artışı ve eski tip çekicilerle tampon-şasi hasarı yaşatma alışkanlıklarını tamamen ortadan kaldıran disiplinli bir filo sistemi kurduk.</p>
+          <p style="color:var(--ink-2);margin-bottom:14px;">Gebze Çekici, yolda kalmanın sürücü için ne kadar stresli bir an olduğunu bilerek yola çıktı. Sektördeki en büyük sorun olan geç varış, yükleme sonrası sürpriz fiyat artışı ve eski tip çekicilerle tampon-şasi hasarı yaşatma alışkanlıklarını tamamen ortadan kaldıran disiplinli bir filo sistemi kurduk.</p>
           <p style="color:var(--ink-2);margin-bottom:14px;">Gebze’nin dik mahalle sokaklarını, GOSB ve TOSB’un vardiya yoğunluğunu, TEM ve D-100’ün şerit bağlantılarını, Eskihisar rampasını ve site kapalı garajlarını avucunun içi gibi bilen yerel kadromuzla her çağrıya komisyonsuz, doğrudan kendi araçlarımızla yanıt veriyoruz.</p>
           <p style="color:var(--ink-2);">İster tek bir binek aracın akü takviyesi ister büyük bir OSB işletmesinin ticari filo nakli olsun; her operasyonda aynı şeffaflık, aynı temizlik ve aynı güvenlik protokolünü uyguluyoruz.</p>
         </div>
         <div class="about-media-wrap">
-          ${P.pictureTag('gebze-istasyon', 'Gebze Yol Yardım modern kayar kasa çekici filosu', true)}
+          ${P.pictureTag('gebze-istasyon', 'Gebze Çekici modern kayar kasa çekici filosu', true)}
           <div class="why-stat">
             <strong>14+ Yıl</strong>
             <span>Kesintisiz Gebze Saha Tecrübesi</span>
@@ -1385,7 +1385,7 @@ function buildContactPage() {
   ];
 
   const html = `${P.head({
-    title: 'İletişim & 7/24 Konum | Gebze Yol Yardım — 0533 945 45 14',
+    title: 'İletişim & 7/24 Konum | Gebze Çekici — 0533 945 45 14',
     description: 'Gebze 7/24 acil oto çekici telefon numarası (0533 945 45 14), WhatsApp konum paylaşımı, nöbetçi intikal merkezi haritası ve hızlı fiyat teklif formu.',
     canonical,
     schemas: [P.localBusinessSchema({ canonical }), P.breadcrumbSchema(bc)],
@@ -1474,8 +1474,8 @@ function buildPrivacyPage() {
   ];
 
   const html = `${P.head({
-    title: 'Gizlilik, KVKK ve Çerez Politikası | Gebze Yol Yardım',
-    description: 'Gebze Yol Yardım web sitesi (gebzecekici.tr) 6698 sayılı KVKK aydınlatma metni, gizlilik ilkeleri ve çerez kullanım politikası.',
+    title: 'Gizlilik, KVKK ve Çerez Politikası | Gebze Çekici',
+    description: 'Gebze Çekici web sitesi (gebzecekici.tr) 6698 sayılı KVKK aydınlatma metni, gizlilik ilkeleri ve çerez kullanım politikası.',
     canonical,
     schemas: [P.breadcrumbSchema(bc)],
     regionName: 'Gebze'
@@ -1540,7 +1540,7 @@ ${P.scripts()}`;
 // ============================================================================
 function build404Page() {
   const html = `${P.head({
-    title: 'Sayfa Bulunamadı (404) | Gebze Yol Yardım',
+    title: 'Sayfa Bulunamadı (404) | Gebze Çekici',
     description: 'Aradığınız sayfa bulunamadı. Gebze, GOSB, Çayırova, Darıca ve TEM hattında 7/24 acil oto çekici ve yol yardım için hemen arayın: 0533 945 45 14.',
     noindex: true,
     regionName: 'Gebze'
@@ -1637,7 +1637,7 @@ ${P.headerNav('')}
         <div class="article-body">
           <h2>Gebze Oto Çekici Ücretleri Neye Göre Belirlenir?</h2>
           <p>Gebze, GOSB, TOSB, Çayırova, Darıca, Dilovası, TEM ve D-100 hattında çekici çağırırken sürücülerin en çok dikkat etmesi gereken konu, aracın yüklenmesinden önce <strong>net ve değişmeyecek tek bir sabit fiyat</strong> konusunda anlaşmaktır. İnternette yer alan temsili rakamlar gerçek mesafe, otoyol çıkışı veya özel aparat gereksinimini yansıtmadığı için yükleme sonrasında sürpriz farklar doğurabilir.</p>
-          <p>Gebze Yol Yardım olarak yanıltıcı tarife tabloları yerine her çağrıya özel, şeffaf ve bağlayıcı olmayan ücretsiz teklif sunuyoruz. <strong>0533 945 45 14</strong> hattımızı aradığınızda veya yukarıdaki formdan konum ve araç tipinizi ilettiğinizde, 30 saniye içinde kesin tutarı öğrenir; yalnızca onay vermeniz halinde nöbetçi ekibimiz yola çıkar.</p>
+          <p>Gebze Çekici olarak yanıltıcı tarife tabloları yerine her çağrıya özel, şeffaf ve bağlayıcı olmayan ücretsiz teklif sunuyoruz. <strong>0533 945 45 14</strong> hattımızı aradığınızda veya yukarıdaki formdan konum ve araç tipinizi ilettiğinizde, 30 saniye içinde kesin tutarı öğrenir; yalnızca onay vermeniz halinde nöbetçi ekibimiz yola çıkar.</p>
 
           <div class="seo-section-block">
             <h2>Fiyatlandırmayı Etkileyen 4 Temel Kriter</h2>

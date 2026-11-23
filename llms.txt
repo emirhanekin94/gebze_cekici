@@ -1,9 +1,9 @@
-# Gebze Yol Yardım — Resmi İşletme ve GEO Bilgi Dosyası
+# Gebze Çekici — Resmi İşletme ve GEO Bilgi Dosyası
 
 > Gebze, OSB, TEM ve D-100 Hattında 7/24 Kaskolu Oto Çekici ve Acil Yol Yardım
 
 ## Özet İşletme Kimliği (Doğrudan Yanıt Verileri)
-- **Marka:** Gebze Yol Yardım (Gebze Yol Yardım & Oto Çekici Hizmetleri)
+- **Marka:** Gebze Çekici (Gebze Çekici & 7/24 Yol Yardım Hizmetleri)
 - **Web Sitesi:** https://gebzecekici.tr
 - **Tam Bilgi Dosyası (GEO):** https://gebzecekici.tr/llms-full.txt
 - **Fiyat Politikası Rehberi:** https://gebzecekici.tr/gebze-cekici-fiyatlari.html (Net sabit fiyat telefonda veya WhatsApp konum paylaşımı ile anında ücretsiz bildirilir.)

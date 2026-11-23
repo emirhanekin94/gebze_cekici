@@ -51,7 +51,7 @@ const urls = [
     loc: `${SITE_URL}/hakkimizda.html`,
     priority: '0.7',
     changefreq: 'monthly',
-    images: [{ loc: `${SITE_URL}/images/gebze-istasyon.webp`, title: 'Gebze Yol Yardım 7/24 Kaskolu Çekici Filosu' }]
+    images: [{ loc: `${SITE_URL}/images/gebze-istasyon.webp`, title: 'Gebze Çekici 7/24 Kaskolu Çekici Filosu' }]
   },
   { loc: `${SITE_URL}/iletisim.html`, priority: '0.8', changefreq: 'monthly', images: [] },
   { loc: `${SITE_URL}/gizlilik-politikasi.html`, priority: '0.4', changefreq: 'yearly', images: [] },
@@ -98,7 +98,7 @@ ${urls.map(u => {
 </urlset>
 `;
 
-const robotsTxt = `# Gebze Yol Yardım — Arama Motoru & Yapay Zeka Tarayıcı (GEO) İzinleri
+const robotsTxt = `# Gebze Çekici — Arama Motoru & Yapay Zeka Tarayıcı (GEO) İzinleri
 User-agent: *
 Allow: /
 

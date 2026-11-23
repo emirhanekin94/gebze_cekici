@@ -191,7 +191,7 @@ const SERVICES = [
     lead: 'Soğuk sabahlarda, farların açık unutulmasında veya uzun süre park halinde kalan araçlarda boşalan aküyü, başka bir araçtan kablo bağlayıp elektronik beyni riske atmadan profesyonel booster cihazıyla yerinde çalıştırıyoruz.',
     scenarios: [
       'Yeni nesil otomobillerde onlarca kontrol ünitesi (ECU, ABS, şanzıman beyni, multimedya modülü) hassas voltaj toleransıyla çalışır. Komşu bir araçtan ucuz ince kablolarla yapılan bilinçsiz aktarmalarda anlık voltaj sıçraması (pik akım) yaşanabilir; bu durum ana sigorta tablasını yakarak yüksek tamir faturalarına yol açar.',
-      'Gebze Yol Yardım mobil ekiplerimiz, hem binek 12V (AGM/EFB Start-Stop dahil) hem de ticari kamyonet ve minibüslerin 24V sistemlerine tam uyumlu, dahili ters kutup ve aşırı akım korumalı lityum-profesyonel takviye istasyonları taşır. İşlem öncesinde dijital multimetre ile akünüzün açık devre gerilimi ölçülür.',
+      'Gebze Çekici mobil ekiplerimiz, hem binek 12V (AGM/EFB Start-Stop dahil) hem de ticari kamyonet ve minibüslerin 24V sistemlerine tam uyumlu, dahili ters kutup ve aşırı akım korumalı lityum-profesyonel takviye istasyonları taşır. İşlem öncesinde dijital multimetre ile akünüzün açık devre gerilimi ölçülür.',
       'Araç çalıştırıldıktan sonra işimiz bitmez: şarj dinamosunun (alternatör) aküyü doğru gerilim aralığında (13.8V–14.4V) doldurup doldurmadığı kontrol edilir. Eğer sorun aküde değil de şarj dinamosu ya da marş motorundaysa sürücü yolda tekrar kalmaması için anında bilgilendirilir ve istenirse en yakın oto elektrikçiye çekim sağlanır.'
     ],
     equipmentTitle: 'Beyin Korumalı Akü Takviye Donanımımız',

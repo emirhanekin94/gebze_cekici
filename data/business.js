@@ -13,9 +13,9 @@
 const SITE_URL = 'https://gebzecekici.tr';
 
 const BUSINESS = {
-  name: 'Gebze Yol Yardım',
-  shortName: 'Gebze Yol Yardım',
-  legalName: 'Gebze Yol Yardım & Oto Çekici Hizmetleri',
+  name: 'Gebze Çekici',
+  shortName: 'Gebze Çekici',
+  legalName: 'Gebze Çekici & 7/24 Yol Yardım Hizmetleri',
   navSub: '7/24 Gebze Nöbetçi Çekici Filosu',
   slogan: 'Gebze, OSB, TEM ve D-100 Hattında 7/24 Kaskolu Oto Çekici ve Acil Yol Yardım',
   themeId: 'swiss-editorial',

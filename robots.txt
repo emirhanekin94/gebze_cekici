@@ -1,4 +1,4 @@
-# Gebze Yol Yardım — Arama Motoru & Yapay Zeka Tarayıcı (GEO) İzinleri
+# Gebze Çekici — Arama Motoru & Yapay Zeka Tarayıcı (GEO) İzinleri
 User-agent: *
 Allow: /
 
