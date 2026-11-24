@@ -180,7 +180,7 @@ const REVIEWS = [
   {
     name: 'Ayşe B.',
     region: 'Çayırova / Şekerpınar',
-    text: 'Gece 02.30’da iki lastiğim birden kaldırıma sürtüp yarıldı. Hem telefonda sakinleştirdiler hem de mobil POS ile kredi kartı ödemesi ve fatura kolaylığı sağladılar.'
+    text: 'Gece 02.30’da iki lastiğim birden kaldırıma sürtüp yarıldı. Hem telefonda sakinleştirdiler hem de telefonda konuşulan sabit ücret dışında tek kuruş eklemeden aracımı servise ulaştırdılar.'
   },
   {
     name: 'Kadir S.',
@@ -203,8 +203,8 @@ const HOME_FAQS = [
     a: 'Evet. Otomatik vitesli araçlarda tekerleklerin çekilerek sürüklenmesi aktarma organlarına zarar verir. Filomuzdaki düşük eğimli hidrolik kayar kasa platformlar ve tekerlek altı paten/doli aparatlarıyla aracı sürüklemeden, şasi ve tampona temas ettirmeden taşıyoruz.'
   },
   {
-    q: 'Kurumsal fatura kesiyor musunuz ve kredi kartıyla ödeme yapılabilir mi?',
-    a: 'Evet. Tüm şehir içi, şehirlerarası çekici ve 3.5 tona kadar tenteli nakliye hizmetlerimizde bireysel ve OSB kurumsal filo müşterilerimiz için KDV’li e-fatura ve araç içi mobil POS ile kredi kartı ödeme imkânı sunuyoruz.'
+    q: 'Kurumsal teslim tutanağı kesiyor musunuz ve nakit veya havaleyla ödeme yapılabilir mi?',
+    a: 'Evet. Tüm şehir içi, şehirlerarası çekici ve 3.5 tona kadar tenteli nakliye hizmetlerimizde bireysel ve OSB kurumsal filo müşterilerimiz için fotoğraflı teslim tutanağı ve nakit veya havale/EFT ile pratik ödeme imkânı sunuyoruz.'
   },
   {
     q: 'Gece yarısı veya resmi tatillerde Gebze’de nöbetçi çekici bulabilir miyim?',

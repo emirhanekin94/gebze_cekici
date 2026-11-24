@@ -25,7 +25,7 @@ const REGIONS_PART_1 = [
     seoTitle: 'Gebze Merkez’de Dar Caddelerden Ana Arterlere Kesintisiz Çekici Desteği',
     paragraphs: [
       'Gebze ilçe merkezinin kalbini oluşturan Hacıhalil, Sultan Orhan, Osman Yılmaz ve Güzeller yerleşim kuşağı; bankalar, kamu kurumları, Gebze Belediyesi hizmet binaları ve ticari çarşı akışıyla günün her saatinde yoğun araç sirkülasyonu barındırır. Özellikle Yeni Bağdat Caddesi, Atatürk Caddesi, Hükümet Caddesi ve İbrahim Ağa Caddesi üzerinde yaşanan ani bir motor stopu ya da debriyaj arızası saniyeler içinde uzun araç kuyruklarına neden olur.',
-      'Ana intikal noktamızın tam ilçe merkezinde konumlanması sayesinde <a href="/hizmetler/oto-cekici.html">Gebze Merkez oto çekici</a> çağrılarına dış ilçelerden araç beklemeden ortalama 10 dakikada yanıt veriyoruz. Çarşı içi tek yönlü sokaklarda uzun tır tipi kurtarıcıların manevra yapamadığı noktalara kompakt dönüş yarıçapına sahip hidrolik kayar kasalarımızla girerek park halindeki diğer araçlara dokunmadan yükleme gerçekleştiriyoruz.',
+      'Ana intikal noktamızın tam ilçe merkezinde konumlanması sayesinde <a href="/hizmetler/oto-kurtarma.html">Gebze Merkez oto çekici</a> çağrılarına dış ilçelerden araç beklemeden ortalama 10 dakikada yanıt veriyoruz. Çarşı içi tek yönlü sokaklarda uzun tır tipi kurtarıcıların manevra yapamadığı noktalara kompakt dönüş yarıçapına sahip hidrolik kayar kasalarımızla girerek park halindeki diğer araçlara dokunmadan yükleme gerçekleştiriyoruz.',
       'Merkezdeki apartman altı kapalı garajlarda veya Gebze Kent Meydanı yeraltı otoparkında aküsü boşalan, marş basmayan ya da şanzımanı kilitlenen binek otomobiller için de ayrı bir ekibe ihtiyaç duymazsınız. Alçak kabinli <a href="/hizmetler/aparatli-cekici.html">kapalı otopark çekicimiz</a> ve dijital akım korumalı booster takviye cihazlarımız aynı merkez vardiyasında hazır bekler.',
       'Yüklenen aracınız talebinize göre Gebze Oto Sanayi Sitesi’ndeki kendi ustanıza, D-100 üzerindeki yetkili marka servislerine veya evinizin önüne fotoğraflı teslim tutanağı ile ulaştırılır. Gece geç saatlerde açık tamirci bulamadığınızda aracınızı sabah servis açılışına kadar emniyetli teslimat planıyla yönlendiriyoruz.'
     ],
@@ -66,7 +66,7 @@ const REGIONS_PART_1 = [
       'Gebze Organize Sanayi Bölgesi (GOSB), yüzlerce yerli ve uluslararası üretim tesisini barındıran, sabah 07.30–09.00 ve akşam 17.00–19.30 saatlerinde binlerce çalışan ve servis aracının aynı anda hareket ettiği dev bir sanayi üssüdür. İhsan Dede Caddesi boyunca veya Tembelova Köprüsü girişinde tek bir arızalı binek araç ya da servis minibüsü bile kilometrelerce vardiya trafiği oluşturabilir.',
       'GOSB güvenlik giriş prosedürlerine, ana bulvarlara ve 1000’li–3000’li sanayi sokaklarına hâkim nöbetçi sürücülerimiz çağrınızın ardından ortalama 10–12 dakika içinde fabrika kapınıza veya yol kenarına ulaşır. Personel otomobilleri için düşük eğimli kayar kasa araçlarımız, şirketlerin uzun şasi panelvan ve 16+1 servis minibüsleri içinse yüksek tonajlı <a href="/hizmetler/ticari-arac-cekici.html">ticari araç çekicilerimiz</a> devreye girer.',
       'Üretim tesislerinin yalnızca binek araçlarında değil, depo içi lojistik süreçlerinde de yanındayız. Arızalanan dizel veya akülü forkliftler, kiralık makaslı platformlar ve ağır sanayi ekipmanları alçak açılı çelik rampalı <a href="/hizmetler/tenteli-arac-nakliye.html">iş makinesi taşıma</a> araçlarımızla GOSB’tan bakım servislerine aynı gün güvenle taşınır.',
-      'GOSB bünyesindeki kurumsal firmalar için iş güvenliği ekipmanlarına tam uyumlu çalışma, yükleme öncesi fotoğraflı teslim tutanağı teyidi, mobil POS ödeme ve vergi numaranıza kesilen resmi KDV’li e-fatura standart hizmetimizin parçasıdır.'
+      'GOSB bünyesindeki kurumsal firmalar için iş güvenliği ekipmanlarına tam uyumlu çalışma, yükleme öncesi fotoğraflı teslim tutanağı teyidi, nakit ve havale ödeme ve vergi numaranıza kesilen resmi fotoğraflı teslim tutanağı standart hizmetimizin parçasıdır.'
     ],
     localPointsTitle: 'GOSB İçinde Hızlı Müdahale Verdiğimiz Noktalar',
     localPoints: [
@@ -76,11 +76,11 @@ const REGIONS_PART_1 = [
       'GOSB – TOSB ve GOSB – Güzeller OSB ara geçiş güzergâhları'
     ],
     fieldLogTitle: 'GOSB Saha Operasyon Kaydı',
-    fieldLogDesc: 'GOSB İhsan Dede Caddesi üzerinde vardiya çıkışında şanzıman arızası veren uzun şasi şirket panelvanı, 12 dakikada ulaşan ağır platformla yüklenip Kartal yetkili ticari servisine faturalı teslim edildi.',
+    fieldLogDesc: 'GOSB İhsan Dede Caddesi üzerinde vardiya çıkışında şanzıman arızası veren uzun şasi şirket panelvanı, 12 dakikada ulaşan ağır platformla yüklenip Kartal yetkili ticari servisine özenli teslim edildi.',
     faqs: [
       { q: 'GOSB güvenlik kapılarından çekiciniz nasıl giriş yapıyor?', a: 'Kurumsal ruhsatlı araçlarımızla nizamiye güvenliğine tesis adını ve yönlendiren personel bilgisini ileterek hızlıca fabrika sahasına kadar girebiliyoruz.' },
       { q: 'Fabrika otoparkında aküsü biten personel aracı için geliyor musunuz?', a: 'Evet. Vardiya bitiminde çalışmayan binek araçlar için çekici çağırmadan yerinde 12V korumalı akü takviye ekibimizi doğrudan fabrika otoparkına gönderiyoruz.' },
-      { q: 'GOSB’taki şirketimize düzenli filo çekici ve e-fatura hizmeti sunuyor musunuz?', a: 'Evet. Kurumsal şirket araçları, personel servisleri ve ticari kamyonetler için KDV’li e-fatura ve öncelikli sevk desteği veriyoruz.' },
+      { q: 'GOSB’taki şirketimize düzenli filo çekici ve teslim tutanağı hizmeti sunuyor musunuz?', a: 'Evet. Kurumsal şirket araçları, personel servisleri ve ticari kamyonetler için fotoğraflı teslim tutanağı ve öncelikli sevk desteği veriyoruz.' },
       { q: 'GOSB içindeki tesisimizden forklift veya manlift taşıyor musunuz?', a: 'Evet. 3.5 tona kadar akülü/dizel forklift ve makaslı personel yükselticileri düşük açılı rampalı araçlarımızla güvenle naklediyoruz.' },
       { q: 'Tembelova Köprüsü trafiğinde çekici kaç dakikada ulaşır?', a: 'GOSB üst giriş ve Mutlukent hattında nöbetçi araçlarımız bulunduğu için Tembelova yoğunluğuna takılmadan alternatif OSB bağlantılarından 10–15 dakikada yanınızda oluyoruz.' }
     ]
@@ -104,7 +104,7 @@ const REGIONS_PART_1 = [
     paragraphs: [
       'Gebze’nin en düzenli ve modern konut bölgesi olan Mutlukent ile bitişiğindeki Yenikent Mahallesi; geniş bulvarları, çok katlı güvenlikli siteleri, yeni nesil SUV ve elektrikli otomobil yoğunluğuyla öne çıkar. Bölgedeki arızaların önemli bir bölümü sabah işe gidiş saatlerinde yeraltı site otoparklarında yaşanan akü boşalmaları, elektronik el freni kilitlenmeleri ve soğuk hava kaynaklı marş sorunlarıdır.',
       'Standart yüksek çekicilerin giremediği Mutlukent site garajları için filomuzdaki 1.88 metre yüksekliğindeki özel <a href="/hizmetler/aparatli-cekici.html">kapalı otopark kurtarıcısı</a> her saat göreve hazırdır. Araçların tavan sprinkler borularına ya da garaj rampasına sürtme riski olmadan, arka tekerlek altına rulmanlı doli arabası takılarak site dışına pürüzsüz çıkış sağlanır.',
-      'Mutlukent Bulvarı üzerinden GOSB’a, Çayırova’ya veya TEM otoyoluna inen eğimli bağlantı yollarında yaşanan mekanik arızalarda ise düşük eğimli hidrolik kayar kasamız ortalama 10 dakika içinde konumunuza yetişir. Premium sedanlar, hibrit ve elektrikli modeller için <a href="/hizmetler/oto-cekici.html">ek uzun kompozit rampalı</a> sıfır temas prosedürü uygulanır.',
+      'Mutlukent Bulvarı üzerinden GOSB’a, Çayırova’ya veya TEM otoyoluna inen eğimli bağlantı yollarında yaşanan mekanik arızalarda ise düşük eğimli hidrolik kayar kasamız ortalama 10 dakika içinde konumunuza yetişir. Premium sedanlar, hibrit ve elektrikli modeller için <a href="/hizmetler/oto-kurtarma.html">ek uzun kompozit rampalı</a> sıfır temas prosedürü uygulanır.',
       'Gece geç saatlerde site içi gürültü oluşturmadan, çevre sakinlerini rahatsız etmeyen sessiz operasyon disipliniyle aracınızı alıp sabah yetkili servisine ya da Gebze Sanayi’deki ustanıza sigortalı olarak teslim ediyoruz.'
     ],
     localPointsTitle: 'Mutlukent & Yenikent Hızlı Ulaşım Noktaları',
@@ -143,7 +143,7 @@ const REGIONS_PART_1 = [
     paragraphs: [
       'Gebze’nin en yüksek nüfus yoğunluğuna sahip yaşam merkezlerinden biri olan Beylikbağı bölgesi; Ulus, Yavuz Selim, Hürriyet ve Köşklü Çeşme mahalleleriyle birlikte hem konut hem de esnaf trafiğinin sabah erken saatlerden gece yarısına kadar sürdüğü canlı bir dokuya sahiptir. Ankara Caddesi, Yeni Bağdat Caddesi uzantısı ve Yaşar Doğu Caddesi gibi ana akslarda araç arızası yaşandığında hızlı müdahale trafiğin kilitlenmesini önler.',
       'Beylikbağı’nın eğimli sokak yapısını, pazar kurulan günleri ve Çayırova–Darıca ara kestirmelerini çok iyi bilen sürücülerimiz, navigasyonun soktuğu kapalı sokaklara takılmadan en açık rotadan 10 dakika içinde yanınıza ulaşır. Yokuşta debriyaj balatası yanan, fren hidroliği boşalan veya trigeri kopan araçlar geriye kaçma tehlikesi olmadan çift takoz ve kontrollü hidrolik vinçle platforma alınır.',
-      'Bölgedeki ticari dağıtım araçları, esnaf kamyonetleri ve aile otomobilleri için tek bir numarayla hem <a href="/hizmetler/oto-cekici.html">kayar kasa oto çekici</a> hem <a href="/hizmetler/aku-takviye.html">yerinde akü takviye</a> hem de <a href="/hizmetler/lastik-yol-yardim.html">mobil lastik yol yardım</a> desteği sunuyoruz.',
+      'Bölgedeki ticari dağıtım araçları, esnaf kamyonetleri ve aile otomobilleri için tek bir numarayla hem <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekici</a> hem <a href="/hizmetler/aku-takviye.html">yerinde akü takviye</a> hem de <a href="/hizmetler/lastik-yol-yardim.html">mobil lastik yol yardım</a> desteği sunuyoruz.',
       'Beylikbağı’ndan Gebze Oto Sanayi Sitesi’ne, Çayırova servislerine veya D-100 hattındaki yetkili merkezlere yapılacak taşımalarda telefonda netleştirilen ekonomik telefonda netleştirilen sabit fiyatla çalışıyor, yükleme sonrası ek masraf çıkarmıyoruz.'
     ],
     localPointsTitle: 'Beylikbağı Çevresi Aktif Hizmet Alanlarımız',
@@ -160,7 +160,7 @@ const REGIONS_PART_1 = [
       { q: 'Pazar günleri veya gece yarısı Beylikbağı’nda çekici ne kadar sürede gelir?', a: '7/24 nöbetçi araçlarımız Beylikbağı–D-100 hattına çok yakın konuşlu olduğu için hafta sonu ve gece saatlerinde de ortalama 10–15 dakikada ulaşıyoruz.' },
       { q: 'Beylikbağı’ndan Darıca veya Tuzla’daki ustama çekim yapıyor musunuz?', a: 'Evet. Yalnızca Gebze içi değil, Darıca, Çayırova, Tuzla, Pendik ve Kartal sanayi sitelerine de uygun sabit ücretle taşıma yapıyoruz.' },
       { q: 'Yavuz Selim Mahallesi’nde önü ve arkası park halindeki araçlarla kapalı otomobilimi çıkarabilir misiniz?', a: 'Evet. Önü ve arkası kapalı araçlarda ahtapot vinçli çekicimizle yan şeritten dikey kaldırma yaparak diğer araçlara dokunmadan tahliye sağlıyoruz.' },
-      { q: 'Mobil POS cihazınız var mı, kartla ödeme yapabilir miyim?', a: 'Evet. Tüm nöbetçi çekicilerimizde mobil POS bulunur; nakit, kredi kartı veya IBAN üzerinden kolayca ödeme yapıp faturanızı alabilirsiniz.' }
+      { q: 'nakit ve havale cihazınız var mı, kartla ödeme yapabilir miyim?', a: 'Evet. Tüm nöbetçi çekicilerimizde nakit ve havale bulunur; nakit, nakit veya havale veya IBAN üzerinden kolayca ödeme yapıp teslim tutanağınızı alabilirsiniz.' }
     ]
   },
   {
@@ -220,7 +220,7 @@ const REGIONS_PART_1 = [
     seoTitle: 'Gebze İstasyon Mahallesi ve Tren Garı Çevresinde Kesintisiz Yol Yardım',
     paragraphs: [
       'Gebze İstasyon Mahallesi, İstanbul–Ankara Yüksek Hızlı Tren (YHT) ve Marmaray son durağına ev sahipliği yapması nedeniyle her gün binlerce yolcunun aracını park ettiği ya da yolcu bırakıp aldığı kritik bir ulaşım merkezidir. İstasyon Caddesi, Şehit Abdullah Horoz Caddesi ve güneydeki Eskihisar–Darıca bağlantısı özellikle tren geliş-gidiş saatlerinde yoğunlaşır.',
-      'Yolculuktan dönen sürücülerin gar otoparkında günlerce beklemiş araçlarında karşılaştığı akü bitmesi, lastik inmesi veya elektronik immobilizer kilitlenmeleri bölgedeki en yaygın çağrı sebepleridir. İstasyon Mahallesi’ne 10–15 dakikada ulaşan mobil ekiplerimiz, akü sorunlarını yerinde çözerken mekanik arızalarda <a href="/hizmetler/oto-cekici.html">kayar kasa oto çekici</a> ile aracınızı güvenle servise taşır.',
+      'Yolculuktan dönen sürücülerin gar otoparkında günlerce beklemiş araçlarında karşılaştığı akü bitmesi, lastik inmesi veya elektronik immobilizer kilitlenmeleri bölgedeki en yaygın çağrı sebepleridir. İstasyon Mahallesi’ne 10–15 dakikada ulaşan mobil ekiplerimiz, akü sorunlarını yerinde çözerken mekanik arızalarda <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekici</a> ile aracınızı güvenle servise taşır.',
       'İstasyon Caddesi boyunca yoğun kaldırım kenarı parklanmaları nedeniyle sıkışık durumda kalan otomobillerde tampon veya kapı sürtme riskini sıfırlayan hassas yükleme ekipmanlarımız ve gerekirse <a href="/hizmetler/aparatli-cekici.html">ahtapot vinçli çekicimiz</a> devreye girer.',
       'Ayrıca mahallenin hemen yakınındaki Gebze Teknik Üniversitesi ve Darıca sahil bağlantı yollarında motosiklet arızaları için ön teker kıskaçlı <a href="/hizmetler/motosiklet-cekici.html">motosiklet çekici</a> desteğimiz de 7/24 aktiftir.'
     ],
@@ -259,9 +259,9 @@ const REGIONS_PART_1 = [
     seoTitle: 'Arapçeşme ve Kavaklı Hattında Hızlı Yerel Oto Kurtarma',
     paragraphs: [
       'Gebze’nin kuzey merkez yerleşim dokusunun en hareketli mahallelerinden Arapçeşme; Kavaklı Caddesi, Şehit Oktay Kaya Caddesi, Zafer Caddesi ve Gaziler Dağı bağlantılarıyla hem yoğun konut trafiğini hem de GOSB ve Kirazpınar yönüne giden transit akışı taşır. Bölgedeki bazı cadde ve sokakların dik eğimli olması özellikle kış yağışlarında ve baskı-balata yıpranmalarında yolda kalma vakalarını artırır.',
-      'Arapçeşme’nin tüm ara sokaklarına hâkim yerel operatörlerimiz, aracınızın yokuşta geriye kayma riskini ortadan kaldıran hidrolik vinç ve çift takoz emniyetiyle ortalama 10–12 dakikada müdahale eder. Binek otomobillerden pikap ve esnaf kamyonetlerine kadar her sınıf aracı <a href="/hizmetler/oto-cekici.html">kayar kasa platform</a> üzerinde 4 tekerlekten bağlayarak güvenle taşırız.',
+      'Arapçeşme’nin tüm ara sokaklarına hâkim yerel operatörlerimiz, aracınızın yokuşta geriye kayma riskini ortadan kaldıran hidrolik vinç ve çift takoz emniyetiyle ortalama 10–12 dakikada müdahale eder. Binek otomobillerden pikap ve esnaf kamyonetlerine kadar her sınıf aracı <a href="/hizmetler/oto-kurtarma.html">kayar kasa platform</a> üzerinde 4 tekerlekten bağlayarak güvenle taşırız.',
       'Sabah çocukları okula ya da işe bırakırken apartman önünde çalışmayan araçlar için vakit kaybettirmeyen <a href="/hizmetler/aku-takviye.html">yerinde akü takviye</a> servisimiz ve kaldırıma sürtüp yarılan lastikler için <a href="/hizmetler/lastik-yol-yardim.html">mobil lastik desteğimiz</a> aynı vardiya içinde aktiftir.',
-      'Arapçeşme’den Gebze Oto Sanayi’ye çok kısa ulaşım mesafesi sayesinde ekonomik sabit fiyat avantajı sunuyor, aracınızı ustanızın kapısına özenli ve faturalı teslim ediyoruz.'
+      'Arapçeşme’den Gebze Oto Sanayi’ye çok kısa ulaşım mesafesi sayesinde ekonomik sabit fiyat avantajı sunuyor, aracınızı ustanızın kapısına özenli ve özenli teslim ediyoruz.'
     ],
     localPointsTitle: 'Arapçeşme Bölgesinde Hizmet Verdiğimiz Ana Noktalar',
     localPoints: [
@@ -337,9 +337,9 @@ const REGIONS_PART_1 = [
     seoTitle: 'Barış Mahallesi ve TÜBİTAK Yolu Koridorunda Hızlı Çekici Çözümleri',
     paragraphs: [
       'Gebze’nin güneydoğu ekseninde, Tatlıkuyu ile Eskihisar–TÜBİTAK hattı arasında konumlanan Barış Mahallesi; Dr. Zeki Acar Caddesi, Koşuyolu Caddesi, modern konut blokları ve önemli iş merkezleriyle gün boyu aktif bir ulaşım bölgesidir. Özellikle TÜBİTAK Marmara Araştırma Merkezi (MAM) kampüsüne ve Bilişim Vadisi sahil aksına giden araştırmacı, mühendis ve şirket araçları bu güzergâhı yoğun biçimde kullanır.',
-      'Barış Mahallesi’nin D-100 Karayolu’na doğrudan çıkışı ve Gebze Oto Sanayi’ye olan yakınlığı sayesinde arızalanan araçların servise nakli son derece hızlı gerçekleştirilir. 10 dakika içinde adresinize ulaşan <a href="/hizmetler/oto-cekici.html">kayar kasa oto çekici</a> araçlarımız, sıfır eğimli hidrolik platformla binek, elektrikli ve sportif otomobilleri alt takıma dokunmadan yükler.',
+      'Barış Mahallesi’nin D-100 Karayolu’na doğrudan çıkışı ve Gebze Oto Sanayi’ye olan yakınlığı sayesinde arızalanan araçların servise nakli son derece hızlı gerçekleştirilir. 10 dakika içinde adresinize ulaşan <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekici</a> araçlarımız, sıfır eğimli hidrolik platformla binek, elektrikli ve sportif otomobilleri alt takıma dokunmadan yükler.',
       'Dr. Zeki Acar Caddesi ve 1800’lü sokaklardaki yoğun park düzeninde tekerleği kilitlenen veya şanzıman arızası veren araçlar için <a href="/hizmetler/aparatli-cekici.html">ahtapot vinçli çekici</a> ve tekerlek patenleri hazır bulundurulur. TÜBİTAK yolu üzerindeki ani lastik patlamaları ya da akü boşalmalarında ise mobil yol yardım ekibimiz hızla yerinde çözüm sunar.',
-      'Bölgedeki kurumsal tesislerin araç filoları ve bireysel sürücüler için yükleme öncesi net fiyat teyidi, fotoğraflı teslim tutanağı ve mobil POS ile KDV’li e-fatura kolaylığı sağlıyoruz.'
+      'Bölgedeki kurumsal tesislerin araç filoları ve bireysel sürücüler için yükleme öncesi net fiyat teyidi, fotoğraflı teslim tutanağı ve nakit ve havale ile fotoğraflı teslim tutanağı kolaylığı sağlıyoruz.'
     ],
     localPointsTitle: 'Barış Mahallesi Öncelikli İntikal Noktaları',
     localPoints: [
@@ -377,8 +377,8 @@ const REGIONS_PART_1 = [
     paragraphs: [
       'Gebze ile Çayırova arasındaki stratejik geçiş kuşağında bulunan Mevlana Mahallesi; Issıkgöl Caddesi, Erenler Caddesi, geniş konut alanları, ticari esnaf noktaları ve sanayiye giden personel servislerinin aktif güzergâhlarıyla öne çıkar. Özellikle Issıkgöl Caddesi üzerinde sabah ve akşam iş çıkış saatlerinde yoğun trafik oluşur; bu aksta arızalanan bir aracın hızla kaldırılması büyük önem taşır.',
       'Mevlana Mahallesi’ndeki çağrılara hem Beylikbağı hem de Mutlukent yönündeki nöbetçi araçlarımızdan hangisi o an en yakınsa doğrudan sevk çıkarılır. Bu çift yönlü kapsama sayesinde ortalama 10–14 dakika içinde yanınıza ulaşarak uzun bekleyişleri ortadan kaldırıyoruz.',
-      'Mahalle içi otoparklarda ve cadde kenarlarında karşılaşılan marş basmama, akü zayıflaması, alternatör arızası, direksiyon pompası veya şanzıman sorunlarında tek telefonla doğru ekipman gelir. Küçük arızalarda <a href="/hizmetler/aku-takviye.html">yerinde akü takviye</a> veya <a href="/hizmetler/lastik-yol-yardim.html">mobil lastik değişimi</a> yapılırken, servise gitmesi gereken araçlar <a href="/hizmetler/oto-cekici.html">hidrolik kayar kasa</a> ile özenli taşınır.',
-      'Mevlana Mahallesi’nden Gebze Oto Sanayi, Çayırova servisleri veya Tuzla sanayi bölgesine sabit ve şeffaf ücretlerle taşıma gerçekleştiriyor, mobil POS ve fatura kolaylığı sunuyoruz.'
+      'Mahalle içi otoparklarda ve cadde kenarlarında karşılaşılan marş basmama, akü zayıflaması, alternatör arızası, direksiyon pompası veya şanzıman sorunlarında tek telefonla doğru ekipman gelir. Küçük arızalarda <a href="/hizmetler/aku-takviye.html">yerinde akü takviye</a> veya <a href="/hizmetler/lastik-yol-yardim.html">mobil lastik değişimi</a> yapılırken, servise gitmesi gereken araçlar <a href="/hizmetler/oto-kurtarma.html">hidrolik kayar kasa</a> ile özenli taşınır.',
+      'Mevlana Mahallesi’nden Gebze Oto Sanayi, Çayırova servisleri veya Tuzla sanayi bölgesine sabit ve şeffaf ücretlerle taşıma gerçekleştiriyor, teslim tutanağı kolaylığı sunuyoruz.'
     ],
     localPointsTitle: 'Mevlana Mahallesi Hızlı Müdahale Noktalarımız',
     localPoints: [
@@ -416,8 +416,8 @@ const REGIONS_PART_1 = [
     paragraphs: [
       'Gebze’nin batı sınırında Çayırova ve Şekerpınar lojistik havzasıyla iç içe yer alan Adem Yavuz ve Cumhuriyet mahalleleri; hem yoğun aile yerleşimleri hem de OSB çalışanlarının her gün kullandığı servis ve bağlantı yollarıyla stratejik bir konumdadır. Yeni Bağdat Caddesi’nin batı devamı, 2300’lü sokaklar ve Çayırova geçiş arterleri günün büyük bölümünde hareketlidir.',
       'Bölgede yaşanan en yaygın yol yardım çağrıları; vardiya saatlerinde yaşanan yakıt/enjektör arızaları, park halindeki araçlarda akü boşalması, dar sokaklarda lastik kesilmesi ve ticari dağıtım araçlarının şanzıman arızalarıdır. Adem Yavuz ve Cumhuriyet mahallelerine ortalama 12–15 dakika içinde ulaşan filomuz, her araç tipine uygun platform donanımıyla gelir.',
-      'Binek otomobiller ve SUV araçlar için sıfır eğimli <a href="/hizmetler/oto-cekici.html">kayar kasa oto çekici</a>, mahalledeki esnaf ve lojistik dağıtım filoları için uzun şasi <a href="/hizmetler/ticari-arac-cekici.html">ticari araç çekici</a>, acil motosiklet arızaları içinse ön teker kıskaçlı <a href="/hizmetler/motosiklet-cekici.html">motosiklet taşıma</a> hizmetimiz 7/24 devrededir.',
-      'İster Gebze Oto Sanayi’ye, ister Tuzla–İçmeler sanayi sitelerine, ister yetkili servise nakil talep edin; yükleme öncesi şeffaf sabit fiyat, fotoğraflı teslim tutanağı ve mobil POS rahatlığıyla hizmet veriyoruz.'
+      'Binek otomobiller ve SUV araçlar için sıfır eğimli <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekici</a>, mahalledeki esnaf ve lojistik dağıtım filoları için uzun şasi <a href="/hizmetler/ticari-arac-cekici.html">ticari araç çekici</a>, acil motosiklet arızaları içinse ön teker kıskaçlı <a href="/hizmetler/motosiklet-cekici.html">motosiklet taşıma</a> hizmetimiz 7/24 devrededir.',
+      'İster Gebze Oto Sanayi’ye, ister Tuzla–İçmeler sanayi sitelerine, ister yetkili servise nakil talep edin; yükleme öncesi şeffaf sabit fiyat, fotoğraflı teslim tutanağı ve nakit ve havale rahatlığıyla hizmet veriyoruz.'
     ],
     localPointsTitle: 'Adem Yavuz & Cumhuriyet Bölgesi Kapsama Alanları',
     localPoints: [
@@ -433,7 +433,7 @@ const REGIONS_PART_1 = [
       { q: 'Cumhuriyet Mahallesi’nden Tuzla veya Pendik sanayiye araç çektirebilir miyim?', a: 'Evet. Bölge İstanbul sınırına çok yakın olduğu için Tuzla, İçmeler, Pendik ve Gebze Sanayi’nin tamamına uygun fiyatla nakil sağlıyoruz.' },
       { q: 'Apartman önünde sabah çalışmayan aracım için akü takviye gönderir misiniz?', a: 'Evet. Çekici masrafına girmeden beyin korumalı 12V booster cihazlı mobil ekibimizi gönderip aracınızı yerinde çalıştırıyoruz.' },
       { q: 'Hafif ticari aracım (Doblo, Transit, Ducato) arızalandı, çekebilir misiniz?', a: 'Evet. Hem hafif ticari hem de uzun şasili panelvan ve minibüsler için güçlendirilmiş platformlarımız 7/24 hazırdır.' },
-      { q: 'Ödeme seçenekleriniz nelerdir, fatura alabilir miyim?', a: 'Araç içi mobil POS ile kredi/banka kartı, nakit veya havale seçenekleri mevcuttur; talep ettiğinizde KDV’li e-fatura kesilir.' }
+      { q: 'Ödeme seçenekleriniz nelerdir, teslim tutanağı alabilir miyim?', a: 'Araç içi nakit ve havale ile kredi/banka kartı, nakit veya havale seçenekleri mevcuttur; talep ettiğinizde fotoğraflı teslim tutanağı kesilir.' }
     ]
   },
   {
@@ -455,7 +455,7 @@ const REGIONS_PART_1 = [
     paragraphs: [
       'Gebze’nin en köklü ve merkezi yerleşim bölgeleri olan Mustafapaşa ve İnönü mahalleleri; Bağdat Caddesi, Şehit Yılmaz Argon Caddesi, okul çevreleri ve yoğun mahalle ticaretinin birleştiği noktalardır. Yerleşim yapısının sık olması nedeniyle cadde kenarları günün her saati park halindeki araçlarla doludur ve arızalanan bir aracı manevra darlığı yüzünden çıkarmak tecrübe gerektirir.',
       'Merkez intikal noktamıza komşu olan Mustafapaşa ve İnönü mahallelerine ortalama 10 dakika içinde ulaşıyoruz. Park yoğunluğunun yüksek olduğu sokaklarda aracınızın önü veya arkası kapalı olsa dahi <a href="/hizmetler/aparatli-cekici.html">ahtapot vinçli çekici</a> ya da hidrolik tekerlek kaydırma aparatlarıyla çevre araçlara temas etmeden güvenli tahliye sağlıyoruz.',
-      'Cadde üzerindeki normal arızalarda (şarj dinamosu, hararet, debriyaj, yakıt sistemi) düşük eğimli <a href="/hizmetler/oto-cekici.html">kayar kasa oto çekicimiz</a> aracınızı jant koruyucu 4 nokta tekerlek kemerleriyle sabitleyerek Gebze Sanayi’deki ustanıza ulaştırır. Boşalan akü ve patlak lastik vakalarında ise çekiciye gerek bırakmayan mobil yol yardım ekibimiz dakikalar içinde çözüm üretir.',
+      'Cadde üzerindeki normal arızalarda (şarj dinamosu, hararet, debriyaj, yakıt sistemi) düşük eğimli <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekicimiz</a> aracınızı jant koruyucu 4 nokta tekerlek kemerleriyle sabitleyerek Gebze Sanayi’deki ustanıza ulaştırır. Boşalan akü ve patlak lastik vakalarında ise çekiciye gerek bırakmayan mobil yol yardım ekibimiz dakikalar içinde çözüm üretir.',
       'Mustafapaşa ve İnönü sakinlerine 7 gün 24 saat, gece farkı veya sürpriz masraf olmadan sabit fiyatlı ve özenli hizmet standardı sunuyoruz.'
     ],
     localPointsTitle: 'Mustafapaşa & İnönü Hızlı Ulaşım Noktaları',
@@ -494,7 +494,7 @@ const REGIONS_PART_1 = [
     paragraphs: [
       'Gebze Merkez ile Beylikbağı arasında kilit bir köprü görevi gören Mimar Sinan ve Köşklü Çeşme mahalleleri; İstanbul Caddesi, Yeni Bağdat Caddesi ve doğrudan D-100 Karayolu kuzey yan yoluna açılan bağlantılarıyla sürekli canlı bir trafik hacmine sahiptir. Bölgedeki ticari işletmeler, oto galeriler ve servis noktaları sebebiyle hem bireysel hem ticari araç hareketliliği gün boyu yüksektir.',
       'D-100 yan yolda veya İstanbul Caddesi trafiğinde aniden stop eden, soğutma suyu eksilten veya debriyajı boşalan araçlar trafik güvenliği açısından vakit kaybetmeden kaldırılmalıdır. Ana intikal noktamızın tam hizasında yer alan Mimar Sinan ve Köşklü Çeşme’ye ortalama 10 dakika içinde ulaşarak reflektör korumalı hızlı yükleme gerçekleştiriyoruz.',
-      'Bölgedeki oto galeriler için noter satışı sonrası kilometre yapmadan şehir içi veya <a href="/hizmetler/sehirlerarasi-arac-tasima.html">şehirlerarası araç taşıma</a>, arızalı binek otomobiller için <a href="/hizmetler/oto-cekici.html">kayar kasa oto çekici</a> ve hafif ticari araçlar için uzun şasili platform hizmetimiz aynı yüksek standartta yürütülür.',
+      'Bölgedeki oto galeriler için noter satışı sonrası kilometre yapmadan şehir içi veya <a href="/hizmetler/sehirlerarasi-arac-tasima.html">şehirlerarası araç taşıma</a>, arızalı binek otomobiller için <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekici</a> ve hafif ticari araçlar için uzun şasili platform hizmetimiz aynı yüksek standartta yürütülür.',
       'Her operasyonda 4 noktadan lastik üstü sabitleme, yükleme öncesi sabit fiyat teyidi ve taşıma fotoğraflı teslim tutanağıyla aracınızı güvenle teslim ediyoruz.'
     ],
     localPointsTitle: 'Mimar Sinan & Köşklü Çeşme Başlıca Müdahale Alanları',
@@ -511,7 +511,7 @@ const REGIONS_PART_1 = [
       { q: 'Mimar Sinan’daki galerimizden başka şehre araç göndermek istiyoruz, taşıyor musunuz?', a: 'Evet. Gebze çıkışlı 81 ile tekli özel kayar kasa ile sigortalı ve tutanaklı şehirlerarası araç nakliyesi gerçekleştiriyoruz.' },
       { q: 'Aracımın lastiği İstanbul Caddesi’nde yarıldı, yerinde değişim yapar mısınız?', a: 'Evet. Stepneniz varsa güvenli biçimde yerinde değiştiriyoruz; yedek lastiğiniz yoksa en yakın 7/24 açık lastikçiye aracınızı taşıyoruz.' },
       { q: 'Otomatik vitesli aracım Köşklü Çeşme’de P konumunda kaldı, sürüklemeden alır mısınız?', a: 'Kesinlikle. Tekerlek patenleri veya ahtapot aparatıyla dört tekerleği sürtmeden kayar kasaya yükleyerek şanzımanınızı koruyoruz.' },
-      { q: 'Kurumsal fatura ve kredi kartı ödemesi geçerli mi?', a: 'Evet. Mobil POS üzerinden kartla ödeme yapabilir ve aynı gün KDV’li e-faturanızı alabilirsiniz.' }
+      { q: 'Kurumsal teslim tutanağı ve nakit veya havale ödemesi geçerli mi?', a: 'Evet. nakit ve havale üzerinden kartla ödeme yapabilir ve aynı gün fotoğraflı teslim tutanağınızı alabilirsiniz.' }
     ]
   },
   {
@@ -532,9 +532,9 @@ const REGIONS_PART_1 = [
     seoTitle: 'TOSB Otomotiv Yan Sanayi Bölgesinde 7/24 Kurumsal & Bireysel Çekici',
     paragraphs: [
       'Türkiye otomotiv yan sanayisinin kalbi olan TOSB (TAYSAD Organize Sanayi Bölgesi), Şekerpınar ile GOSB arasındaki geniş üretim platosunda yüzlerce yüksek teknolojili fabrikayı ve Ar-Ge merkezini barındırır. Üç vardiya sisteminin kesintisiz işlediği TOSB’ta gece 00.00 ve sabah 07.00 vardiya değişimlerinde binlerce binek araç, personel servisi ve lojistik kamyonet aynı anda yola çıkar.',
-      'Gece vardiyası çıkışında fabrika otoparkında aküsü biten mühendis ya da teknisyen araçları, TOSB 1. Cadde boyunca arızalanan ticari panelvanlar ve Şekerpınar bağlantı kavşağında hararet yapan otomobiller için 12–15 dakika içinde olay yerine ulaşıyoruz. Binek araçlarda düşük eğimli <a href="/hizmetler/oto-cekici.html">kayar kasa oto çekici</a>, şirket servisleri ve dağıtım kamyonetlerinde ise uzun şasi <a href="/hizmetler/ticari-arac-cekici.html">ticari araç çekici</a> devreye girer.',
+      'Gece vardiyası çıkışında fabrika otoparkında aküsü biten mühendis ya da teknisyen araçları, TOSB 1. Cadde boyunca arızalanan ticari panelvanlar ve Şekerpınar bağlantı kavşağında hararet yapan otomobiller için 12–15 dakika içinde olay yerine ulaşıyoruz. Binek araçlarda düşük eğimli <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekici</a>, şirket servisleri ve dağıtım kamyonetlerinde ise uzun şasi <a href="/hizmetler/ticari-arac-cekici.html">ticari araç çekici</a> devreye girer.',
       'TOSB fabrikalarının depo ve üretim hatlarında kullanılan akülü/dizel forkliftler ve makaslı personel yükselticilerin bakım atölyesine naklinde de <a href="/hizmetler/tenteli-arac-nakliye.html">iş makinesi taşıma</a> filomuz İSG kurallarına tam uyumlu hizmet verir.',
-      'Kurumsal firmalara yönelik hızlı faturalandırma, mobil POS ve güvenli taşıma sigortalı taşıma güvencesiyle TOSB’un her caddesinde kesintisiz çözüm ortağınız olarak görev yapıyoruz.'
+      'Kurumsal firmalara yönelik hızlı teslimat süreci, güvenli taşıma sigortalı taşıma güvencesiyle TOSB’un her caddesinde kesintisiz çözüm ortağınız olarak görev yapıyoruz.'
     ],
     localPointsTitle: 'TOSB İçinde Aktif Müdahale Noktalarımız',
     localPoints: [
@@ -550,7 +550,7 @@ const REGIONS_PART_1 = [
       { q: 'TOSB’taki şirket servis minibüsü arızalandı, uzun şasi çekiciniz var mı?', a: 'Evet. 16+1 servis minibüsleri ve L4 uzun şasi panelvanlar için güçlendirilmiş uzun platformlu ticari çekicilerimiz mevcuttur.' },
       { q: 'Fabrikadan bakım servisine forklift göndermek istiyoruz, taşıyor musunuz?', a: 'Evet. Düşük eğimli ağır çelik rampalı taşıyıcımızla 3.5 tona kadar forklift ve makaslı platformları sigortalı naklediyoruz.' },
       { q: 'TOSB’tan İstanbul Tuzla veya Pendik yetkili servislerine nakil yapıyor musunuz?', a: 'Evet. TOSB Şekerpınar hattı İstanbul’a doğrudan bağlı olduğu için Tuzla, Pendik, Kartal ve İzmit yetkili servislerine çok hızlı teslimat sağlıyoruz.' },
-      { q: 'Kurumsal şirketimiz adına KDV’li e-fatura kesiyor musunuz?', a: 'Evet. Tüm ticari ve kurumsal çağrılarınızda aynı gün resmi KDV’li e-fatura düzenleyip muhasebenize iletiyoruz.' }
+      { q: 'Kurumsal şirketimiz adına fotoğraflı teslim tutanağı kesiyor musunuz?', a: 'Evet. Tüm ticari ve kurumsal çağrılarınızda aynı gün resmi fotoğraflı teslim tutanağı düzenleyip muhasebenize iletiyoruz.' }
     ]
   },
   {
@@ -571,9 +571,9 @@ const REGIONS_PART_1 = [
     seoTitle: 'Güzeller OSB ve GEPOSB Tesislerinde Hızlı Filo & Binek Kurtarma',
     paragraphs: [
       'Gebze’nin kuzey sanayi koridorunda yan yana konumlanan Güzeller OSB ve Gebze Plastikçiler OSB (GEPOSB); ambalaj, plastik, otomotiv ve makine sektörlerinin dev fabrikalarına ev sahipliği yapar. Ağır tonajlı hammadde kamyonları, şirket araçları ve vardiya servislerinin günün 24 saati hareket halinde olduğu bu iki sanayi bölgesinde yolda kalmak zaman kaybına tahammülü olmayan bir durumdur.',
-      'TEM Otoyolu Gebze gişelerine ve Kirazpınar aksına doğrudan bağlantılı olan Güzeller OSB ile GEPOSB’ta nöbetçi ekiplerimiz ortalama 10–14 dakika içinde fabrika girişine veya arıza noktasına ulaşır. Çalışanların özel otomobillerinde düşük eğimli <a href="/hizmetler/oto-cekici.html">kayar kasa oto çekici</a>, malzeme sevkiyatı yapan panelvan ve kamyonetlerde ise uzun şasili <a href="/hizmetler/ticari-arac-cekici.html">ticari araç çekici</a> kullanılır.',
+      'TEM Otoyolu Gebze gişelerine ve Kirazpınar aksına doğrudan bağlantılı olan Güzeller OSB ile GEPOSB’ta nöbetçi ekiplerimiz ortalama 10–14 dakika içinde fabrika girişine veya arıza noktasına ulaşır. Çalışanların özel otomobillerinde düşük eğimli <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekici</a>, malzeme sevkiyatı yapan panelvan ve kamyonetlerde ise uzun şasili <a href="/hizmetler/ticari-arac-cekici.html">ticari araç çekici</a> kullanılır.',
       'Fabrikaların forklift, transpalet ve makaslı platform transferleri için de düşük açılı çelik rampa donanımlı <a href="/hizmetler/tenteli-arac-nakliye.html">iş makinesi taşıma</a> aracımız aynı gün randevulu ya da acil sefer yapar. Ayrıca üretim sahasında lastiği patlayan veya aküsü zayıflayan şirket araçlarına çekime gerek kalmadan yerinde mobil destek verilir.',
-      'Her operasyonda İSG standartlarına tam uyum, fotoğraflı teslim tutanağı, telefonda onaylanan net fiyat ve resmi e-fatura güvencesiyle çalışıyoruz.'
+      'Her operasyonda İSG standartlarına tam uyum, fotoğraflı teslim tutanağı, telefonda onaylanan net fiyat ve resmi teslim tutanağı güvencesiyle çalışıyoruz.'
     ],
     localPointsTitle: 'Güzeller OSB & GEPOSB Müdahale Noktalarımız',
     localPoints: [
@@ -589,7 +589,7 @@ const REGIONS_PART_1 = [
       { q: 'Fabrika nizamiyesinden içeri girip yükleme alanından araç alabilir misiniz?', a: 'Evet. Güvenlik kaydımızı yaptırıp İSG kurallarına uygun olarak doğrudan tesis içi park alanından veya yükleme rampasından aracınızı alıyoruz.' },
       { q: 'Güzeller OSB’de gece mesaisinde aküm bitti, ne kadar sürede gelirsiniz?', a: 'Güzeller OSB ve GEPOSB’a 10–14 dakika içinde ulaşıp ECU korumalı booster cihazımızla aracınızı yerinde çalıştırıyoruz.' },
       { q: 'OSB içinden forklift veya makaslı platform taşıma hizmetiniz var mı?', a: 'Evet. 3.5 tona kadar forklift, manlift ve mini iş makinelerini özenle başka OSB’lere veya bakım servislerine naklediyoruz.' },
-      { q: 'Kurumsal şirket ödemesi için havale ve e-fatura imkânı sunuyor musunuz?', a: 'Evet. Kurumsal havale/EFT, araç içi mobil POS ve aynı gün resmi KDV’li e-fatura düzenleme hizmetimiz mevcuttur.' }
+      { q: 'Kurumsal şirket ödemesi için havale ve teslim tutanağı imkânı sunuyor musunuz?', a: 'Evet. Kurumsal havale/EFT, araç içi aynı gün resmi fotoğraflı teslim tutanağı düzenleme hizmetimiz mevcuttur.' }
     ]
   }
 ];

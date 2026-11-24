@@ -7,25 +7,6 @@
  */
 
 const SERVICES_SEO = {
-  'oto-cekici': {
-    extraSections: [
-      {
-        h2: 'Gebze Kayar Kasa Oto Çekici Mühendisliği: Neden Düşük Eğim Kritik?',
-        paragraphs: [
-          'Yeni nesil binek otomobillerde aerodinamik ön lip, karter koruma kapakları, adaptif radar sensörleri ve alçak süspansiyon geometrisi standart hale gelmiştir. Eski tip sabit kasalı veya çatal kollu kurtarıcılarda yükleme açısı 15 derecenin üzerine çıktığı için tamponun alt kenarı rampaya sürter ve sensör kalibrasyonu bozulur. Gebze oto çekici filomuzdaki hidrolik kayar kasa platformlar ise arka tekerlek hidrolik yatırma sistemi ve ek uzun ara rampalarla yükleme eğimini 6 derecenin altına indirir.',
-          'Platform üzerine alınan her araçta metal zincir ya da jant içine geçirilen çelik kanca kesinlikle kullanılmaz. Dört lastiğin sırtından geçen kauçuk takviyeli tekstil spanzet kemerleri ve tekerlek takozları sayesinde araç yol boyunca kendi süspansiyonu üzerinde dengeli biçimde taşınır; rot-balans, aks ve şasi geometrisi milimetrik olarak korunur.'
-        ]
-      },
-      {
-        h2: 'Gebze, GOSB, TEM ve D-100 Hattında 7/24 Kayar Kasa Saha Kapsamamız',
-        paragraphs: [
-          'Hacıhalil, Sultan Orhan, Osman Yılmaz, Mutlukent, Beylikbağı, Tatlıkuyu ve İstasyon mahallelerinin yanı sıra GOSB, TOSB, Güzeller OSB, Çayırova, Darıca ve Dilovası’ndaki tüm noktalarda konuşlu kayar kasa araçlarımızla ortalama 10–15 dakikada konumunuza ulaşıyoruz. Otoyol emniyet şeridinde ya da çarşı içi tek yönlü dar sokakta fark etmeksizin ışıklı emniyet şeridi kurarak güvenli yükleme yaparız.',
-          'Aracınızı talebinize göre Gebze Oto Sanayi Sitesi’ndeki ustanıza, D-100 üzerindeki yetkili marka servislerine veya İstanbul Anadolu Yakası ve İzmit servislerine fotoğraflı teslim tutanağı ve KDV’li e-fatura güvencesiyle teslim ediyoruz.'
-        ]
-      }
-    ]
-  },
-
   'oto-kurtarma': {
     extraSections: [
       {
@@ -39,7 +20,7 @@ const SERVICES_SEO = {
         h2: 'TEM Gebze, Dilovası Rampası ve Pelitli Virajlarında 7/24 Kaza Müdahalesi',
         paragraphs: [
           'Yağışlı ve sisli havalarda kazaların yoğunlaştığı Dilovası Rampası, TEM Gebze virajları, Osmangazi Köprüsü bağlantı kolları, Eskihisar inişi ve Pelitli–Mollafenari kırsal yollarında LED projektörlü kayar kasa kurtarıcılarımız gece gündüz görev başındadır. Trafik polisi ve jandarma yönlendirmelerine tam uyumlu çalışarak yolun hızla trafiğe açılmasını sağlıyoruz.',
-          'Kaza tespit tutanağı tamamlandıktan sonra aracınızı dilediğiniz yetkili servise, anlaşmalı kaporta merkezine veya özel tamirhaneye fotoğraflı teslimat tutanağı ve kasko poliçesi geri ödemesine uygun KDV’li e-fatura ile ulaştırıyoruz.'
+          'Kaza tespit tutanağı tamamlandıktan sonra aracınızı dilediğiniz yetkili servise, anlaşmalı kaporta merkezine veya özel tamirhaneye fotoğraflı teslimat tutanağı ve kasko poliçesi geri ödemesine uygun fotoğraflı teslim tutanağı ile ulaştırıyoruz.'
         ]
       }
     ]
@@ -77,7 +58,7 @@ const SERVICES_SEO = {
         h2: 'Gebze Çıkışlı İstanbul, Ankara, İzmir, Bursa ve Antalya Düzenli Seferleri',
         paragraphs: [
           'Kocaeli ve Gebze’nin Marmara lojistik kavşağındaki konumu sayesinde TEM, Kuzey Marmara ve Osmangazi Köprüsü üzerinden her hafta planlı çoklu araç taşıma seferleri düzenliyoruz. İster 1 adet aracınızı ekonomik seferimize dahil edin, ister 4–8 araçlık galeri filonuzu tek seferde gönderin.',
-          'Yükleme ve teslimat aşamalarının tamamı fotoğraflı kontrol tutanağıyla kayıt altına alınır; kurumsal müşterilerimiz için resmi KDV’li e-fatura düzenlenir.'
+          'Yükleme ve teslimat aşamalarının tamamı fotoğraflı kontrol tutanağıyla kayıt altına alınır; kurumsal müşterilerimiz için fotoğraflı teslim tutanağı ile teslimat yapılır.'
         ]
       }
     ]
@@ -96,7 +77,7 @@ const SERVICES_SEO = {
         h2: 'Gebze OSB’lerden İstanbul, Kocaeli ve 81 İle Aktarmasız Ekspres Sevkiyat',
         paragraphs: [
           'Gebze Organize Sanayi Bölgesi (GOSB), TOSB Otomotiv Yan Sanayi, Güzeller OSB, GEPOSB, Şekerpınar lojistik depoları ve Dilovası İMES hattındaki acil sevkiyat taleplerine hızlıca araç yönlendiriyoruz.',
-          'Gebze içi kısa mesafe fabrika transferlerinden İstanbul Anadolu/Avrupa Yakası, İzmit, Sakarya, Bursa, Ankara, İzmir ve 81 ile aktarmasız özel yük teslimatlarına kadar şeffaf fiyat ve resmi KDV’li nakliye faturasıyla hizmet veriyoruz.'
+          'Gebze içi kısa mesafe fabrika transferlerinden İstanbul Anadolu/Avrupa Yakası, İzmit, Sakarya, Bursa, Ankara, İzmir ve 81 ile aktarmasız özel yük teslimatlarına kadar şeffaf fiyat ve özenli taşıma anlayışıyla hizmet veriyoruz.'
         ]
       }
     ]
@@ -172,7 +153,7 @@ const SERVICES_SEO = {
         h2: 'GOSB, TOSB, Güzeller OSB ve Dilovası Lojistik Filoları İçin Öncelikli Sevk',
         paragraphs: [
           'Organize sanayi bölgelerinde vardiya servis minibüslerinin veya soğuk zincir dağıtım araçlarının yolda kalması doğrudan iş gücü ve üretim kaybı demektir. OSB giriş prosedürlerine ve fabrika kapı güzergâhlarına hâkim ticari kurtarıcılarımız 7/24 nöbettedir.',
-          'Kurumsal şirketler ve lojistik firmaları için yükleme öncesi yazılı fiyat onayı, fotoğraflı teslim tutanağı, mobil POS ödeme ve vergi numaranıza kesilen resmi KDV’li e-fatura standart hizmetimizdir.'
+          'Kurumsal şirketler ve lojistik firmaları için yükleme öncesi yazılı fiyat onayı, fotoğraflı teslim tutanağı, nakit veya havale/EFT ödeme kolaylığı ve düzenli iletişim standart hizmetimizdir.'
         ]
       }
     ]
@@ -191,7 +172,7 @@ const SERVICES_SEO = {
         h2: 'Canlı Konum Paylaşımı ve Fotoğraflı Ekspertiz Tutanağı',
         paragraphs: [
           'Yükleme öncesinde aracınızın dört cepheden yüksek çözünürlüklü fotoğrafları çekilir, kilometresi ve donanım durumu teslim alma tutanağına işlenir. Yolculuk boyunca sürücümüz dilediğiniz an WhatsApp üzerinden canlı konum paylaşır.',
-          'Kilometre bazlı ekonomik sabit fiyat teklifi yola çıkmadan önce netleştirilir; K1/K2 yetki belgeli yasal taşımacılık ve KDV’li e-fatura ile kurumsal ve bireysel müşterilerimize eksiksiz güvence verilir.'
+          'Kilometre bazlı ekonomik sabit fiyat teklifi yola çıkmadan önce netleştirilir; K1/K2 yetki belgeli yasal taşımacılık ve şeffaf iletişim ile kurumsal ve bireysel müşterilerimize eksiksiz güvence verilir.'
         ]
       }
     ]
@@ -210,7 +191,7 @@ const SERVICES_SEO = {
         h2: 'Ballıkayalar, Eskihisar, Bayramoğlu ve Marmara Geneli Özel Transfer',
         paragraphs: [
           'Ballıkayalar Tabiat Parkı, Pelitli ve Mollafenari arazi parkurlarında arızalanan ATV/UTV araçlarını, Eskihisar ve Darıca bölgesindeki çekme karavanları ve Gebze sanayi atölyelerindeki proje araçlarını aynı gün içinde güvenle naklediyoruz.',
-          'Şehir içi veya şehirlerarası tüm özel taşıma taleplerinde telefonda şeffaf sabit fiyat, fotoğraflı teslimat tutanağı ve KDV’li e-fatura standardıyla hizmetinizdeyiz.'
+          'Şehir içi veya şehirlerarası tüm özel taşıma taleplerinde telefonda şeffaf sabit fiyat, fotoğraflı teslimat tutanağı ve özenli teslimat anlayışıyla hizmetinizdeyiz.'
         ]
       }
     ]

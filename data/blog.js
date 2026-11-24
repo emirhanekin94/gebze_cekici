@@ -48,7 +48,7 @@ const BLOG_POSTS = [
         id: 'ekipman-secimi',
         h2: 'Aracınıza Uygun Çekici Tipini Nasıl Belirlersiniz?',
         paragraphs: [
-          'Her arıza aynı çekici aracıyla çözülmez. Standart bir binek otomobilde akü boşalması yaşandıysa çekici yerine <a href="/hizmetler/aku-takviye.html">yerinde akü takviye</a> ekibi çağırmak hem zaman hem maliyet açısından çok daha mantıklıdır. Ancak hararet yükselmesi, yağ lambası yanması, triger kayışı kopması veya şanzıman arızası varsa motoru kesinlikle tekrar çalıştırmadan <a href="/hizmetler/oto-cekici.html">kayar kasa oto çekici</a> talep etmelisiniz.',
+          'Her arıza aynı çekici aracıyla çözülmez. Standart bir binek otomobilde akü boşalması yaşandıysa çekici yerine <a href="/hizmetler/aku-takviye.html">yerinde akü takviye</a> ekibi çağırmak hem zaman hem maliyet açısından çok daha mantıklıdır. Ancak hararet yükselmesi, yağ lambası yanması, triger kayışı kopması veya şanzıman arızası varsa motoru kesinlikle tekrar çalıştırmadan <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekici</a> talep etmelisiniz.',
           'Aracınız otomatik vitesli ve vites P konumundan çıkmıyorsa, elektrikli bir modelse ya da kapalı garajın -2. katında mahsur kaldıysa bu ayrıntıyı mutlaka ilk çağrıda söyleyin. Bu sayede gelen araç beraberinde tekerlek altı paten kızakları, düşük açılı ek rampa veya 1.90 metre yüksekliğindeki özel <a href="/hizmetler/aparatli-cekici.html">kapalı otopark çekicisi</a> ile gelir ve ikinci bir ekip beklemenize gerek kalmaz.'
         ]
       },
@@ -57,7 +57,7 @@ const BLOG_POSTS = [
         h2: 'Telefonda Sabit Fiyat ve Kasko Teyidi',
         paragraphs: [
           'Güvenilir bir oto kurtarma firmasıyla çalışmanın en somut göstergesi, araç henüz yola çıkmadan net rakamın konuşulmasıdır. "Gelince bakarız" diyen, fotoğraflı teslim tutanağı bilgisi paylaşmayan veya vergi kaydı bulunmayan korsan çekiciler yükleme sonrasında beklenmedik ek ücretler talep edebilir ve olası bir yükleme çizilmesinde sorumluluk kabul etmez.',
-          'Çağrı esnasında başlangıç noktanızı, teslim edilecek servisi (örneğin Gebze Oto Sanayi, Çayırova yetkili servis veya İstanbul Kartal) ve aracınızın modelini söylediğinizde toplam bedeli, tahmini varış dakikasını ve fatura/POS ödeme imkânını baştan onaylayın. Bu basit kontrol listesi stresli bir arıza akşamını sorunsuz, kontrollü bir servis nakline dönüştürür.'
+          'Çağrı esnasında başlangıç noktanızı, teslim edilecek servisi (örneğin Gebze Oto Sanayi, Çayırova yetkili servis veya İstanbul Kartal) ve aracınızın modelini söylediğinizde toplam bedeli, tahmini varış dakikasını ve ödeme şeklini baştan onaylayın. Bu basit kontrol listesi stresli bir arıza akşamını sorunsuz, kontrollü bir servis nakline dönüştürür.'
         ]
       }
     ],
@@ -71,7 +71,7 @@ const BLOG_POSTS = [
       ]
     },
     faqs: [
-      { q: 'Gebze’de çekici çağırmadan önce aracın sigorta poliçesine bakmalı mıyım?', a: 'Evet, kasko poliçenizde ücretsiz yol yardım hakkı olabilir; ancak bekleme süresi 1–2 saati bulduğunda acil durumlarda faturalı özel çekici çağırıp poliçe limitleri dahilinde sigorta şirketinizden geri ödeme talep edebilirsiniz.' },
+      { q: 'Gebze’de çekici çağırmadan önce aracın sigorta poliçesine bakmalı mıyım?', a: 'Evet, kasko poliçenizde ücretsiz yol yardım hakkı olabilir; ancak bekleme süresi 1–2 saati bulduğunda acil durumlarda özenli özel çekici çağırıp poliçe limitleri dahilinde sigorta şirketinizden geri ödeme talep edebilirsiniz.' },
       { q: 'Yağışlı veya gece saatlerinde çekici bulmak zorlaşır mı?', a: '7/24 nöbetçi vardiya ile çalışan yerel Gebze filolarında gece ve yağışlı havalarda da kesintisiz ekip bulunur; yalnızca yoğun kaza saatlerinde varış süresi birkaç dakika esneyebilir.' },
       { q: 'Aracımı Gebze Sanayi’deki hangi ustaya götüreceğimi bilmiyorsam ne yapabilirim?', a: 'Gece saatlerinde servisler kapalıysa aracınızı güvenli kendi otoparkımıza veya belirttiğiniz ev adresinize indirip sabah mesai saatinde ustanıza ulaştırabiliyoruz.' }
     ]
@@ -99,7 +99,7 @@ const BLOG_POSTS = [
         h2: 'Otomatik Araç Neden Halatla Çekilmemeli?',
         paragraphs: [
           'Manuel şanzımanlı klasik otomobillerde vites boşa alındığında mekanik dişliler motordan tamamen ayrılır ve kısa mesafede dikkatli çekim yapılabilir. Buna karşılık tork konvertörlü, çift kavramalı (DSG, S-Tronic, EDC, DCT) ve sürekli değişken (CVT) otomatik şanzımanların yağlama pompası yalnızca motor çalışırken devreye girer.',
-          'Motor stop halindeyken tahrik tekerlekleri asfaltta döndürülerek araç başka bir otomobilin arkasında çekilirse şanzıman içindeki miller ve kavramalar yağsız biçimde yüksek sürtünmeye maruz kalır. Sadece birkaç kilometrelik yanlış çekim bile yüz binlerce liralık şanzıman revizyonuna sebep olabilir. Bu nedenle otomatik vitesli her araç istisnasız dört tekerleği yerden kesilerek <a href="/hizmetler/oto-cekici.html">kayar kasa platform</a> üzerinde taşınmalıdır.'
+          'Motor stop halindeyken tahrik tekerlekleri asfaltta döndürülerek araç başka bir otomobilin arkasında çekilirse şanzıman içindeki miller ve kavramalar yağsız biçimde yüksek sürtünmeye maruz kalır. Sadece birkaç kilometrelik yanlış çekim bile yüz binlerce liralık şanzıman revizyonuna sebep olabilir. Bu nedenle otomatik vitesli her araç istisnasız dört tekerleği yerden kesilerek <a href="/hizmetler/oto-kurtarma.html">kayar kasa platform</a> üzerinde taşınmalıdır.'
         ]
       },
       {
@@ -107,7 +107,7 @@ const BLOG_POSTS = [
         h2: 'Elektrikli Araçlarda (EV) Rejeneratif Akım ve Batarya Riski',
         paragraphs: [
           'Gebze <a href="/bolgeler/bilisim-vadisi-cekici.html">Bilişim Vadisi</a>, Mutlukent ve TEM hattında her geçen gün sayısı artan tam elektrikli otomobillerde (Togg T10X, Tesla Model Y, Hyundai Ioniq, Kia EV6, BMW iX) içten yanmalı vites kutusu yerine doğrudan tekerleklere bağlı sabit oranlı elektrik motorları bulunur. Elektrik motoru tekerlekler döndüğünde jeneratör gibi çalışarak yüksek voltajlı akım üretir.',
-          'Araç kapalıyken ya da arıza modundayken tekerleklerin yerde dönerek çekilmesi, soğutma pompası çalışmayan invertör ve batarya yönetim sistemine kontrolsüz elektrik göndererek kalıcı elektronik arıza çıkarır. Ek olarak şasinin alt yüzeyi boyunca uzanan lityum batarya kalkanı, dik açılı yükleme rampalarında sürtmeye karşı son derece hassastır. Bu yüzden <a href="/hizmetler/oto-cekici.html">elektrikli araç taşıma</a> operasyonlarında mutlaka ek uzun kompozit rampalarla 6 derecenin altında yumuşak yükleme açısı oluşturulmalıdır.'
+          'Araç kapalıyken ya da arıza modundayken tekerleklerin yerde dönerek çekilmesi, soğutma pompası çalışmayan invertör ve batarya yönetim sistemine kontrolsüz elektrik göndererek kalıcı elektronik arıza çıkarır. Ek olarak şasinin alt yüzeyi boyunca uzanan lityum batarya kalkanı, dik açılı yükleme rampalarında sürtmeye karşı son derece hassastır. Bu yüzden <a href="/hizmetler/oto-kurtarma.html">elektrikli araç taşıma</a> operasyonlarında mutlaka ek uzun kompozit rampalarla 6 derecenin altında yumuşak yükleme açısı oluşturulmalıdır.'
         ],
         callout: {
           title: 'EV Sürücüleri İçin Çekme Modu (Tow Mode) Hatırlatması',
@@ -292,13 +292,13 @@ const BLOG_POSTS = [
     readTime: '5 dk okuma',
     img: 'client-doblo-cekici',
     metaTitle: 'Gebze Oto Çekici Fiyatları 2026 | Şeffaf Ücretlendirme Rehberi',
-    metaDesc: 'Gebze şehir içi, OSB, İstanbul ve şehirlerarası oto çekici fiyatları nasıl hesaplanır? Sürpriz masraftan korunma ve kasko fatura iadesi rehberi.',
+    metaDesc: 'Gebze şehir içi, OSB, İstanbul ve şehirlerarası oto çekici fiyatları nasıl hesaplanır? Sürpriz masraftan korunma ve kasko teslim tutanağı iadesi rehberi.',
     excerpt: 'Oto çekici ücretleri rastgele söylenmez; açılış mesafesi, kilometre, araç sınıfı ve ekipman ihtiyacı temel belirleyicilerdir. Sürpriz masraflardan korunmanın yollarını açıkladık.',
     toc: [
       { id: 'temel-kalemler', label: 'Çekici Ücretini Belirleyen 5 Somut Kriter' },
       { id: 'sehir-ici-disi', label: 'Gebze İçi Kısa Mesafe ve Şehirlerarası Farkı' },
       { id: 'gizli-ucret-tuzagi', label: 'Yükleme Sonrası Ek Ücret Tuzaklarına Karşı Ne Yapmalı?' },
-      { id: 'kasko-fatura', label: 'Kasko ve Kurumsal Fatura İade Süreci' }
+      { id: 'kasko-teslim tutanağı', label: 'Kasko ve Kurumsal teslim tutanağı İade Süreci' }
     ],
     sections: [
       {
@@ -329,10 +329,10 @@ const BLOG_POSTS = [
         }
       },
       {
-        id: 'kasko-fatura',
-        h2: 'Kasko ve Kurumsal Fatura İade Süreci',
+        id: 'kasko-teslim tutanağı',
+        h2: 'Kasko ve Kurumsal teslim tutanağı İade Süreci',
         paragraphs: [
-          'Birçok sürücü kasko poliçesindeki "serbest çekici geri ödeme" hakkından habersizdir. Kasko asistans hattının saatlerce çekici bulamadığı yoğun günlerde yetkili ve faturalı bir kurtarıcıyla aracınızı çektirip KDV’li e-faturayı acentenize ilettiğinizde poliçe limitleriniz dahilinde ödeme iadesi alabilirsiniz. Ayrıca OSB şirket araçlarında araç içi mobil POS ve aynı gün kesilen e-fatura muhasebe sürecini zahmetsiz hale getirir.'
+          'Birçok sürücü kasko poliçesindeki "serbest çekici geri ödeme" hakkından habersizdir. Kasko asistans hattının saatlerce çekici bulamadığı yoğun günlerde yetkili ve özenli bir kurtarıcıyla aracınızı çektirip fotoğraflı teslim tutanağıyı acentenize ilettiğinizde poliçe limitleriniz dahilinde ödeme iadesi alabilirsiniz. Ayrıca OSB şirket araçlarında araç içi aynı gün kesilen teslim tutanağı muhasebe sürecini zahmetsiz hale getirir.'
         ]
       }
     ],
@@ -346,7 +346,7 @@ const BLOG_POSTS = [
       ]
     },
     faqs: [
-      { q: 'Kredi kartı ile ödeme yapılabiliyor mu?', a: 'Evet. Tüm nöbetçi çekici araçlarımızda taşınabilir mobil POS cihazı bulunur; dilerseniz kredi kartı, banka kartı veya havale/EFT ile ödeme yapabilirsiniz.' },
+      { q: 'nakit veya havale ile ödeme yapılabiliyor mu?', a: 'Evet. Tüm nöbetçi çekici araçlarımızda taşınabilir nakit ve havale cihazı bulunur; dilerseniz nakit veya havale, banka kartı veya havale/EFT ile ödeme yapabilirsiniz.' },
       { q: 'Fiyat teklifi almak için arama veya WhatsApp mesajı ücretli mi?', a: 'Hayır. Konumunuzu ve gidecek noktayı paylaşarak saniyeler içinde tamamen ücretsiz ve bağlayıcı olmayan net fiyat teklifi alabilirsiniz.' },
       { q: 'Gece 02.00’de fiyatlar iki katına mı çıkıyor?', a: 'Hayır. Şeffaf fiyat politikamız gereği gece vardiyasında da erişilebilir ve önceden onaylı sabit tarife uygulanır.' }
     ]
@@ -443,7 +443,7 @@ const BLOG_POSTS = [
         h2: 'Elektrikli Araç Neden Standart Çekiciyle Çekilmez?',
         paragraphs: [
           'Togg T10X, Tesla Model Y, Volvo EX30, Hyundai Ioniq, Kia EV6 ve Mercedes EQ serisi gibi tam elektrikli araçlarda yüksek voltajlı lityum-iyon batarya paketi aracın taban şasisinin neredeyse tamamını kaplar. Ayrıca bu araçlarda geleneksel mekanik boş vites yerine doğrudan elektrik motoruna bağlı sabit redüktör dişlisi bulunur.',
-          'Tekerlekleri yere basarken elektrikli bir otomobili halatla veya arka tekerlekleri dönerek çekmeye çalışmak, elektrik motorunu jeneratör gibi döndürerek yüksek voltajlı ters akım (rejeneratif yük) üretir. Bu durum inverter ünitesinde ve motor sargılarında çok ağır hasarlara yol açabilir. Bu nedenle tüm EV modelleri mutlaka dört tekerleği yerden kesik şekilde <a href="/hizmetler/oto-cekici.html">düşük açılı kayar kasa</a> ile taşınmalıdır.'
+          'Tekerlekleri yere basarken elektrikli bir otomobili halatla veya arka tekerlekleri dönerek çekmeye çalışmak, elektrik motorunu jeneratör gibi döndürerek yüksek voltajlı ters akım (rejeneratif yük) üretir. Bu durum inverter ünitesinde ve motor sargılarında çok ağır hasarlara yol açabilir. Bu nedenle tüm EV modelleri mutlaka dört tekerleği yerden kesik şekilde <a href="/hizmetler/oto-kurtarma.html">düşük açılı kayar kasa</a> ile taşınmalıdır.'
         ]
       },
       {
@@ -512,7 +512,7 @@ const BLOG_POSTS = [
         h2: 'Eskihisar Rampasında Hararet ve Debriyaj Sorunları',
         paragraphs: [
           'Marmara geçişinin en yoğun noktalarından <a href="/bolgeler/eskihisar-cekici.html">Eskihisar Feribot İskelesi</a>, özellikle hafta sonları, bayram dönüşleri ve yaz aylarında uzun araç kuyruklarına sahne olur. Dik Eskihisar rampasında klima açık şekilde dur-kalk beklemek eski baskı balataların yanmasına, soğutma fanı arızalı motorlarda hararetin kırmızı bölgeye çıkmasına ve akünün zayıflamasına neden olur.',
-          'Hararet ibresi yükseldiğinde motoru aniden stop edip radyatör kapağını açmak son derece tehlikelidir; kaynar su basıncı ciddi yanıklara yol açar. Aracı mümkün olan en sağ cepte durdurup kaloriferi sıcağa almak ve profesyonel <a href="/hizmetler/oto-cekici.html">kayar kasa çekici</a> çağırmak motor contası hasarını önler.'
+          'Hararet ibresi yükseldiğinde motoru aniden stop edip radyatör kapağını açmak son derece tehlikelidir; kaynar su basıncı ciddi yanıklara yol açar. Aracı mümkün olan en sağ cepte durdurup kaloriferi sıcağa almak ve profesyonel <a href="/hizmetler/oto-kurtarma.html">kayar kasa çekici</a> çağırmak motor contası hasarını önler.'
         ]
       },
       {
@@ -540,7 +540,7 @@ const BLOG_POSTS = [
         h2: 'Yolculuğa Devam veya Şehirlerarası Tekli Nakil',
         paragraphs: [
           'Arızanız sadece akü bitmesi veya stepne değişimiyse mobil yol yardım ekibimiz sorununuzu yerinde çözerek tatilinize devam etmenizi sağlar. Mekanik arıza halinde ise aracınızı dilerseniz Gebze Oto Sanayi’ye, dilerseniz <a href="/hizmetler/sehirlerarasi-arac-tasima.html">şehirlerarası tekli taşıma</a> ile İstanbul, Yalova, Bursa veya İzmir’deki yetkili servisinize özenle ulaştırıyoruz.',
-          'Yükleme öncesinde telefonda onaylanan net sabit fiyat dışında otoyol çıkışı veya gece saati bahanesiyle ek masraf çıkarılmaz; araç içi mobil POS ve KDV’li e-fatura ile kasko geri ödeme belgeleriniz anında hazırlanır.'
+          'Yükleme öncesinde telefonda onaylanan net sabit fiyat dışında otoyol çıkışı veya gece saati bahanesiyle ek masraf çıkarılmaz; araç içi fotoğraflı teslim tutanağı ile kasko geri ödeme belgeleriniz anında hazırlanır.'
         ]
       }
     ],
@@ -568,13 +568,13 @@ const BLOG_POSTS = [
     readTime: '6 dk okuma',
     img: 'client-panelvan-osb',
     metaTitle: 'GOSB & TOSB Kurumsal Filo Çekici ve Vardiya Kurtarma Rehberi',
-    metaDesc: 'GOSB, TOSB, Güzeller OSB ve Dilovası fabrikalarında şirket panelvanı, personel servisi ve forklift arızalarında İSG uyumlu faturalı çekici süreci.',
+    metaDesc: 'GOSB, TOSB, Güzeller OSB ve Dilovası fabrikalarında şirket panelvanı, personel servisi ve forklift arızalarında İSG uyumlu özenli çekici süreci.',
     excerpt: 'Organize sanayi bölgelerinde vardiya çıkışında veya sevkiyat sırasında arızalanan ticari araçlar, personel servisleri ve forkliftler için kurumsal kurtarma standartlarını derledik.',
     toc: [
       { id: 'osb-vardiya-krizi', label: 'OSB Vardiya Saatlerinde Hızlı Tahliye Neden Kritik?' },
       { id: 'nizamiye-isg', label: 'Fabrika Nizamiye Girişi ve İSG Kurallarına Uyum' },
       { id: 'ticari-forklift', label: 'Uzun Şasi Panelvan, Minibüs ve Forklift Donanımı' },
-      { id: 'kurumsal-fatura', label: 'Kurumsal KDV’li e-Fatura ve Fotoğraflı Teslim Tutanağı Süreci' }
+      { id: 'kurumsal-teslim tutanağı', label: 'Kurumsal Filo ve Fotoğraflı Teslim Tutanağı Süreci' }
     ],
     sections: [
       {
@@ -606,10 +606,10 @@ const BLOG_POSTS = [
         ]
       },
       {
-        id: 'kurumsal-fatura',
-        h2: 'Kurumsal KDV’li e-Fatura ve Fotoğraflı Teslim Tutanağı Süreci',
+        id: 'kurumsal-teslim tutanağı',
+        h2: 'Kurumsal Filo ve Fotoğraflı Teslim Tutanağı Süreci',
         paragraphs: [
-          'OSB firmalarının muhasebe ve satın alma süreçlerine tam uyumlu olarak her operasyonda yükleme öncesi net sabit fiyat onayı verilir; teslimat sonrası şirket vergi numaranıza resmi KDV’li e-fatura düzenlenir. Araç içi mobil POS ile şirket kredi kartı veya kurumsal havale kolaylığı standarttır.',
+          'OSB firmalarının muhasebe ve satın alma süreçlerine tam uyumlu olarak her operasyonda yükleme öncesi net sabit fiyat onayı verilir; teslimat sonrası şirket vergi numaranıza fotoğraflı teslim tutanağı ile teslimat yapılır. Araç içi nakit ve havale ile şirket nakit veya havale veya kurumsal havale kolaylığı standarttır.',
           'Tüm şehir içi ve şehirlerarası kurumsal nakillerimiz fotoğraflı teslim tutanağı kapsamındadır; dilediğinizde yükleme ve servis teslimat anı fotoğraflı tutanak olarak filo yöneticinize WhatsApp üzerinden anlık iletilir.'
         ]
       }
@@ -617,14 +617,14 @@ const BLOG_POSTS = [
     table: {
       headers: ['OSB Filo İhtiyacı', 'Kullanılan Kurtarıcı', 'Kurumsal Standart'],
       rows: [
-        ['Personel Binek / Yönetici Aracı', '6° Altı Hidrolik Kayar Kasa', 'fotoğraflı teslim tutanağı + e-fatura'],
+        ['Personel Binek / Yönetici Aracı', '6° Altı Hidrolik Kayar Kasa', 'fotoğraflı teslim tutanağı + teslim tutanağı'],
         ['Uzun Şasi Panelvan & 16+1 Minibüs', 'Ağır Hizmet Uzun Platform', 'Yüksek tonaj spanzet + POS'],
         ['Depo İçi Akülü/Dizel Forklift', 'Çelik Rampalı İş Makinesi Aracı', 'İSG uyumlu saha yüklemesi'],
         ['Vardiya Çıkışı Boş Akü (12V/24V)', 'Dijital Booster Mobil Yardım', '15 dk yerinde çalıştırma']
       ]
     },
     faqs: [
-      { q: 'Fabrikamızın düzenli filo çekici ve yol yardım ihtiyaçları için çalışabilir miyiz?', a: 'Evet. GOSB, TOSB, Güzeller OSB, Balçık ve Dilovası’ndaki işletmelere öncelikli sevk, sabit fiyat politikası ve KDV’li resmi e-fatura ile 7/24 kurumsal destek sunuyoruz.' },
+      { q: 'Fabrikamızın düzenli filo çekici ve yol yardım ihtiyaçları için çalışabilir miyiz?', a: 'Evet. GOSB, TOSB, Güzeller OSB, Balçık ve Dilovası’ndaki işletmelere öncelikli sevk, sabit fiyat politikası ve fotoğraflı teslim tutanağı ile 7/24 kurumsal destek sunuyoruz.' },
       { q: 'Tesis içinden forklift taşıma için randevu mu gerekiyor?', a: 'Hem aynı gün acil bakım nakilleri hem de planlı fabrika içi/arası taşıma talepleriniz için 0533 945 45 14 hattımızdan anında araç planlaması yapabilirsiniz.' },
       { q: 'Şirket araçları için fiyat teklifini nasıl alıyoruz?', a: 'Araç tipi, bulunduğu OSB ve teslimat servisini telefonda veya WhatsApp’ta paylaştığınızda saniyeler içinde net sabit fiyat teklifinizi iletiyoruz.' }
     ]

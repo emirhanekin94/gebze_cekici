@@ -51,7 +51,7 @@ function stepsSection(eyebrow, title, desc, customSteps = null) {
     { num: '01', icon: P.ICONS.phone, title: 'İhbar & Konum Paylaşımı', desc: '0533 945 45 14 numaramızdan arayın veya WhatsApp üzerinden tek dokunuşla konumunuzu iletin; net sabit fiyatı anında onaylayın.' },
     { num: '02', icon: P.ICONS.clock, title: '10–15 Dk Hızlı İntikal', desc: 'Gebze Merkez, GOSB, TEM, D-100, Çayırova ve Darıca’daki nöbetçi ekibimiz ışıklı emniyetle konumunuza ulaşır.' },
     { num: '03', icon: P.ICONS.truck, title: 'Hasarsız & özenli Yükleme', desc: 'Düşük eğimli hidrolik kayar kasa veya aparatlı kurtarıcımızla aracınız 4 tekerlekten jant koruyucu kemerlerle sabitlenir.' },
-    { num: '04', icon: P.ICONS.shield, title: 'Servise Güvenli Teslim', desc: 'Gebze Sanayi, yetkili servis veya belirttiğiniz adrese hasarsız indirme, mobil POS ve KDV’li e-fatura ile süreç tamamlanır.' }
+    { num: '04', icon: P.ICONS.shield, title: 'Servise Güvenli Teslim', desc: 'Gebze Sanayi, yetkili servis veya belirttiğiniz adrese hasarsız indirme, fotoğraflı teslim tutanağı ile süreç tamamlanır.' }
   ];
 
   return `<section class="section cv-auto">
@@ -117,8 +117,8 @@ function whyUsBentoSection(eyebrow = 'Neden Biz?', title = 'Sadece çekici deği
             <span class="why-deck-code">03 / Şeffaf Fiyatlandırma</span>
             <span class="why-icon-wrap">${P.ICONS.check}</span>
           </div>
-          <h3>Telefonda Net Sabit Fiyat &amp; Mobil POS</h3>
-          <p>Yükleme öncesinde net rakam onaylanır; trafik, gece vardiyası veya aparat bahanesiyle ek masraf çıkarılmaz. Araç içi mobil POS ve kasko uyumlu KDV’li e-fatura standarttır.</p>
+          <h3>Telefonda Net Sabit Fiyat &amp; nakit ve havale</h3>
+          <p>Yükleme öncesinde net rakam onaylanır; trafik, gece vardiyası veya aparat bahanesiyle ek masraf çıkarılmaz. Araç içi kasko uyumlu fotoğraflı teslim tutanağı standarttır.</p>
         </div>
         <div class="why-deck-item reveal">
           <div class="why-deck-head">
@@ -274,12 +274,12 @@ ${P.headerNav('home')}
   <!-- Nasıl Çalışıyoruz -->
   ${stepsSection('4 Adımlı Süreç', 'Arıza Anından Servise Nasıl Çalışıyoruz?', 'Stresli anınızda karmaşık prosedür yok; tek aramayla şeffaf ve güvenli kurtarma akışı.')}
 
-  <!-- Hizmet Bölgelerimiz (6 Kart Varsayılan + 26 Bölge Toggle) -->
+  <!-- Hizmet Bölgelerimiz (6 Kart Varsayılan + 29 Bölge Toggle) -->
   <section class="section section-white cv-auto">
     <div class="container">
       <div class="section-head">
         <span class="section-eyebrow">Yerel Nöbetçi Kapsama</span>
-        <h2 class="section-title">Gebze ve Çevresi 26 Hizmet Bölgemiz</h2>
+        <h2 class="section-title">Gebze ve Çevresi 30 Hizmet Bölgemiz</h2>
         <p class="section-desc">Tüm Gebze mahalleleri, organize sanayi bölgeleri, TEM, D-100, Eskihisar, Osmangazi Köprüsü, Çayırova, Darıca ve Dilovası’nda yerel nöbetçi çekici noktalarımız.</p>
       </div>
       <div class="regions-grid">
@@ -451,7 +451,7 @@ function buildRegionsIndex() {
     { q: 'OSB içindeki fabrikalara ve kapalı otoparklara çekici girebiliyor mu?', a: 'Evet. GOSB, TOSB, Güzeller OSB, GEPOSB, İMES OSB ve Balçık tesislerine kurumsal belgeli araçlarımızla giriş yapıyor; alçak tavanlı kapalı otoparklar için 1.88m özel kurtarıcı kullanıyoruz.' },
     { q: 'Çayırova, Darıca ve Dilovası’nda ekstra uzaklık ücreti alınıyor mu?', a: 'Hayır. Bu ilçeler Gebze ana faaliyet havzamızın doğrudan parçasıdır; bölgesel standart ekonomik tarife üzerinden telefonda sabit fiyat verilir.' },
     { q: 'TEM, D-100 veya Osmangazi Köprüsü çıkışında çekici ne kadar sürede gelir?', a: 'Otoyol bağlantılarına yakın konuşlu nöbetçi araçlarımız sayesinde doğru yön kavşağından giriş yaparak ortalama 10–15 dakikada yanınızda oluyoruz.' },
-    { q: 'Gebze’den İstanbul veya İzmit’teki yetkili servise çekim yapıyor musunuz?', a: 'Evet. Tüm 26 bölgemizden İstanbul Anadolu/Avrupa yakasına, İzmit’e ve Türkiye’nin 81 iline özenli araç nakliyesi sağlıyoruz.' }
+    { q: 'Gebze’den İstanbul veya İzmit’teki yetkili servise çekim yapıyor musunuz?', a: 'Evet. Tüm 30 bölgemizden İstanbul Anadolu/Avrupa yakasına, İzmit’e ve Türkiye’nin 81 iline özenli araç nakliyesi sağlıyoruz.' }
   ];
 
   const schemas = [
@@ -461,7 +461,7 @@ function buildRegionsIndex() {
   ];
 
   const html = `${P.head({
-    title: 'Gebze Çekici Hizmet Bölgeleri (26 Bölge) | Mahalle, OSB & Otoyol',
+    title: 'Gebze Çekici Hizmet Bölgeleri (29 Bölge) | Mahalle, OSB & Otoyol',
     description: 'Gebze tüm mahalleleri, GOSB, TOSB, Güzeller OSB, Çayırova, Darıca, Dilovası, TEM, D-100 ve Osmangazi Köprüsü 7/24 oto çekici bölgelerimiz.',
     canonical,
     schemas,
@@ -484,7 +484,7 @@ ${P.headerNav('regions')}
     </div>
   </section>
 
-  <!-- Filtresiz Temiz 26 Bölge Kartı Grid'i (Kural 2.3.1) -->
+  <!-- Filtresiz Temiz 29 Bölge Kartı Grid'i (Kural 2.3.1) -->
   <section class="section" style="padding-top:16px;">
     <div class="container">
       <div class="regions-grid">
@@ -646,7 +646,7 @@ ${P.headerNav('regions', { navbarTitle: r.navbarTitle, navbarSub: r.navbarSub })
               <th>Araç Sınıfı</th>
               <th>Kullanılan Kurtarıcı</th>
               <th>Sabitleme &amp; Koruma Yöntemi</th>
-              <th>Kasko &amp; Fatura</th>
+              <th>Kasko &amp; teslim tutanağı</th>
             </tr>
           </thead>
           <tbody>
@@ -654,13 +654,13 @@ ${P.headerNav('regions', { navbarTitle: r.navbarTitle, navbarSub: r.navbarSub })
               <td><strong>Binek &amp; Spor Otomobil</strong></td>
               <td>Düşük Eğimli Hidrolik Kayar Kasa</td>
               <td>6° altı uzatma rampası + 4 tekerlek lastik üstü spanzet</td>
-              <td>Fotoğraflı teslim tutanağı + e-fatura</td>
+              <td>Fotoğraflı teslim tutanağı + teslim tutanağı</td>
             </tr>
             <tr>
               <td><strong>SUV, 4x4 &amp; Elektrikli (EV)</strong></td>
               <td>Kayar Kasa veya Aparatlı Çekici</td>
               <td>Batarya altı temassız yükleme + tekerlek doli aparatı</td>
-              <td>Yüksek teminatlı VIP sigorta + e-fatura</td>
+              <td>Yüksek teminatlı VIP sigorta + teslim tutanağı</td>
             </tr>
             <tr>
               <td><strong>Motosiklet &amp; ATV</strong></td>
@@ -672,7 +672,7 @@ ${P.headerNav('regions', { navbarTitle: r.navbarTitle, navbarSub: r.navbarSub })
               <td><strong>Panelvan, Minibüs &amp; Ticari</strong></td>
               <td>Uzun Şasi Ağır Hizmet Platformu</td>
               <td>Yüksek tonajlı aks sabitleme + ağır sınıf kemerler</td>
-              <td>OSB kurumsal KDV’li e-fatura</td>
+              <td>OSB kurumsal fotoğraflı teslim tutanağı</td>
             </tr>
           </tbody>
         </table>
@@ -688,7 +688,7 @@ ${P.headerNav('regions', { navbarTitle: r.navbarTitle, navbarSub: r.navbarSub })
           <span class="section-eyebrow">Komşu Kapsama Alanları</span>
           <h2 class="section-title">${P.esc(r.name)} Çevresindeki Diğer Hizmet Bölgelerimiz</h2>
         </div>
-        <a href="/bolgeler/" class="btn btn-outline">Tüm 26 Bölge ${P.ICONS.arrowRight}</a>
+        <a href="/bolgeler/" class="btn btn-outline">Tüm 29 Bölge ${P.ICONS.arrowRight}</a>
       </div>
       <div class="regions-grid">
         ${neighbors.slice(0, 6).map(n => regionCardHtml(n, false)).join('\n        ')}
@@ -718,7 +718,7 @@ function buildServicesIndex() {
     { q: 'Hangi araç tiplerine çekici ve kurtarma hizmeti veriyorsunuz?', a: 'Binek otomobiller, spor araçlar, SUV/4x4, tam elektrikli araçlar, motosiklet, ATV, uzun şasi panelvan, 16+1 servis minibüsü, kamyonet, karavan ve 3.5 tona kadar forklift/iş makinelerine özel donanımlı filomuzla hizmet veriyoruz.' },
     { q: 'Çekici çağırmak yerine sadece akü takviye veya lastik değişimi isteyebilir miyim?', a: 'Evet. Aracın servise taşınmasına gerek olmayan boş akü ve patlak lastik vakalarında mobil yol yardım aracımızla doğrudan bulunduğunuz yerde çözüm sağlıyoruz.' },
     { q: 'Kilitli şanzıman ve otomatik araçlar için özel ekipmanınız mevcut mu?', a: 'Evet. Tekerlek altı Go-Jak doli arabaları, kaydırma patenleri ve düşük eğimli hidrolik kayar kasa araçlarımız filomuzda 7/24 hazır bekler.' },
-    { q: 'Hizmetlerinizde fotoğraflı teslim tutanağı ve KDV’li fatura standart mı?', a: 'Evet. Tüm şehir içi ve şehirlerarası çekici hizmetlerimiz fotoğraflı teslim tutanağı kapsamındadır; bireysel ve kurumsal müşterilerimize mobil POS ile KDV’li e-fatura düzenlenir.' },
+    { q: 'Hizmetlerinizde fotoğraflı teslim tutanağı standart mı?', a: 'Evet. Tüm şehir içi ve şehirlerarası çekici hizmetlerimiz fotoğraflı teslim tutanağı kapsamındadır; bireysel ve kurumsal müşterilerimize nakit veya havale/EFT ödeme kolaylığı sunulur.' },
     { q: 'Gebze dışına şehirlerarası araç taşıma yapıyor musunuz?', a: 'Evet. Gebze çıkışlı veya Gebze varışlı olarak İstanbul, Ankara, İzmir, Bursa, Antalya dahil Türkiye’nin 81 iline aktarmasız tekli özenli taşıma yapıyoruz.' }
   ];
 
@@ -828,7 +828,7 @@ ${P.headerNav('services')}
             <div class="spec-row"><span>Ortalama İntikal</span><strong>10–15 Dakika</strong></div>
             <div class="spec-row"><span>Taşıma Güvencesi</span><strong>Fotoğraflı Teslim Tutanağı</strong></div>
             <div class="spec-row"><span>Fiyat Politikası</span><strong>Telefonda Net Sabit Fiyat</strong></div>
-            <div class="spec-row"><span>Ödeme &amp; Belge</span><strong>Mobil POS &amp; KDV’li e-Fatura</strong></div>
+            <div class="spec-row"><span>Ödeme Seçenekleri</span><strong>Nakit &amp; Havale / EFT</strong></div>
             <div class="spec-row"><span>Çalışma Düzeni</span><strong>7 Gün 24 Saat Nöbetçi</strong></div>
           </div>
         </div>
@@ -910,7 +910,7 @@ function buildBlogPages() {
     { q: 'Otomatik vitesli aracım arızalandığında halatla çekilebilir mi?', a: 'Hayır. Motor çalışmadığında şanzıman yağ pompası devrede olmadığı için otomatik araçların halatla çekilmesi ciddi şanzıman hasarı doğurur; mutlaka kayar kasa ile taşınmalıdır.' },
     { q: 'Otoyolda aracım durduğunda reflektörü kaç metre geriye koymalıyım?', a: 'Şehir içi yollarda en az 30–50 metre, D-100 ve TEM gibi yüksek hızlı otoyollarda ise aracın 100–150 metre gerisine reflektör konulmalı ve yolcular bariyer arkasına geçmelidir.' },
     { q: 'Yeni nesil araçta başka otomobilden kablo ile akü takviyesi güvenli mi?', a: 'Ters kutup veya voltaj sıçraması (pik akım) riski nedeniyle yeni nesil ECU’lu araçlarda profesyonel 12V/24V booster cihazı kullanılması çok daha güvenlidir.' },
-    { q: 'Kasko poliçemdeki çekici hakkı için faturanız geçerli mi?', a: 'Evet. KDV’li resmi oto kurtarma e-faturamızı sigorta şirketinize ileterek poliçe limitleri dahilinde geri ödeme alabilirsiniz.' }
+    { q: 'Kasko poliçemdeki çekici hakkı için teslim tutanağınız geçerli mi?', a: 'Evet. KDV’li resmi oto kurtarma teslim tutanağımızı sigorta şirketinize ileterek poliçe limitleri dahilinde geri ödeme alabilirsiniz.' }
   ];
 
   const indexHtml = `${P.head({
@@ -960,7 +960,7 @@ ${P.headerNav('blog')}
     { icon: P.ICONS.truck, title: 'Doğru Ekipman Teyidi', desc: 'Otomatik şanzıman kilidi, EV modeli veya kapalı garaj bilgisini paylaşıp sabit fiyatı onaylayın.' }
   ])}
   ${whyUsBentoSection('Teknik Uzmanlık', 'Profesyonel Kurtarıcı Farkı Neden Önemlidir?', 'Yanlış ekipmanla yapılan tek bir hatalı çekim, aracınızda çekici ücretinin onlarca katı mekanik hasar bırakabilir.')}
-  ${faqSplitSection('Sık Karşılaşılan Durumlar', 'Yol Yardım ve Güvenli Çekim SSS', 'Otomatik araç nakli, otoyol reflektör mesafesi, akü takviyesi ve kasko faturası hakkında sık sorulanlar.', blogFaqs, true)}
+  ${faqSplitSection('Sık Karşılaşılan Durumlar', 'Yol Yardım ve Güvenli Çekim SSS', 'Otomatik araç nakli, otoyol reflektör mesafesi, akü takviyesi ve kasko teslim tutanağısı hakkında sık sorulanlar.', blogFaqs, true)}
 </main>
 ${P.footer()}
 ${P.stickyActions('Gebze')}
@@ -1196,7 +1196,7 @@ function buildAboutPage() {
   const aboutFaqs = [
     { q: 'Fotoğraflı teslim tutanağı hangi aşamadan itibaren geçerli oluyor?', a: 'Fotoğraflı teslim tutanağı ve K1/K2 belgeli güvenli nakil sürecimiz aracınızın çekici rampasına alınmaya başladığı ilk andan hedef servise indirilip teslim tutanağının imzalanmasına kadar tam kapsamlı olarak geçerlidir.' },
     { q: 'Sabit fiyat politikanız nasıl işliyor?', a: 'Aracınızın konumu, tipi ve teslim adresine göre çağrı sırasında tek bir net rakam veriyoruz. Onayladığınız bu rakam dışında gece, trafik veya yükleme aparatı bahanesiyle ek ücret talep edilmez.' },
-    { q: 'OSB şirket filoları için düzenli faturalı çalışma yapıyor musunuz?', a: 'Evet. GOSB, TOSB, Güzeller OSB, Dilovası ve Şekerpınar’daki kurumsal işletmelere resmi KDV’li e-fatura ve öncelikli filo müdahale desteği sunuyoruz.' },
+    { q: 'OSB şirket filoları için düzenli özenli çalışma yapıyor musunuz?', a: 'Evet. GOSB, TOSB, Güzeller OSB, Dilovası ve Şekerpınar’daki kurumsal işletmelere resmi fotoğraflı teslim tutanağı ve öncelikli filo müdahale desteği sunuyoruz.' },
     { q: 'Yasal yetki belgeleriniz (K1 / K2) ve operatör sertifikalarınız tam mı?', a: 'Evet. Tüm kurtarıcı filomuz karayolu taşıma mevzuatına uygun yasal yetki belgelerine, periyodik hidrolik bakım kayıtlarına ve SRC/psikoteknik belgeli deneyimli operatörlere sahiptir.' },
     { q: 'Gece vardiyasında ve resmi tatillerde gerçekten kendi ekibiniz mi geliyor?', a: 'Evet. Çağrıları başka komisyonculara devretmeden, 7 gün 24 saat kendi nöbetçi araçlarımız ve kadrolu saha personelimizle doğrudan hizmet veriyoruz.' }
   ];
@@ -1246,11 +1246,40 @@ ${P.headerNav('about')}
           <p style="color:var(--ink-2);">İster tek bir binek aracın akü takviyesi ister büyük bir OSB işletmesinin ticari filo nakli olsun; her operasyonda aynı şeffaflık, aynı temizlik ve aynı güvenlik protokolünü uyguluyoruz.</p>
         </div>
         <div class="about-media-wrap">
-          ${P.pictureTag('client-kamyonet', 'Gebze Çekici modern kayar kasa çekici filosu', true)}
+          ${P.pictureTag('client-kamyonet', 'Gebze Çekici modern çekici filosu', true)}
           <div class="why-stat">
             <strong>14+ Yıl</strong>
             <span>Kesintisiz Gebze Saha Tecrübesi</span>
           </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Blok 2.5: Misyonumuz & Vizyonumuz -->
+  <section class="section cv-auto" style="padding-top:10px;">
+    <div class="container">
+      <div class="section-head">
+        <span class="section-eyebrow">Kurumsal İlkelerimiz</span>
+        <h2 class="section-title">Misyonumuz &amp; Vizyonumuz</h2>
+        <p class="section-desc">Yolda kalan her sürücüye ve acil yük sevkiyatına hızlı, şeffaf ve özenli çözüm üretmek için çalışıyoruz.</p>
+      </div>
+      <div class="mission-vision-grid">
+        <div class="mv-card">
+          <div class="why-deck-head">
+            <span class="why-deck-code">01 / Misyonumuz</span>
+            <span class="why-icon-wrap">${P.ICONS.shield}</span>
+          </div>
+          <h3>Misyonumuz</h3>
+          <p>Gebze, Darıca, Çayırova, Dilovası, Bayramoğlu, Tuzla Şifa ve Hereke hattında yolda kalan sürücülere gece gündüz fark etmeksizin en kısa sürede ulaşmak; aracın ve yükün güvenliğini ön planda tutarak sürpriz masraf çıkarmayan, dürüst ve erişilebilir yol yardım ile şehir içi/şehirlerarası taşıma hizmeti sunmaktır.</p>
+        </div>
+        <div class="mv-card">
+          <div class="why-deck-head">
+            <span class="why-deck-code">02 / Vizyonumuz</span>
+            <span class="why-icon-wrap">${P.ICONS.truck}</span>
+          </div>
+          <h3>Vizyonumuz</h3>
+          <p>Modern araç filomuzu, aparatlı kurtarma donanımlarımızı, çoklu çekici ve 3.5 tona kadar tenteli özel yük taşımacılığı kapasitemizi sürekli geliştirerek Kocaeli ve İstanbul Anadolu Yakası sınır koridorunda akla ilk gelen, tavsiye edilen ve güven duyulan yol yardım markası olmaktır.</p>
         </div>
       </div>
     </div>
@@ -1283,11 +1312,11 @@ ${P.headerNav('about')}
         </div>
         <div class="fleet-card">
           <div class="why-deck-head">
-            <span class="why-deck-code">03 / Kapalı Otopark</span>
+            <span class="why-deck-code">03 / Tenteli Yük Taşıma</span>
             <span class="why-icon-wrap">${P.ICONS.shield}</span>
           </div>
-          <h3>Alçak Tavanlı Kapalı Otopark Araçları</h3>
-          <p class="section-desc">1.88m kabin yüksekliği ve Go-Jak tekerlek doli aparatlarıyla AVM, hastane ve rezidans kapalı garajlarına sorunsuz giriş.</p>
+          <h3>Şehir İçi &amp; Şehirlerarası Tenteli Taşıma (3.5 Ton)</h3>
+          <p class="section-desc">3.5 tona kadar özel yük, paletli sanayi malzemesi ve acil gönderileriniz için kapalı tenteli araçla şehir içi ve şehirlerarası özenli taşımacılık.</p>
         </div>
         <div class="fleet-card">
           <div class="why-deck-head">
@@ -1310,7 +1339,7 @@ ${P.headerNav('about')}
   </section>
 
   <!-- Blok 4: 4 Aşamalı Standart Operasyon Süreci -->
-  ${stepsSection('Operasyon Standardımız', 'Nasıl Çalışıyoruz? 4 Aşamalı Süreç', 'İlk telefon çağrısından faturalı teslimata kadar her adım kayıtlı ve şeffaf ilerler.')}
+  ${stepsSection('Operasyon Standardımız', 'Nasıl Çalışıyoruz? 4 Aşamalı Süreç', 'İlk telefon çağrısından özenli teslimata kadar her adım kayıtlı ve şeffaf ilerler.')}
 
   <!-- Blok 5: Müşteri Güvencelerimiz & Kurumsal Standartlarımız -->
   ${whyUsBentoSection('Kurumsal Güvencelerimiz', 'Temel Hizmet & Güven Standartlarımız', 'K1/K2 yetki belgeli yasal taşımacılık, tam fotoğraflı teslim tutanağı ve sürprizsiz sabit fiyat politikası.')}
@@ -1319,7 +1348,7 @@ ${P.headerNav('about')}
   ${galleryPreviewSection(6, 'Sahadan Gerçek Operasyon Kareleri')}
 
   <!-- Blok 7: Kurumsal SSS -->
-  ${faqSplitSection('Kurumsal SSS', 'Kasko, Fatura ve Filo Hakkında Merak Edilenler', 'Fotoğraflı teslim tutanağı, K1/K2 yetki belgeleri, OSB kurumsal anlaşmaları ve sabit fiyat politikamız.', aboutFaqs, true)}
+  ${faqSplitSection('Kurumsal SSS', 'Filo, Ekipman ve Süreç Hakkında Merak Edilenler', 'Fotoğraflı teslim tutanağı, K1/K2 yetki belgeleri, OSB kurumsal anlaşmaları ve sabit fiyat politikamız.', aboutFaqs, true)}
 </main>
 ${P.lightboxModal()}
 ${P.footer()}
@@ -1453,16 +1482,16 @@ ${P.headerNav('')}
         <p>Bu politika, 6698 sayılı Kişisel Verilerin Korunması Kanunu (“KVKK”) uyarınca <strong>${P.esc(BUSINESS.legalName)}</strong> tarafından sunulan oto çekici, oto kurtarma ve yol yardım hizmetleri ile <strong>gebzecekici.tr</strong> web sitesi üzerinden yürütülen iletişim süreçlerinde paylaşılan kişisel verilerin işlenme esaslarını açıklar.</p>
 
         <h2>2. İşlenen Kişisel Veriler ve Amaçları</h2>
-        <p>Acil çekici talebi oluşturduğunuzda telefon, WhatsApp veya teklif yönlendirme formu üzerinden tarafımıza ilettiğiniz telefon numarası, konum bilgisi, araç tipi ve faturalandırma talep etmeniz halinde ad-soyad/unvan ile vergi/TC kimlik bilgileri yalnızca aşağıdaki amaçlarla işlenir:</p>
+        <p>Acil çekici talebi oluşturduğunuzda telefon, WhatsApp veya teklif yönlendirme formu üzerinden tarafımıza ilettiğiniz telefon numarası, konum bilgisi, araç tipi ve teslimat süreci talep etmeniz halinde ad-soyad/unvan ile vergi/TC kimlik bilgileri yalnızca aşağıdaki amaçlarla işlenir:</p>
         <ul class="prose-list">
           <li>${P.ICONS.check} <span>Bulunduğunuz noktaya en yakın nöbetçi kurtarıcının yönlendirilmesi ve güvenli araç naklinin tamamlanması</span></li>
           <li>${P.ICONS.check} <span>fotoğraflı teslim tutanağı ve taşıma süreçlerinin yasal mevzuata uygun yürütülmesi</span></li>
-          <li>${P.ICONS.check} <span>Resmi e-fatura düzenlenmesi, ödeme kayıtlarının ve kasko geri ödeme belgelerinin hazırlanması</span></li>
+          <li>${P.ICONS.check} <span>Resmi teslim tutanağı düzenlenmesi, ödeme kayıtlarının ve kasko geri ödeme belgelerinin hazırlanması</span></li>
           <li>${P.ICONS.check} <span>Hizmet kalitesinin ölçülmesi, sahte reklam tıklamalarının (click fraud) ve spam bot trafiğinin engellenmesi</span></li>
         </ul>
 
         <h2>3. Verilerin Aktarılması ve Saklama Süresi</h2>
-        <p>Paylaşılan konum ve iletişim verileri hiçbir koşulda üçüncü taraf pazarlama şirketlerine satılmaz veya izinsiz paylaşılmaz. Kişisel veriler yalnızca operasyonun icrası için görevli saha personelimizle ve yasal yükümlülük gereği faturalandırma/sigorta süreçlerinde yetkili kurumlarla sınırlı olarak paylaşılır; ilgili yasal saklama sürelerinin dolmasının ardından güvenli biçimde silinir veya anonim hale getirilir.</p>
+        <p>Paylaşılan konum ve iletişim verileri hiçbir koşulda üçüncü taraf pazarlama şirketlerine satılmaz veya izinsiz paylaşılmaz. Kişisel veriler yalnızca operasyonun icrası için görevli saha personelimizle ve yasal yükümlülük gereği teslimat süreci/sigorta süreçlerinde yetkili kurumlarla sınırlı olarak paylaşılır; ilgili yasal saklama sürelerinin dolmasının ardından güvenli biçimde silinir veya anonim hale getirilir.</p>
 
         <h2>4. Çerezler (Cookies) ve Analitik Araçlar</h2>
         <p>Web sitemiz performans ve kullanıcı deneyimini iyileştirmek amacıyla temel teknik çerezler ile devreye alındığında Google Analytics (GA4) ve Google Ads dönüşüm ölçüm teknolojilerini kullanabilir. Tarayıcı ayarlarınızdan çerezleri dilediğiniz zaman kısıtlayabilir veya silebilirsiniz.</p>
@@ -1525,7 +1554,7 @@ function buildPricingPage() {
     { q: 'Gebze çekici fiyatını yola çıkmadan kesin olarak öğrenebilir miyim?', a: 'Evet. 0533 945 45 14 numaramızdan aradığınızda veya WhatsApp üzerinden konumunuzu paylaştığınızda bulunduğunuz bölge, araç sınıfı ve teslimat adresine göre saniyeler içinde tamamen ücretsiz ve kesin sabit fiyat bilgisi verilir.' },
     { q: 'Neden web sitesinde sabit bir TL listesi yerine telefonda fiyat veriyorsunuz?', a: 'Her arıza senaryosu birbirinden farklıdır; şehir içi kısa mesafe, otoyol çıkışı, aparatlı çekici, çoklu çekici, 3.5 ton tenteli nakliye veya uzun şasi ticari panelvan farklı ekipman ve mesafe gerektirir. Sizi yanıltacak tahmini listeler yerine doğrudan durumunuza özel en doğru ve ekonomik net rakamı telefonda bildiriyoruz.' },
     { q: 'Gece vardiyasında, hafta sonu veya trafikte ekstra ücret çıkıyor mu?', a: 'Hayır. Yükleme öncesinde telefonda onayladığınız sabit ücret kesindir; yol trafiği, gece saati, rampa uzatma aparatı veya bekleme bahanesiyle yükleme sonrası ek ücret talep edilmez.' },
-    { q: 'Kredi kartı, mobil POS ve kasko uyumlu fatura seçenekleriniz var mı?', a: 'Evet. Tüm kurtarıcı araçlarımızda taşınabilir mobil POS cihazı standarttır. Nakit, kredi/banka kartı veya havale ile ödeme yapabilir, kasko geri ödemesine ve şirket muhasebesine uygun KDV’li resmi e-fatura alabilirsiniz.' },
+    { q: 'nakit veya havale, kasko uyumlu teslim tutanağı seçenekleriniz var mı?', a: 'Evet. Tüm kurtarıcı araçlarımızda taşınabilir nakit ve havale cihazı standarttır. Nakit, kredi/banka kartı veya havale ile ödeme yapabilir, kasko geri ödemesine ve şirket muhasebesine uygun fotoğraflı teslim tutanağı alabilirsiniz.' },
     { q: 'Sadece akü takviyesi veya lastik değişimi için çekici ücreti mi ödenir?', a: 'Hayır. Aracın servise taşınmasına gerek olmayan boş akü veya stepne değişimi vakalarında çekici yerine ekonomik mobil yol yardım tarifemiz uygulanır.' },
     { q: 'Gebze’den İstanbul, İzmit veya farklı bir şehre araç taşıma fiyatı nasıl hesaplanır?', a: 'Şehirlerarası tekli VIP araç taşımalarında toplam kilometre mesafesi, aracın ağırlık sınıfı ve teslimat iline göre özel ekonomik sabit fiyat hesaplanır; telefonda onayınızla aktarmasız nakil başlatılır.' }
   ];
@@ -1593,7 +1622,7 @@ ${P.headerNav('')}
                   <tr>
                     <td><strong>Yükleme ve Teslim Mesafesi</strong></td>
                     <td>Gebze içi mahalleler, OSB’ler, çevre ilçeler veya şehirlerarası kilometre rotası</td>
-                    <td>26 noktada nöbetçi araçla gereksiz geliş mesafesi ödenmez</td>
+                    <td>30 noktada nöbetçi araçla gereksiz geliş mesafesi ödenmez</td>
                   </tr>
                   <tr>
                     <td><strong>Araç Sınıfı ve Ağırlığı</strong></td>
@@ -1616,9 +1645,9 @@ ${P.headerNav('')}
           </div>
 
           <div class="seo-section-block">
-            <h2>Sürprizsiz Sabit Fiyat, Mobil POS ve Kasko Uyumlu e-Fatura</h2>
+            <h2>Sürprizsiz Sabit Fiyat, Kasko Uyumlu teslim tutanağı</h2>
             <p>Telefonda onayladığınız fiyat dışında yol trafiği beklemesi, gece vardiyası, hafta sonu veya düşük eğimli uzatma rampası gibi gerekçelerle kesinlikle ek ücret talep edilmez. Tüm şehir içi ve şehirlerarası çekimlerimiz aracınız platforma alınmaya başladığı andan teslimata kadar <strong>fotoğraflı teslim tutanağı ve K1/K2 belgeli güvenli taşıma</strong> güvencesi altındadır.</p>
-            <p>Ödemenizi nakit, araç içi taşınabilir mobil POS cihazımızla kredi/banka kartı veya kurumsal havale şeklinde gerçekleştirebilirsiniz. Bireysel kasko poliçenizin çekici geri ödeme süreci veya OSB şirket muhasebeniz için aynı gün resmi KDV’li e-fatura düzenlenir.</p>
+            <p>Ödemenizi nakit, araç içi taşınabilir nakit ve havale cihazımızla kredi/banka kartı veya kurumsal havale şeklinde gerçekleştirebilirsiniz. Bireysel kasko poliçenizin çekici geri ödeme süreci veya OSB şirket muhasebeniz için aynı gün fotoğraflı teslim tutanağı ile teslimat yapılır.</p>
           </div>
 
           <div class="callout-box">

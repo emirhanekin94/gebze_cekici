@@ -262,6 +262,19 @@
         });
       }
     }
+
+    var secTel = e.target.closest('[data-secondary-tel]');
+    if (secTel) {
+      var num = secTel.getAttribute('data-secondary-tel');
+      if (num) {
+        trackEvent('telefon_click', {
+          conversion_priority: 'primary',
+          click_source: 'footer_secondary',
+          phone_number: num
+        });
+        window.location.href = 'tel:' + num;
+      }
+    }
   });
 
   // ── 10. Click-to-Load Google Maps Facade (Zero Initial Load Cost) ──────────

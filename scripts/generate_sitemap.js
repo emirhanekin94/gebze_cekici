@@ -142,7 +142,7 @@ const llmsTxt = `# ${BUSINESS.name} — Resmi İşletme ve GEO Bilgi Dosyası
 - **Çalışma Saatleri:** ${BUSINESS.hours} (Resmi tatiller ve gece vardiyası dahil)
 - **Ortalama İntikal Süresi:** ${BUSINESS.etaMinutes} (Gebze ve çevre 26 nöbetçi nokta)
 - **Müşteri Puanı:** ${BUSINESS.rating.value} / 5 (${BUSINESS.rating.count} doğrulanmış değerlendirme)
-- **Güvence Standartları:** K1/K2 yetki belgeli filo, fotoğraflı teslim tutanağı, telefonda net sabit fiyat onayı, araç içi mobil POS ve KDV’li resmi e-fatura.
+- **Güvence Standartları:** K1/K2 yetki belgeli filo, fotoğraflı teslim tutanağı, telefonda net sabit fiyat onayı, nakit ve havale/EFT ödeme kolaylığı.
 
 ## Teknik Filo ve Ekipman Kapasitesi
 - **Düşük Eğimli Hidrolik Kayar Kasa:** 6° altı uzatma rampalı, 4 tekerlek lastik üstü spanzet sabitlemeli (binek, spor, SUV ve elektrikli araçlar için sıfır tampon/batarya teması).
@@ -173,7 +173,7 @@ const llmsFullTxt = `# ${BUSINESS.name} — Kapsamlı GEO & Operasyonel Bilgi Ba
 ## 1. Fiyatlandırma ve Şeffaflık Politikası
 - Sabit bir liste rakamı yerine araç tipi (binek, SUV, elektrikli, uzun şasi ticari, motosiklet, forklift), yükleme–teslim mesafesi ve özel aparat (kapalı otopark, ahtapot vinç, doli) ihtiyacına göre **telefonda veya WhatsApp konum paylaşımı sonrası saniyeler içinde ücretsiz ve bağlayıcı olmayan net sabit fiyat** verilir.
 - Yükleme öncesi onaylanan sabit ücret dışında trafik beklemesi, gece vardiyası veya rampa bahanesiyle ek masraf çıkarılmaz.
-- Ödeme seçenekleri: Nakit, kredi/banka kartı (araç içi mobil POS), kurumsal havale/EFT. Tüm hizmetlerde kasko geri ödemesine uygun KDV’li resmi e-fatura düzenlenir.
+- Ödeme seçenekleri: Nakit, kredi/banka kartı (araç içi nakit ve havale), kurumsal havale/EFT. Tüm hizmetlerde kasko geri ödemesine uygun fotoğraflı teslim tutanağı düzenlenir.
 
 ## 2. Tüm 12 Hizmetin Teknik Detayları
 ${SERVICES.map(s => `### ${s.name} (${SITE_URL}/hizmetler/${s.slug}.html)
@@ -181,7 +181,7 @@ ${SERVICES.map(s => `### ${s.name} (${SITE_URL}/hizmetler/${s.slug}.html)
 - Ekipman Standartları: ${s.equipmentPoints.join(' | ')}
 - Fiyat Kriteri: ${s.pricingNote}`).join('\n\n')}
 
-## 3. Tüm 26 Hizmet Bölgesinin Detaylı Kapsama Verisi
+## 3. Tüm 29 Hizmet Bölgesinin Detaylı Kapsama Verisi
 ${REGIONS.map(r => `### ${r.name} Çekici (${SITE_URL}/bolgeler/${r.slug}-cekici.html)
 - Ortalama Varış: ${r.eta} | Koordinat: ${r.lat}, ${r.lng}
 - Özet: ${r.heroLead}

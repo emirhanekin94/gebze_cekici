@@ -27,7 +27,7 @@ const REGIONS_SEO_2 = {
         h2: 'Adem Yavuz Oto Kurtarma Sabit Fiyat ve Hızlı Servis Ulaşımı',
         paragraphs: [
           'Adem Yavuz ve Cumhuriyet Mahallesi’nden Gebze Oto Sanayi Sitesi’ne, Çayırova tamir atölyelerine veya D-100 yetkili servislerine yapılan tüm nakiller fotoğraflı teslim tutanağı güvencesi altındadır. Yükleme öncesinde net sabit fiyat bildirilir, sürpriz ek ücret çıkarılmaz.',
-          '7/24 kesintisiz nöbetçi kadromuz, kredi kartına uyumlu mobil POS cihazımız ve KDV’li e-fatura standardımızla Adem Yavuz’da güvenilir yol arkadaşınızız.'
+          '7/24 kesintisiz nöbetçi kadromuz, nakit veya havalena uyumlu nakit ve havale cihazımız ve fotoğraflı teslim tutanağı standardımızla Adem Yavuz’da güvenilir yol arkadaşınızız.'
         ]
       }
     ]
@@ -53,7 +53,7 @@ const REGIONS_SEO_2 = {
         h2: 'Mustafapaşa Oto Kurtarma Ücretleri ve özenli Teslimat Standardı',
         paragraphs: [
           'Mustafapaşa oto kurtarma çağrılarında Gebze Oto Sanayi Sitesi’ne olan yakın konum avantajıyla son derece ekonomik sabit fiyat tarifesi uygulanır. Telefon görüşmesinde belirlenen rakam kesin olup yükleme sonrası değişiklik yapılmaz.',
-          'Dört tekerlekten jant koruyucu spanzet sabitlemesi, güvenli taşıma fotoğraflı teslim tutanağı, mobil POS ödeme ve resmi KDV’li e-fatura ile 7/24 yanınızdayız.'
+          'Dört tekerlekten jant koruyucu spanzet sabitlemesi, güvenli taşıma fotoğraflı teslim tutanağı, nakit veya havale/EFT ödeme kolaylığı ile 7/24 yanınızdayız.'
         ]
       }
     ]
@@ -79,7 +79,7 @@ const REGIONS_SEO_2 = {
         h2: 'Mimar Sinan Oto Kurtarma Sabit Fiyat ve 7/24 Sigortalı Taşıma',
         paragraphs: [
           'Mimar Sinan ve Köşklü Çeşme’den Gebze Oto Sanayi Sitesi’ne, Darıca servislerine veya İstanbul Tuzla–Pendik yetkili servislerine yapacağınız nakillerde telefonda net sabit fiyat onayı alırsınız. Tüm taşımalar fotoğraflı teslim tutanağı kapsamında gerçekleşir.',
-          'Araç içi mobil POS, kasko poliçesine uygun KDV’li e-fatura ve 7/24 nöbetçi ekip disipliniyle her zaman ulaşılabilir durumdayız.'
+          'Araç içi nakit ve havale, kasko poliçesine uygun fotoğraflı teslim tutanağı ve 7/24 nöbetçi ekip disipliniyle her zaman ulaşılabilir durumdayız.'
         ]
       }
     ]
@@ -102,10 +102,10 @@ const REGIONS_SEO_2 = {
         ]
       },
       {
-        h2: 'TOSB Kurumsal e-Fatura, İSG Uyumlu Yükleme ve Sabit Fiyat Standardı',
+        h2: 'TOSB Kurumsal teslim tutanağı, İSG Uyumlu Yükleme ve Sabit Fiyat Standardı',
         paragraphs: [
           'TOSB içindeki global ve yerli sanayi kuruluşlarının iş güvenliği standartlarına uygun olarak reflektör emniyet şeridi, ikaz aydınlatması ve sertifikalı operatör kadromuzla çalışıyoruz. Taşıma fotoğraflı teslim tutanağı her yüklemede standarttır.',
-          'Şirketiniz adına kesilen resmi KDV’li e-fatura, mobil POS ile anında ödeme ve yükleme öncesi yazılı sabit fiyat onayıyla kurumsal süreçlerinize hız kazandırıyoruz.'
+          'Şirketiniz adına kesilen resmi fotoğraflı teslim tutanağı, nakit ve havale ile anında ödeme ve yükleme öncesi yazılı sabit fiyat onayıyla kurumsal süreçlerinize hız kazandırıyoruz.'
         ]
       }
     ]
@@ -128,10 +128,10 @@ const REGIONS_SEO_2 = {
         ]
       },
       {
-        h2: 'Güzeller OSB Oto Kurtarma: Resmi Faturalı ve Özenli Kurumsal Çözüm',
+        h2: 'Güzeller OSB Oto Kurtarma: Resmi özenli ve Özenli Kurumsal Çözüm',
         paragraphs: [
           'Güzeller OSB ve GEPOSB firmalarına sunduğumuz tüm çekici, yol yardım ve iş makinesi taşıma hizmetlerinde telefonda onaylanan net sabit fiyat geçerlidir. Yükleme anından teslimata kadar fotoğraflı teslim tutanağı korumanız altındadır.',
-          'Mobil POS ödeme, KDV’li resmi e-fatura ve 7/24 gece vardiyası nöbetçi desteğiyle sanayi üretiminizin ve çalışanlarınızın her saat yanındayız.'
+          'nakit ve havale ödeme, fotoğraflı teslim tutanağı ve 7/24 gece vardiyası nöbetçi desteğiyle sanayi üretiminizin ve çalışanlarınızın her saat yanındayız.'
         ]
       }
     ]
@@ -154,10 +154,10 @@ const REGIONS_SEO_2 = {
         ]
       },
       {
-        h2: 'Bilişim Vadisi Oto Kurtarma: Yüksek Teminatlı VIP Kasko ve Kurumsal Fatura',
+        h2: 'Bilişim Vadisi Oto Kurtarma: Yüksek Teminatlı VIP Kasko ve Kurumsal teslim tutanağı',
         paragraphs: [
           'Teknoloji firmalarının şirket araçları ve bireysel elektrikli otomobil sahipleri için yüksek limitli fotoğraflı teslim tutanağı, yükleme-teslimat fotoğraflı tutanak ve şeffaf şeffaf sabit fiyat politikası standarttır.',
-          'Muallimköy’den İstanbul Ataşehir, Kartal, Kozyatağı veya İzmit yetkili marka servislerine aktarmasız, tekli ve resmi KDV’li e-fatura eşliğinde 7/24 profesyonel nakliye sağlıyoruz.'
+          'Muallimköy’den İstanbul Ataşehir, Kartal, Kozyatağı veya İzmit yetkili marka servislerine aktarmasız, tekli ve resmi fotoğraflı teslim tutanağı eşliğinde 7/24 profesyonel nakliye sağlıyoruz.'
         ]
       }
     ]
@@ -183,7 +183,7 @@ const REGIONS_SEO_2 = {
         h2: 'Pelitli Oto Kurtarma Sabit Fiyat ve Gece Aydınlatmalı Güvenli Operasyon',
         paragraphs: [
           'Pelitli ve Mollafenari’nin merkeze uzak kırsal yollarında dahi fırsatçı ücret politikası uygulamıyoruz; konumunuza göre telefonda şeffaf sabit fiyat verilip onayınızla yola çıkılır.',
-          '360 derece yüksek lümenli LED projektör donanımımız, fotoğraflı teslim tutanağı, mobil POS ve KDV’li e-fatura güvencemizle Pelitli hattında gece gündüz yanınızdayız.'
+          '360 derece yüksek lümenli LED projektör donanımımız, fotoğraflı teslim tutanağı, fotoğraflı teslim tutanağı güvencemizle Pelitli hattında gece gündüz yanınızdayız.'
         ]
       }
     ]
@@ -206,9 +206,9 @@ const REGIONS_SEO_2 = {
         ]
       },
       {
-        h2: 'Balçık Oto Kurtarma Kurumsal Faturalandırma ve Şeffaf Sabit Ücret Politikası',
+        h2: 'Balçık Oto Kurtarma Kurumsal teslimat süreci ve Şeffaf Sabit Ücret Politikası',
         paragraphs: [
-          'Balçık’taki antrepo, kargo ve üretim şirketlerinin filo operasyonları için resmi KDV’li e-fatura, fotoğraflı teslim tutanağı ve mobil POS ödeme kolaylığı standart olarak sunulur.',
+          'Balçık’taki antrepo, kargo ve üretim şirketlerinin filo operasyonları için resmi fotoğraflı teslim tutanağı, fotoğraflı teslim tutanağı ve nakit / havale ödeme kolaylığı standart olarak sunulur.',
           'Hem bireysel çalışan araçları hem de kurumsal ticari filolar için telefonda net sabit fiyat vererek 7/24 kesintisiz Balçık oto kurtarma hizmeti sunuyoruz.'
         ]
       }
@@ -261,7 +261,7 @@ const REGIONS_SEO_2 = {
         h2: 'D-100 Gebze Oto Kurtarma: En Yakın Servise Ekonomik ve Hızlı Nakil',
         paragraphs: [
           'D-100 üzerinde arızalanan araçları hemen karayolu kenarındaki Gebze Oto Sanayi Sitesi’ne, yetkili marka servislerine veya İstanbul Pendik–Kartal ve İzmit servislerine en kısa güzergâhtan ulaştırıyoruz.',
-          'Telefonda netleştirilen sabit fiyat, fotoğraflı teslim tutanağı, 4 tekerlek spanzet güvenliği ve KDV’li resmi e-fatura ile D-100 hattında 7/24 güvenilir desteğiniziz.'
+          'Telefonda netleştirilen sabit fiyat, fotoğraflı teslim tutanağı, 4 tekerlek spanzet güvenliği ve fotoğraflı teslim tutanağı ile D-100 hattında 7/24 güvenilir desteğiniziz.'
         ]
       }
     ]
@@ -287,7 +287,7 @@ const REGIONS_SEO_2 = {
         h2: 'Osmangazi Köprüsü Oto Kurtarma: Bursa, İzmir ve İstanbul’a Tekli Nakliye',
         paragraphs: [
           'Uzun yolculuk sırasında Osmangazi Köprüsü çevresinde arızalanan araçlar için yalnızca Gebze içine değil; Yalova, Bursa, Balıkesir, İzmir veya İstanbul’un tüm ilçelerine aktarmasız şehirlerarası tekli araç taşıma hizmeti veriyoruz.',
-          'Yola çıkmadan önce net sabit fiyat onayı, tam kapsamlı fotoğraflı teslim tutanağı, konforlu çift yolcu kabini ve resmi e-fatura güvencesiyle yolculuğunuzu emniyete alıyoruz.'
+          'Yola çıkmadan önce net sabit fiyat onayı, tam kapsamlı fotoğraflı teslim tutanağı, konforlu çift yolcu kabini ve resmi teslim tutanağı güvencesiyle yolculuğunuzu emniyete alıyoruz.'
         ]
       }
     ]
@@ -313,7 +313,7 @@ const REGIONS_SEO_2 = {
         h2: 'Şekerpınar Oto Kurtarma: Tuzla–Pendik ve Gebze Servislerine Hızlı Teslimat',
         paragraphs: [
           'Şekerpınar’dan hem Gebze Oto Sanayi Sitesi’ne hem de İstanbul Tuzla, Pendik, Kurtköy ve Sabiha Gökçen çevresindeki yetkili servislere en kısa rotadan sigortalı teslimat yapıyoruz. Sabit fiyat politikamızla telefonda onaylanan rakam dışında hiçbir ek masraf çıkmaz.',
-          'Fotoğraflı teslim tutanağı, mobil POS ödeme kolaylığı ve kurumsal KDV’li e-fatura standartlarımızla Şekerpınar’da 7/24 yanınızdayız.'
+          'Fotoğraflı teslim tutanağı, nakit ve havale ödeme kolaylığı ve kurumsal fotoğraflı teslim tutanağı standartlarımızla Şekerpınar’da 7/24 yanınızdayız.'
         ]
       }
     ]
@@ -336,10 +336,86 @@ const REGIONS_SEO_2 = {
         ]
       },
       {
-        h2: 'Dilovası Oto Kurtarma: Gebze ve İzmit Servislerine Faturalı ve Özenli Sevk',
+        h2: 'Dilovası Oto Kurtarma: Gebze ve İzmit Servislerine Özenli Sevk',
         paragraphs: [
-          'Dilovası’nda yolda kalan binek ve ticari araçları tercihinize göre Gebze Oto Sanayi Sitesi’ne, İzmit yetkili servislerine veya İstanbul Anadolu Yakası’na tek seferde, fotoğraflı tutanaklu olarak naklediyoruz. Bölge uzaklık bahanesiyle fahiş fiyat uygulanmaz; telefonda şeffaf sabit ücret verilir.',
-          'OSB firmaları için İSG uyumlu çalışma, mobil POS ödeme ve resmi KDV’li e-fatura hizmetimizle Dilovası’nda 7/24 görev başındayız.'
+          'Dilovası’nda yolda kalan binek ve ticari araçları tercihinize göre Gebze Oto Sanayi Sitesi’ne, İzmit yetkili servislerine veya İstanbul Anadolu Yakası’na tek seferde, fotoğraflı tutanakla naklediyoruz. Bölge uzaklık bahanesiyle fahiş fiyat uygulanmaz; telefonda şeffaf sabit ücret verilir.',
+          'OSB firmaları ve bireysel sürücüler için 7/24 kesintisiz nöbetçi ekibimizle Dilovası’nda görev başındayız.'
+        ]
+      }
+    ]
+  },
+
+  'hereke': {
+    extraSections: [
+      {
+        h2: 'Hereke Çekici: Yukarı Hereke, Aşağı Hereke ve TEM Gişeleri Kapsaması',
+        paragraphs: [
+          'Kocaeli’nin batı kapısında Dilovası ile Körfez arasında köprü görevi gören Hereke; D-100 Karayolu, TEM Otoyolu Hereke gişeleri, Yukarı Hereke yerleşim alanı ve sahil bağlantı yollarıyla gün boyu yoğun şehirlerarası trafiğe ev sahipliği yapar. Uzun yol yapan araçlarda hararet, yakıt sistemi ve şanzıman arızaları en sık bu geçiş hattında yaşanır.',
+          'Hereke çekici ekiplerimiz bölgeye en yakın nöbetçi noktadan çıkış yaparak ortalama 15–20 dakikada aracınızın başına ulaşır; trafiği aksatmadan güvenli yükleme gerçekleştirir.'
+        ]
+      },
+      {
+        h2: 'Hereke D-100 ve Sahil Yolunda 7/24 Oto Kurtarma, Akü ve Lastik Desteği',
+        paragraphs: [
+          'Hereke sahil hattında veya Yukarı Hereke mahalle sokaklarında marş basmayan araçlara yerinde 12V/24V akü takviyesi, lastiği patlayan araçlara stepne değişimi ve yürüyemeyen kazalı/arızalı araçlara özenli platform nakli sağlıyoruz.',
+          'Hereke’den Gebze, Körfez, Derince, İzmit ve İstanbul servislerine telefonda netleştirilen sabit fiyatla günün her saati ulaşabilirsiniz.'
+        ]
+      }
+    ]
+  },
+
+  'tuzla-sifa': {
+    extraSections: [
+      {
+        h2: 'Tuzla Şifa Mahallesi Çekici: İnönü Caddesi ve E-5 Bağlantısında 10–15 Dk Müdahale',
+        paragraphs: [
+          'Tuzla Şifa Mahallesi, Çayırova ve Gebze sınırına bitişik konumu sayesinde İstanbul Anadolu Yakası’nın en hızlı müdahale alabildiğimiz bölgelerinden biridir. İnönü Caddesi, Hürriyet Caddesi, Mimarsinan sınırı ve E-5 yan yollarında yaşanan arızalarda dakikalar içinde yanınıza ulaşıyoruz.',
+          'Dar mahalle aralarında sıkışan veya şanzımanı kilitlenen otomatik araçlar için aparatlı çekici donanımımız, binek ve hafif ticari araçlar için ise düşük eğimli platformlarımız 7/24 hazırdır.'
+        ]
+      },
+      {
+        h2: 'Şifa Mahallesi’nden Tuzla, Pendik, Kartal ve Gebze Servislerine Güvenli Nakil',
+        paragraphs: [
+          'Şifa Mahallesi’nde arızalanan aracınızı tercihinize göre Tuzla Oto Sanayi, İçmeler, Pendik, Kartal yetkili servislerine veya Gebze Oto Sanayi’deki ustanıza tek seferde aktarmasız teslim ediyoruz.',
+          'Yerinde çözülebilen akü bitmesi ve lastik patlaması durumlarında mobil yol yardım ekibimizle hızlı ve ekonomik destek sunuyoruz.'
+        ]
+      }
+    ]
+  },
+
+  'bayramoglu': {
+    extraSections: [
+      {
+        h2: 'Bayramoğlu Çekici: Bayramoğlu Adası, Balyanoz Koyu ve Sahil Siteleri',
+        paragraphs: [
+          'Bayramoğlu Adası, Fatih Sultan Mehmet Caddesi, Balyanoz Koyu ve sahil boyunca uzanan site ve villalarda yaşayan veya hafta sonu bölgeye gelen sürücüler için 7/24 özel nöbetçi çekici hizmeti veriyoruz. Dar site yollarında ve sahil otoparklarında çevredeki araçlara zarar vermeden özenli manevra ile yükleme yapıyoruz.',
+          'Darıca–Bayramoğlu hattında hazır bekleyen ekibimiz çağrınızdan sonra ortalama 10–15 dakikada konumunuza ulaşır.'
+        ]
+      },
+      {
+        h2: 'Bayramoğlu’nda Akü Takviye, Lastik Yardım ve İstanbul Yetkili Servis Nakli',
+        paragraphs: [
+          'Özellikle uzun süre park halinde kalan yazlık ve site araçlarında sık görülen akü boşalmalarında yerinde 12V booster takviyesi sağlıyoruz. Mekanik veya elektronik arızalarda ise aracınızı Gebze, Darıca veya İstanbul Anadolu Yakası (Tuzla, Pendik, Kartal, Ataşehir) yetkili servislerine özenle ulaştırıyoruz.',
+          'Bayramoğlu çekici hizmetimizde fiyat yola çıkmadan önce telefonda netleştirilir; gece ve hafta sonu dahil kesintisiz hizmet sunulur.'
+        ]
+      }
+    ]
+  },
+
+  'kuzey-marmara': {
+    extraSections: [
+      {
+        h2: 'Kuzey Marmara Otoyolu Çekici: Pelitli, Kurnaköy, Dilovası ve Sevindikli Hattı',
+        paragraphs: [
+          'Kuzey Marmara Otoyolu (O-7), yüksek hız limitleri ve uzun kesintisiz etaplarıyla araç arızalarında zaman kaybetmeden doğru müdahale gerektiren bir koridordur. Gebze, Pelitli, Balçık, Dilovası, Sevindikli, Mecidiye ve Kurnaköy gişelerine hâkim nöbetçi çekici ekibimiz otoyolun her iki yönünde de 7/24 aktiftir.',
+          'Konumunuzu WhatsApp üzerinden paylaştığınızda hangi gişeden ve hangi şeritten en hızlı yaklaşacağımızı anında hesaplayıp ortalama 15–20 dakikada aracınızın başına ulaşıyoruz.'
+        ]
+      },
+      {
+        h2: 'O-7 Otoyolunda Gece Güvenliği, Dinlenme Tesisi Desteği ve Şehirlerarası Transfer',
+        paragraphs: [
+          'Kuzey Marmara Otoyolu dinlenme tesislerinde akü bitmesi, otoyol emniyet cebinde lastik yarılması veya uzun yol esnasında mekanik arıza yaşayan binek, SUV ve hafif ticari araçlar için tam donanımlı ekibimizle hizmet veriyoruz.',
+          'Aracınızı talebinize göre Gebze, Kurtköy, Tuzla, Pendik, İzmit servislerine veya şehirlerarası hedef ilinize aktarmasız ve özenli şekilde ulaştırıyoruz.'
         ]
       }
     ]

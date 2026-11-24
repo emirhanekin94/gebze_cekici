@@ -25,9 +25,9 @@ const REGIONS_PART_2 = [
     seoTitle: 'Bilişim Vadisi ve Muallimköy’de Elektrikli & Yeni Nesil Araç Kurtarma',
     paragraphs: [
       'Türkiye’nin teknoloji ve mobilite üssü Bilişim Vadisi ile onu çevreleyen Muallimköy; yüzlerce yazılım firması, Ar-Ge laboratuvarı, elektrikli araç test sahaları ve Osmangazi Köprüsü kuzey yaklaşım kavşağıyla benzersiz bir araç profiline sahiptir. Bu bölgede yolda kalan araçların önemli bir kısmı tam elektrikli (EV), plug-in hibrit ve yerden alçak sportif sedan modellerden oluşur.',
-      'Yüksek voltajlı batarya paketinin aracın tüm alt şasisi boyunca uzandığı elektrikli otomobillerde standart dik rampalı çekici kullanımı ciddi batarya muhafaza riski doğurur. Bilişim Vadisi ve Muallimköy çağrılarında devreye aldığımız <a href="/hizmetler/oto-cekici.html">VIP düşük açılı kayar kasa</a> araçlarımız, ek uzun kompozit rampalarla yükleme eğimini 6 derecenin altına indirir ve yalnızca dört lastik üstünden yumuşak tekstil spanzetle sabitleme yapar.',
+      'Yüksek voltajlı batarya paketinin aracın tüm alt şasisi boyunca uzandığı elektrikli otomobillerde standart dik rampalı çekici kullanımı ciddi batarya muhafaza riski doğurur. Bilişim Vadisi ve Muallimköy çağrılarında devreye aldığımız <a href="/hizmetler/oto-kurtarma.html">VIP düşük açılı kayar kasa</a> araçlarımız, ek uzun kompozit rampalarla yükleme eğimini 6 derecenin altına indirir ve yalnızca dört lastik üstünden yumuşak tekstil spanzetle sabitleme yapar.',
       'Muallimköy sahil yolu, köy içi eğimli sokaklar ve Kuzey Marmara Otoyolu bağlantı gişelerinde yaşanan şarj bitmesi, 12V destek aküsü çökmesi veya lastik yarılmalarında 12–15 dakikada yanınızdayız. Şarjı tükenen elektrikli araçları en yakın yüksek hızlı DC şarj istasyonuna, mekanik veya yazılım kilitli araçları ise İstanbul veya İzmit’teki yetkili marka servisine hasarsız ulaştırıyoruz.',
-      'Bilişim Vadisi bünyesindeki teknoloji şirketleri için kurumsal e-fatura, yüksek limitli fotoğraflı teslim tutanağı ve mobil POS kolaylığıyla 7/24 profesyonel destek sağlıyoruz.'
+      'Bilişim Vadisi bünyesindeki teknoloji şirketleri için kurumsal teslim tutanağı, yüksek limitli fotoğraflı teslim tutanağı ve nakit ve havale kolaylığıyla 7/24 profesyonel destek sağlıyoruz.'
     ],
     localPointsTitle: 'Muallimköy & Bilişim Vadisi Hızlı İntikal Noktaları',
     localPoints: [
@@ -43,7 +43,7 @@ const REGIONS_PART_2 = [
       { q: 'Bilişim Vadisi kampüs içine güvenlikten geçip çekici girebiliyor mu?', a: 'Evet. Kampüs çalışanının güvenliğe bilgi vermesiyle kurumsal belgeli aracımızla doğrudan bloğunuzun otoparkına kadar geliyoruz.' },
       { q: 'Elektrikli aracın çekme modu (Tow Mode) açılmıyor, nasıl taşıyorsunuz?', a: 'Tekerlekler serbest kalmıyorsa dört lastik altına sürtünmesiz Go-Jak doli arabası veya ahtapot vinç kullanarak rejeneratif motora zarar vermeden taşıma yapıyoruz.' },
       { q: 'Muallimköy’den İstanbul Kartal veya Ataşehir yetkili servisine ne kadar sürede ulaşırsınız?', a: 'Muallimköy’e 12–15 dakikada gelip yüklemeyi tamamladıktan sonra trafiğe bağlı olarak 35–45 dakikada İstanbul Anadolu Yakası yetkili servislerine teslimat yapıyoruz.' },
-      { q: 'Teknoloji firmamızın filo araçları için e-fatura kesiyor musunuz?', a: 'Evet. Şirket vergi bilgilerinizle aynı gün resmi KDV’li e-fatura düzenliyor ve mobil POS ödeme seçeneği sunuyoruz.' }
+      { q: 'Teknoloji firmamızın filo araçları için teslim tutanağı kesiyor musunuz?', a: 'Evet. Şirket vergi bilgilerinizle aynı gün resmi fotoğraflı teslim tutanağı düzenliyor ve nakit / havale ödeme seçeneği sunuyoruz.' }
     ]
   },
   {
@@ -104,8 +104,8 @@ const REGIONS_PART_2 = [
     paragraphs: [
       'GOSB’un hemen kuzeyinde konumlanan Balçık Mahallesi ve Tembelova geçiş hattı; devasa e-ticaret dağıtım depoları, gümrüklü antrepolar, üretim tesisleri ve ağır lojistik aktarma merkezlerinin yoğunlaştığı bölgedir. 3200’lü sanayi sokakları ve Organize Caddesi boyunca günün 24 saati kesintisiz dağıtım araçları, personel minibüsleri ve şirket otomobilleri seyreder.',
       'Ağır kamyon trafiğinin asfaltı yıprattığı ve yer yer çukur ya da mıcır oluşabilen Balçık yan yollarında lastik yarılması, jant kırılması, rot-salıncak hasarı ve ticari araç debriyaj arızaları sıklıkla yaşanır. GOSB hattına bitişik konuşlanan ekiplerimiz Balçık çağrılarına ortalama 12–15 dakika içinde ulaşarak sevkiyat zincirinizin aksamasını önler.',
-      'Binek otomobillerde <a href="/hizmetler/oto-cekici.html">kayar kasa oto çekici</a>, kargo ve lojistik dağıtım araçlarında uzun şasili <a href="/hizmetler/ticari-arac-cekici.html">ticari araç çekici</a>, depo içi arızalanan elektrikli veya dizel ekipmanlarda ise <a href="/hizmetler/tenteli-arac-nakliye.html">forklift taşıma</a> araçlarımız devreye alınır. Ayrıca gece depo otoparklarında biten aküler için 12V/24V profesyonel booster desteği sunuyoruz.',
-      'Balçık’taki tüm kurumsal firmalar için KDV’li e-fatura, taşıma fotoğraflı teslim tutanağı ve yükleme öncesi sabit ücret teyidiyle şeffaf çalışıyoruz.'
+      'Binek otomobillerde <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekici</a>, kargo ve lojistik dağıtım araçlarında uzun şasili <a href="/hizmetler/ticari-arac-cekici.html">ticari araç çekici</a>, depo içi arızalanan elektrikli veya dizel ekipmanlarda ise <a href="/hizmetler/tenteli-arac-nakliye.html">forklift taşıma</a> araçlarımız devreye alınır. Ayrıca gece depo otoparklarında biten aküler için 12V/24V profesyonel booster desteği sunuyoruz.',
+      'Balçık’taki tüm kurumsal firmalar için fotoğraflı teslim tutanağı, taşıma fotoğraflı teslim tutanağı ve yükleme öncesi sabit ücret teyidiyle şeffaf çalışıyoruz.'
     ],
     localPointsTitle: 'Balçık & Tembelova Başlıca Müdahale Alanları',
     localPoints: [
@@ -142,7 +142,7 @@ const REGIONS_PART_2 = [
     seoTitle: 'Eskihisar Feribot Yolu ve Sahil Hattında Trafik Açıcı Acil Çekici',
     paragraphs: [
       'İstanbul ile Yalova, Bursa ve Ege Bölgesi arasındaki en yoğun deniz geçiş kapısı olan Eskihisar–Topçular Feribot İskelesi, özellikle hafta sonları, bayram dönüşleri ve yaz aylarında binlerce aracın art arda sıralandığı kritik bir darboğazdır. İskeleden yukarı doğru tırmanan dik Eskihisar Feribot Yolu rampası; yüklü araçlarda baskı-balata yanması, hararet yükselmesi ve turbo hortumu patlaması gibi arızaların en sık yaşandığı noktadır.',
-      'Feribot gişeleri önünde, gemi çıkış rampasında ya da tek şeritli sahil yolunda kalan bir araç saniyeler içinde feribot kuyruğunu kilitler. Tatlıkuyu ve Barış Mahallesi üzerinden Eskihisar’a dakikalar içinde inebilen nöbetçi <a href="/hizmetler/oto-cekici.html">kayar kasa oto çekici</a> ekiplerimiz ortalama 10–14 dakikada yanınıza yetişir ve aracınızı yokuş emniyet takozlarıyla güvenle platforma alır.',
+      'Feribot gişeleri önünde, gemi çıkış rampasında ya da tek şeritli sahil yolunda kalan bir araç saniyeler içinde feribot kuyruğunu kilitler. Tatlıkuyu ve Barış Mahallesi üzerinden Eskihisar’a dakikalar içinde inebilen nöbetçi <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekici</a> ekiplerimiz ortalama 10–14 dakikada yanınıza yetişir ve aracınızı yokuş emniyet takozlarıyla güvenle platforma alır.',
       'Feribottan indikten sonra uzun yola devam edemeyen şehir dışından gelmiş misafir sürücüler için yalnızca Gebze Sanayi’ye çekimle sınırlı kalmıyoruz; talebinize göre aracınızı İstanbul’daki veya Bursa/İzmir’deki kendi yetkili servisinize <a href="/hizmetler/sehirlerarasi-arac-tasima.html">özenli şehirlerarası araç taşıma</a> hizmetimizle aynı gün ulaştırıyoruz.',
       'Eskihisar sahil otoparklarında unutulan farlar yüzünden boşalan akülerde yerinde booster takviyesi ve sahil yolunda motosiklet arızalarında kıskaçlı <a href="/hizmetler/motosiklet-cekici.html">motosiklet çekici</a> desteğimiz de 7/24 aktiftir.'
     ],
@@ -182,7 +182,7 @@ const REGIONS_PART_2 = [
     paragraphs: [
       'İstanbul ile Anadolu’yu birbirine bağlayan O-4 TEM Anadolu Otoyolu’nun Gebze geçişi, Türkiye’nin en yüksek araç hacmine sahip otoyol kesitlerinden biridir. Şekerpınar Gişeleri, Gebze Gişeleri, GOSB–Kirazpınar geçişi ve Muallimköy Kavşağı boyunca saatte 120 km hızla akan trafikte emniyet şeridinde kalmak sürücü ve yolcular için ciddi bir güvenlik stresidir.',
       'TEM otoyolunda arıza veya kaza anında dakika sayarken yanlış istikametten giren bir çekici 25 dakika kaybedebilir. Hem İstanbul yönüne hem Ankara–İzmit yönüne en hızlı kavşak girişlerini bilen nöbetçi ekibimiz, WhatsApp konumunuzu aldığında doğru yön bağlantısından otoyola katılıp ortalama 10–15 dakika içinde yanınıza ulaşır.',
-      'Olay yerine vardığımızda ilk olarak yüksek parlaklıklı LED tepe ikaz barlarımızı ve ışıklı yol konilerimizi açarak aracınızın arkasında koruyucu bir güvenlik koridoru kurarız. Motor arızası, hararet veya şanzıman kilitlenmesinde düşük eğimli <a href="/hizmetler/oto-cekici.html">kayar kasa oto çekicimizle</a> 5 dakika içinde yüklemeyi bitirip sizi ve ailenizi tehlikeli emniyet şeridinden uzaklaştırırız.',
+      'Olay yerine vardığımızda ilk olarak yüksek parlaklıklı LED tepe ikaz barlarımızı ve ışıklı yol konilerimizi açarak aracınızın arkasında koruyucu bir güvenlik koridoru kurarız. Motor arızası, hararet veya şanzıman kilitlenmesinde düşük eğimli <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekicimizle</a> 5 dakika içinde yüklemeyi bitirip sizi ve ailenizi tehlikeli emniyet şeridinden uzaklaştırırız.',
       'TEM otoyolunda bariyere temas eden veya şarampole inen araçlarda <a href="/hizmetler/oto-kurtarma.html">vinçli oto kurtarma</a>, yarılan lastiklerde <a href="/hizmetler/lastik-yol-yardim.html">mobil lastik desteği</a> ve uzun yolculuğu yarıda kalanlar için <a href="/hizmetler/sehirlerarasi-arac-tasima.html">şehirlerarası özenli nakil</a> çözümlerimiz tek hatta hazırdır.'
     ],
     localPointsTitle: 'TEM Gebze Hattında Hızlı İntikal Noktalarımız',
@@ -220,7 +220,7 @@ const REGIONS_PART_2 = [
     seoTitle: 'D-100 Gebze Karayolunda Dakikalar İçinde Güvenli Araç Tahliyesi',
     paragraphs: [
       'Gebze’yi boydan boya kesen D-100 (halk arasındaki adıyla E-5) Karayolu; İstanbul Tuzla sınırından başlayarak Çayırova, Beylikbağı, Anibal Kavşağı, Gebze Center önü, Tatlıkuyu ve Dilovası girişine kadar günün hiçbir saatinde durmayan bir ana arterdir. Özellikle Anibal Kavşağı tünel geçişinde veya dar yan yollarda stop eden bir araç, birkaç dakika içinde kilometrelerce trafik sıkışıklığına sebep olur.',
-      'Merkez intikal noktamız D-100 Karayolu’na doğrudan bağlı olduğu için <a href="/hizmetler/oto-cekici.html">D-100 Gebze oto çekici</a> çağrılarına ortalama 8–12 dakika gibi son derece kısa bir sürede ulaşıyoruz. Yan yol ve ana yol ayrımını, U dönüş köprülerini ve kestirme paralel bağlantıları bilen operatörlerimiz trafiğe takılmadan aracınızın hemen arkasına yanaşır.',
+      'Merkez intikal noktamız D-100 Karayolu’na doğrudan bağlı olduğu için <a href="/hizmetler/oto-kurtarma.html">D-100 Gebze oto çekici</a> çağrılarına ortalama 8–12 dakika gibi son derece kısa bir sürede ulaşıyoruz. Yan yol ve ana yol ayrımını, U dönüş köprülerini ve kestirme paralel bağlantıları bilen operatörlerimiz trafiğe takılmadan aracınızın hemen arkasına yanaşır.',
       'D-100 üzerindeki zincirleme hasarlı kazalarda aksı kırık araçlar için tekerlek kızaklı <a href="/hizmetler/oto-kurtarma.html">oto kurtarma</a>, ani lastik patlamalarında <a href="/hizmetler/lastik-yol-yardim.html">mobil lastik desteği</a> ve ticari dağıtım kamyonetlerinde <a href="/hizmetler/ticari-arac-cekici.html">uzun şasi ticari çekici</a> araçlarımız aynı anda sahadadır.',
       'Aracınızı tehlikeli karayolu akışından saniyeler içinde alıp D-100 üzerindeki marka yetkili servislerine, Gebze Oto Sanayi’ye veya İstanbul/İzmit yönündeki dilediğiniz adrese özenle ulaştırıyoruz.'
     ],
@@ -260,7 +260,7 @@ const REGIONS_PART_2 = [
     paragraphs: [
       'Gebze–Dilovası üzerinden İzmit Körfezi’ni aşan Osmangazi Köprüsü (O-5) ile İstanbul’un kuzeyini Anadolu’ya bağlayan Kuzey Marmara Otoyolu (O-7), yüksek süratli şehirlerarası yolculukların ana omurgasıdır. Uzun yol sürüşlerinde yaşanan ani hararet, enjektör kesilmesi, yüksek hızda lastik yarılması, elektrikli araç menzil tükenmesi veya yakıt sistemi arızaları sürücüleri gişeler ve viyadük yaklaşımlarında zor durumda bırakır.',
       'Köprü üzerindeki zorunlu işletme müdahalesiyle kuzey çıkış (Muallimköy/Dilovası) veya güney çıkış (Hersek) güvenli alanlarına alınan ya da O-5 / O-7 bağlantı kollarında arızalanan araçları 12–18 dakikada teslim alıyoruz. Şehir dışına giderken ya da Bursa–İzmir yönünden İstanbul’a dönerken yolda kalan aileler için en büyük konfor, aracın tek seferde hedef şehre ya da Gebze’deki yetkili servise ulaştırılmasıdır.',
-      'Hidrolik <a href="/hizmetler/oto-cekici.html">kayar kasa oto çekicilerimiz</a> düşük şasili uzun yol sedanları, geniş aile SUV’ları, elektrikli araçlar ve <a href="/hizmetler/atv-karavan-ozel-tasima.html">karavan/motosikletler</a> için tam donanımlıdır. Arızanız Gebze’de onarılabilecekse en yakın yetkili servise, tatil veya ev yolunuza devam etmek istiyorsanız <a href="/hizmetler/sehirlerarasi-arac-tasima.html">81 ile özenli tekli taşıma</a> hizmetimizle doğrudan adresinize nakil sağlıyoruz.',
+      'Hidrolik <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekicilerimiz</a> düşük şasili uzun yol sedanları, geniş aile SUV’ları, elektrikli araçlar ve <a href="/hizmetler/atv-karavan-ozel-tasima.html">karavan/motosikletler</a> için tam donanımlıdır. Arızanız Gebze’de onarılabilecekse en yakın yetkili servise, tatil veya ev yolunuza devam etmek istiyorsanız <a href="/hizmetler/sehirlerarasi-arac-tasima.html">81 ile özenli tekli taşıma</a> hizmetimizle doğrudan adresinize nakil sağlıyoruz.',
       'Köprü ve otoyol geçiş ücretlerinin şeffafça dahil edildiği sabit teklifimizle, uzun yol aksiliğini güvenli ve sakin bir teslimat sürecine çeviriyoruz.'
     ],
     localPointsTitle: 'Osmangazi & Kuzey Marmara Başlıca Müdahale Alanları',
@@ -277,7 +277,7 @@ const REGIONS_PART_2 = [
       { q: 'Kuzey Marmara Otoyolu Kurnaköy veya Pelitli arasında kaldım, geliyor musunuz?', a: 'Evet. Kuzey Marmara Otoyolu’nun Gebze, Pelitli, Balçık ve Kurnaköy kesimlerinin tamamında 7/24 hızlı otoyol çekici hizmeti veriyoruz.' },
       { q: 'Osmangazi çıkışı sonrası aracımı Bursa veya Yalova yönüne de taşıyor musunuz?', a: 'Evet. İster İstanbul ve Gebze yönüne, ister Yalova, Bursa, Balıkesir ve İzmir yönüne özenli şehirlerarası tekli araç taşıma yapıyoruz.' },
       { q: 'Uzun yol aracımın üstünde portbagaj veya bisiklet taşıyıcı var, sorun olur mu?', a: 'Hayır. Açık platform hidrolik kayar kasalarımızda yükseklik kısıtı olmadığı için tavan portbagajlı ve bisiklet taşıyıcılı araçlar rahatça taşınır.' },
-      { q: 'Otoyolda köprü geçişi ve taşıma ücreti kredi kartıyla ödenebilir mi?', a: 'Evet. Tüm otoyol araçlarımızda mobil POS mevcuttur; faturanız KDV’li olarak düzenlenir.' }
+      { q: 'Otoyolda köprü geçişi ve taşıma ücreti nakit veya havaleyla ödenebilir mi?', a: 'Evet. Tüm otoyol araçlarımızda nakit ve havale mevcuttur; teslim tutanağınız KDV’li olarak düzenlenir.' }
     ]
   },
   {
@@ -299,7 +299,7 @@ const REGIONS_PART_2 = [
     paragraphs: [
       'Gebze ile İstanbul Tuzla arasında yoğun konut projeleri, teknoloji kampüsleri ve ticari caddeleriyle hızla büyüyen Çayırova; Özgürlük, Yenimahalle, Akse, Atatürk, Emek ve İnönü mahalleleriyle günün her saatinde yüksek araç yoğunluğuna sahiptir. Fatih Caddesi, Adnan Kahveci Caddesi, Rahmi Dibek Caddesi ve Tuzla bağlantı köprülerinde arıza yaşandığında yerel ve hızlı bir ekip hayati önem taşır.',
       'Gebze–Çayırova hattındaki aktif nöbetçi araçlarımız sayesinde Çayırova’nın en uç mahallelerine dahi ortalama 10–15 dakika içinde ulaşıyoruz. Akse ve Yenimahalle’deki yeni nesil çok katlı site otoparklarında yaşanan çalışmama sorunlarında 1.88m yüksekliğindeki <a href="/hizmetler/aparatli-cekici.html">kapalı otopark çekicimiz</a> ve <a href="/hizmetler/aku-takviye.html">yerinde 12V booster akü takviye</a> ekibimiz doğrudan site katına iner.',
-      'Çayırova Belediyesi çevresi, Çayırova Marmaray Durağı ve D-100 bağlantı kollarında yaşanan şanzıman, hararet, debriyaj veya kaza durumlarında sıfır eğimli <a href="/hizmetler/oto-cekici.html">kayar kasa oto çekici</a> ile aracınızı dört lastiğinden jant koruyucu spanzetlerle sabitleyerek güvenle taşıyoruz.',
+      'Çayırova Belediyesi çevresi, Çayırova Marmaray Durağı ve D-100 bağlantı kollarında yaşanan şanzıman, hararet, debriyaj veya kaza durumlarında sıfır eğimli <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekici</a> ile aracınızı dört lastiğinden jant koruyucu spanzetlerle sabitleyerek güvenle taşıyoruz.',
       'Çayırova’dan hem Gebze Oto Sanayi ve yetkili servislere hem de komşu Tuzla, İçmeler, Pendik ve Kartal servislerine sabit, şeffaf ve özenli nakil sunuyoruz.'
     ],
     localPointsTitle: 'Çayırova Hizmet Verdiğimiz Ana Mahalle & Caddeler',
@@ -316,7 +316,7 @@ const REGIONS_PART_2 = [
       { q: 'Çayırova’daki sitemizin yeraltı otoparkından araç çıkarabiliyor musunuz?', a: 'Evet. Alçak tavanlı özel otopark kurtarıcımız ve Go-Jak tekerlek dolilerimizle Çayırova’daki tüm rezidans ve site kapalı garajlarından hasarsız araç çıkarıyoruz.' },
       { q: 'Çayırova’dan İstanbul Pendik veya Kartal sanayiye araç çekiyor musunuz?', a: 'Evet. Çayırova İstanbul sınırında yer aldığı için Tuzla, Pendik, Kartal ve Gebze Oto Sanayi’nin tamamına ekonomik sabit fiyatla çekim yapıyoruz.' },
       { q: 'Çayırova’da gece saatlerinde akü takviye veya lastik değişimi yapıyor musunuz?', a: 'Evet. 7/24 mobil yol yardım ekibimiz gece yarısı dahi akü takviye ve stepne değişimi için kapınıza gelir.' },
-      { q: 'Kasko poliçem için fatura ve taşıma tutanağı veriyor musunuz?', a: 'Evet. KDV’li resmi e-fatura ve fotoğraflı taşıma tutanağı her işlemde standart olarak sağlanır.' }
+      { q: 'Kasko poliçem için teslim tutanağı ve taşıma tutanağı veriyor musunuz?', a: 'Evet. fotoğraflı teslim tutanağı ve fotoğraflı taşıma tutanağı her işlemde standart olarak sağlanır.' }
     ]
   },
   {
@@ -337,9 +337,9 @@ const REGIONS_PART_2 = [
     seoTitle: 'Şekerpınar Bankacılık Üssü ve Lojistik Bölgesinde Hızlı Çekici',
     paragraphs: [
       'Kocaeli’nin İstanbul’a açılan en dinamik kurumsal merkezlerinden Şekerpınar; Türkiye’nin en büyük bankalarının operasyon kampüslerine (Akbank, özen BBVA, İş Bankası, Yapı Kredi, Kuveyt Türk), uluslararası lojistik firmalarının dev depolarına ve TEM Şekerpınar Gişeleri’ne ev sahipliği yapar. Muhsin Yazıcıoğlu Caddesi, Fevzi Çakmak Caddesi ve Anadolu Caddesi boyunca sabah-akşam yoğun kurumsal binek ve ticari araç akışı görülür.',
-      'Kampüs otoparklarında mesai bitiminde çalışmayan kurumsal kiralık araçlar, soğuk havalarda akü sorunu yaşayan binek otomobiller ve lojistik depolar arasında seyreden panelvan/kamyonetler için Şekerpınar’a ortalama 10–15 dakikada ulaşıyoruz. Binek araçlarda düşük eğimli <a href="/hizmetler/oto-cekici.html">kayar kasa oto çekici</a>, şirket kapalı otoparklarında ise alçak kabinli <a href="/hizmetler/aparatli-cekici.html">otopark kurtarıcısı</a> görev yapar.',
+      'Kampüs otoparklarında mesai bitiminde çalışmayan kurumsal kiralık araçlar, soğuk havalarda akü sorunu yaşayan binek otomobiller ve lojistik depolar arasında seyreden panelvan/kamyonetler için Şekerpınar’a ortalama 10–15 dakikada ulaşıyoruz. Binek araçlarda düşük eğimli <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekici</a>, şirket kapalı otoparklarında ise alçak kabinli <a href="/hizmetler/aparatli-cekici.html">otopark kurtarıcısı</a> görev yapar.',
       'Şekerpınar’daki filo ve lojistik şirketleri için uzun şasili <a href="/hizmetler/ticari-arac-cekici.html">ticari araç çekici</a>, depo içi <a href="/hizmetler/tenteli-arac-nakliye.html">forklift nakli</a> ve 12V/24V korumalı <a href="/hizmetler/aku-takviye.html">yerinde akü takviye</a> hizmetleri tek bir 7/24 operasyon merkezinden yönetilir.',
-      'Kiralık filo araçları ve şirket otomobilleri için hızlı KDV’li e-fatura, mobil POS ve yükleme öncesi sabit fiyat teyidiyle iş gününüzün bölünmesini engelliyoruz.'
+      'Kiralık filo araçları ve şirket otomobilleri için hızlı fotoğraflı teslim tutanağı, yükleme öncesi sabit fiyat teyidiyle iş gününüzün bölünmesini engelliyoruz.'
     ],
     localPointsTitle: 'Şekerpınar Hızlı İntikal Noktalarımız',
     localPoints: [
@@ -352,7 +352,7 @@ const REGIONS_PART_2 = [
     fieldLogDesc: 'Şekerpınar Muhsin Yazıcıoğlu Caddesi’ndeki banka kampüsü otoparkında aküsü biten otomatik filo aracı, 11 dakikada gelen mobil ekibimizin korumalı booster cihazıyla çalıştırılıp alternatör ölçümüyle teslim edildi.',
     faqs: [
       { q: 'Şekerpınar’daki banka operasyon merkezi otoparkına çekici veya akü takviye gelebiliyor mu?', a: 'Evet. Güvenlik kaydımızı vererek kampüs açık veya kapalı otoparklarına girip yerinde akü takviye ya da çekici yüklemesi yapıyoruz.' },
-      { q: 'Şirket kiralık aracım Şekerpınar’da arızalandı, faturalı çalışıyor musunuz?', a: 'Evet. Filo kiralama şirketlerine ve kurumsal muhasebeye ibraz edebileceğiniz resmi KDV’li e-fatura kesiyoruz.' },
+      { q: 'Şirket kiralık aracım Şekerpınar’da arızalandı, özenli çalışıyor musunuz?', a: 'Evet. Filo kiralama şirketlerine ve kurumsal muhasebeye ibraz edebileceğiniz resmi fotoğraflı teslim tutanağı kesiyoruz.' },
       { q: 'TEM Şekerpınar Gişeleri önünde aracım hararet yaptı, kaç dakikada ulaşırsınız?', a: 'Şekerpınar Gişeleri’ne 10–15 dakika içinde ulaşarak ışıklı ikaz altında aracınızı hızla güvenli platforma alıyoruz.' },
       { q: 'Şekerpınar’dan Sabiha Gökçen Havalimanı çevresi veya Tuzla servisine çekiyor musunuz?', a: 'Evet. Şekerpınar Sabiha Gökçen ve Tuzla’ya komşu olduğundan çok hızlı ve ekonomik nakil sağlıyoruz.' },
       { q: 'Lojistik depomuzdaki ticari panelvan ve kamyonetler için 7/24 desteğiniz var mı?', a: 'Evet. Gece sevkiyatlarında dahi uzun şasili ticari çekicimiz ve 24V takviye ekibimiz kesintisiz aktiftir.' }
@@ -376,8 +376,8 @@ const REGIONS_PART_2 = [
     seoTitle: 'Darıca ve Bayramoğlu Yarımadasında 7/24 Profesyonel Oto Kurtarma',
     paragraphs: [
       'Kocaeli’nin deniz kıyısındaki en kalabalık yaşam merkezlerinden Darıca; Bayramoğlu Yarımadası, Fevzi Çakmak, Kazım Karabekir, Osmangazi, Nenehatun, Abdi İpekçi ve Sırasöğütler mahalleleriyle hem yoğun şehir içi trafiğine hem de yaz-kış sahil ziyaretçi akışına sahiptir. İstasyon Caddesi, Aşıroğlu Caddesi, Dr. Zeki Acar bağlantısı ve Bayramoğlu Fatih Sultan Mehmet Caddesi üzerindeki dar kesitlerde araç arızalandığında hızlı müdahale büyük rahatlık sağlar.',
-      'Gebze–Darıca aksında sürekli aktif bulunan nöbetçi araçlarımızla Darıca’nın tüm mahallelerine ve Bayramoğlu sahil ucuna ortalama 10–15 dakika içinde ulaşıyoruz. Darıca Eğitim ve Araştırma Hastanesi çevresi, Marmaray Osmangazi ve Darıca istasyon otoparkları ile villa/site garajlarında yaşanan arızalarda hem <a href="/hizmetler/oto-cekici.html">hidrolik kayar kasa</a> hem de <a href="/hizmetler/aparatli-cekici.html">alçak kabinli kapalı garaj çekicisi</a> anında sevk edilir.',
-      'Bayramoğlu Yarımadası’nda lüks binek otomobiller ve elektrikli araçlar için düşük eğimli <a href="/hizmetler/oto-cekici.html">VIP taşıma rampası</a>, sahil yolunda patlayan lastikler için <a href="/hizmetler/lastik-yol-yardim.html">mobil lastik yol yardım</a> ve Darıca içi motosiklet sürücüleri için ön teker kıskaçlı <a href="/hizmetler/motosiklet-cekici.html">motosiklet çekici</a> hizmetlerimiz aynı profesyonel standarttadır.',
+      'Gebze–Darıca aksında sürekli aktif bulunan nöbetçi araçlarımızla Darıca’nın tüm mahallelerine ve Bayramoğlu sahil ucuna ortalama 10–15 dakika içinde ulaşıyoruz. Darıca Eğitim ve Araştırma Hastanesi çevresi, Marmaray Osmangazi ve Darıca istasyon otoparkları ile villa/site garajlarında yaşanan arızalarda hem <a href="/hizmetler/oto-kurtarma.html">hidrolik kayar kasa</a> hem de <a href="/hizmetler/aparatli-cekici.html">alçak kabinli kapalı garaj çekicisi</a> anında sevk edilir.',
+      'Bayramoğlu Yarımadası’nda lüks binek otomobiller ve elektrikli araçlar için düşük eğimli <a href="/hizmetler/oto-kurtarma.html">VIP taşıma rampası</a>, sahil yolunda patlayan lastikler için <a href="/hizmetler/lastik-yol-yardim.html">mobil lastik yol yardım</a> ve Darıca içi motosiklet sürücüleri için ön teker kıskaçlı <a href="/hizmetler/motosiklet-cekici.html">motosiklet çekici</a> hizmetlerimiz aynı profesyonel standarttadır.',
       'Darıca’dan Gebze Oto Sanayi Sitesi’ne, Tuzla servislerine veya İstanbul/İzmit yetkili merkezlerine telefonda netleşen sabit fiyat ve fotoğraflı teslim tutanağı güvencesiyle aracınızı ulaştırıyoruz.'
     ],
     localPointsTitle: 'Darıca & Bayramoğlu Başlıca Müdahale Alanları',
@@ -415,9 +415,9 @@ const REGIONS_PART_2 = [
     seoTitle: 'Dilovası Rampası, İMES OSB ve Liman Hattında Güçlü Kurtarma Desteği',
     paragraphs: [
       'Gebze’nin hemen doğusunda yer alan Dilovası; İMES OSB, Makine İhtisas OSB, Dilovası OSB, Diliskelesi liman sahaları ve Marmara’nın en dik otoyol kesitlerinden biri olan D-100 / TEM Dilovası Rampası’yla yüksek zorluk dereceli bir kurtarma bölgesidir. Özellikle ağır yaz sıcağında Dilovası Rampası’nı tırmanan binek ve ticari araçlarda hararet, turbo arızası ve debriyaj yanması sık yaşanırken; yağışlı kış gecelerinde dik inişte kayma ve bariyer teması vakaları görülür.',
-      'Dilovası’nın dik topoğrafyasına ve yoğun ağır vasıta trafiğine tam donanımlı çıkan ekiplerimiz; hem <a href="/hizmetler/oto-cekici.html">hidrolik kayar kasa oto çekici</a> hem de kaza ve bariyer teması durumlarında makaralı <a href="/hizmetler/oto-kurtarma.html">vinçli oto kurtarma</a> araçlarıyla 12–18 dakikada olay yerine ulaşır. Rampa üzerinde araç yüklenirken 150 metrelik yüksek görünürlüklü ışıklı koni hattı kurulup tam şerit emniyeti sağlanır.',
+      'Dilovası’nın dik topoğrafyasına ve yoğun ağır vasıta trafiğine tam donanımlı çıkan ekiplerimiz; hem <a href="/hizmetler/oto-kurtarma.html">hidrolik kayar kasa oto çekici</a> hem de kaza ve bariyer teması durumlarında makaralı <a href="/hizmetler/oto-kurtarma.html">vinçli oto kurtarma</a> araçlarıyla 12–18 dakikada olay yerine ulaşır. Rampa üzerinde araç yüklenirken 150 metrelik yüksek görünürlüklü ışıklı koni hattı kurulup tam şerit emniyeti sağlanır.',
       'İMES OSB, Makine İhtisas OSB, Mermerciler ve Diliskelesi liman bölgesindeki şirketler için uzun şasili <a href="/hizmetler/ticari-arac-cekici.html">panelvan/kamyonet çekici</a>, <a href="/hizmetler/tenteli-arac-nakliye.html">forklift ve makaslı platform taşıma</a> ve 24V korumalı akü takviye hizmetlerimiz 7/24 aktiftir.',
-      'Dilovası ve Tavşancıl’dan Gebze Oto Sanayi’ye, İzmit yetkili servislerine veya İstanbul’a özenli, e-faturalı ve sabit fiyatlı nakil güvencesi sunuyoruz.'
+      'Dilovası ve Tavşancıl’dan Gebze Oto Sanayi’ye, İzmit yetkili servislerine veya İstanbul’a özenli, özenli ve sabit fiyatlı nakil güvencesi sunuyoruz.'
     ],
     localPointsTitle: 'Dilovası & OSB Hattında Müdahale Verdiğimiz Noktalar',
     localPoints: [
@@ -430,10 +430,166 @@ const REGIONS_PART_2 = [
     fieldLogDesc: 'D-100 Dilovası Rampası tırmanışında hararet yapıp emniyet şeridine çekilen hafif ticari pikap, 14 dakikada ulaşan ışıklı kurtarıcımızla güvenle yüklenip Gebze Sanayi’ye teslim edildi.',
     faqs: [
       { q: 'D-100 veya TEM Dilovası Rampası’nda hararet yaptım, hızlı gelir misiniz?', a: 'Evet. Dilovası rampası sürekli müdahale verdiğimiz ana hattımızdır; 12–18 dakika içinde ışıklı güvenlik donanımımızla yanınıza ulaşıp aracınızı güvenli platforma alıyoruz.' },
-      { q: 'İMES OSB veya Makine İhtisas OSB’den şirket aracı ve forklift taşıyor musunuz?', a: 'Evet. Her iki OSB’ye de düzenli binek, ticari panelvan ve 3.5 tona kadar forklift/manlift taşıma hizmeti veriyor, KDV’li e-fatura kesiyoruz.' },
+      { q: 'İMES OSB veya Makine İhtisas OSB’den şirket aracı taşıyor musunuz?', a: 'Evet. Her iki OSB’ye de düzenli binek, ticari panelvan ve 3.5 tona kadar tenteli yük taşıma hizmeti veriyoruz.' },
       { q: 'Diliskelesi veya Tavşancıl’dan İzmit’teki yetkili servise çekim yapıyor musunuz?', a: 'Evet. Dilovası’ndan hem Gebze hem İzmit/Körfez hem de İstanbul’daki tüm yetkili ve özel servislere sabit fiyatla nakil sağlıyoruz.' },
-      { q: 'Yağmurda Dilovası inişinde kaza yaptım, ön tekerim dönmüyor; alabilir misiniz?', a: 'Evet. Tekerlek altı ağır yük kızakları ve hidrolik vinç ekipmanımızla yürür aksamı hasarlı araçları şasiye ek zarar vermeden platforma alıyoruz.' },
+      { q: 'Yağmurda Dilovası inişinde kaza yaptım, ön tekerim dönmüyor; alabilir misiniz?', a: 'Evet. Tekerlek altı ağır yük kızakları ve aparatlı kurtarma ekipmanımızla yürür aksamı hasarlı araçları şasiye ek zarar vermeden platforma alıyoruz.' },
       { q: 'Gece vardiyasında Dilovası OSB’lerde akü takviye veya lastik yardım var mı?', a: 'Evet. 12V binek ve 24V ticari sistemlere uyumlu akü booster ve mobil lastik ekiplerimiz gece de 7/24 görev başındadır.' }
+    ]
+  },
+  {
+    slug: 'hereke',
+    name: 'Hereke',
+    navbarTitle: 'HEREKE ÇEKİCİ',
+    navbarSub: '7/24 Hereke, D-100 & TEM Çekici Hattı',
+    featured: true,
+    eta: '15–20 Dk',
+    heroImg: 'client-audi-otoyol',
+    fieldImg: 'client-accent-otoyol',
+    lat: '40.7852',
+    lng: '29.6184',
+    cardSummary: 'Yukarı Hereke, Aşağı Hereke, D-100 Hereke geçişi, TEM Hereke gişeleri ve Hereke Sahil hattında 7/24 acil oto çekici ve yol yardım.',
+    metaTitle: 'Hereke Çekici | 7/24 Yukarı Hereke, D-100 & TEM Yol Yardım',
+    metaDesc: 'Hereke, Yukarı Hereke, Aşağı Hereke, TEM Hereke gişeleri ve D-100 Körfez hattında 7/24 hızlı oto çekici, oto kurtarma, akü takviye ve lastik yol yardım: 0533 945 45 14.',
+    heroLead: 'Yukarı Hereke, Aşağı Hereke, Agah Ateş, Cumhuriyet, TEM Hereke gişeleri ve D-100 sahil geçişinde 7/24 nöbetçi çekici ve acil yol yardım ekibimizle yanınızdayız.',
+    seoTitle: 'Hereke, TEM Gişeleri ve D-100 Körfez Hattında 7/24 Nöbetçi Çekici',
+    paragraphs: [
+      'Dilovası ile Körfez ilçesi arasında stratejik bir geçiş noktası olan Hereke; D-100 Karayolu sahil güzergâhı, TEM Otoyolu Hereke gişeleri, Yukarı Hereke dik bağlantı yolları ve çimento/liman tesislerinin ağır trafik yoğunluğu nedeniyle sürücülerin günün her saatinde güvenilir yol yardıma ihtiyaç duyduğu önemli bir bölgedir.',
+      'Hereke çekici ekibimiz D-100 ve TEM bağlantısından hızlıca intikal ederek ortalama 15–20 dakika içinde konumunuza ulaşır. Otoyol emniyet şeridinde hararet, baskı balata, triger veya şanzıman arızası yaşayan binek ve SUV araçları ışıklı güvenlik önlemleri eşliğinde platforma alıp Gebze Sanayi, İzmit veya İstanbul yetkili servislerine özenle naklediyoruz.',
+      'Yukarı Hereke’nin eğimli sokaklarında marş basmayan araçlar için <a href="/hizmetler/aku-takviye.html">yerinde 12V/24V akü takviye</a>, D-100 sahil yolunda lastiği yarılan araçlar için <a href="/hizmetler/lastik-yol-yardim.html">mobil lastik yol yardım</a>, kilitli şanzımanlı otomobiller için ise <a href="/hizmetler/aparatli-cekici.html">aparatlı çekici</a> desteği sunuyoruz.',
+      'Ayrıca Hereke ve Körfez sanayi sahalarından acil gönderilmesi gereken malzemeler için 3.5 tona kadar <a href="/hizmetler/tenteli-arac-nakliye.html">şehir içi ve şehirlerarası tenteli yük taşımacılığı</a> hizmetimiz de 7/24 aktiftir.'
+    ],
+    localPointsTitle: 'Hereke Çevresinde Müdahale Verdiğimiz Noktalar',
+    localPoints: [
+      'TEM Otoyolu Hereke Gişeleri ve Körfez–Dilovası otoyol geçişi',
+      'D-100 Karayolu Aşağı Hereke sahil yolu ve demiryolu alt geçitleri',
+      'Yukarı Hereke, Cumhuriyet, 17 Ağustos, Agah Ateş ve Hacı Akif mahalleleri',
+      'Hereke Marina, liman girişleri ve İzmit–Gebze arası tüm bağlantı kolları'
+    ],
+    fieldLogTitle: 'Hereke Saha Operasyon Kaydı',
+    fieldLogDesc: 'TEM Hereke gişeleri çıkışında şanzıman arızası veren sedan araç, 16 dakikada ulaşan nöbetçi ekibimiz tarafından tekerlek sabitlemeli platforma alınıp İzmit yetkili servisine özenle teslim edildi.',
+    faqs: [
+      { q: 'TEM Hereke gişelerinde veya D-100 Hereke geçişinde kaç dakikada gelirsiniz?', a: 'Dilovası–Gebze hattındaki nöbetçi aracımız D-100 ve TEM bağlantısından ortalama 15–20 dakika içinde Hereke’deki konumunuza ulaşır.' },
+      { q: 'Yukarı Hereke’nin dik yokuşlu sokaklarına çekiciniz girebiliyor mu?', a: 'Evet. Kısa dingil mesafeli ve güçlü çekişli kurtarıcılarımızla Yukarı Hereke’nin eğimli sokaklarında güvenli yükleme yapıyoruz.' },
+      { q: 'Hereke’den hem Gebze Sanayi’ye hem İzmit servislerine araç çekiyor musunuz?', a: 'Evet. Sürücünün tercihine göre Gebze, Körfez, İzmit veya İstanbul’daki dilediğiniz özel ya da yetkili servise doğrudan teslimat yapıyoruz.' },
+      { q: 'Hereke’de gece yarısı akü takviye veya lastik değişimi yapıyor musunuz?', a: 'Evet. Gece vardiyamız 7/24 aktiftir; akü takviye ve stepne değişimi için doğrudan konumunuza geliyoruz.' },
+      { q: 'Hereke çekici fiyatı ne zaman belli olur?', a: 'Aracınızın bulunduğu nokta ve gideceği servis bilgisine göre yola çıkmadan önce telefonda net fiyat bildirilir.' }
+    ]
+  },
+  {
+    slug: 'tuzla-sifa',
+    name: 'Tuzla Şifa Mahallesi',
+    navbarTitle: 'TUZLA ŞİFA ÇEKİCİ',
+    navbarSub: '7/24 Şifa Mahallesi & E-5 Çekici Hattı',
+    featured: true,
+    eta: '10–15 Dk',
+    heroImg: 'client-suv-cadde',
+    fieldImg: 'client-kia-mahalle',
+    lat: '40.8224',
+    lng: '29.3612',
+    cardSummary: 'Tuzla Şifa Mahallesi, İnönü Caddesi, Mimarsinan sınırı, E-5 / D-100 bağlantısı ve Şifa Park çevresinde 7/24 hızlı oto çekici ve yol yardım.',
+    metaTitle: 'Tuzla Şifa Mahallesi Çekici | 7/24 Acil Oto Çekici & Yol Yardım',
+    metaDesc: 'Tuzla Şifa Mahallesi, İnönü Caddesi, Şifa E-5 bağlantısı, Çayırova sınırı ve Mimarsinan hattında 10–15 dk varışlı 7/24 oto çekici ve yol yardım: 0533 945 45 14.',
+    heroLead: 'Tuzla Şifa Mahallesi, İnönü Caddesi, Şifa E-5 / D-100 bağlantısı, Çayırova–Şifa sınır hattı ve sanayi çevre yollarında ortalama 10–15 dakikada yanınızdayız.',
+    seoTitle: 'Tuzla Şifa Mahallesi ve E-5 Bağlantısında Hızlı Nöbetçi Çekici',
+    paragraphs: [
+      'İstanbul Tuzla ile Kocaeli Çayırova–Gebze sınırının tam kesişiminde yer alan Tuzla Şifa Mahallesi; yoğun yerleşim dokusu, İnönü Caddesi ticaret aksı, E-5 (D-100) yan yolları ve çevre sanayi tesislerine giden servis trafiğiyle gün boyu hareketli bir bölgedir. İstanbul merkezden gelecek çekicileri uzun süre beklemek yerine hemen sınır komşusu olan nöbetçi ekibimiz Şifa Mahallesi’ne ortalama 10–15 dakikada ulaşır.',
+      'Şifa Mahallesi sokaklarında marş basmayan binek araçlar, İnönü Caddesi üzerinde hararet veya debriyaj arızası veren otomobiller ve E-5 bağlantısında lastiği yarılan sürücüler için 7/24 kesintisiz müdahale sağlıyoruz. Yürümeyen veya kaza geçirmiş araçlarda <a href="/hizmetler/oto-kurtarma.html">oto kurtarma</a> ve kilitli şanzımanlarda <a href="/hizmetler/aparatli-cekici.html">aparatlı çekici</a> ekiplerimiz devreye alınır.',
+      'Araç çekimine gerek kalmayan durumlarda <a href="/hizmetler/aku-takviye.html">yerinde 12V/24V akü takviye</a> ve <a href="/hizmetler/lastik-yol-yardim.html">mobil lastik yol yardım</a> desteğiyle kısa sürede yolunuza devam etmenizi sağlıyoruz. Ayrıca Şifa Mahallesi esnafı ve ticari işletmeleri için <a href="/hizmetler/ticari-arac-cekici.html">panelvan çekici</a> ve 3.5 tona kadar <a href="/hizmetler/tenteli-arac-nakliye.html">şehir içi/şehirlerarası özel yük taşımacılığı</a> sunuyoruz.',
+      'Tuzla Şifa Mahallesi’nden ister Tuzla İçmeler/Aydınlı sanayisine, ister Pendik–Kartal yetkili servislerine, ister Gebze Oto Sanayi’ye özenli ve net fiyatlı araç nakli gerçekleştiriyoruz.'
+    ],
+    localPointsTitle: 'Tuzla Şifa Mahallesi’nde Müdahale Verdiğimiz Noktalar',
+    localPoints: [
+      'Şifa Mahallesi İnönü Caddesi, Hürriyet Caddesi ve tüm mahalle sokakları',
+      'Şifa E-5 (D-100) yan yolları, köprü bağlantıları ve Çayırova sınır geçişi',
+      'Mimarsinan Mahallesi, Şifa Park AVM çevresi ve TEM bağlantı kolları',
+      'Tuzla–Çayırova hattındaki ticari iş yerleri, depolar ve site otoparkları'
+    ],
+    fieldLogTitle: 'Tuzla Şifa Mahallesi Saha Operasyon Kaydı',
+    fieldLogDesc: 'Şifa Mahallesi İnönü Caddesi üzerinde vites geçişi kilitlenen otomatik SUV araç, 12 dakikada ulaşan aparatlı ekibimizle güvenle yüklenerek Tuzla yetkili servisine teslim edildi.',
+    faqs: [
+      { q: 'Tuzla Şifa Mahallesi’ne çekici ne kadar sürede gelir?', a: 'Gebze–Çayırova sınırındaki nöbetçi aracımız Tuzla Şifa Mahallesi’nin tüm sokaklarına ve E-5 bağlantısına ortalama 10–15 dakikada ulaşır.' },
+      { q: 'Şifa Mahallesi’nden Pendik, Kartal veya Tuzla Sanayi’ye çekim yapıyor musunuz?', a: 'Evet. Tuzla Sanayi, İçmeler, Pendik, Kartal, Maltepe ve Gebze Oto Sanayi dahil tüm servis noktalarına doğrudan nakil sağlıyoruz.' },
+      { q: 'Otomatik aracım Şifa Mahallesi’nde P konumunda kilitlendi, çekebilir misiniz?', a: 'Evet. Tekerlek altı aparatlı çekici donanımımızla aracınızı sürüklemeden platforma alıp servise ulaştırıyoruz.' },
+      { q: 'Tuzla Şifa’da sadece akü takviye veya stepne değişimi için geliyor musunuz?', a: 'Evet. Aracın çekilmesine gerek yoksa yerinde 12V/24V akü takviye veya stepne değişimiyle sorununuzu hızla çözüyoruz.' },
+      { q: 'Gece saatlerinde Şifa Mahallesi’nde hizmet veriyor musunuz?', a: 'Evet. Haftanın 7 günü 24 saat kesintisiz nöbetçi çekici ve yol yardım hizmetimiz aktiftir.' }
+    ]
+  },
+  {
+    slug: 'bayramoglu',
+    name: 'Bayramoğlu',
+    navbarTitle: 'BAYRAMOĞLU ÇEKİCİ',
+    navbarSub: '7/24 Bayramoğlu Adası & Sahil Çekici Hattı',
+    featured: true,
+    eta: '10–15 Dk',
+    heroImg: 'client-gece-rangerover',
+    fieldImg: 'client-suv-yagmur',
+    lat: '40.7815',
+    lng: '29.3492',
+    cardSummary: 'Bayramoğlu Adası, Fatih Sultan Mehmet Caddesi, Balyanoz Koyu, Sahil Yolu, site ve villa bölgelerinde 7/24 özenli oto çekici ve yol yardım.',
+    metaTitle: 'Bayramoğlu Çekici | 7/24 Bayramoğlu Adası & Sahil Oto Çekici',
+    metaDesc: 'Darıca Bayramoğlu, Bayramoğlu Adası, Fatih Sultan Mehmet Caddesi, Balyanoz Koyu ve sahil yolunda 10–15 dk varışlı 7/24 oto çekici ve yol yardım: 0533 945 45 14.',
+    heroLead: 'Bayramoğlu Adası, Fatih Sultan Mehmet Caddesi, Balyanoz Koyu, sahil siteleri ve Darıca–Tuzla bağlantısında ortalama 10–15 dakikada özenli oto çekici ve yol yardım.',
+    seoTitle: 'Bayramoğlu Adası, Sahil Yolu ve Site Bölgelerinde 7/24 Oto Çekici',
+    paragraphs: [
+      'Darıca’nın en nezih sahil ve konut bölgesi olan Bayramoğlu; Bayramoğlu Adası, Fatih Sultan Mehmet Caddesi, Balyanoz Koyu çevresi, müstakil villalar, güvenlikli tatil siteleri ve Tuzla sınırına uzanan sahil yollarıyla özel dikkat gerektiren bir ulaşım bölgesidir. Yaz aylarında sahil trafiğinin yoğunlaştığı, kış aylarında ise uzun süre park halinde kalan araçlarda akü ve mekanik sorunların arttığı Bayramoğlu’nda 7/24 nöbetçi ekibimizle hizmet veriyoruz.',
+      'Bayramoğlu’ndaki dar site girişlerinde, sahil otoparklarında veya Fatih Sultan Mehmet Caddesi üzerinde arızalanan binek, SUV ve otomatik araçlar için düşük eğimli platformlarımız ve <a href="/hizmetler/aparatli-cekici.html">aparatlı çekici</a> ekipmanlarımızla tampon ve jantlara özen göstererek yükleme yapıyoruz.',
+      'Yazlık veya site önünde uzun süre çalışmayan araçlarda <a href="/hizmetler/aku-takviye.html">yerinde 12V akü takviye</a>, sahil yolunda patlayan lastiklerde <a href="/hizmetler/lastik-yol-yardim.html">mobil lastik yol yardım</a>, sahil motosiklet sürücüleri için ise ön teker kıskaçlı <a href="/hizmetler/motosiklet-cekici.html">motosiklet çekici</a> ekiplerimiz ortalama 10–15 dakikada yanınızda olur.',
+      'Bayramoğlu’ndan Gebze Oto Sanayi’ye, Darıca servislerine, İstanbul Anadolu Yakası (Tuzla, Pendik, Kartal, Ataşehir) yetkili servislerine veya <a href="/hizmetler/sehirlerarasi-arac-tasima.html">81 ile şehirlerarası araç taşıma</a> rotalarına özenli teslimat yapıyoruz.'
+    ],
+    localPointsTitle: 'Bayramoğlu’nda Müdahale Verdiğimiz Noktalar',
+    localPoints: [
+      'Bayramoğlu Adası, Balyanoz Koyu ve sahil şeridi site girişleri',
+      'Fatih Sultan Mehmet Caddesi, Yıldırım Beyazıt Caddesi ve bağlantı yolları',
+      'Bayramoğlu–Tuzla Mercan sınırı ve Darıca sahil geçiş aksı',
+      'Bölgedeki otel, plaj, marina ve güvenlikli villa sitelerinin otoparkları'
+    ],
+    fieldLogTitle: 'Bayramoğlu Saha Operasyon Kaydı',
+    fieldLogDesc: 'Bayramoğlu Adası sahil sitesi önünde gece saatlerinde elektronik arıza veren SUV araç, 13 dakikada ulaşan nöbetçi ekibimizle özenle yüklenip İstanbul Anadolu Yakası yetkili servisine ulaştırıldı.',
+    faqs: [
+      { q: 'Bayramoğlu Adası içine ve site girişlerine çekici ne kadar sürede gelir?', a: 'Darıca–Gebze hattındaki nöbetçi ekibimiz Bayramoğlu Adası, sahil yolu ve tüm site girişlerine ortalama 10–15 dakikada ulaşır.' },
+      { q: 'Bayramoğlu’ndan İstanbul Anadolu Yakası yetkili servislerine araç taşıyor musunuz?', a: 'Evet. Tuzla, Pendik, Kartal, Maltepe, Ataşehir ve Ümraniye’deki tüm yetkili marka servislerine doğrudan teslimat yapıyoruz.' },
+      { q: 'Site önünde uzun süre yatan aracımın aküsü bitti, yerinde takviye yapar mısınız?', a: 'Evet. Çekiciye gerek kalmadan profesyonel 12V booster cihazımızla site önünde hızlıca akü takviyesi yapıp şarj dinamosunu ölçüyoruz.' },
+      { q: 'Bayramoğlu sahilinde motosikletim arızalandı, motosiklet çekiciniz var mı?', a: 'Evet. Ön tekerlek kıskaçlı ve yumuşak kayışlı motosiklet çekici donanımımızla motorunuzu dik ve çiziksiz taşıyoruz.' },
+      { q: 'Bayramoğlu’nda hafta sonu ve gece saatlerinde fiyat farkı oluyor mu?', a: 'Aracınızın konumu ve gideceği mesafeye göre telefonda net sabit fiyat verilir; sonradan sürpriz ek ücret çıkarılmaz.' }
+    ]
+  },
+  {
+    slug: 'kuzey-marmara',
+    name: 'Kuzey Marmara',
+    navbarTitle: 'KUZEY MARMARA ÇEKİCİ',
+    navbarSub: '7/24 Kuzey Marmara Otoyolu Çekici Hattı',
+    featured: true,
+    eta: '15–20 Dk',
+    heroImg: 'client-audi-otoyol',
+    fieldImg: 'client-gece-rangerover',
+    lat: '40.8645',
+    lng: '29.4618',
+    cardSummary: 'Kuzey Marmara Otoyolu (O-7) Gebze, Sevindikli, Liman, Kurnaköy, Mecidiye, Dilovası ve Pelitli bağlantılarında 7/24 acil otoyol oto çekici.',
+    metaTitle: 'Kuzey Marmara Çekici | 7/24 Kuzey Marmara Otoyolu Oto Kurtarma',
+    metaDesc: 'Kuzey Marmara Otoyolu (O-7) Gebze, Pelitli, Dilovası, Sevindikli, Kurnaköy ve Osmangazi bağlantı gişelerinde 7/24 acil oto çekici ve yol yardım: 0533 945 45 14.',
+    heroLead: 'Kuzey Marmara Otoyolu (O-7) Gebze, Pelitli, Dilovası, Sevindikli, Kurnaköy ve bağlantı gişelerinde 7/24 yüksek güvenlikli otoyol çekici ve yol yardım ekibimizle yanınızdayız.',
+    seoTitle: 'Kuzey Marmara Otoyolu (O-7) Gebze–Kocaeli Hattında 7/24 Acil Çekici',
+    paragraphs: [
+      'İstanbul ile Kocaeli ve Sakarya’yı birbirine bağlayan Kuzey Marmara Otoyolu (O-7); yüksek seyir hızları, geniş şerit yapısı, tüneller ve uzun viyadükleriyle arıza anında profesyonel otoyol müdahalesi gerektiren stratejik bir güzergâhtır. Gebze, Pelitli, Balçık, Dilovası, Sevindikli ve Kurnaköy gişelerine yakın konuşlu nöbetçi ekiplerimiz Kuzey Marmara Otoyolu çağrılarına hızla çıkış yapar.',
+      'Otoyol üzerinde yaşanan hararet, lastik parçalanması, yakıt bitmesi, şanzıman arızası veya maddi hasarlı kaza durumlarında olay yerine ulaştığımızda ilk olarak yüksek görünürlüklü LED tepe ikazlarımızı ve ışıklı yol konilerimizi açarak aracınızın arkasında güvenli bir çalışma koridoru oluşturuyoruz. Ardından <a href="/hizmetler/oto-kurtarma.html">oto kurtarma</a> veya kilitli şanzımanlarda <a href="/hizmetler/aparatli-cekici.html">aparatlı çekici</a> donanımımızla aracınızı hızla platforma alıyoruz.',
+      'Stepne değişimi gereken otoyol lastik patlamalarında <a href="/hizmetler/lastik-yol-yardim.html">mobil lastik yol yardım</a>, dinlenme tesislerinde marş basmayan araçlarda <a href="/hizmetler/aku-takviye.html">yerinde 12V/24V akü takviye</a>, ticari dağıtım araçlarında ise uzun şasili <a href="/hizmetler/ticari-arac-cekici.html">ticari araç çekici</a> desteği sunuyoruz.',
+      'Kuzey Marmara Otoyolu’ndan alınan aracınızı tercihinize göre Gebze Oto Sanayi’ye, İstanbul Anadolu Yakası (Kurtköy, Pendik, Tuzla, Kartal) yetkili servislerine, İzmit’e veya <a href="/hizmetler/sehirlerarasi-arac-tasima.html">81 ile şehirlerarası araç taşıma</a> hizmetimizle doğrudan hedef şehrinize ulaştırıyoruz.'
+    ],
+    localPointsTitle: 'Kuzey Marmara Otoyolu’nda Müdahale Verdiğimiz Noktalar',
+    localPoints: [
+      'Kuzey Marmara Otoyolu (O-7) Gebze, Pelitli ve Dilovası bağlantı gişeleri',
+      'Kurnaköy, Mecidiye, Tepeören ve İstanbul Sabiha Gökçen bağlantı aksı',
+      'Sevindikli, İzmit Batı ve Osmangazi Köprüsü kuzey otoyol bağlantıları',
+      'Otoyol dinlenme tesisleri, acil durma cepleri ve tünel çıkışları'
+    ],
+    fieldLogTitle: 'Kuzey Marmara Otoyolu Saha Operasyon Kaydı',
+    fieldLogDesc: 'Kuzey Marmara Otoyolu Pelitli–Kurnaköy arasında gece saatlerinde turbo hortumu patlayıp emniyet cebine çekilen SUV araç, 17 dakikada ulaşan ışıklı ekibimizle güvenle yüklenip İstanbul Anadolu Yakası yetkili servisine teslim edildi.',
+    faqs: [
+      { q: 'Kuzey Marmara Otoyolu’nda (O-7) arızalandım, kaç dakikada ulaşabilirsiniz?', a: 'Pelitli, Balçık, Dilovası ve Gebze çıkışlarına yakın nöbetçi ekiplerimiz otoyol üzerindeki konumunuza ortalama 15–20 dakika içinde ulaşır.' },
+      { q: 'Otoyol tünelleri veya viyadük yakınında kaldım, çekici girebiliyor mu?', a: 'Evet. Dörtlü flaşörlerinizi yakıp bariyer arkasına geçtikten sonra WhatsApp konumunuzu paylaşmanız yeterlidir; ışıklı ikaz donanımlı ekibimiz doğrudan yanınıza yanaşır.' },
+      { q: 'Kuzey Marmara’dan hem İstanbul Kurtköy/Pendik hem Gebze/İzmit servislerine çekiyor musunuz?', a: 'Evet. Hangi yöne gitmek isterseniz isteyin İstanbul Anadolu/Avrupa Yakası, Gebze Sanayi, İzmit veya şehirlerarası tüm illere doğrudan nakil yapıyoruz.' },
+      { q: 'Kuzey Marmara Otoyolu’nda gece saatlerinde lastik değişimi yapıyor musunuz?', a: 'Evet. Emniyet şeridinde reflektörlü güvenlik koridoru açarak stepne değişimi yapıyor; stepneniz yoksa aracınızı en yakın 7/24 açık lastikçiye taşıyoruz.' },
+      { q: 'Otoyol geçiş ve çekici fiyatı nasıl belirlenir?', a: 'Bulunduğunuz gişe/kilometre noktası ve aracın teslim edileceği adres bilgisine göre yola çıkmadan önce telefonda net sabit fiyat bildirilir.' }
     ]
   }
 ];

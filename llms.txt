@@ -13,7 +13,7 @@
 - **Çalışma Saatleri:** 7 Gün 24 Saat Kesintisiz (Resmi tatiller ve gece vardiyası dahil)
 - **Ortalama İntikal Süresi:** 10–15 Dk (Gebze ve çevre 26 nöbetçi nokta)
 - **Müşteri Puanı:** 5.0 / 5 (420+ doğrulanmış değerlendirme)
-- **Güvence Standartları:** K1/K2 yetki belgeli filo, fotoğraflı teslim tutanağı, telefonda net sabit fiyat onayı, araç içi mobil POS ve KDV’li resmi e-fatura.
+- **Güvence Standartları:** K1/K2 yetki belgeli filo, fotoğraflı teslim tutanağı, telefonda net sabit fiyat onayı, nakit ve havale/EFT ödeme kolaylığı.
 
 ## Teknik Filo ve Ekipman Kapasitesi
 - **Düşük Eğimli Hidrolik Kayar Kasa:** 6° altı uzatma rampalı, 4 tekerlek lastik üstü spanzet sabitlemeli (binek, spor, SUV ve elektrikli araçlar için sıfır tampon/batarya teması).
@@ -23,8 +23,7 @@
 - **Mobil Yol Yardım & Akü Booster:** 12V/24V profesyonel dijital akü takviyesi ve akülü torklu yerinde lastik değişimi.
 - **Şehirlerarası Tekli VIP Nakliye:** Gebze çıkışlı veya varışlı Türkiye’nin 81 iline aktarmasız tekli özenli araç taşıma.
 
-## Uzman Hizmetlerimiz (11 Hizmet)
-- **Kayar Kasa Oto Çekici** (https://gebzecekici.tr/hizmetler/oto-cekici.html): Binek ve SUV araçlar için düşük eğimli hidrolik kayar kasa ile 4 noktadan tekerlek sabitlemeli şehir içi ve otoyol çekici hizmeti.
+## Uzman Hizmetlerimiz (10 Hizmet)
 - **Kazalı & Şarampol Oto Kurtarma** (https://gebzecekici.tr/hizmetler/oto-kurtarma.html): Trafik kazası, bariyer teması, şarampole kayma veya yürür aksamı hasarlı araçlar için kayar kasa ve tekerlek kızaklarıyla profesyonel oto kurtarma.
 - **Aparatlı Çekici** (https://gebzecekici.tr/hizmetler/aparatli-cekici.html): Vitesi boşa alınamayan, elektronik el freni kilitli kalan veya tekerleği dönmeyen araçlar için tekerlek altı aparatlı ve patenli hasarsız çekici.
 - **Çoklu Çekici** (https://gebzecekici.tr/hizmetler/coklu-cekici.html): Birden fazla otomobil, filo aracı, galeri stoğu veya şehirlerarası ekonomik araç transferi için çift katlı çoklu çekici nakliye hizmeti.
@@ -36,13 +35,17 @@
 - **Şehirlerarası Araç Taşıma** (https://gebzecekici.tr/hizmetler/sehirlerarasi-arac-tasima.html): Gebze çıkışlı veya Gebze varışlı sıfır kilometre, ikinci el veya arızalı araçlar için 81 ile kapıdan kapıya güvenli şehirlerarası nakliye.
 - **Karavan, ATV & Özel Araç Taşıma** (https://gebzecekici.tr/hizmetler/atv-karavan-ozel-tasima.html): Çekme karavan, motokaravan, ATV/UTV arazi araçları, klasik otomobiller ve özel proje araçları için dengeli platform nakliyesi.
 
-## Hizmet Bölgelerimiz (26 Nöbetçi Bölge)
+## Hizmet Bölgelerimiz (30 Nöbetçi Bölge)
 - **Gebze Çekici** (https://gebzecekici.tr/bolgeler/gebze-merkez-cekici.html) — Ort. Varış: 10 Dk | Kapsama: Hacıhalil, Sultan Orhan, Osman Yılmaz, Yeni Bağdat Caddesi ve Eski Çarşı hattında 7/24 anında müdahale.
 - **GOSB Çekici** (https://gebzecekici.tr/bolgeler/gosb-cekici.html) — Ort. Varış: 10 Dk | Kapsama: GOSB İhsan Dede Caddesi, Tembelova bağlantısı, 1000–3000. sokaklar ve fabrika sahalarına 7/24 kurumsal çekici.
 - **Beylikbağı Çekici** (https://gebzecekici.tr/bolgeler/beylikbagi-cekici.html) — Ort. Varış: 10 Dk | Kapsama: Beylikbağı, Ulus, Hürriyet, Yavuz Selim, Ankara Caddesi ve D-100 kuzey bağlantısında 7/24 ekonomik ve hızlı çekici.
 - **TEM Gebze Çekici** (https://gebzecekici.tr/bolgeler/tem-gebze-cekici.html) — Ort. Varış: 10–15 Dk | Kapsama: O-4 TEM Anadolu Otoyolu Gebze Gişeleri, Şekerpınar Gişeleri, Muallimköy ve Dilovası yönünde 7/24 acil otoyol çekici.
 - **Çayırova Çekici** (https://gebzecekici.tr/bolgeler/cayirova-cekici.html) — Ort. Varış: 10–15 Dk | Kapsama: Çayırova Özgürlük, Yenimahalle, Akse, Atatürk, İnönü, Emek mahalleleri ve Fatih Caddesi’nde 7/24 hızlı çekici.
 - **Darıca Çekici** (https://gebzecekici.tr/bolgeler/darica-cekici.html) — Ort. Varış: 10–15 Dk | Kapsama: Darıca Merkez, Bayramoğlu Yarımadası, Fevzi Çakmak, Kazım Karabekir, Osmangazi, Nenehatun ve sahil yolunda 7/24 çekici.
+- **Hereke Çekici** (https://gebzecekici.tr/bolgeler/hereke-cekici.html) — Ort. Varış: 15–20 Dk | Kapsama: Yukarı Hereke, Aşağı Hereke, D-100 Hereke geçişi, TEM Hereke gişeleri ve Hereke Sahil hattında 7/24 acil oto çekici ve yol yardım.
+- **Tuzla Şifa Mahallesi Çekici** (https://gebzecekici.tr/bolgeler/tuzla-sifa-cekici.html) — Ort. Varış: 10–15 Dk | Kapsama: Tuzla Şifa Mahallesi, İnönü Caddesi, Mimarsinan sınırı, E-5 / D-100 bağlantısı ve Şifa Park çevresinde 7/24 hızlı oto çekici ve yol yardım.
+- **Bayramoğlu Çekici** (https://gebzecekici.tr/bolgeler/bayramoglu-cekici.html) — Ort. Varış: 10–15 Dk | Kapsama: Bayramoğlu Adası, Fatih Sultan Mehmet Caddesi, Balyanoz Koyu, Sahil Yolu, site ve villa bölgelerinde 7/24 özenli oto çekici ve yol yardım.
+- **Kuzey Marmara Çekici** (https://gebzecekici.tr/bolgeler/kuzey-marmara-cekici.html) — Ort. Varış: 15–20 Dk | Kapsama: Kuzey Marmara Otoyolu (O-7) Gebze, Sevindikli, Liman, Kurnaköy, Mecidiye, Dilovası ve Pelitli bağlantılarında 7/24 acil otoyol oto çekici.
 - **Mutlukent Çekici** (https://gebzecekici.tr/bolgeler/mutlukent-cekici.html) — Ort. Varış: 10 Dk | Kapsama: Mutlukent Bulvarı, Yenikent, site kapalı otoparkları ve TEM bağlantı kavşağında 7/24 sessiz ve hasarsız çekici.
 - **Tatlıkuyu Çekici** (https://gebzecekici.tr/bolgeler/tatlikuyu-cekici.html) — Ort. Varış: 8–12 Dk | Kapsama: Tatlıkuyu Vadisi, Gebze Center AVM, Ahmet Penbegüllü Bulvarı ve D-100 güney bağlantısında 8–12 dk varış.
 - **İstasyon Mahallesi Çekici** (https://gebzecekici.tr/bolgeler/istasyon-cekici.html) — Ort. Varış: 10–15 Dk | Kapsama: Gebze Marmaray & YHT Garı, İstasyon Caddesi, İbrahimağa ve Eskihisar geçiş hattında 7/24 hızlı oto kurtarma.
@@ -74,8 +77,8 @@ Gebze Merkez, GOSB, Tatlıkuyu, Beylikbağı, Mutlukent, Çayırova, Darıca ve 
 ### Otomatik vitesli veya şanzımanı kilitli araçlar hasarsız çekiliyor mu?
 Evet. Otomatik vitesli araçlarda tekerleklerin çekilerek sürüklenmesi aktarma organlarına zarar verir. Filomuzdaki düşük eğimli hidrolik kayar kasa platformlar ve tekerlek altı paten/doli aparatlarıyla aracı sürüklemeden, şasi ve tampona temas ettirmeden taşıyoruz.
 
-### Kurumsal fatura kesiyor musunuz ve kredi kartıyla ödeme yapılabilir mi?
-Evet. Tüm şehir içi, şehirlerarası çekici ve 3.5 tona kadar tenteli nakliye hizmetlerimizde bireysel ve OSB kurumsal filo müşterilerimiz için KDV’li e-fatura ve araç içi mobil POS ile kredi kartı ödeme imkânı sunuyoruz.
+### Kurumsal teslim tutanağı kesiyor musunuz ve nakit veya havaleyla ödeme yapılabilir mi?
+Evet. Tüm şehir içi, şehirlerarası çekici ve 3.5 tona kadar tenteli nakliye hizmetlerimizde bireysel ve OSB kurumsal filo müşterilerimiz için fotoğraflı teslim tutanağı ve nakit veya havale/EFT ile pratik ödeme imkânı sunuyoruz.
 
 ### Gece yarısı veya resmi tatillerde Gebze’de nöbetçi çekici bulabilir miyim?
 Evet. Haftanın 7 günü 24 saat, bayram ve resmi tatiller dahil kesintisiz nöbetçi vardiya sistemiyle çalışıyoruz. Gece 03.00’te dahi 0533 945 45 14 numaramızdan doğrudan saha operatörümüze ulaşabilirsiniz.

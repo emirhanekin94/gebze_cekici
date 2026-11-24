@@ -27,7 +27,7 @@ const REGIONS_SEO_1 = {
         h2: 'Gebze Çekici Fiyatları, Fotoğraflı Tutanak ve Servis Teslimat Rotaları',
         paragraphs: [
           'Gebze çekici fiyatları belirlenirken aracınızın bulunduğu cadde, araç ağırlık sınıfı ve teslim edilecek nokta esas alınır; telefonda onaylanan net rakam dışında gece vardiyası, trafik beklemesi veya rampa aparatı adı altında ek ücret talep edilmez. Tüm taşımalarımız yükleme anından servis kapısına indirilinceye kadar fotoğraflı teslim tutanağı kapsamındadır.',
-          'Merkezden aldığımız araçları tercihinize göre Gebze Oto Sanayi Sitesi’ndeki ustanıza, D-100 üzerindeki yetkili marka servislerine, Çayırova veya Darıca’daki tamir merkezlerine ya da İstanbul Anadolu Yakası ve İzmit servislerine aynı gün hasarsız ve KDV’li e-fatura eşliğinde teslim ediyoruz.'
+          'Merkezden aldığımız araçları tercihinize göre Gebze Oto Sanayi Sitesi’ndeki ustanıza, D-100 üzerindeki yetkili marka servislerine, Çayırova veya Darıca’daki tamir merkezlerine ya da İstanbul Anadolu Yakası ve İzmit servislerine aynı gün hasarsız ve fotoğraflı teslim tutanağı eşliğinde teslim ediyoruz.'
         ]
       }
     ]
@@ -50,10 +50,10 @@ const REGIONS_SEO_1 = {
         ]
       },
       {
-        h2: 'GOSB Kurumsal Filo Anlaşmaları, Sabit Fiyat ve e-Fatura Avantajı',
+        h2: 'GOSB Kurumsal Filo Anlaşmaları, Sabit Fiyat ve teslim tutanağı Avantajı',
         paragraphs: [
           'GOSB oto kurtarma operasyonlarında kurumsal şeffaflık ve iş güvenliği kurallarına tam uyum önceliğimizdir. Sarı ikaz aydınlatmaları, reflektör koniler ve emniyet yelekli sertifikalı operatörlerimizle tesis içi İSG kurallarına eksiksiz riayet ederek yükleme yaparız.',
-          'Şirketinizin vergi numarasıyla anında kesilen KDV’li resmi e-fatura, araç içi mobil POS ödeme imkânı ve yükleme öncesi yazılı sabit fiyat onayı sayesinde muhasebe ve filo yönetim süreçleriniz hiçbir aksama yaşamadan tamamlanır.'
+          'Şirketinizin vergi numarasıyla anında kesilen fotoğraflı teslim tutanağı, araç içi nakit ve havale ödeme imkânı ve yükleme öncesi yazılı sabit fiyat onayı sayesinde muhasebe ve filo yönetim süreçleriniz hiçbir aksama yaşamadan tamamlanır.'
         ]
       }
     ]
@@ -79,7 +79,7 @@ const REGIONS_SEO_1 = {
         h2: 'Beylikbağı Oto Kurtarma Fiyatlandırması ve Hızlı Servis Yönlendirmesi',
         paragraphs: [
           'Beylikbağı oto kurtarma ve yol yardım taleplerinizde aracınızı Gebze Oto Sanayi Sitesi’ne, Çayırova servis bölgesine veya D-100 üzerindeki yetkili servislere fotoğraflı tutanaklu olarak naklediyoruz. Sadece akü takviyesi veya stepne değişimi gerektiren durumlarda çekici ücreti yerine ekonomik mobil yol yardım tarifemiz uygulanır.',
-          '7 gün 24 saat, hafta sonu ve resmi tatiller dahil olmak üzere Beylikbağı’nın her sokağında şeffaf sabit fiyat, kredi kartı ile mobil POS ödeme ve resmi fatura güvencesiyle hizmetinizdeyiz.'
+          '7 gün 24 saat, hafta sonu ve resmi tatiller dahil olmak üzere Beylikbağı’nın her sokağında şeffaf sabit fiyat, nakit veya havale ile nakit ve havale ödeme ve resmi teslim tutanağı güvencesiyle hizmetinizdeyiz.'
         ]
       }
     ]
@@ -131,7 +131,7 @@ const REGIONS_SEO_1 = {
         h2: 'Çayırova Oto Kurtarma Sabit Fiyat ve İstanbul–Gebze Servis Teslimatı',
         paragraphs: [
           'Çayırova’nın tam sınır noktasında yer alması sayesinde aracınızı hem Gebze Oto Sanayi Sitesi’ne hem de İstanbul Tuzla, Pendik ve Kartal yetkili marka servislerine hızlı ve ekonomik şekilde nakledebiliyoruz. Çayırova çekici fiyatlarımız mesafe bazlı net sabit tarife üzerinden telefonda onaylanır.',
-          'Tüm çekim işlemlerinde tam kapsamlı güvenli taşıma fotoğraflı teslim tutanağı, 4 tekerlekten jant koruyucu spanzet sabitlemesi, mobil POS ile kredi kartı ödeme kolaylığı ve kasko geri ödemesine uygun KDV’li e-fatura standart olarak sunulur.'
+          'Tüm çekim işlemlerinde tam kapsamlı güvenli taşıma fotoğraflı teslim tutanağı, 4 tekerlekten jant koruyucu spanzet sabitlemesi, nakit ve havale ile nakit veya havale ödeme kolaylığı ve kasko geri ödemesine uygun fotoğraflı teslim tutanağı standart olarak sunulur.'
         ]
       }
     ]
@@ -182,7 +182,7 @@ const REGIONS_SEO_1 = {
       {
         h2: 'Mutlukent Oto Kurtarma: Sessiz Gece Operasyonu ve Şeffaf Sabit Fiyat',
         paragraphs: [
-          'Site yaşamının huzuruna saygı gösteren çalışma disiplinimizle gece saatlerindeki çekimlerde gereksiz siren veya yüksek gürültü oluşturmadan profesyonel yükleme gerçekleştiriyoruz. Aracınız yüklenmeden önce net fiyat onaylanır, kasko uyumlu KDV’li e-fatura ve mobil POS ödeme seçenekleri sunulur.',
+          'Site yaşamının huzuruna saygı gösteren çalışma disiplinimizle gece saatlerindeki çekimlerde gereksiz siren veya yüksek gürültü oluşturmadan profesyonel yükleme gerçekleştiriyoruz. Aracınız yüklenmeden önce net fiyat onaylanır, kasko uyumlu fotoğraflı teslim tutanağı ve nakit / havale ödeme seçenekleri sunulur.',
           'Mutlukent’ten aldığımız araçları Gebze Oto Sanayi’ye, D-100 yetkili marka servislerine veya İstanbul Kartal–Ataşehir–Maltepe yetkili servislerine aynı gün sigortalı olarak ulaştırıyoruz.'
         ]
       }
@@ -209,7 +209,7 @@ const REGIONS_SEO_1 = {
         h2: 'Tatlıkuyu Oto Kurtarma: Hızlı Servis Teslimatı ve Sabit Ücret Güvencesi',
         paragraphs: [
           'Tatlıkuyu’dan Gebze Oto Sanayi Sitesi’ne, Eski Çarşı tamirhanelerine veya D-100 üzerindeki yetkili servislere yapılan nakillerde mesafe kısa olduğu için son derece ekonomik sabit fiyat tarifesi uygulanır. Yükleme öncesi net ücret bildirilir ve ek sürpriz masraf çıkarılmaz.',
-          'Tüm Tatlıkuyu oto kurtarma operasyonlarımız fotoğraflı teslim tutanağı, 4 tekerlek lastik üstü spanzet sabitlemesi ve resmi fatura güvencesiyle 7/24 kesintisiz devam eder.'
+          'Tüm Tatlıkuyu oto kurtarma operasyonlarımız fotoğraflı teslim tutanağı, 4 tekerlek lastik üstü spanzet sabitlemesi ve resmi teslim tutanağı güvencesiyle 7/24 kesintisiz devam eder.'
         ]
       }
     ]
@@ -235,7 +235,7 @@ const REGIONS_SEO_1 = {
         h2: 'İstasyon Mahallesi Oto Kurtarma Fiyatları ve 7/24 Kesintisiz Destek',
         paragraphs: [
           'İstasyon Mahallesi’nden Gebze Oto Sanayi Sitesi’ne, Darıca’daki servislere veya şehirlerarası hedeflere yapacağınız tüm çekimlerde telefonda onaylanan net sabit fiyat geçerlidir. Gece son Marmaray seferinden sonra dahi nöbetçi ekibimiz 7/24 görev başındadır.',
-          'fotoğraflı teslim tutanağı, araç içi mobil POS ile temassız ödeme ve kasko poliçenize uygun KDV’li e-fatura her operasyonumuzda standart olarak sunulur.'
+          'fotoğraflı teslim tutanağı, araç içi nakit ve havale ile temassız ödeme ve kasko poliçenize uygun fotoğraflı teslim tutanağı her operasyonumuzda standart olarak sunulur.'
         ]
       }
     ]
@@ -261,7 +261,7 @@ const REGIONS_SEO_1 = {
         h2: 'Arapçeşme Oto Kurtarma Sabit Fiyat ve Gebze Sanayi Teslimatı',
         paragraphs: [
           'Arapçeşme’den Gebze Oto Sanayi Sitesi’ne, D-100 üzerindeki yetkili servislere veya çevre ilçelerdeki tamirhanelere yapılan tüm taşımalar fotoğraflı teslim tutanağı altındadır. Aracınız yüklenmeden önce net fiyat onaylanır, sürpriz ek masraf kesinlikle çıkarılmaz.',
-          '7/24 nöbetçi çalışma düzenimiz, mobil POS ödeme imkânı ve resmi KDV’li e-fatura hizmetimizle Arapçeşme sakinlerinin her saat yanındayız.'
+          '7/24 nöbetçi çalışma düzenimiz, nakit ve havale ödeme imkânı ve resmi fotoğraflı teslim tutanağı hizmetimizle Arapçeşme sakinlerinin her saat yanındayız.'
         ]
       }
     ]
@@ -287,7 +287,7 @@ const REGIONS_SEO_1 = {
         h2: 'Kirazpınar Oto Kurtarma Fiyatlandırması ve Sigortalı Servis Nakli',
         paragraphs: [
           'Kirazpınar çekici fiyatlarımız uzak mahalle farkı eklenmeden şeffaf ve sabit tarife üzerinden hesaplanır. Telefonda onayladığınız ücret dışında hiçbir ek talep olmadan, tam fotoğraflı teslim tutanağı ve 4 nokta jant koruyucu spanzet sabitlemesiyle hizmet veriyoruz.',
-          'Kirazpınar’dan Gebze Oto Sanayi’ye, D-100 yetkili servislerine, GOSB çevresine veya İstanbul Anadolu Yakası servislerine tek seferde faturalı teslimat sağlıyoruz.'
+          'Kirazpınar’dan Gebze Oto Sanayi’ye, D-100 yetkili servislerine, GOSB çevresine veya İstanbul Anadolu Yakası servislerine tek seferde özenli teslimat sağlıyoruz.'
         ]
       }
     ]
@@ -313,7 +313,7 @@ const REGIONS_SEO_1 = {
         h2: 'Barış Mahallesi Oto Kurtarma: Şeffaf Sabit Fiyat ve özenli Teslimat',
         paragraphs: [
           'Barış Mahallesi’nden Gebze Oto Sanayi Sitesi’ne, D-100 üzerindeki yetkili servislere veya İstanbul–İzmit yönündeki özel tamir merkezinize yapacağınız tüm taşımalarda yükleme öncesi net sabit fiyat sunulur.',
-          'Her operasyonda tam güvenli taşıma fotoğraflı teslim tutanağı, 4 tekerlek lastik üstü bağlama kemerleri, mobil POS ve KDV’li resmi e-fatura güvencesiyle 7/24 yanınızdayız.'
+          'Her operasyonda tam güvenli taşıma fotoğraflı teslim tutanağı, 4 tekerlek lastik üstü bağlama kemerleri, fotoğraflı teslim tutanağı güvencesiyle 7/24 yanınızdayız.'
         ]
       }
     ]
@@ -339,7 +339,7 @@ const REGIONS_SEO_1 = {
         h2: 'Mevlana Mahallesi Oto Kurtarma Sabit Fiyat ve 7/24 Güvenilir Hizmet',
         paragraphs: [
           'Mevlana Mahallesi oto kurtarma çağrılarınızda aracınızı Gebze Oto Sanayi Sitesi’ne, Çayırova servislerine veya tercih ettiğiniz yetkili bayiye fotoğraflı tutanaklu olarak naklediyoruz. Telefonda onaylanan sabit ücret dışında gece veya trafik farkı alınmaz.',
-          '7/24 kesintisiz nöbetçi ekibimiz, araç içi mobil POS cihazımız ve resmi KDV’li e-fatura standardımızla Mevlana Mahallesi’nde her an bir telefon uzağınızdayız.'
+          '7/24 kesintisiz nöbetçi ekibimiz, araç içi nakit ve havale cihazımız ve resmi fotoğraflı teslim tutanağı standardımızla Mevlana Mahallesi’nde her an bir telefon uzağınızdayız.'
         ]
       }
     ]

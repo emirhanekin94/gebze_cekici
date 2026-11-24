@@ -200,6 +200,62 @@
     </image:image>
   </url>
   <url>
+    <loc>https://gebzecekici.tr/bolgeler/hereke-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gebzecekici.tr/images/client-audi-otoyol.webp</image:loc>
+      <image:title>Hereke 7/24 Oto Çekici ve Yol Yardım</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://gebzecekici.tr/images/client-accent-otoyol.webp</image:loc>
+      <image:title>Hereke Saha Kurtarma Operasyonu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gebzecekici.tr/bolgeler/tuzla-sifa-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gebzecekici.tr/images/client-suv-cadde.webp</image:loc>
+      <image:title>Tuzla Şifa Mahallesi 7/24 Oto Çekici ve Yol Yardım</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://gebzecekici.tr/images/client-kia-mahalle.webp</image:loc>
+      <image:title>Tuzla Şifa Mahallesi Saha Kurtarma Operasyonu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gebzecekici.tr/bolgeler/bayramoglu-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gebzecekici.tr/images/client-gece-rangerover.webp</image:loc>
+      <image:title>Bayramoğlu 7/24 Oto Çekici ve Yol Yardım</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://gebzecekici.tr/images/client-suv-yagmur.webp</image:loc>
+      <image:title>Bayramoğlu Saha Kurtarma Operasyonu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gebzecekici.tr/bolgeler/kuzey-marmara-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gebzecekici.tr/images/client-audi-otoyol.webp</image:loc>
+      <image:title>Kuzey Marmara 7/24 Oto Çekici ve Yol Yardım</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://gebzecekici.tr/images/client-gece-rangerover.webp</image:loc>
+      <image:title>Kuzey Marmara Saha Kurtarma Operasyonu</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://gebzecekici.tr/bolgeler/mutlukent-cekici.html</loc>
     <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -477,16 +533,6 @@
     <image:image>
       <image:loc>https://gebzecekici.tr/images/client-accent-otoyol.webp</image:loc>
       <image:title>Dilovası Saha Kurtarma Operasyonu</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://gebzecekici.tr/hizmetler/oto-cekici.html</loc>
-    <lastmod>2026-11-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-    <image:image>
-      <image:loc>https://gebzecekici.tr/images/client-bmw-cekici.webp</image:loc>
-      <image:title>Gebze Kayar Kasa Oto Çekici</image:title>
     </image:image>
   </url>
   <url>

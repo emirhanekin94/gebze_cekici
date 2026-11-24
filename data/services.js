@@ -7,49 +7,6 @@
 
 const SERVICES = [
   {
-    slug: 'oto-cekici',
-    name: 'Kayar Kasa Oto Çekici',
-    shortName: 'Kayar Kasa Çekici',
-    tag: 'Hidrolik Platform',
-    cardImg: 'svc-kayar-kasa',
-    img: 'client-bmw-cekici',
-    metaTitle: 'Gebze Kayar Kasa Oto Çekici | 7/24 Hasarsız Araç Çekme',
-    metaDesc: 'Gebze, GOSB, TEM ve D-100 hattında düşük eğimli hidrolik kayar kasa oto çekici. 10–15 dk varış, özenli taşıma ve sabit fiyat için 0533 945 45 14.',
-    cardDesc: 'Binek ve SUV araçlar için düşük eğimli hidrolik kayar kasa ile 4 noktadan tekerlek sabitlemeli şehir içi ve otoyol çekici hizmeti.',
-    bullets: [
-      'Düşük açılı hidrolik kayar platform',
-      '4 tekerlekten jant koruyucu spanzet sabitleme',
-      'Telefonda net sabit ücret ve 10–15 dk varış'
-    ],
-    lead: 'Gebze içi tüm mahalleler, organize sanayi bölgeleri ve otoyol bağlantılarında hidrolik kayar kasa platformlu araçlarımızla binek ve SUV sınıfı araçları tampona dokunmadan güvenle taşıyoruz.',
-    scenarios: [
-      'Gebze merkez sokakları, D-100 Karayolu veya TEM otoyolunda yaşanan hararet, enjektör, triger, marş dinamosu, debriyaj seti veya elektrik tesisatı arızalarında yürüyemeyen araçların en yakın yetkili ya da özel servise nakli öncelikli uzmanlık alanımızdır. Klasik sabit kasalı eski tip çekiciler, özellikle tampon yüksekliği düşük yeni nesil sedan ve hatchback araçların alt muhafazasına sürtme riski taşır.',
-      'Filomuzda görev yapan tamamı hidrolik piston destekli kayar kasa kurtarıcılar, platformu asfalt zeminle neredeyse sıfır açı yapacak biçimde geriye indirir. Motoru çalışmayan ya da direksiyon hidroliği devre dışı kalmış araçlar, halat ucundaki yumuşak bez çeki sapanı kullanılarak tampon plastiklerine baskı uygulamadan yavaş ve kontrollü biçimde platforma alınır.',
-      'Yükleme tamamlandığında aracın alt salıncaklarına veya jant tellerine metal kanca takılmaz. Dört lastiğin tamamı özel dokuma tekerlek üstü spanzet kemerleri ve tekerlek takozlarıyla platform deliklerine kilitlenir. Bu yöntem sayesinde frenleme ve viraj geçişlerinde araç süspansiyonu doğal esnemesini korur, şasi gerilmez ve rot-balans ayarı bozulmaz.'
-    ],
-    equipmentTitle: 'Kayar Kasa Donanım & Sıfır Hasar Standartları',
-    equipmentPoints: [
-      'Alüminyum takviyeli düşük eğimli kayar rampa ve şasi uzatma takozları',
-      '5 ton çekme kapasiteli uzaktan kumandalı hidrolik tambur vinci',
-      'Çelik jant ve lastik yanaklarını koruyan kauçuk takviyeli 4 nokta bağlama kayışları',
-      'Gece otoyol müdahaleleri için yüksek lümenli LED tepe ikaz barı ve 150 metrelik reflektör güvenlik şeridi',
-      'Yükleme öncesi ve teslimat anında fotoğraflı teslim tutanağı'
-    ],
-    steps: [
-      { title: 'Konum & Arıza Bildirimi', desc: '0533 945 45 14 hattından aramanız veya WhatsApp konumunuzu paylaşmanızla en yakın kayar kasa ekibimiz atanır.' },
-      { title: '10–15 Dakikada Güvenli Yanaşma', desc: 'Trafik akışı dubalarla güvence altına alınır, platform açısı aracınızın şasi yüksekliğine göre ayarlanır.' },
-      { title: 'Temassız Yükleme & Kilitleme', desc: 'Araç çekme gözünden kontrollü vinçle platforma alınır, 4 tekerlek lastik üstü kemerlerle sabitlenir.' },
-      { title: 'Servis Kapısına Teslimat', desc: 'Gebze Sanayi, yetkili servis veya belirttiğiniz otopark noktasına hasarsız indirme ve mobil POS ile faturalandırma yapılır.' }
-    ],
-    pricingNote: 'Kayar kasa oto çekici fiyatlandırması; Gebze içi çıkış mesafesi, gidilecek servis veya ilçe kilometresi ve aracın ağırlık sınıfına göre hesaplanır. Aracınız platforma alınmadan önce net rakam yazılı veya sözlü olarak onayınıza sunulur; yol trafiği nedeniyle bekleme veya gece sürpriz farkı uygulanmaz.',
-    faqs: [
-      { q: 'Ön tamponu alçak araçlar kayar kasaya sürter mi?', a: 'Hayır. Düşük açılı hidrolik rampaya ek olarak kullandığımız ara uzatma rampaları sayesinde rampa eğimi 6 derecenin altına iner; ön ek ve difüzör zemine temas etmez.' },
-      { q: 'Aracımın çekme gözü (çeki demiri) yoksa nasıl yükleniyor?', a: 'Fabrika çekme halkası bulunmayan araçlarda şasi altındaki onaylı kurtarma kancalarına yumuşak tekstil V-sapan bağlanarak plastik tampona değmeden platforma alım yapılır.' },
-      { q: 'Çekici geldiğinde araç içinde yolcu olarak seyahat edebilir miyim?', a: 'Kabin içi çift kişilik yolcu koltuğumuzda araç sahibi ve bir refakatçisi emniyet kemerli şekilde teslimat noktasına kadar ekibimizle birlikte gidebilir.' },
-      { q: 'Kasko poliçemdeki çekici hakkıyla fatura uyumlu mu?', a: 'Evet. KDV’li kurumsal oto kurtarma faturamızı kasko şirketinizin geri ödeme süreçlerinde doğrudan ibraz edebilirsiniz.' }
-    ]
-  },
-  {
     slug: 'oto-kurtarma',
     name: 'Kazalı & Şarampol Oto Kurtarma',
     shortName: 'Oto Kurtarma',
@@ -76,7 +33,7 @@ const SERVICES = [
       'Kırık aks ve patlak tekerlekler için ağır yük taşımalı tekerlek altı polietilen kızaklar',
       'Gece kaza alanını aydınlatan yüksek lümenli LED çalışma lambaları',
       'Yangın söndürme tüpü, akü kutup ayırıcı el aletleri ve güvenlik koni kiti',
-      'Kaza sonrası kasko dosyalarına uygun detaylı KDV’li fatura düzenleme'
+      'Kaza sonrası aracın yetkili veya özel servise fotoğraflı tutanakla teslimi'
     ],
     steps: [
       { title: 'Acil Durum Analizi', desc: 'Telefon görüşmesinde aracın konumu, şarampol eğimi ve tekerleklerin dönüp dönmediği öğrenilerek doğru kurtarıcı yönlendirilir.' },
@@ -89,7 +46,7 @@ const SERVICES = [
       { q: 'Trafik kazası sonrası çekici çağırmadan önce ne yapmalıyım?', a: 'Öncelikle dörtlü ikazları yakıp güvenli bariyer arkasına geçin, yaralanma varsa 112’yi arayın. Maddi hasarlı kazalarda aracın açısını gösteren fotoğrafları çekip kaza tespit tutanağını düzenledikten sonra hemen çekim işlemini başlatabiliriz.' },
       { q: 'Ön tekerleği kopmuş veya direksiyonu kırılmış araç platforma çıkabilir mi?', a: 'Evet. Tekerlek altı ağır yük kızakları ve hidrolik kriko destekleriyle kopuk veya sıkışmış tekerlek sürtünmesiz biçimde kayar kasa üzerine alınır.' },
       { q: 'Çamura saplanan veya bankete kayan SUV araçları çıkarabiliyor musunuz?', a: 'Evet. Uzun metrajlı sentetik kurtarma halatı ve yönlendirici makaralarla asfalt dışındaki çamur, mıcır ve banket zeminlerinden araçları güvenle asfalta çekiyoruz.' },
-      { q: 'Kasko poliçemle çekici ücretini geri alabilir miyim?', a: 'Çoğu kasko poliçesi fatura ibrazı karşılığında kaza kaynaklı kurtarma masrafını poliçe limitleri dahilinde iade eder; faturalarımız bu prosedüre tam uyumludur.' }
+      { q: 'Kaza sonrası aracımı istediğim servise mi götürüyorsunuz?', a: 'Evet. Kaza tespit tutanağı tamamlandıktan sonra aracınızı Gebze, Kocaeli veya İstanbul’daki dilediğiniz yetkili ya da özel servise doğrudan ulaştırıyoruz.' }
     ]
   },
   {
@@ -162,7 +119,7 @@ const SERVICES = [
       'Her araç için ayrı tekerlek sabitleme takozu ve 4 nokta spanzet kilitleme',
       'Sedan, hatchback, SUV ve hafif ticari araç karma yükleme kapasitesi',
       'Düzenli Gebze–İstanbul–Ankara–İzmir–Bursa–Antalya planlı sefer ağı',
-      'Galeri, filo ve bireysel müşteriler için KDV’li kurumsal e-fatura'
+      'Galeri, filo ve bireysel müşteriler için KDV’li kurumsal teslim tutanağı'
     ],
     steps: [
       { title: 'Rota & Araç Adedi Planlaması', desc: 'Taşınacak araç sayısı, modelleri ve çıkış-varış illeri alınarak en yakın sefer planına dahil edilir.' },
@@ -205,7 +162,7 @@ const SERVICES = [
       'Yağmur, rüzgâr ve yol tozuna karşı kapalı branda kasa',
       'Forklift ve transpalet yüklemesine uygun yandan açılır kayar tente',
       'Acil ve önem arz eden özel yükler için kasa içi spanzet sabitleme düzeni',
-      'Bireysel ve OSB kurumsal firmalar için resmi KDV’li nakliye faturası'
+      'Bireysel ve OSB kurumsal firmalar için 7/24 aktarmasız hızlı teslimat'
     ],
     steps: [
       { title: 'Yük Tonajı & Rota Bilgisi', desc: 'Taşınacak yükün ağırlığı (3.5 tona kadar), cinsi ve şehir içi / şehirlerarası varış adresi paylaşılır.' },
@@ -218,7 +175,7 @@ const SERVICES = [
       { q: 'Tenteli aracınız kaç tona kadar yük taşıyabiliyor?', a: 'Tenteli aracımızla 3.5 tona kadar paletli sanayi yükü, koli, makine parçası ve özel ticari malzemeleri şehir içi ve şehirlerarası özenle taşıyoruz.' },
       { q: 'Şehirlerarası acil ve özel yük taşımacılığı yapıyor musunuz?', a: 'Evet. Gebze ve Kocaeli çıkışlı olarak İstanbul, Sakarya, Bursa, Ankara, İzmir ve Türkiye’nin tüm illerine acil ve taşıması önem arz eden özel yüklerinizi aktarmasız taşıyoruz.' },
       { q: 'Forklift ile yandan palet yüklemesi yapılabiliyor mu?', a: 'Evet. Yan tenteleri tamamen açılabilen kasamız sayesinde fabrika ve depo sahalarında forklift ile hızlı palet yüklemesi ve indirmesi yapılabilir.' },
-      { q: 'Kurumsal firmamız adına nakliye faturası kesiyor musunuz?', a: 'Evet. Tüm şehir içi ve şehirlerarası yük taşımacılığı hizmetlerimizde şirketiniz adına resmi KDV’li e-fatura düzenlenir.' }
+      { q: 'Kurumsal firmalar için düzenli şehir içi ve şehirlerarası yük taşımacılığı yapıyor musunuz?', a: 'Evet. Evet. Gebze OSB ve çevre sanayi bölgelerindeki kurumsal firmalar için 3.5 tona kadar özel yük ve acil sevkiyatlarda düzenli nakliye desteği sunuyoruz.' }
     ]
   },
   {
@@ -361,13 +318,13 @@ const SERVICES = [
     bullets: [
       'Maxi-uzun panelvan ve 16+1 servis minibüsüne uygun kasa',
       'OSB ve kurumsal filo anlaşmalı hızlı müdahale',
-      'Kurumsal KDV’li e-fatura ve öncelikli sevk'
+      'Kurumsal fotoğraflı teslim tutanağı ve öncelikli sevk'
     ],
     lead: 'Türkiye’nin en yoğun sanayi havzası olan Gebze, GOSB, TOSB, Güzeller OSB, Şekerpınar ve Dilovası’nda çalışan ticari araçlar için zaman doğrudan üretim maliyetidir. Uzun şasi ve yüksek tonajlı platformlarımızla ticari filoları bekletmiyoruz.',
     scenarios: [
       'Sprinter, Crafter, Master, Ducato, Transit ve Boxer gibi uzun dingil mesafeli (L3/L4) panelvanlar, personel taşıma minibüsleri, çift kabin pikaplar ve soğutuculu kasalı kamyonetler standart binek çekicilerinin platform uzunluğuna ve taşıma kapasitesine sığmaz. Yanlış kapasiteli araçla yapılan yüklemelerde arka çıkıntı tehlikeli biçimde taşar ve şasi güvenliği bozulur.',
       'Ticari segment için ayırdığımız geniş ve uzun şasili hidrolik platformlarımız, yüksek dingil ağırlığına ve uzun aks mesafesine sahip ticari araçları güvenle taşır. Soğuk zincir veya acil malzeme taşıyan araçlarda lojistik aksaklığı en aza indirmek için OSB giriş prosedürlerine hakim sürücülerimiz en hızlı rotadan fabrika kapısına veya otoyola ulaşır.',
-      'Şirket filoları için tek seferlik acil çağrıların yanı sıra düzenli kurumsal faturalandırma, sevk raporlaması ve yetkili ticari araç servislerine doğrudan teslimat imkânı sunuyoruz.'
+      'Şirket filoları için tek seferlik acil çağrıların yanı sıra düzenli kurumsal teslimat süreci, sevk raporlaması ve yetkili ticari araç servislerine doğrudan teslimat imkânı sunuyoruz.'
     ],
     equipmentTitle: 'Ticari & Ağır Hizmet Platform Özellikleri',
     equipmentPoints: [
@@ -375,19 +332,19 @@ const SERVICES = [
       'Yüksek tonajlı çekiş vinci ve ağır sınıf zincirli/spanzetli sabitleme donanımı',
       'OSB tesis ve lojistik depo sahalarında iş güvenliği kurallarına uygun reflektörlü ekipman',
       'Pikap, 4x4 arazi kamyoneti ve kapalı kasa dağıtım araçlarına tam uyum',
-      'Kurumsal firmalar için aynı gün KDV’li e-fatura ve mobil POS ödeme'
+      'Kurumsal firmalar için 7/24 öncelikli sevk ve hızlı teslimat'
     ],
     steps: [
       { title: 'Araç Ölçü & Yük Bilgisi', desc: 'Panelvan, minibüs veya kamyonetin uzunluk sınıfı (L2/L3/L4) ve yüklü/boş durumu alınır.' },
       { title: 'Ağır Platform Sevk', desc: 'Aracın tonajına tam uygun uzun şasi ticari çekici doğrudan konuma yönlendirilir.' },
       { title: 'Güçlendirilmiş Sabitleme', desc: 'Araç dengeli aks dağılımıyla platforma alınıp ağır sınıf bağlama kemerleriyle sabitlenir.' },
-      { title: 'Yetkili Servise Hızlı Teslim', desc: 'Ticari araç yetkili servisi, Gebze Sanayi veya şirket garajına faturalı teslimat tamamlanır.' }
+      { title: 'Yetkili Servise Hızlı Teslim', desc: 'Ticari araç yetkili servisi, Gebze Sanayi veya şirket garajına özenli teslimat tamamlanır.' }
     ],
     pricingNote: 'Ticari araç çekici tarifesi, aracın tonajı, şasi uzunluğu ve teslimat mesafesine göre kurumsal şeffaflıkla belirlenir; şirket onayına sunulmadan işlem başlatılmaz.',
     faqs: [
       { q: 'İçinde malzeme bulunan yüklü panelvanı çekebilir misiniz?', a: 'Yük ağırlığı platformun yasal taşıma sınırları içindeyse güvenle taşıyoruz; aşırı tonajlı paletli yüklerde yük aktarımından sonra hemen çekim sağlıyoruz.' },
       { q: 'Personel servis minibüsü (16+1) sabah vardiyasında arızalandı, ne kadar sürede gelirsiniz?', a: 'GOSB, TOSB, Şekerpınar ve Gebze merkezde nöbetçi ticari çekicimiz ortalama 15–20 dakika içinde ulaşarak yolu ve servis planınızı hızla rahatlatır.' },
-      { q: 'Şirketimiz adına KDV’li fatura kesebilir misiniz?', a: 'Evet. Vergi numaranızı paylaştığınızda ticari kurtarma ve taşıma hizmetimiz için resmi KDV’li e-fatura düzenlenir.' },
+      { q: 'Kurumsal şirket ve OSB filolarına düzenli çekici desteği veriyor musunuz?', a: 'Evet. Evet. GOSB, TOSB, Güzeller OSB ve çevre sanayi bölgelerindeki kurumsal firmalara 7/24 öncelikli ticari çekici ve taşıma desteği sağlıyoruz.' },
       { q: 'Gebze OSB’lerden İstanbul İkitelli veya Tuzla ticari servislerine taşıma yapıyor musunuz?', a: 'Evet. Gebze’den Tuzla, Pendik, Ümraniye, İzmit ve İstanbul’un tüm yetkili ticari araç servislerine doğrudan nakil sağlıyoruz.' }
     ]
   },
@@ -418,7 +375,7 @@ const SERVICES = [
       'Yolculuk boyunca gevşemeyen çift kilitli 4 nokta tekerlek bağlama sistemi',
       'Yükleme öncesi ve teslimat anında fotoğraflı ekspertiz tutanağı',
       'İsteğe bağlı canlı konum paylaşımı ve planlı varış saati bildirimi',
-      'K1 / K2 yetki belgeli yasal taşımacılık ve kurumsal KDV’li e-fatura'
+      'K1 / K2 yetki belgeli yasal taşımacılık ve zamanında teslimat'
     ],
     steps: [
       { title: 'Rota & Sabit Teklif', desc: 'Çıkış ve varış illeri ile araç modeli paylaşılır; köprü, otoyol ve yakıt dahil net sabit fiyat verilir.' },

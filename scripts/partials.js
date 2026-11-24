@@ -136,7 +136,7 @@ function head({ title, description, canonical, ogImage, heroPreload, schemas = [
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=Manrope:wght@700;800&display=swap" media="print" onload="this.media='all'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=Manrope:wght@700;800&display=swap"></noscript>
-  <link rel="stylesheet" href="/css/style.css?v=13">${gtmHeadBlock}
+  <link rel="stylesheet" href="/css/style.css?v=14">${gtmHeadBlock}
   <script>window.__SITE_ADS__=${adsConfig};</script>
 ${schemaBlocks}
 </head>
@@ -249,14 +249,13 @@ function localBusinessSchema({ canonical, areaServed = 'Gebze, Kocaeli', localit
     hasMap: BUSINESS.maps.shareUrl,
     priceRange: '₺₺',
     currenciesAccepted: 'TRY',
-    paymentAccepted: 'Nakit, Kredi Kartı, Mobil POS, Havale',
+    paymentAccepted: 'Nakit, Havale / EFT',
     areaServed,
     knowsAbout: [
-      'Kayar Kasa Oto Çekici',
       'Oto Kurtarma',
       'Aparatlı Çekici',
       'Çoklu Çekici',
-      'Şehir İçi ve Şehirlerarası Yük Taşımacılığı (3.5 Ton Tenteli)',
+      'Gebze Şehir İçi ve Şehirlerarası Taşıma',
       'Özel Yük Taşımacılığı',
       'Yerinde Akü Takviye',
       'Mobil Lastik Yol Yardım',
@@ -355,7 +354,7 @@ function dispatchPanel(selectedRegionName = 'Gebze', formId = 'dispatch-home', e
   return `<div class="dispatch-panel">
   <div class="dispatch-top">
     <div>
-      <span class="dispatch-eyebrow"><span class="live-dot"></span> 26 Bölgede Aktif Nöbetçi</span>
+      <span class="dispatch-eyebrow"><span class="live-dot"></span> ${REGIONS.length} Bölgede Aktif Nöbetçi</span>
       <div class="dispatch-title">Hızlı Çekici &amp; Fiyat Talebi</div>
     </div>
     <div class="dispatch-eta-box">
@@ -465,8 +464,9 @@ function footer() {
         <p class="footer-headline">Gebze’de yolda kaldığınız her an, <span>tek telefonla yanınızdayız.</span></p>
       </div>
       <div class="footer-top-right">
-        <span class="footer-hotline-label"><span class="live-dot"></span> 7/24 Gebze Nöbetçi Hat</span>
+        <span class="footer-hotline-label"><span class="live-dot"></span> 7/24 Gebze Nöbetçi Hatlar</span>
         <a href="tel:${BUSINESS.phoneTel}" class="footer-hotline-num" aria-label="Hemen Ara ${BUSINESS.phoneDisplay}">${BUSINESS.phoneDisplay}</a>
+        <span class="footer-hotline-secondary" data-secondary-tel="+905324917792" role="button" tabindex="0" aria-label="İkinci Hat +90 532 491 77 92">${ICONS.phone} <span>+90 532 491 77 92</span></span>
         <a href="${waUrl('Gebze')}" class="footer-wa-link btn-send-location" data-region="Gebze" target="_blank" rel="noopener noreferrer">WhatsApp’tan Konum Gönder ${ICONS.arrowRight}</a>
       </div>
     </div>
@@ -476,12 +476,12 @@ function footer() {
         <div>
           <div class="f-col-title">Hizmetlerimiz</div>
           <ul class="f-links">
-            <li><a href="/hizmetler/oto-cekici.html">Kayar Kasa Oto Çekici</a></li>
             <li><a href="/hizmetler/oto-kurtarma.html">Kazalı &amp; Şarampol Kurtarma</a></li>
             <li><a href="/hizmetler/aparatli-cekici.html">Aparatlı Çekici</a></li>
             <li><a href="/hizmetler/coklu-cekici.html">Çoklu Çekici</a></li>
-            <li><a href="/hizmetler/tenteli-arac-nakliye.html">Şehirlerarası Yük Taşımacılığı</a></li>
+            <li><a href="/hizmetler/tenteli-arac-nakliye.html">Şehir İçi &amp; Şehirlerarası Taşıma</a></li>
             <li><a href="/hizmetler/aku-takviye.html">Yerinde Akü Takviye</a></li>
+            <li><a href="/hizmetler/ticari-arac-cekici.html">Ticari &amp; OSB Filo Çekici</a></li>
             <li><a href="/hizmetler/">Tüm Hizmetlerimiz</a></li>
           </ul>
         </div>
@@ -490,12 +490,12 @@ function footer() {
           <div class="f-col-title">Popüler Bölgeler</div>
           <ul class="f-links">
             <li><a href="/bolgeler/gebze-merkez-cekici.html">Gebze Çekici</a></li>
-            <li><a href="/bolgeler/gosb-cekici.html">GOSB Çekici</a></li>
-            <li><a href="/bolgeler/tem-gebze-cekici.html">TEM Gebze Çekici</a></li>
-            <li><a href="/bolgeler/d100-gebze-cekici.html">D-100 Gebze Çekici</a></li>
-            <li><a href="/bolgeler/cayirova-cekici.html">Çayırova Çekici</a></li>
             <li><a href="/bolgeler/darica-cekici.html">Darıca Çekici</a></li>
-            <li><a href="/bolgeler/">Tüm 26 Hizmet Bölgesi</a></li>
+            <li><a href="/bolgeler/bayramoglu-cekici.html">Bayramoğlu Çekici</a></li>
+            <li><a href="/bolgeler/tuzla-sifa-cekici.html">Tuzla Şifa Çekici</a></li>
+            <li><a href="/bolgeler/hereke-cekici.html">Hereke Çekici</a></li>
+            <li><a href="/bolgeler/gosb-cekici.html">GOSB Çekici</a></li>
+            <li><a href="/bolgeler/">Tüm ${REGIONS.length} Hizmet Bölgesi</a></li>
           </ul>
         </div>
 
@@ -561,7 +561,7 @@ function mapFacadeCard() {
   <div class="map-facade" data-map-facade data-map-src="${esc(BUSINESS.maps.embedUrl)}">
     <div class="why-icon-wrap">${ICONS.map}</div>
     <h3>Gebze Merkez Nöbetçi Çekici Konumu</h3>
-    <p class="section-desc" style="max-width:38ch;">D-100 &amp; TEM Gebze bağlantı noktasından tüm 26 bölgeye ortalama 10–15 dakikada intikal.</p>
+    <p class="section-desc" style="max-width:38ch;">D-100 &amp; TEM Gebze bağlantı noktasından tüm 30 bölgeye ortalama 10–15 dakikada intikal.</p>
     <div style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;">
       <button type="button" class="btn btn-primary" data-map-load>${ICONS.map} <span>Canlı Haritayı Yükle</span></button>
       <a href="${esc(BUSINESS.maps.shareUrl)}" target="_blank" rel="noopener noreferrer" class="btn btn-outline">${ICONS.pin} <span>Google Haritalarda Aç</span></a>

@@ -3518,6 +3518,55 @@ h1, h2, h3, h4 {
 .footer-hotline-num {
   color: #FBBF24;
 }
+.footer-hotline-secondary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.92);
+  cursor: pointer;
+  margin-top: 2px;
+  transition: color 0.18s var(--ease);
+}
+.footer-hotline-secondary:hover {
+  color: #FBBF24;
+}
+.footer-hotline-secondary svg {
+  width: 15px;
+  height: 15px;
+  color: #FBBF24;
+}
+.mission-vision-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 18px;
+}
+@media (min-width: 768px) {
+  .mission-vision-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 24px;
+  }
+}
+.mv-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-lg);
+  padding: 28px 24px;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.mv-card h3 {
+  font-size: 1.35rem;
+  color: var(--ink);
+}
+.mv-card p {
+  color: var(--ink-2);
+  line-height: 1.68;
+}
 .footer-wa-link {
   color: #4ADE80;
 }
