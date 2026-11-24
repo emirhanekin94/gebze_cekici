@@ -1,0 +1,30 @@
+name: Google Ads IP Ban Sync
+
+on:
+  schedule:
+    - cron: '0 7 */3 * *' # Her 3 gunde bir TSİ 10:00
+  workflow_dispatch:
+
+jobs:
+  sync-ip-bans:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Google Ads SDK
+        run: pip install --no-cache-dir google-ads
+
+      - name: Sync suspicious IPs to Google Ads
+        env:
+          GOOGLE_ADS_CLIENT_ID: ${{ secrets.GOOGLE_ADS_CLIENT_ID }}
+          GOOGLE_ADS_CLIENT_SECRET: ${{ secrets.GOOGLE_ADS_CLIENT_SECRET }}
+          GOOGLE_ADS_DEVELOPER_TOKEN: ${{ secrets.GOOGLE_ADS_DEVELOPER_TOKEN }}
+          GOOGLE_ADS_REFRESH_TOKEN: ${{ secrets.GOOGLE_ADS_REFRESH_TOKEN }}
+          GOOGLE_ADS_LOGIN_CUSTOMER_ID: ${{ secrets.GOOGLE_ADS_LOGIN_CUSTOMER_ID }}
+        run: python scripts/sync_ads_ip_bans.py
