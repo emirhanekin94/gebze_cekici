@@ -9,7 +9,7 @@
 
   var cfg = window.__SITE_ADS__ || {};
   var WHATSAPP_PHONE = cfg.whatsapp || '905339454514';
-  var BRAND_NAME = cfg.brand || 'Gebze Yol Yardım';
+  var BRAND_NAME = cfg.brand || 'Gebze Çekici';
   var PAGE_REGION = cfg.regionName || 'Gebze';
 
   // ── 1. Deferred GA4 & Google Ads (gtag.js) Loader (Zero TBT) ───────────────

@@ -84,6 +84,7 @@ function head({ title, description, canonical, ogImage, heroPreload, schemas = [
 
   const adsConfig = JSON.stringify({
     gtmId: BUSINESS.analytics.gtmId || '',
+    adsGtmId: BUSINESS.analytics.adsGtmId || '',
     ga4Id: BUSINESS.analytics.ga4Id || '',
     adsId: BUSINESS.analytics.adsId || '',
     adsCallConversion: BUSINESS.analytics.adsCallConversion || '',
@@ -93,12 +94,13 @@ function head({ title, description, canonical, ogImage, heroPreload, schemas = [
     regionName
   });
 
-  const gtmHeadBlock = BUSINESS.analytics.gtmId
-    ? `\n  <script async src="https://www.googletagmanager.com/gtm.js?id=${esc(BUSINESS.analytics.gtmId)}"></script>\n  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});</script>`
+  const gtmIds = [BUSINESS.analytics.gtmId, BUSINESS.analytics.adsGtmId].filter(Boolean);
+  const gtmHeadBlock = gtmIds.length
+    ? `\n  ${gtmIds.map(id => `<script async src="https://www.googletagmanager.com/gtm.js?id=${esc(id)}"></script>`).join('\n  ')}\n  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});</script>`
     : '';
 
-  const gtmBodyNoscript = BUSINESS.analytics.gtmId
-    ? `\n<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=${esc(BUSINESS.analytics.gtmId)}" height="0" width="0" style="display:none;visibility:hidden" loading="lazy"></iframe></noscript>`
+  const gtmBodyNoscript = gtmIds.length
+    ? `\n${gtmIds.map(id => `<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=${esc(id)}" height="0" width="0" style="display:none;visibility:hidden" loading="lazy"></iframe></noscript>`).join('\n')}`
     : '';
 
   return `<!DOCTYPE html>
@@ -114,7 +116,7 @@ function head({ title, description, canonical, ogImage, heroPreload, schemas = [
   <meta name="geo.placename" content="${esc(regionName)}, Gebze, Kocaeli">
   <meta name="geo.position" content="${BUSINESS.geo.lat};${BUSINESS.geo.lng}">
   <meta name="ICBM" content="${BUSINESS.geo.lat}, ${BUSINESS.geo.lng}">
-  <meta name="theme-color" content="#111113">
+  <meta name="theme-color" content="#0F294A">
   <link rel="icon" type="image/svg+xml" href="/images/favicon.svg">
   <link rel="manifest" href="/site.webmanifest">
   <meta property="og:type" content="website">
@@ -134,7 +136,7 @@ function head({ title, description, canonical, ogImage, heroPreload, schemas = [
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=Manrope:wght@700;800&display=swap" media="print" onload="this.media='all'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=Manrope:wght@700;800&display=swap"></noscript>
-  <link rel="stylesheet" href="/css/style.css?v=11">${gtmHeadBlock}
+  <link rel="stylesheet" href="/css/style.css?v=13">${gtmHeadBlock}
   <script>window.__SITE_ADS__=${adsConfig};</script>
 ${schemaBlocks}
 </head>
@@ -250,15 +252,16 @@ function localBusinessSchema({ canonical, areaServed = 'Gebze, Kocaeli', localit
     paymentAccepted: 'Nakit, Kredi Kartı, Mobil POS, Havale',
     areaServed,
     knowsAbout: [
-      'Oto Çekici',
+      'Kayar Kasa Oto Çekici',
       'Oto Kurtarma',
-      'Kayar Kasa Çekici',
-      'Kapalı Otopark Çekici',
-      'Ahtapot Vinçli Kurtarıcı',
-      'Elektrikli Araç Taşıma',
+      'Aparatlı Çekici',
+      'Çoklu Çekici',
+      'Şehir İçi ve Şehirlerarası Yük Taşımacılığı (3.5 Ton Tenteli)',
+      'Özel Yük Taşımacılığı',
       'Yerinde Akü Takviye',
       'Mobil Lastik Yol Yardım',
       'OSB Ticari Araç Çekici',
+      'Motosiklet Çekici',
       'Şehirlerarası Araç Taşıma'
     ],
     address: {
@@ -372,10 +375,10 @@ function dispatchPanel(selectedRegionName = 'Gebze', formId = 'dispatch-home', e
       <select class="form-control" id="${formId}-vehicle" name="vehicle">
         <option value="Binek Otomobil">Binek Otomobil</option>
         <option value="SUV / 4x4 Araç">SUV / 4x4 Araç</option>
-        <option value="Elektrikli / Hibrit Araç">Elektrikli / Hibrit Araç</option>
         <option value="Ticari Panelvan / Minibüs">Ticari Panelvan / Minibüs</option>
+        <option value="Çoklu Araç Taşıma">Çoklu Araç Taşıma</option>
+        <option value="Şehir İçi / Şehirlerarası Yük (3.5T Tenteli)">Şehir İçi / Şehirlerarası Yük (3.5T Tenteli)</option>
         <option value="Motosiklet / ATV">Motosiklet / ATV</option>
-        <option value="Forklift / İş Makinesi">Forklift / İş Makinesi</option>
       </select>
     </div>
     <button type="submit" class="btn btn-whatsapp quote-submit-btn">
@@ -383,7 +386,7 @@ function dispatchPanel(selectedRegionName = 'Gebze', formId = 'dispatch-home', e
     </button>
   </form>
   <div class="dispatch-specs">
-    <div class="dispatch-spec-item"><strong>%100</strong><span>Taşıma Kaskosu</span></div>
+    <div class="dispatch-spec-item"><strong>7/24</strong><span>Nöbetçi Filo</span></div>
     <div class="dispatch-spec-item"><strong>Sabit</strong><span>Net Fiyat Onayı</span></div>
     <div class="dispatch-spec-item"><strong>${BUSINESS.rating.value} ★</strong><span>${BUSINESS.rating.count} Yorum</span></div>
   </div>
@@ -413,10 +416,10 @@ function quoteForm(selectedRegionName = 'Gebze', formId = 'quote-main') {
       <select class="form-control" id="${formId}-vehicle" name="vehicle">
         <option value="Binek Otomobil">Binek Otomobil</option>
         <option value="SUV / 4x4 Araç">SUV / 4x4 Araç</option>
-        <option value="Elektrikli / Hibrit Araç">Elektrikli / Hibrit Araç</option>
         <option value="Ticari Panelvan / Minibüs">Ticari Panelvan / Minibüs</option>
+        <option value="Çoklu Araç Taşıma">Çoklu Araç Taşıma</option>
+        <option value="Şehir İçi / Şehirlerarası Yük (3.5T Tenteli)">Şehir İçi / Şehirlerarası Yük (3.5T Tenteli)</option>
         <option value="Motosiklet / ATV">Motosiklet / ATV</option>
-        <option value="Forklift / İş Makinesi">Forklift / İş Makinesi</option>
       </select>
     </div>
     <button type="submit" class="btn btn-whatsapp quote-submit-btn">
@@ -442,7 +445,7 @@ function lightboxModal() {
   return `<div id="gallery-lightbox" class="lightbox" role="dialog" aria-modal="true" aria-label="Saha Fotoğrafı Önizleme">
   <button type="button" id="lightbox-close" class="lightbox-close" aria-label="Kapat">${ICONS.close}</button>
   <div class="lightbox-inner">
-    <img id="lightbox-img" class="lightbox-img" src="/images/gebze-hero-otoyol.webp" alt="Gebze Çekici Saha Operasyonu" width="640" height="360">
+    <img id="lightbox-img" class="lightbox-img" src="/images/client-pickup-osb.webp" alt="Gebze Çekici Saha Operasyonu" width="640" height="360">
     <p id="lightbox-cap" class="lightbox-cap"></p>
   </div>
 </div>`;
@@ -475,10 +478,10 @@ function footer() {
           <ul class="f-links">
             <li><a href="/hizmetler/oto-cekici.html">Kayar Kasa Oto Çekici</a></li>
             <li><a href="/hizmetler/oto-kurtarma.html">Kazalı &amp; Şarampol Kurtarma</a></li>
-            <li><a href="/hizmetler/kapali-otopark-cekici.html">Kapalı Otopark Çekici</a></li>
-            <li><a href="/hizmetler/ahtapot-cekici.html">Ahtapot Vinçli Çekici</a></li>
+            <li><a href="/hizmetler/aparatli-cekici.html">Aparatlı Çekici</a></li>
+            <li><a href="/hizmetler/coklu-cekici.html">Çoklu Çekici</a></li>
+            <li><a href="/hizmetler/tenteli-arac-nakliye.html">Şehirlerarası Yük Taşımacılığı</a></li>
             <li><a href="/hizmetler/aku-takviye.html">Yerinde Akü Takviye</a></li>
-            <li><a href="/hizmetler/ticari-arac-cekici.html">Ticari &amp; OSB Filo Çekici</a></li>
             <li><a href="/hizmetler/">Tüm Hizmetlerimiz</a></li>
           </ul>
         </div>
@@ -486,12 +489,12 @@ function footer() {
         <div>
           <div class="f-col-title">Popüler Bölgeler</div>
           <ul class="f-links">
-            <li><a href="/bolgeler/gebze-merkez-oto-cekici.html">Gebze Çekici</a></li>
-            <li><a href="/bolgeler/gosb-oto-cekici.html">GOSB Çekici</a></li>
-            <li><a href="/bolgeler/tem-gebze-oto-cekici.html">TEM Gebze Çekici</a></li>
-            <li><a href="/bolgeler/d100-gebze-oto-cekici.html">D-100 Gebze Çekici</a></li>
-            <li><a href="/bolgeler/cayirova-oto-cekici.html">Çayırova Çekici</a></li>
-            <li><a href="/bolgeler/darica-oto-cekici.html">Darıca Çekici</a></li>
+            <li><a href="/bolgeler/gebze-merkez-cekici.html">Gebze Çekici</a></li>
+            <li><a href="/bolgeler/gosb-cekici.html">GOSB Çekici</a></li>
+            <li><a href="/bolgeler/tem-gebze-cekici.html">TEM Gebze Çekici</a></li>
+            <li><a href="/bolgeler/d100-gebze-cekici.html">D-100 Gebze Çekici</a></li>
+            <li><a href="/bolgeler/cayirova-cekici.html">Çayırova Çekici</a></li>
+            <li><a href="/bolgeler/darica-cekici.html">Darıca Çekici</a></li>
             <li><a href="/bolgeler/">Tüm 26 Hizmet Bölgesi</a></li>
           </ul>
         </div>

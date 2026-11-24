@@ -2,7 +2,7 @@
 /**
  * ============================================================================
  * SITEMAP.XML (IMAGE SITEMAP) + ROBOTS.TXT + LLMS.TXT + LLMS-FULL.TXT ÜRETİCİ
- * Canonical URL formatı ile %100 birebir uyumludur.
+ * Canonical URL formatı ile tam birebir uyumludur.
  * ============================================================================
  */
 
@@ -51,12 +51,12 @@ const urls = [
     loc: `${SITE_URL}/hakkimizda.html`,
     priority: '0.7',
     changefreq: 'monthly',
-    images: [{ loc: `${SITE_URL}/images/gebze-istasyon.webp`, title: 'Gebze Çekici 7/24 Kaskolu Çekici Filosu' }]
+    images: [{ loc: `${SITE_URL}/images/client-kamyonet.webp`, title: 'Gebze Çekici 7/24 Nöbetçi Çekici Filosu' }]
   },
   { loc: `${SITE_URL}/iletisim.html`, priority: '0.8', changefreq: 'monthly', images: [] },
   { loc: `${SITE_URL}/gizlilik-politikasi.html`, priority: '0.4', changefreq: 'yearly', images: [] },
   ...REGIONS.map(r => ({
-    loc: `${SITE_URL}/bolgeler/${r.slug}-oto-cekici.html`,
+    loc: `${SITE_URL}/bolgeler/${r.slug}-cekici.html`,
     priority: r.featured ? '0.9' : '0.85',
     changefreq: 'weekly',
     images: [
@@ -142,21 +142,21 @@ const llmsTxt = `# ${BUSINESS.name} — Resmi İşletme ve GEO Bilgi Dosyası
 - **Çalışma Saatleri:** ${BUSINESS.hours} (Resmi tatiller ve gece vardiyası dahil)
 - **Ortalama İntikal Süresi:** ${BUSINESS.etaMinutes} (Gebze ve çevre 26 nöbetçi nokta)
 - **Müşteri Puanı:** ${BUSINESS.rating.value} / 5 (${BUSINESS.rating.count} doğrulanmış değerlendirme)
-- **Güvence Standartları:** %100 emtia taşıma kaskosu, K1/K2 yetki belgeli filo, telefonda net sabit fiyat onayı, araç içi mobil POS ve KDV’li resmi e-fatura.
+- **Güvence Standartları:** K1/K2 yetki belgeli filo, fotoğraflı teslim tutanağı, telefonda net sabit fiyat onayı, araç içi mobil POS ve KDV’li resmi e-fatura.
 
 ## Teknik Filo ve Ekipman Kapasitesi
 - **Düşük Eğimli Hidrolik Kayar Kasa:** 6° altı uzatma rampalı, 4 tekerlek lastik üstü spanzet sabitlemeli (binek, spor, SUV ve elektrikli araçlar için sıfır tampon/batarya teması).
 - **1.88m Alçak Tavanlı Kapalı Otopark Çekicisi:** AVM, rezidans ve hastane katlı kapalı garajlarına (-2/-3/-4 katlar) giren kompakt 4x4 gözlüklü kurtarıcı + Go-Jak tekerlek doli arabaları.
 - **4 Tekerden Askılı Ahtapot Vinç:** Şanzımanı P konumunda kilitli, direksiyonu dönmeyen veya iki araç arasında sıkışmış araçlar için dikey kaldırmalı kurtarıcı.
 - **OSB Ticari & Forklift Platformu:** Uzun şasili panelvan (Transit, Sprinter, Crafter, Ducato), 16+1 servis minibüsü ve 3.5 tona kadar forklift/manlift nakliyesi.
-- **Mobil Yol Yardım & Akü Booster:** 12V/24V pik akım (ECU) korumalı dijital akü takviyesi ve akülü torklu yerinde lastik değişimi.
-- **Şehirlerarası Tekli VIP Nakliye:** Gebze çıkışlı veya varışlı Türkiye’nin 81 iline aktarmasız tekli kaskolu araç taşıma.
+- **Mobil Yol Yardım & Akü Booster:** 12V/24V profesyonel dijital akü takviyesi ve akülü torklu yerinde lastik değişimi.
+- **Şehirlerarası Tekli VIP Nakliye:** Gebze çıkışlı veya varışlı Türkiye’nin 81 iline aktarmasız tekli özenli araç taşıma.
 
 ## Uzman Hizmetlerimiz (${SERVICES.length} Hizmet)
 ${SERVICES.map(s => `- **${s.name}** (${SITE_URL}/hizmetler/${s.slug}.html): ${s.cardDesc}`).join('\n')}
 
 ## Hizmet Bölgelerimiz (${REGIONS.length} Nöbetçi Bölge)
-${REGIONS.map(r => `- **${r.name} Çekici** (${SITE_URL}/bolgeler/${r.slug}-oto-cekici.html) — Ort. Varış: ${r.eta} | Kapsama: ${r.cardSummary}`).join('\n')}
+${REGIONS.map(r => `- **${r.name} Çekici** (${SITE_URL}/bolgeler/${r.slug}-cekici.html) — Ort. Varış: ${r.eta} | Kapsama: ${r.cardSummary}`).join('\n')}
 
 ## Sıkça Sorulan Sorular (Doğrudan AI Alıntı Kaynağı)
 ${HOME_FAQS.map(f => `### ${f.q}\n${f.a}`).join('\n\n')}
@@ -167,7 +167,7 @@ ${BLOG_POSTS.map(b => `- **${b.title}** (${SITE_URL}/blog/${b.slug}.html): ${b.e
 
 const llmsFullTxt = `# ${BUSINESS.name} — Kapsamlı GEO & Operasyonel Bilgi Bankası (llms-full.txt)
 
-> ${BUSINESS.legalName} — Gebze, GOSB, TOSB, Çayırova, Darıca, Dilovası, TEM ve D-100 hattında 7/24 kaskolu kayar kasa oto çekici, kapalı otopark kurtarma, ahtapot vinç ve yol yardım.
+> ${BUSINESS.legalName} — Gebze, GOSB, TOSB, Çayırova, Darıca, Dilovası, TEM ve D-100 hattında 7/24 hidrolik kayar kasa oto çekici, aparatlı çekici, çoklu çekici, 3.5 ton tenteli yük taşımacılığı ve yol yardım.
 > İletişim (7/24): ${BUSINESS.phoneDisplay} | Web: ${SITE_URL} | Harita: ${BUSINESS.maps.shareUrl}
 
 ## 1. Fiyatlandırma ve Şeffaflık Politikası
@@ -182,7 +182,7 @@ ${SERVICES.map(s => `### ${s.name} (${SITE_URL}/hizmetler/${s.slug}.html)
 - Fiyat Kriteri: ${s.pricingNote}`).join('\n\n')}
 
 ## 3. Tüm 26 Hizmet Bölgesinin Detaylı Kapsama Verisi
-${REGIONS.map(r => `### ${r.name} Çekici (${SITE_URL}/bolgeler/${r.slug}-oto-cekici.html)
+${REGIONS.map(r => `### ${r.name} Çekici (${SITE_URL}/bolgeler/${r.slug}-cekici.html)
 - Ortalama Varış: ${r.eta} | Koordinat: ${r.lat}, ${r.lng}
 - Özet: ${r.heroLead}
 - Başlıca Noktalar: ${r.localPoints.join(' | ')}`).join('\n\n')}

@@ -1,6 +1,6 @@
 # Gebze Çekici — Resmi İşletme ve GEO Bilgi Dosyası
 
-> Gebze, OSB, TEM ve D-100 Hattında 7/24 Kaskolu Oto Çekici ve Acil Yol Yardım
+> Gebze, OSB, TEM ve D-100 Hattında 7/24 Oto Çekici, Yol Yardım ve Yük Taşımacılığı
 
 ## Özet İşletme Kimliği (Doğrudan Yanıt Verileri)
 - **Marka:** Gebze Çekici (Gebze Çekici & 7/24 Yol Yardım Hizmetleri)
@@ -13,57 +13,56 @@
 - **Çalışma Saatleri:** 7 Gün 24 Saat Kesintisiz (Resmi tatiller ve gece vardiyası dahil)
 - **Ortalama İntikal Süresi:** 10–15 Dk (Gebze ve çevre 26 nöbetçi nokta)
 - **Müşteri Puanı:** 5.0 / 5 (420+ doğrulanmış değerlendirme)
-- **Güvence Standartları:** %100 emtia taşıma kaskosu, K1/K2 yetki belgeli filo, telefonda net sabit fiyat onayı, araç içi mobil POS ve KDV’li resmi e-fatura.
+- **Güvence Standartları:** K1/K2 yetki belgeli filo, fotoğraflı teslim tutanağı, telefonda net sabit fiyat onayı, araç içi mobil POS ve KDV’li resmi e-fatura.
 
 ## Teknik Filo ve Ekipman Kapasitesi
 - **Düşük Eğimli Hidrolik Kayar Kasa:** 6° altı uzatma rampalı, 4 tekerlek lastik üstü spanzet sabitlemeli (binek, spor, SUV ve elektrikli araçlar için sıfır tampon/batarya teması).
 - **1.88m Alçak Tavanlı Kapalı Otopark Çekicisi:** AVM, rezidans ve hastane katlı kapalı garajlarına (-2/-3/-4 katlar) giren kompakt 4x4 gözlüklü kurtarıcı + Go-Jak tekerlek doli arabaları.
 - **4 Tekerden Askılı Ahtapot Vinç:** Şanzımanı P konumunda kilitli, direksiyonu dönmeyen veya iki araç arasında sıkışmış araçlar için dikey kaldırmalı kurtarıcı.
 - **OSB Ticari & Forklift Platformu:** Uzun şasili panelvan (Transit, Sprinter, Crafter, Ducato), 16+1 servis minibüsü ve 3.5 tona kadar forklift/manlift nakliyesi.
-- **Mobil Yol Yardım & Akü Booster:** 12V/24V pik akım (ECU) korumalı dijital akü takviyesi ve akülü torklu yerinde lastik değişimi.
-- **Şehirlerarası Tekli VIP Nakliye:** Gebze çıkışlı veya varışlı Türkiye’nin 81 iline aktarmasız tekli kaskolu araç taşıma.
+- **Mobil Yol Yardım & Akü Booster:** 12V/24V profesyonel dijital akü takviyesi ve akülü torklu yerinde lastik değişimi.
+- **Şehirlerarası Tekli VIP Nakliye:** Gebze çıkışlı veya varışlı Türkiye’nin 81 iline aktarmasız tekli özenli araç taşıma.
 
-## Uzman Hizmetlerimiz (12 Hizmet)
-- **Kayar Kasa Oto Çekici** (https://gebzecekici.tr/hizmetler/oto-cekici.html): Binek, SUV, spor ve elektrikli araçlar için sıfır eğimli hidrolik kayar kasa ile 4 noktadan tekerlek sabitlemeli şehir içi ve otoyol çekici.
-- **Kazalı & Şarampol Oto Kurtarma** (https://gebzecekici.tr/hizmetler/oto-kurtarma.html): Trafik kazası, bariyer teması, şarampole kayma veya yürür aksamı hasarlı araçlar için vinçli ve paten aparatlı profesyonel oto kurtarma.
-- **Kapalı Otopark Çekici** (https://gebzecekici.tr/hizmetler/kapali-otopark-cekici.html): AVM, rezidans, hastane ve site katlı otoparklarının alçak tavan ve dar spiral rampalarına rahatça giren 1.90m yüksekliğinde özel çekici.
-- **Ahtapot Çekici & Vinçli Kurtarma** (https://gebzecekici.tr/hizmetler/ahtapot-cekici.html): Tekerleği dönmeyen, şanzımanı P konumunda kilitli, dört çeker (AWD) veya dar açıda sıkışmış araçların vinçle dikey kaldırılarak yüklenmesi.
-- **Yerinde Akü Takviye** (https://gebzecekici.tr/hizmetler/aku-takviye.html): Start-Stop, hibrit ve elektronik beyinli araçlar için voltaj dalgalanmasını önleyen dijital akım korumalı booster ile 7/24 yerinde akü takviye.
-- **Mobil Lastik Yol Yardım** (https://gebzecekici.tr/hizmetler/lastik-yol-yardim.html): Otoyolda veya gece karanlığında lastiği patlayan, bijonu kaynamış ya da stepnesi bulunmayan sürücüler için güvenli yerinde değişim ve lastikçi nakli.
+## Uzman Hizmetlerimiz (11 Hizmet)
+- **Kayar Kasa Oto Çekici** (https://gebzecekici.tr/hizmetler/oto-cekici.html): Binek ve SUV araçlar için düşük eğimli hidrolik kayar kasa ile 4 noktadan tekerlek sabitlemeli şehir içi ve otoyol çekici hizmeti.
+- **Kazalı & Şarampol Oto Kurtarma** (https://gebzecekici.tr/hizmetler/oto-kurtarma.html): Trafik kazası, bariyer teması, şarampole kayma veya yürür aksamı hasarlı araçlar için kayar kasa ve tekerlek kızaklarıyla profesyonel oto kurtarma.
+- **Aparatlı Çekici** (https://gebzecekici.tr/hizmetler/aparatli-cekici.html): Vitesi boşa alınamayan, elektronik el freni kilitli kalan veya tekerleği dönmeyen araçlar için tekerlek altı aparatlı ve patenli hasarsız çekici.
+- **Çoklu Çekici** (https://gebzecekici.tr/hizmetler/coklu-cekici.html): Birden fazla otomobil, filo aracı, galeri stoğu veya şehirlerarası ekonomik araç transferi için çift katlı çoklu çekici nakliye hizmeti.
+- **Şehir İçi & Şehirlerarası Yük Taşımacılığı** (https://gebzecekici.tr/hizmetler/tenteli-arac-nakliye.html): 3.5 tona kadar tenteli aracımızla şehir içi ve şehirlerarası özel yük taşımacılığı. Acil ve taşıması önem arz eden yükleriniz özenle taşınır.
+- **Yerinde Akü Takviye** (https://gebzecekici.tr/hizmetler/aku-takviye.html): Otomobil, SUV ve ticari araçlarda boşalan aküler için 12V/24V profesyonel booster cihazıyla çekiciye gerek kalmadan 7/24 yerinde akü takviye.
+- **Mobil Lastik Yol Yardım** (https://gebzecekici.tr/hizmetler/lastik-yol-yardim.html): Otoyolda veya gece karanlığında lastiği patlayan, stepne değişimi gereken ya da yedek lastiği bulunmayan sürücüler için 7/24 yerinde destek ve lastikçi nakli.
 - **Motosiklet Çekici & Nakliye** (https://gebzecekici.tr/hizmetler/motosiklet-cekici.html): Scooter’dan 1000cc racing ve ağır enduro motosikletlere kadar ön tekerlek kıskacı ve yumuşak gidon kayışlarıyla dik ve çiziksiz taşıma.
 - **Ticari, Panelvan & OSB Filo Çekici** (https://gebzecekici.tr/hizmetler/ticari-arac-cekici.html): OSB lojistik araçları, uzun şasi panelvanlar, personel servis minibüsleri, 4x4 pikaplar ve frigorifik kamyonetler için yüksek tonajlı çekici.
-- **Forklift & İş Makinesi Taşıma** (https://gebzecekici.tr/hizmetler/is-makinesi-tasima.html): Fabrikalar, depolar ve şantiyeler arası akülü/dizel forklift, manlift, makaslı platform, mini kepçe ve traktör için güvenli rampa taşıma.
-- **Şehirlerarası Araç Taşıma** (https://gebzecekici.tr/hizmetler/sehirlerarasi-arac-tasima.html): Gebze çıkışlı veya Gebze varışlı sıfır kilometre, ikinci el, arızalı veya lüks araçlar için 81 ile tekli VIP ve kaskolu şehirlerarası nakliye.
-- **Lüks, Spor & Elektrikli Araç Çekici** (https://gebzecekici.tr/hizmetler/kazali-luks-arac-tasima.html): Alçak şasili spor otomobiller, premium sedanlar ve Togg, Tesla, Porsche Taycan gibi elektrikli araçlar için ekstra uzun rampalı VIP nakil.
-- **Karavan, ATV & Özel Araç Taşıma** (https://gebzecekici.tr/hizmetler/atv-karavan-ozel-tasima.html): Çekme karavan, motokaravan, ATV/UTV arazi araçları, klasik otomobiller ve özel proje araçları için dengeli ve kaskolu nakliye.
+- **Şehirlerarası Araç Taşıma** (https://gebzecekici.tr/hizmetler/sehirlerarasi-arac-tasima.html): Gebze çıkışlı veya Gebze varışlı sıfır kilometre, ikinci el veya arızalı araçlar için 81 ile kapıdan kapıya güvenli şehirlerarası nakliye.
+- **Karavan, ATV & Özel Araç Taşıma** (https://gebzecekici.tr/hizmetler/atv-karavan-ozel-tasima.html): Çekme karavan, motokaravan, ATV/UTV arazi araçları, klasik otomobiller ve özel proje araçları için dengeli platform nakliyesi.
 
 ## Hizmet Bölgelerimiz (26 Nöbetçi Bölge)
-- **Gebze Çekici** (https://gebzecekici.tr/bolgeler/gebze-merkez-oto-cekici.html) — Ort. Varış: 10 Dk | Kapsama: Hacıhalil, Sultan Orhan, Osman Yılmaz, Yeni Bağdat Caddesi ve Eski Çarşı hattında 7/24 anında müdahale.
-- **GOSB Çekici** (https://gebzecekici.tr/bolgeler/gosb-oto-cekici.html) — Ort. Varış: 10 Dk | Kapsama: GOSB İhsan Dede Caddesi, Tembelova bağlantısı, 1000–3000. sokaklar ve fabrika sahalarına 7/24 kurumsal çekici.
-- **Beylikbağı Çekici** (https://gebzecekici.tr/bolgeler/beylikbagi-oto-cekici.html) — Ort. Varış: 10 Dk | Kapsama: Beylikbağı, Ulus, Hürriyet, Yavuz Selim, Ankara Caddesi ve D-100 kuzey bağlantısında 7/24 ekonomik ve hızlı çekici.
-- **TEM Gebze Çekici** (https://gebzecekici.tr/bolgeler/tem-gebze-oto-cekici.html) — Ort. Varış: 10–15 Dk | Kapsama: O-4 TEM Anadolu Otoyolu Gebze Gişeleri, Şekerpınar Gişeleri, Muallimköy ve Dilovası yönünde 7/24 acil otoyol çekici.
-- **Çayırova Çekici** (https://gebzecekici.tr/bolgeler/cayirova-oto-cekici.html) — Ort. Varış: 10–15 Dk | Kapsama: Çayırova Özgürlük, Yenimahalle, Akse, Atatürk, İnönü, Emek mahalleleri ve Fatih Caddesi’nde 7/24 hızlı çekici.
-- **Darıca Çekici** (https://gebzecekici.tr/bolgeler/darica-oto-cekici.html) — Ort. Varış: 10–15 Dk | Kapsama: Darıca Merkez, Bayramoğlu Yarımadası, Fevzi Çakmak, Kazım Karabekir, Osmangazi, Nenehatun ve sahil yolunda 7/24 çekici.
-- **Mutlukent Çekici** (https://gebzecekici.tr/bolgeler/mutlukent-oto-cekici.html) — Ort. Varış: 10 Dk | Kapsama: Mutlukent Bulvarı, Yenikent, site kapalı otoparkları ve TEM bağlantı kavşağında 7/24 sessiz ve hasarsız çekici.
-- **Tatlıkuyu Çekici** (https://gebzecekici.tr/bolgeler/tatlikuyu-oto-cekici.html) — Ort. Varış: 8–12 Dk | Kapsama: Tatlıkuyu Vadisi, Gebze Center AVM, Ahmet Penbegüllü Bulvarı ve D-100 güney bağlantısında 8–12 dk varış.
-- **İstasyon Mahallesi Çekici** (https://gebzecekici.tr/bolgeler/istasyon-oto-cekici.html) — Ort. Varış: 10–15 Dk | Kapsama: Gebze Marmaray & YHT Garı, İstasyon Caddesi, İbrahimağa ve Eskihisar geçiş hattında 7/24 hızlı oto kurtarma.
-- **Arapçeşme Çekici** (https://gebzecekici.tr/bolgeler/arapcesme-oto-cekici.html) — Ort. Varış: 10–12 Dk | Kapsama: Arapçeşme, Kavaklı Caddesi, Şehit Oktay Kaya Caddesi ve Gaziler bağlantısında 7/24 hızlı oto kurtarma.
-- **Kirazpınar Çekici** (https://gebzecekici.tr/bolgeler/kirazpinar-oto-cekici.html) — Ort. Varış: 12–15 Dk | Kapsama: Kirazpınar, Emlak Konutları, TOKİ siteleri, TEM kuzey bağlantısı ve Sultan Orhan sanayi aksında 7/24 çekici.
-- **Barış Mahallesi Çekici** (https://gebzecekici.tr/bolgeler/baris-mahallesi-oto-cekici.html) — Ort. Varış: 10 Dk | Kapsama: Barış Mahallesi, TÜBİTAK MAM yolu, Dr. Zeki Acar Caddesi ve D-100 güney hattında 7/24 hızlı oto çekici.
-- **Mevlana Mahallesi Çekici** (https://gebzecekici.tr/bolgeler/mevlana-mahallesi-oto-cekici.html) — Ort. Varış: 10–14 Dk | Kapsama: Mevlana Mahallesi, Issıkgöl Caddesi, Somuncu Baba çevresi ve Çayırova sınır hattında 7/24 hızlı çekici.
-- **Adem Yavuz Çekici** (https://gebzecekici.tr/bolgeler/adem-yavuz-oto-cekici.html) — Ort. Varış: 12–15 Dk | Kapsama: Adem Yavuz, Cumhuriyet Mahallesi, Yeni Bağdat üst aksı ve Şekerpınar bağlantı yolunda 7/24 hızlı oto çekici.
-- **Mustafapaşa Çekici** (https://gebzecekici.tr/bolgeler/mustafapasa-oto-cekici.html) — Ort. Varış: 10 Dk | Kapsama: Mustafapaşa, İnönü Mahallesi, Bağdat Caddesi, Şehit Yılmaz Argon Caddesi ve Eski Çarşı kuzeyinde 7/24 çekici.
-- **Mimar Sinan Çekici** (https://gebzecekici.tr/bolgeler/mimarsinan-oto-cekici.html) — Ort. Varış: 10 Dk | Kapsama: Mimar Sinan, Köşklü Çeşme, İstanbul Caddesi ve D-100 kuzey yan yol bağlantısında 7/24 hızlı oto çekici.
-- **TOSB Çekici** (https://gebzecekici.tr/bolgeler/tosb-oto-cekici.html) — Ort. Varış: 12–15 Dk | Kapsama: TOSB Otomotiv Yan Sanayi İhtisas OSB, 1. Cadde, Şekerpınar–TOSB bağlantı yolu ve fabrika sahalarında 7/24 çekici.
-- **Güzeller OSB Çekici** (https://gebzecekici.tr/bolgeler/guzeller-osb-oto-cekici.html) — Ort. Varış: 10–14 Dk | Kapsama: Güzeller OSB, Gebze Plastikçiler OSB (GEPOSB), İnönü–Güzeller geçişi ve TEM bağlantısında 7/24 oto ve ticari çekici.
-- **Bilişim Vadisi Çekici** (https://gebzecekici.tr/bolgeler/bilisim-vadisi-oto-cekici.html) — Ort. Varış: 12–15 Dk | Kapsama: Bilişim Vadisi, Muallimköy, Togg Teknoloji Kampüsü, Osmangazi bağlantı kavşağı ve sahil aksında 7/24 EV & VIP çekici.
-- **Pelitli Çekici** (https://gebzecekici.tr/bolgeler/pelitli-oto-cekici.html) — Ort. Varış: 15–18 Dk | Kapsama: Pelitli, Pelitli Sanayi, Kuzey Marmara Pelitli Gişeleri, Mollafenari, Cumaköy ve Ballıkayalar yolunda 7/24 kurtarıcı.
-- **Balçık Çekici** (https://gebzecekici.tr/bolgeler/balcik-oto-cekici.html) — Ort. Varış: 12–15 Dk | Kapsama: Balçık Mahallesi, Balçık Sanayi, Tembelova, Şekerpınar–Pelitli lojistik hattı ve depo sahalarında 7/24 çekici.
-- **Eskihisar Çekici** (https://gebzecekici.tr/bolgeler/eskihisar-oto-cekici.html) — Ort. Varış: 10–14 Dk | Kapsama: Eskihisar–Topçular Feribot İskelesi, Eskihisar Kalesi, sahil rampası ve Feribot Yolu Caddesi’nde 7/24 acil çekici.
-- **D-100 Gebze Çekici** (https://gebzecekici.tr/bolgeler/d100-gebze-oto-cekici.html) — Ort. Varış: 8–12 Dk | Kapsama: D-100 Gebze geçişi, Anibal Kavşağı, Gebze Center önü, Tatlıkuyu ve Çayırova–Dilovası karayolu hattında 8–12 dk varış.
-- **Osmangazi Köprüsü Çekici** (https://gebzecekici.tr/bolgeler/osmangazi-koprusu-oto-cekici.html) — Ort. Varış: 12–18 Dk | Kapsama: Osmangazi Köprüsü kuzey yaklaşımı, Muallimköy Gişeleri, O-5 İzmir Otoyolu çıkışı ve O-7 Kuzey Marmara hattında 7/24 çekici.
-- **Şekerpınar Çekici** (https://gebzecekici.tr/bolgeler/sekerpinar-oto-cekici.html) — Ort. Varış: 10–15 Dk | Kapsama: Şekerpınar, banka operasyon merkezleri, lojistik depolar, TEM Şekerpınar Gişeleri ve TOSB geçişinde 7/24 kurumsal çekici.
-- **Dilovası Çekici** (https://gebzecekici.tr/bolgeler/dilovasi-oto-cekici.html) — Ort. Varış: 12–18 Dk | Kapsama: Dilovası Merkez, Diliskelesi, İMES OSB, Makine İhtisas OSB, Tavşancıl ve D-100 Dilovası Rampası’nda 7/24 ağır & binek çekici.
+- **Gebze Çekici** (https://gebzecekici.tr/bolgeler/gebze-merkez-cekici.html) — Ort. Varış: 10 Dk | Kapsama: Hacıhalil, Sultan Orhan, Osman Yılmaz, Yeni Bağdat Caddesi ve Eski Çarşı hattında 7/24 anında müdahale.
+- **GOSB Çekici** (https://gebzecekici.tr/bolgeler/gosb-cekici.html) — Ort. Varış: 10 Dk | Kapsama: GOSB İhsan Dede Caddesi, Tembelova bağlantısı, 1000–3000. sokaklar ve fabrika sahalarına 7/24 kurumsal çekici.
+- **Beylikbağı Çekici** (https://gebzecekici.tr/bolgeler/beylikbagi-cekici.html) — Ort. Varış: 10 Dk | Kapsama: Beylikbağı, Ulus, Hürriyet, Yavuz Selim, Ankara Caddesi ve D-100 kuzey bağlantısında 7/24 ekonomik ve hızlı çekici.
+- **TEM Gebze Çekici** (https://gebzecekici.tr/bolgeler/tem-gebze-cekici.html) — Ort. Varış: 10–15 Dk | Kapsama: O-4 TEM Anadolu Otoyolu Gebze Gişeleri, Şekerpınar Gişeleri, Muallimköy ve Dilovası yönünde 7/24 acil otoyol çekici.
+- **Çayırova Çekici** (https://gebzecekici.tr/bolgeler/cayirova-cekici.html) — Ort. Varış: 10–15 Dk | Kapsama: Çayırova Özgürlük, Yenimahalle, Akse, Atatürk, İnönü, Emek mahalleleri ve Fatih Caddesi’nde 7/24 hızlı çekici.
+- **Darıca Çekici** (https://gebzecekici.tr/bolgeler/darica-cekici.html) — Ort. Varış: 10–15 Dk | Kapsama: Darıca Merkez, Bayramoğlu Yarımadası, Fevzi Çakmak, Kazım Karabekir, Osmangazi, Nenehatun ve sahil yolunda 7/24 çekici.
+- **Mutlukent Çekici** (https://gebzecekici.tr/bolgeler/mutlukent-cekici.html) — Ort. Varış: 10 Dk | Kapsama: Mutlukent Bulvarı, Yenikent, site kapalı otoparkları ve TEM bağlantı kavşağında 7/24 sessiz ve hasarsız çekici.
+- **Tatlıkuyu Çekici** (https://gebzecekici.tr/bolgeler/tatlikuyu-cekici.html) — Ort. Varış: 8–12 Dk | Kapsama: Tatlıkuyu Vadisi, Gebze Center AVM, Ahmet Penbegüllü Bulvarı ve D-100 güney bağlantısında 8–12 dk varış.
+- **İstasyon Mahallesi Çekici** (https://gebzecekici.tr/bolgeler/istasyon-cekici.html) — Ort. Varış: 10–15 Dk | Kapsama: Gebze Marmaray & YHT Garı, İstasyon Caddesi, İbrahimağa ve Eskihisar geçiş hattında 7/24 hızlı oto kurtarma.
+- **Arapçeşme Çekici** (https://gebzecekici.tr/bolgeler/arapcesme-cekici.html) — Ort. Varış: 10–12 Dk | Kapsama: Arapçeşme, Kavaklı Caddesi, Şehit Oktay Kaya Caddesi ve Gaziler bağlantısında 7/24 hızlı oto kurtarma.
+- **Kirazpınar Çekici** (https://gebzecekici.tr/bolgeler/kirazpinar-cekici.html) — Ort. Varış: 12–15 Dk | Kapsama: Kirazpınar, Emlak Konutları, TOKİ siteleri, TEM kuzey bağlantısı ve Sultan Orhan sanayi aksında 7/24 çekici.
+- **Barış Mahallesi Çekici** (https://gebzecekici.tr/bolgeler/baris-mahallesi-cekici.html) — Ort. Varış: 10 Dk | Kapsama: Barış Mahallesi, TÜBİTAK MAM yolu, Dr. Zeki Acar Caddesi ve D-100 güney hattında 7/24 hızlı oto çekici.
+- **Mevlana Mahallesi Çekici** (https://gebzecekici.tr/bolgeler/mevlana-mahallesi-cekici.html) — Ort. Varış: 10–14 Dk | Kapsama: Mevlana Mahallesi, Issıkgöl Caddesi, Somuncu Baba çevresi ve Çayırova sınır hattında 7/24 hızlı çekici.
+- **Adem Yavuz Çekici** (https://gebzecekici.tr/bolgeler/adem-yavuz-cekici.html) — Ort. Varış: 12–15 Dk | Kapsama: Adem Yavuz, Cumhuriyet Mahallesi, Yeni Bağdat üst aksı ve Şekerpınar bağlantı yolunda 7/24 hızlı oto çekici.
+- **Mustafapaşa Çekici** (https://gebzecekici.tr/bolgeler/mustafapasa-cekici.html) — Ort. Varış: 10 Dk | Kapsama: Mustafapaşa, İnönü Mahallesi, Bağdat Caddesi, Şehit Yılmaz Argon Caddesi ve Eski Çarşı kuzeyinde 7/24 çekici.
+- **Mimar Sinan Çekici** (https://gebzecekici.tr/bolgeler/mimarsinan-cekici.html) — Ort. Varış: 10 Dk | Kapsama: Mimar Sinan, Köşklü Çeşme, İstanbul Caddesi ve D-100 kuzey yan yol bağlantısında 7/24 hızlı oto çekici.
+- **TOSB Çekici** (https://gebzecekici.tr/bolgeler/tosb-cekici.html) — Ort. Varış: 12–15 Dk | Kapsama: TOSB Otomotiv Yan Sanayi İhtisas OSB, 1. Cadde, Şekerpınar–TOSB bağlantı yolu ve fabrika sahalarında 7/24 çekici.
+- **Güzeller OSB Çekici** (https://gebzecekici.tr/bolgeler/guzeller-osb-cekici.html) — Ort. Varış: 10–14 Dk | Kapsama: Güzeller OSB, Gebze Plastikçiler OSB (GEPOSB), İnönü–Güzeller geçişi ve TEM bağlantısında 7/24 oto ve ticari çekici.
+- **Bilişim Vadisi Çekici** (https://gebzecekici.tr/bolgeler/bilisim-vadisi-cekici.html) — Ort. Varış: 12–15 Dk | Kapsama: Bilişim Vadisi, Muallimköy, Togg Teknoloji Kampüsü, Osmangazi bağlantı kavşağı ve sahil aksında 7/24 EV & VIP çekici.
+- **Pelitli Çekici** (https://gebzecekici.tr/bolgeler/pelitli-cekici.html) — Ort. Varış: 15–18 Dk | Kapsama: Pelitli, Pelitli Sanayi, Kuzey Marmara Pelitli Gişeleri, Mollafenari, Cumaköy ve Ballıkayalar yolunda 7/24 kurtarıcı.
+- **Balçık Çekici** (https://gebzecekici.tr/bolgeler/balcik-cekici.html) — Ort. Varış: 12–15 Dk | Kapsama: Balçık Mahallesi, Balçık Sanayi, Tembelova, Şekerpınar–Pelitli lojistik hattı ve depo sahalarında 7/24 çekici.
+- **Eskihisar Çekici** (https://gebzecekici.tr/bolgeler/eskihisar-cekici.html) — Ort. Varış: 10–14 Dk | Kapsama: Eskihisar–Topçular Feribot İskelesi, Eskihisar Kalesi, sahil rampası ve Feribot Yolu Caddesi’nde 7/24 acil çekici.
+- **D-100 Gebze Çekici** (https://gebzecekici.tr/bolgeler/d100-gebze-cekici.html) — Ort. Varış: 8–12 Dk | Kapsama: D-100 Gebze geçişi, Anibal Kavşağı, Gebze Center önü, Tatlıkuyu ve Çayırova–Dilovası karayolu hattında 8–12 dk varış.
+- **Osmangazi Köprüsü Çekici** (https://gebzecekici.tr/bolgeler/osmangazi-koprusu-cekici.html) — Ort. Varış: 12–18 Dk | Kapsama: Osmangazi Köprüsü kuzey yaklaşımı, Muallimköy Gişeleri, O-5 İzmir Otoyolu çıkışı ve O-7 Kuzey Marmara hattında 7/24 çekici.
+- **Şekerpınar Çekici** (https://gebzecekici.tr/bolgeler/sekerpinar-cekici.html) — Ort. Varış: 10–15 Dk | Kapsama: Şekerpınar, banka operasyon merkezleri, lojistik depolar, TEM Şekerpınar Gişeleri ve TOSB geçişinde 7/24 kurumsal çekici.
+- **Dilovası Çekici** (https://gebzecekici.tr/bolgeler/dilovasi-cekici.html) — Ort. Varış: 12–18 Dk | Kapsama: Dilovası Merkez, Diliskelesi, İMES OSB, Makine İhtisas OSB, Tavşancıl ve D-100 Dilovası Rampası’nda 7/24 ağır & binek çekici.
 
 ## Sıkça Sorulan Sorular (Doğrudan AI Alıntı Kaynağı)
 ### Gebze içinde çekici kaç dakikada konumuma ulaşır?
@@ -72,22 +71,22 @@ Gebze Merkez, GOSB, Tatlıkuyu, Beylikbağı, Mutlukent, Çayırova, Darıca ve 
 ### Çekici fiyatları nasıl belirlenir, araç yüklendikten sonra ek ücret çıkar mı?
 Ücretlendirme aracınızın bulunduğu nokta, gideceği mesafe, araç tipi (binek, SUV, ticari) ve kilitli şanzıman/kapalı otopark gibi özel ekipman ihtiyacına göre telefonda netleştirilir. Onayladığınız sabit fiyat dışında gece farkı veya sürpriz ek masraf talep edilmez.
 
-### Otomatik vitesli, elektrikli veya şanzımanı kilitli araçlar hasarsız çekiliyor mu?
-Evet. Otomatik, hibrit ve elektrikli araçlarda tekerleklerin çekilerek sürüklenmesi aktarma organlarına zarar verir. Filomuzdaki düşük eğimli hidrolik kayar kasa platformlar ve tekerlek altı paten/ahtapot aparatlarıyla aracı 4 tekerleği havada, şasi ve tampona temas ettirmeden taşıyoruz.
+### Otomatik vitesli veya şanzımanı kilitli araçlar hasarsız çekiliyor mu?
+Evet. Otomatik vitesli araçlarda tekerleklerin çekilerek sürüklenmesi aktarma organlarına zarar verir. Filomuzdaki düşük eğimli hidrolik kayar kasa platformlar ve tekerlek altı paten/doli aparatlarıyla aracı sürüklemeden, şasi ve tampona temas ettirmeden taşıyoruz.
 
-### Taşıma sırasında aracım sigortalı mı? Kurumsal fatura kesiyor musunuz?
-Tüm şehir içi ve şehirlerarası nakillerimiz yükleme anından servis teslimatına kadar taşıma emtia sigortası kapsamındadır. Bireysel ve OSB kurumsal filo müşterilerimiz için KDV’li e-fatura ve araç içi mobil POS ile kredi kartı ödeme imkânı sunuyoruz.
+### Kurumsal fatura kesiyor musunuz ve kredi kartıyla ödeme yapılabilir mi?
+Evet. Tüm şehir içi, şehirlerarası çekici ve 3.5 tona kadar tenteli nakliye hizmetlerimizde bireysel ve OSB kurumsal filo müşterilerimiz için KDV’li e-fatura ve araç içi mobil POS ile kredi kartı ödeme imkânı sunuyoruz.
 
 ### Gece yarısı veya resmi tatillerde Gebze’de nöbetçi çekici bulabilir miyim?
 Evet. Haftanın 7 günü 24 saat, bayram ve resmi tatiller dahil kesintisiz nöbetçi vardiya sistemiyle çalışıyoruz. Gece 03.00’te dahi 0533 945 45 14 numaramızdan doğrudan saha operatörümüze ulaşabilirsiniz.
 
 ### Sadece çekici mi var yoksa yerinde akü takviye ve lastik desteği de veriyor musunuz?
-Aracın servise çekilmesine gerek kalmayan akü bitmesi, stepne değişimi veya lastik patlaması durumlarında mobil yol yardım ekibimiz 12V/24V akım korumalı booster cihazları ve hidrolik kriko ekipmanlarıyla doğrudan bulunduğunuz noktada müdahale eder.
+Aracın servise çekilmesine gerek kalmayan akü bitmesi, stepne değişimi veya lastik patlaması durumlarında mobil yol yardım ekibimiz 12V/24V profesyonel booster cihazları ve hidrolik kriko ekipmanlarıyla doğrudan bulunduğunuz noktada müdahale eder.
 
 ## Sürücü Rehberi ve Teknik Kılavuzlar
 - **Gebze’de En Yakın Oto Çekici Nasıl Çağrılır? Hızlı ve Güvenli Adımlar** (https://gebzecekici.tr/blog/gebze-en-yakin-oto-cekici-cagirma-rehberi.html): Gebze’nin yoğun sanayi ve otoyol trafiğinde aracınız arızalandığında doğru çekiciyi seçmek, zaman kaybetmeden ve ek hasar yaşamadan servise ulaşmanın ilk adımıdır.
 - **Otomatik Vitesli ve Elektrikli Araçlar Nasıl Çekilir? Hasarsız Taşıma Teknikleri** (https://gebzecekici.tr/blog/otomatik-vites-ve-elektrikli-araclar-nasil-cekilir.html): Otomatik şanzımanlı veya elektrikli bir otomobili halatla çekmek şanzıman ve invertör sisteminde onarılmaz hasarlara yol açar. Doğru teknik prosedürleri anlattık.
-- **Akü Neden Aniden Biter? Beyin Korumalı Yerinde Akü Takviye Rehberi** (https://gebzecekici.tr/blog/aku-neden-aniden-biter-yerinde-aku-takviye-rehberi.html): Akşam sorunsuz park ettiğiniz otomobil sabah tek bir tık sesiyle çalışmıyorsa sebebi çoğunlukla ani akü çökmesidir. Yanlış kablo aktarmasından kaçınmanın yollarını inceledik.
+- **Akü Neden Aniden Biter? Yerinde Hızlı Akü Takviye Rehberi** (https://gebzecekici.tr/blog/aku-neden-aniden-biter-yerinde-aku-takviye-rehberi.html): Akşam sorunsuz park ettiğiniz otomobil sabah tek bir tık sesiyle çalışmıyorsa sebebi çoğunlukla ani akü çökmesidir. Yanlış kablo aktarmasından kaçınmanın yollarını inceledik.
 - **TEM ve D-100 Otoyolunda Araç Arızalandığında Hayati Güvenlik Adımları** (https://gebzecekici.tr/blog/tem-ve-d100-otoyolunda-arac-arizasinda-guvenlik-adimlari.html): Yüksek hızla akan ağır vasıta ve otoyol trafiğinde emniyet şeridinde geçirilen her dakika kritiktir. TEM ve D-100’de hayat kurtaran güvenlik protokolünü derledik.
 - **Gebze Oto Çekici Fiyatları 2026: Ücretler Neye Göre Hesaplanır?** (https://gebzecekici.tr/blog/gebze-oto-cekici-fiyatlari-nasil-hesaplanir.html): Oto çekici ücretleri rastgele söylenmez; açılış mesafesi, kilometre, araç sınıfı ve ekipman ihtiyacı temel belirleyicilerdir. Sürpriz masraflardan korunmanın yollarını açıkladık.
 - **Kapalı Otoparkta veya Kilitli Şanzımanla Kalan Araç Nasıl Kurtarılır?** (https://gebzecekici.tr/blog/kapali-otoparkta-ve-kilitli-sanzimanda-arac-kurtarma.html): Alçak tavanlı site garajlarında ve AVM otoparklarında standart çekiciler içeri giremez. 1.90m alçak kabinli çekici ve doli aparatıyla hasarsız tahliye sürecini anlattık.

@@ -1,45 +1,52 @@
 /* ============================================================================
-   GEBZE YOL YARDIM — AWWWARDS EDITORIAL BLACK & WHITE MOBILITY SYSTEM (v7)
-   Cloud White (#F7F6F2) • Pure White (#FFFFFF) • Matte Obsidian (#0E0E10)
-   Display: Manrope • Body: IBM Plex Sans • Telemetry: IBM Plex Mono
-   Zero AI Slop • Zero Neon • Mobile-First • PageSpeed 98–100 • Zero CLS
+   GEBZE ÇEKİCİ — MODERN BLUE & AMBER ROADSIDE ASSISTANCE UI SYSTEM (v12)
+   Ice Sky (#F0F5FC) • Crisp White (#FFFFFF) • Deep Trust Navy (#0F294A)
+   Royal Blue (#1D4ED8) • Safety Amber (#F59E0B) • Emergency Red (#DC2626)
+   Display: Manrope • Body: IBM Plex Sans • Mobile-First • PageSpeed 98–100
    ============================================================================ */
 
 :root {
   color-scheme: light;
 
-  /* Editorial Palette — Warm Cloud White + Crisp White + Matte Obsidian */
-  --bg: #F7F6F2;
+  /* Modern Blue & Amber Corporate Palette */
+  --bg: #F0F5FC;
   --surface: #FFFFFF;
-  --surface-tint: #EFECE6;
-  --obsidian: #0E0E10;
-  --obsidian-2: #17171B;
-  --obsidian-hover: #222228;
+  --surface-tint: #E2ECFA;
+  --obsidian: #0F294A;
+  --obsidian-2: #163763;
+  --obsidian-hover: #1E477D;
 
-  /* Ink Hierarchy */
-  --ink: #0E0E10;
-  --ink-2: #3F3E3B;
-  --muted: #6E6C66;
+  /* Brand & Ink Hierarchy */
+  --brand: #1D4ED8;
+  --brand-hover: #1E40AF;
+  --brand-soft: #EFF6FF;
+  --amber: #F59E0B;
+  --amber-soft: #FEF3C7;
+  --ink: #0F172A;
+  --ink-2: #334155;
+  --muted: #64748B;
   --ink-inv: #FFFFFF;
-  --muted-inv: #8E8E93;
+  --muted-inv: #94A3B8;
 
-  /* Crisp Architectural Hairlines */
-  --line: rgba(14, 14, 16, 0.09);
-  --line-strong: rgba(14, 14, 16, 0.16);
-  --obs-line: rgba(255, 255, 255, 0.1);
-  --obs-line-strong: rgba(255, 255, 255, 0.18);
+  /* Crisp Blue-Tinted Borders */
+  --line: rgba(15, 41, 74, 0.1);
+  --line-strong: rgba(29, 78, 216, 0.22);
+  --obs-line: rgba(255, 255, 255, 0.14);
+  --obs-line-strong: rgba(255, 255, 255, 0.26);
 
-  /* Purposeful Micro-Accents (Icons, Dots, Stars only) */
+  /* High-Conversion Action Accents */
   --signal-red: #DC2626;
+  --signal-red-hover: #B91C1C;
   --wp-green: #16A34A;
+  --wp-green-hover: #15803D;
   --wp-bright: #4ADE80;
   --star: #F59E0B;
 
-  /* Diffused Studio Shadows */
-  --shadow-xs: 0 1px 2px rgba(14, 14, 16, 0.04);
-  --shadow-sm: 0 6px 24px rgba(14, 14, 16, 0.05);
-  --shadow-md: 0 22px 48px -14px rgba(14, 14, 16, 0.12);
-  --shadow-obs: 0 24px 60px -16px rgba(14, 14, 16, 0.28);
+  /* Soft Corporate Blue Shadows */
+  --shadow-xs: 0 1px 3px rgba(15, 41, 74, 0.06);
+  --shadow-sm: 0 8px 24px rgba(15, 41, 74, 0.08);
+  --shadow-md: 0 20px 44px -12px rgba(15, 41, 74, 0.16);
+  --shadow-obs: 0 24px 56px -14px rgba(15, 41, 74, 0.36);
 
   /* Radii & Motion */
   --r-sm: 10px;
@@ -3289,7 +3296,7 @@ h1, h2, h3, h4 {
   color: #FFFFFF;
 }
 
-/* ── 18. Monochrome Architectural Floating Action Bar ─────────────────────── */
+/* ── 18. High-Conversion Blue/Red/Green Sticky Action Bar ─────────────────── */
 .sticky-actions.mobile-sticky-dock {
   position: fixed;
   left: 0;
@@ -3300,12 +3307,12 @@ h1, h2, h3, h4 {
   grid-template-columns: 1fr 1fr;
   gap: 8px;
   padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
-  background: rgba(255, 255, 255, 0.97);
+  background: rgba(255, 255, 255, 0.98);
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
   border-radius: 18px 18px 0 0;
-  border-top: 1px solid rgba(14, 14, 16, 0.14);
-  box-shadow: 0 -10px 30px rgba(14, 14, 16, 0.22), 0 -2px 8px rgba(14, 14, 16, 0.08);
+  border-top: 1px solid rgba(29, 78, 216, 0.16);
+  box-shadow: 0 -10px 30px rgba(15, 41, 74, 0.2), 0 -2px 8px rgba(15, 41, 74, 0.08);
 }
 
 .sticky-btn {
@@ -3321,7 +3328,8 @@ h1, h2, h3, h4 {
   font-weight: 800;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  transition: transform 0.15s var(--ease), background-color 0.15s var(--ease), border-color 0.15s var(--ease), box-shadow 0.15s var(--ease);
+  color: #FFFFFF;
+  transition: transform 0.15s var(--ease), background-color 0.15s var(--ease), box-shadow 0.15s var(--ease);
 }
 
 .sticky-btn:active {
@@ -3329,29 +3337,29 @@ h1, h2, h3, h4 {
 }
 
 .sticky-btn-call {
-  background: var(--obsidian);
+  background: linear-gradient(135deg, #DC2626 0%, #B91C1C 100%);
   color: #FFFFFF;
-  border: 1px solid var(--obsidian);
-  box-shadow: 0 4px 12px rgba(14, 14, 16, 0.18);
+  border: 1px solid #B91C1C;
+  box-shadow: 0 4px 14px rgba(220, 38, 38, 0.32);
 }
 .sticky-btn-call svg {
-  color: #F87171;
+  color: #FFFFFF;
 }
 .sticky-btn-call:hover {
-  background: #232329;
+  background: #B91C1C;
 }
 
 .sticky-btn-wp {
-  background: #F4F3EF;
-  color: var(--ink);
-  border: 1.5px solid rgba(14, 14, 16, 0.18);
+  background: linear-gradient(135deg, #16A34A 0%, #15803D 100%);
+  color: #FFFFFF;
+  border: 1px solid #15803D;
+  box-shadow: 0 4px 14px rgba(22, 163, 74, 0.28);
 }
 .sticky-btn-wp svg {
-  color: var(--wp-green);
+  color: #FFFFFF;
 }
 .sticky-btn-wp:hover {
-  background: #EAE8E2;
-  border-color: var(--ink);
+  background: #15803D;
 }
 
 .sticky-btn svg {
@@ -3368,11 +3376,11 @@ h1, h2, h3, h4 {
     flex-direction: row;
     align-items: center;
     width: auto;
-    padding: 6px;
+    padding: 7px;
     border-radius: 14px;
-    border: 1px solid rgba(14, 14, 16, 0.14);
-    box-shadow: 0 14px 34px rgba(14, 14, 16, 0.22), 0 2px 6px rgba(14, 14, 16, 0.08);
-    gap: 6px;
+    border: 1px solid rgba(29, 78, 216, 0.18);
+    box-shadow: 0 14px 34px rgba(15, 41, 74, 0.22), 0 2px 6px rgba(15, 41, 74, 0.08);
+    gap: 7px;
   }
   .sticky-btn {
     min-height: 41px;
@@ -3380,6 +3388,321 @@ h1, h2, h3, h4 {
     font-size: 0.78rem;
     border-radius: 9px;
   }
+}
+
+/* ── 20. Vibrant Blue & Amber Modern Visual Overrides ─────────────────────── */
+.header-inner {
+  border-color: rgba(29, 78, 216, 0.12);
+  box-shadow: 0 6px 24px rgba(15, 41, 74, 0.07);
+}
+.desktop-nav a.is-active {
+  color: var(--brand);
+  background: var(--brand-soft);
+}
+.desktop-nav a:hover {
+  color: var(--brand);
+  background: var(--brand-soft);
+}
+.btn-header-call {
+  background: linear-gradient(135deg, #DC2626 0%, #B91C1C 100%);
+  box-shadow: 0 4px 14px rgba(220, 38, 38, 0.28);
+}
+.btn-header-call svg {
+  color: #FFFFFF;
+}
+.btn-header-call:hover {
+  background: #B91C1C;
+}
+.btn-call {
+  background: linear-gradient(135deg, #DC2626 0%, #B91C1C 100%);
+  border-color: #B91C1C;
+  box-shadow: 0 6px 18px rgba(220, 38, 38, 0.25);
+}
+.btn-call svg {
+  color: #FFFFFF;
+}
+.btn-call:hover {
+  background: #B91C1C;
+}
+.btn-primary,
+.btn-dark {
+  background: linear-gradient(135deg, #1D4ED8 0%, #1E40AF 100%);
+  border-color: #1E40AF;
+  box-shadow: 0 6px 18px rgba(29, 78, 216, 0.22);
+}
+.btn-primary:hover,
+.btn-dark:hover {
+  background: #1E40AF;
+}
+.btn-whatsapp {
+  background: linear-gradient(135deg, #16A34A 0%, #15803D 100%);
+  color: #FFFFFF;
+  border-color: #15803D;
+  box-shadow: 0 6px 18px rgba(22, 163, 74, 0.22);
+}
+.btn-whatsapp svg {
+  color: #FFFFFF;
+}
+.btn-whatsapp:hover {
+  background: #15803D;
+  border-color: #15803D;
+  color: #FFFFFF;
+}
+.hero-editorial-top h1 span,
+.hero-copy h1 .accent-text,
+.inner-hero-card h1 .accent-text {
+  color: var(--brand);
+}
+.telemetry-live {
+  color: var(--brand);
+}
+.showcase-corner-tag {
+  background: rgba(255, 255, 255, 0.94);
+  color: var(--brand);
+  border: 1px solid rgba(29, 78, 216, 0.18);
+  font-weight: 700;
+  box-shadow: 0 6px 18px rgba(15, 41, 74, 0.16);
+}
+.dispatch-panel {
+  background: linear-gradient(155deg, #0F294A 0%, #173E73 100%);
+  border: 1px solid rgba(56, 189, 248, 0.22);
+}
+.dispatch-eyebrow {
+  color: #93C5FD;
+}
+.dispatch-eta-box strong {
+  color: #FBBF24;
+}
+.dispatch-panel .quote-submit-btn {
+  background: linear-gradient(135deg, #16A34A 0%, #15803D 100%);
+  color: #FFFFFF;
+  border-color: #15803D;
+  box-shadow: 0 8px 20px rgba(22, 163, 74, 0.35);
+}
+.dispatch-panel .quote-submit-btn svg {
+  color: #FFFFFF;
+}
+.dispatch-panel .quote-submit-btn:hover {
+  background: #15803D;
+  border-color: #15803D;
+}
+.obsidian-panel,
+.faq-support-card,
+.sidebar-card.is-dark,
+.site-footer {
+  background: linear-gradient(155deg, #0F294A 0%, #153663 100%);
+}
+.section-eyebrow,
+.eyebrow {
+  color: var(--brand);
+}
+.service-card:hover,
+.region-card:hover,
+.blog-card:hover,
+.why-card:hover {
+  border-color: rgba(29, 78, 216, 0.34);
+  box-shadow: 0 18px 40px -12px rgba(29, 78, 216, 0.16);
+}
+.service-tag,
+.card-tag,
+.blog-cat {
+  background: var(--brand-soft);
+  color: var(--brand);
+  border-color: rgba(29, 78, 216, 0.16);
+}
+.why-icon-wrap {
+  background: var(--brand-soft);
+  color: var(--brand);
+  border-color: rgba(29, 78, 216, 0.15);
+}
+.footer-hotline-num {
+  color: #FBBF24;
+}
+.footer-wa-link {
+  color: #4ADE80;
+}
+
+/* ── 21. Full-Bleed Cover Photo Homepage Hero & Modern Status Pill ────────── */
+.hero-status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 14px;
+  border-radius: 999px;
+  background: var(--brand-soft);
+  border: 1px solid rgba(29, 78, 216, 0.2);
+  color: var(--brand);
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin-bottom: 14px;
+  max-width: 100%;
+}
+
+.hero-section.is-cover-hero {
+  position: relative;
+  overflow: hidden;
+  padding: 28px 0 38px;
+  margin-top: 8px;
+  background: #0F294A;
+}
+
+@media (min-width: 768px) {
+  .hero-section.is-cover-hero {
+    padding: 56px 0 64px;
+  }
+}
+
+.cover-hero-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.cover-hero-bg picture,
+.cover-hero-bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 45%;
+  display: block;
+}
+
+.cover-hero-scrim {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background: linear-gradient(
+    108deg,
+    rgba(9, 25, 48, 0.90) 0%,
+    rgba(15, 41, 74, 0.78) 52%,
+    rgba(15, 41, 74, 0.56) 100%
+  );
+  pointer-events: none;
+}
+
+.cover-hero-inner {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 24px;
+  align-items: center;
+}
+
+@media (min-width: 1024px) {
+  .cover-hero-inner {
+    grid-template-columns: minmax(0, 1.18fr) minmax(0, 0.82fr);
+    gap: 44px;
+  }
+}
+
+.cover-hero-copy .hero-status-pill {
+  background: rgba(255, 255, 255, 0.14);
+  border-color: rgba(255, 255, 255, 0.28);
+  color: #FFFFFF;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+}
+
+.cover-hero-copy h1 {
+  color: #FFFFFF;
+  font-size: clamp(2.05rem, 5vw, 3.65rem);
+  line-height: 1.06;
+  letter-spacing: -0.035em;
+  margin-bottom: 16px;
+  text-shadow: 0 4px 18px rgba(0, 0, 0, 0.25);
+}
+
+.cover-hero-copy h1 span {
+  color: #FBBF24;
+}
+
+.cover-hero-copy .hero-lead {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 0.98rem;
+  line-height: 1.65;
+  margin-bottom: 20px;
+  max-width: 52ch;
+}
+
+@media (min-width: 768px) {
+  .cover-hero-copy .hero-lead {
+    font-size: 1.06rem;
+  }
+}
+
+.cover-hero-trust {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 22px;
+}
+
+.cover-trust-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 12px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  color: #FFFFFF;
+  font-size: 0.8rem;
+  font-weight: 600;
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+}
+
+.cover-trust-chip svg {
+  width: 15px;
+  height: 15px;
+  color: #FBBF24;
+}
+
+.hero-section.is-cover-hero .dispatch-panel {
+  background: rgba(255, 255, 255, 0.97);
+  color: var(--ink);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  box-shadow: 0 24px 60px -12px rgba(0, 0, 0, 0.42);
+}
+
+.hero-section.is-cover-hero .dispatch-top {
+  border-bottom-color: var(--line);
+}
+
+.hero-section.is-cover-hero .dispatch-eyebrow {
+  color: var(--brand);
+}
+
+.hero-section.is-cover-hero .dispatch-title {
+  color: var(--ink);
+}
+
+.hero-section.is-cover-hero .dispatch-eta-box strong {
+  color: var(--brand);
+}
+
+.hero-section.is-cover-hero .dispatch-eta-box span,
+.hero-section.is-cover-hero .dispatch-spec-item span,
+.hero-section.is-cover-hero .form-field label {
+  color: var(--muted);
+}
+
+.hero-section.is-cover-hero .dispatch-spec-item strong {
+  color: var(--ink);
+}
+
+.hero-section.is-cover-hero .dispatch-specs {
+  border-top-color: var(--line);
+}
+
+.hero-section.is-cover-hero .form-control {
+  background: #F4F7FB;
+  color: var(--ink);
+  border-color: rgba(15, 41, 74, 0.16);
 }
 
 /* ── 19. 404 Error Page ───────────────────────────────────────────────────── */

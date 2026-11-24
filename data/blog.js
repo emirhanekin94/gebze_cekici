@@ -13,7 +13,7 @@ const BLOG_POSTS = [
     date: '2026-10-14',
     dateDisplay: '14 Ekim 2026',
     readTime: '6 dk okuma',
-    img: 'gebze-hero-otoyol',
+    img: 'client-pickup-osb',
     metaTitle: 'Gebze En Yakın Oto Çekici Çağırma Rehberi | 2026 Güncel Kılavuz',
     metaDesc: 'Gebze, GOSB, TEM ve D-100 hattında yolda kaldığınızda en yakın güvenilir çekiciyi nasıl seçersiniz? Konum paylaşımı, fiyat teyidi ve güvenlik rehberi.',
     excerpt: 'Gebze’nin yoğun sanayi ve otoyol trafiğinde aracınız arızalandığında doğru çekiciyi seçmek, zaman kaybetmeden ve ek hasar yaşamadan servise ulaşmanın ilk adımıdır.',
@@ -37,7 +37,7 @@ const BLOG_POSTS = [
         h2: 'Gebze Arterlerinde Doğru Konum Tarifi',
         paragraphs: [
           'Çekici çağırma sürecinde en fazla vakit kaybı, sürücünün yalnızca "Gebze’deyim" veya "otoyoldayım" demesinden kaynaklanır. Oysa TEM ve D-100 gibi bölünmüş yollarda İstanbul istikameti ile İzmit istikameti arasında tek bir kavşak dönüşü bile 8–10 dakikalık fark yaratabilir. Bu nedenle telefonda görüşürken yön bilginizi (örneğin Ankara yönü, İstanbul yönü, Eskihisar feribot yönü veya GOSB 1. Kapı çıkışı) net olarak paylaşın.',
-          'En hatasız yöntem WhatsApp üzerinden mevcut GPS konumunu göndermektir. Bulunduğunuz yer bir alışveriş merkezi kapalı otoparkı, site içi blok önü ya da organize sanayi fabrika sahasıysa kat yüksekliğini, kapı numarasını ve güvenlik giriş adını mesajınıza ekleyin. Böylece nöbetçi <a href="/bolgeler/gebze-merkez-oto-cekici.html">Gebze Merkez çekici</a> veya en yakın mahalle ekibimiz hiç tereddüt etmeden en kısa ara bağlantıdan yanınıza ulaşır.'
+          'En hatasız yöntem WhatsApp üzerinden mevcut GPS konumunu göndermektir. Bulunduğunuz yer bir alışveriş merkezi kapalı otoparkı, site içi blok önü ya da organize sanayi fabrika sahasıysa kat yüksekliğini, kapı numarasını ve güvenlik giriş adını mesajınıza ekleyin. Böylece nöbetçi <a href="/bolgeler/gebze-merkez-cekici.html">Gebze Merkez çekici</a> veya en yakın mahalle ekibimiz hiç tereddüt etmeden en kısa ara bağlantıdan yanınıza ulaşır.'
         ],
         callout: {
           title: 'Pratik Konum İpucu',
@@ -49,14 +49,14 @@ const BLOG_POSTS = [
         h2: 'Aracınıza Uygun Çekici Tipini Nasıl Belirlersiniz?',
         paragraphs: [
           'Her arıza aynı çekici aracıyla çözülmez. Standart bir binek otomobilde akü boşalması yaşandıysa çekici yerine <a href="/hizmetler/aku-takviye.html">yerinde akü takviye</a> ekibi çağırmak hem zaman hem maliyet açısından çok daha mantıklıdır. Ancak hararet yükselmesi, yağ lambası yanması, triger kayışı kopması veya şanzıman arızası varsa motoru kesinlikle tekrar çalıştırmadan <a href="/hizmetler/oto-cekici.html">kayar kasa oto çekici</a> talep etmelisiniz.',
-          'Aracınız otomatik vitesli ve vites P konumundan çıkmıyorsa, elektrikli bir modelse ya da kapalı garajın -2. katında mahsur kaldıysa bu ayrıntıyı mutlaka ilk çağrıda söyleyin. Bu sayede gelen araç beraberinde tekerlek altı paten kızakları, düşük açılı ek rampa veya 1.90 metre yüksekliğindeki özel <a href="/hizmetler/kapali-otopark-cekici.html">kapalı otopark çekicisi</a> ile gelir ve ikinci bir ekip beklemenize gerek kalmaz.'
+          'Aracınız otomatik vitesli ve vites P konumundan çıkmıyorsa, elektrikli bir modelse ya da kapalı garajın -2. katında mahsur kaldıysa bu ayrıntıyı mutlaka ilk çağrıda söyleyin. Bu sayede gelen araç beraberinde tekerlek altı paten kızakları, düşük açılı ek rampa veya 1.90 metre yüksekliğindeki özel <a href="/hizmetler/aparatli-cekici.html">kapalı otopark çekicisi</a> ile gelir ve ikinci bir ekip beklemenize gerek kalmaz.'
         ]
       },
       {
         id: 'fiyat-sozlesme',
         h2: 'Telefonda Sabit Fiyat ve Kasko Teyidi',
         paragraphs: [
-          'Güvenilir bir oto kurtarma firmasıyla çalışmanın en somut göstergesi, araç henüz yola çıkmadan net rakamın konuşulmasıdır. "Gelince bakarız" diyen, taşıma sigortası bilgisi paylaşmayan veya vergi kaydı bulunmayan korsan çekiciler yükleme sonrasında beklenmedik ek ücretler talep edebilir ve olası bir yükleme çizilmesinde sorumluluk kabul etmez.',
+          'Güvenilir bir oto kurtarma firmasıyla çalışmanın en somut göstergesi, araç henüz yola çıkmadan net rakamın konuşulmasıdır. "Gelince bakarız" diyen, fotoğraflı teslim tutanağı bilgisi paylaşmayan veya vergi kaydı bulunmayan korsan çekiciler yükleme sonrasında beklenmedik ek ücretler talep edebilir ve olası bir yükleme çizilmesinde sorumluluk kabul etmez.',
           'Çağrı esnasında başlangıç noktanızı, teslim edilecek servisi (örneğin Gebze Oto Sanayi, Çayırova yetkili servis veya İstanbul Kartal) ve aracınızın modelini söylediğinizde toplam bedeli, tahmini varış dakikasını ve fatura/POS ödeme imkânını baştan onaylayın. Bu basit kontrol listesi stresli bir arıza akşamını sorunsuz, kontrollü bir servis nakline dönüştürür.'
         ]
       }
@@ -83,7 +83,7 @@ const BLOG_POSTS = [
     date: '2026-10-19',
     dateDisplay: '19 Ekim 2026',
     readTime: '7 dk okuma',
-    img: 'gebze-luks-arac',
+    img: 'client-kazali-mercedes',
     metaTitle: 'Otomatik Vites & Elektrikli Araç Nasıl Çekilir? | Teknik Rehber',
     metaDesc: 'Otomatik şanzımanlı (DSG, CVT, EAT8), 4x4 ve Togg/Tesla gibi elektrikli araçlar çekme halatıyla çekilir mi? Doğru kayar kasa ve ahtapot yöntemleri.',
     excerpt: 'Otomatik şanzımanlı veya elektrikli bir otomobili halatla çekmek şanzıman ve invertör sisteminde onarılmaz hasarlara yol açar. Doğru teknik prosedürleri anlattık.',
@@ -106,8 +106,8 @@ const BLOG_POSTS = [
         id: 'elektrikli-batarya',
         h2: 'Elektrikli Araçlarda (EV) Rejeneratif Akım ve Batarya Riski',
         paragraphs: [
-          'Gebze <a href="/bolgeler/bilisim-vadisi-oto-cekici.html">Bilişim Vadisi</a>, Mutlukent ve TEM hattında her geçen gün sayısı artan tam elektrikli otomobillerde (Togg T10X, Tesla Model Y, Hyundai Ioniq, Kia EV6, BMW iX) içten yanmalı vites kutusu yerine doğrudan tekerleklere bağlı sabit oranlı elektrik motorları bulunur. Elektrik motoru tekerlekler döndüğünde jeneratör gibi çalışarak yüksek voltajlı akım üretir.',
-          'Araç kapalıyken ya da arıza modundayken tekerleklerin yerde dönerek çekilmesi, soğutma pompası çalışmayan invertör ve batarya yönetim sistemine kontrolsüz elektrik göndererek kalıcı elektronik arıza çıkarır. Ek olarak şasinin alt yüzeyi boyunca uzanan lityum batarya kalkanı, dik açılı yükleme rampalarında sürtmeye karşı son derece hassastır. Bu yüzden <a href="/hizmetler/kazali-luks-arac-tasima.html">elektrikli araç taşıma</a> operasyonlarında mutlaka ek uzun kompozit rampalarla 6 derecenin altında yumuşak yükleme açısı oluşturulmalıdır.'
+          'Gebze <a href="/bolgeler/bilisim-vadisi-cekici.html">Bilişim Vadisi</a>, Mutlukent ve TEM hattında her geçen gün sayısı artan tam elektrikli otomobillerde (Togg T10X, Tesla Model Y, Hyundai Ioniq, Kia EV6, BMW iX) içten yanmalı vites kutusu yerine doğrudan tekerleklere bağlı sabit oranlı elektrik motorları bulunur. Elektrik motoru tekerlekler döndüğünde jeneratör gibi çalışarak yüksek voltajlı akım üretir.',
+          'Araç kapalıyken ya da arıza modundayken tekerleklerin yerde dönerek çekilmesi, soğutma pompası çalışmayan invertör ve batarya yönetim sistemine kontrolsüz elektrik göndererek kalıcı elektronik arıza çıkarır. Ek olarak şasinin alt yüzeyi boyunca uzanan lityum batarya kalkanı, dik açılı yükleme rampalarında sürtmeye karşı son derece hassastır. Bu yüzden <a href="/hizmetler/oto-cekici.html">elektrikli araç taşıma</a> operasyonlarında mutlaka ek uzun kompozit rampalarla 6 derecenin altında yumuşak yükleme açısı oluşturulmalıdır.'
         ],
         callout: {
           title: 'EV Sürücüleri İçin Çekme Modu (Tow Mode) Hatırlatması',
@@ -119,7 +119,7 @@ const BLOG_POSTS = [
         h2: 'P Konumunda Kilitli Kalan Araç Nasıl Yüklenir?',
         paragraphs: [
           'Elektronik vites seçicili modern araçlarda akü tamamen boşaldığında veya şanzıman kontrol ünitesi iletişim kestiğinde vites kolu mekanik olarak N konumuna geçmez ve elektronik el freni (EPB) sıkılı kalır. Bazı modellerde vites körüğü altında acil serbest bırakma mandalı bulunsa da çoğu yeni modelde bu işlem yalnızca yetkili teşhis cihazıyla yapılabilir.',
-          'Böyle bir tabloda tekerlekleri asfaltta kazıyarak vinçle çekmeye çalışmak hem lastikleri düzleştirir hem de park kilidi pimini kırar. Profesyonel ekipte iki güvenilir çözüm vardır: düz açık alanlarda her kilitli tekerleğin altına sürtünmesiz polietilen kızak (paten) ya da rulmanlı Go-Jak doli yerleştirilir; sıkışık cadde veya park alanlarında ise <a href="/hizmetler/ahtapot-cekici.html">ahtapot çekici</a> kullanılarak araç dört lastiğinden dikey kaldırılıp platforma bırakılır.'
+          'Böyle bir tabloda tekerlekleri asfaltta kazıyarak vinçle çekmeye çalışmak hem lastikleri düzleştirir hem de park kilidi pimini kırar. Profesyonel ekipte iki güvenilir çözüm vardır: düz açık alanlarda her kilitli tekerleğin altına sürtünmesiz polietilen kızak (paten) ya da rulmanlı Go-Jak doli yerleştirilir; sıkışık cadde veya park alanlarında ise <a href="/hizmetler/aparatli-cekici.html">ahtapot çekici</a> kullanılarak araç dört lastiğinden dikey kaldırılıp platforma bırakılır.'
         ]
       },
       {
@@ -147,19 +147,19 @@ const BLOG_POSTS = [
   },
   {
     slug: 'aku-neden-aniden-biter-yerinde-aku-takviye-rehberi',
-    title: 'Akü Neden Aniden Biter? Beyin Korumalı Yerinde Akü Takviye Rehberi',
+    title: 'Akü Neden Aniden Biter? Yerinde Hızlı Akü Takviye Rehberi',
     category: 'Yol Yardım',
     date: '2026-10-25',
     dateDisplay: '25 Ekim 2026',
     readTime: '6 dk okuma',
-    img: 'gebze-aku-takviye',
+    img: 'svc-aku-takviye',
     metaTitle: 'Akü Neden Aniden Biter? | Güvenli Yerinde Akü Takviye Rehberi',
-    metaDesc: 'Start-Stop ve yeni nesil araçlarda akü bitme belirtileri, başka araçtan kablo çekmenin ECU riskleri ve 12V/24V korumalı booster akü takviye adımları.',
+    metaDesc: 'Start-Stop ve yeni nesil araçlarda akü bitme belirtileri, başka araçtan kablo çekmenin ECU riskleri ve 12V/24V profesyonel booster akü takviye adımları.',
     excerpt: 'Akşam sorunsuz park ettiğiniz otomobil sabah tek bir tık sesiyle çalışmıyorsa sebebi çoğunlukla ani akü çökmesidir. Yanlış kablo aktarmasından kaçınmanın yollarını inceledik.',
     toc: [
       { id: 'aku-bitme-nedenleri', label: 'Otomobil Aküsü Neden Hiç Uyarı Vermeden Biter?' },
       { id: 'yanlis-takviye-riski', label: 'Başka Araçtan Aktarma Kablosu Kullanmanın Tehlikeleri' },
-      { id: 'booster-avantaji', label: 'Akım Korumalı Profesyonel Booster Nasıl Çalışır?' },
+      { id: 'booster-avantaji', label: 'Profesyonel 12V/24V Booster Nasıl Çalışır?' },
       { id: 'takviye-sonrasi', label: 'Takviye Sonrasında Nelere Dikkat Edilmelidir?' }
     ],
     sections: [
@@ -185,7 +185,7 @@ const BLOG_POSTS = [
       },
       {
         id: 'booster-avantaji',
-        h2: 'Akım Korumalı Profesyonel Booster Nasıl Çalışır?',
+        h2: 'Profesyonel 12V/24V Booster Nasıl Çalışır?',
         paragraphs: [
           'Gebze genelinde sunduğumuz <a href="/hizmetler/aku-takviye.html">yerinde akü takviye</a> hizmetinde araçtan araca kablo aktarması yapılmaz. Bunun yerine dahili mikroişlemcili, ters kutup kilidine ve pik akım sönümleyiciye sahip 12V/24V profesyonel booster istasyonları kullanılır. Cihaz aküye bağlandığında önce voltaj polaritesini doğrular, kıvılcım oluşturmadan regüle edilmiş temiz marş akımını verir.',
           'Takviye öncesinde dijital ölçüm cihazıyla akünüzün bekleme voltajına bakılır; motor çalıştıktan sonra ise alternatörün 13.8V ile 14.4V arasında sağlıklı şarj üretip üretmediği kontrol edilir. Eğer şarj dinamosu arızalıysa bunu yerinde tespit ettiğimiz için aracınız iki kilometre ileride yeniden stop etmeden doğrudan en yakın oto elektrik servisine yönlendirilir.'
@@ -210,7 +210,7 @@ const BLOG_POSTS = [
     },
     faqs: [
       { q: 'Kapalı site otoparkında aküm bitti, çekici girmeden takviye yapabilir misiniz?', a: 'Evet. Mobil yol yardım ekibimiz taşınabilir profesyonel booster istasyonuyla her katta ve en dar kapalı otoparklarda doğrudan aracınızın yanına gelip dakikalar içinde çalıştırma yapar.' },
-      { q: '24 Volt çalışan kamyonet ve ticari minibüsler için takviye yapıyor musunuz?', a: 'Evet. Hem 12V binek/SUV hem de 24V çift akülü ticari araçlar için ayrı korumalı takviye cihazlarımız araçlarımızda hazır bulunur.' },
+      { q: '24 Volt çalışan kamyonet ve ticari minibüsler için takviye yapıyor musunuz?', a: 'Evet. Hem 12V binek/SUV hem de 24V çift akülü ticari araçlar için ayrı profesyonel takviye cihazlarımız araçlarımızda hazır bulunur.' },
       { q: 'Akü takviye işlemi ne kadar sürer?', a: 'Ekibimiz konuma ulaştıktan sonra voltaj ölçümü, güvenli bağlantı, marş ve alternatör kontrolü dahil toplam işlem genellikle 5–8 dakikada tamamlanır.' }
     ]
   },
@@ -221,7 +221,7 @@ const BLOG_POSTS = [
     date: '2026-11-02',
     dateDisplay: '2 Kasım 2026',
     readTime: '6 dk okuma',
-    img: 'gebze-sedan-otoyol',
+    img: 'client-sedan-mahalle',
     metaTitle: 'TEM ve D-100 Otoyolunda Araç Arızası Güvenlik Rehberi | Gebze',
     metaDesc: 'TEM Gebze, D-100 Karayolu ve Osmangazi Köprüsü hattında yüksek hızlı trafikte araç arızalandığında can güvenliği ve hızlı çekici çağırma kuralları.',
     excerpt: 'Yüksek hızla akan ağır vasıta ve otoyol trafiğinde emniyet şeridinde geçirilen her dakika kritiktir. TEM ve D-100’de hayat kurtaran güvenlik protokolünü derledik.',
@@ -236,7 +236,7 @@ const BLOG_POSTS = [
         id: 'emniyet-seridi',
         h2: 'Emniyet Şeridine Güvenli Geçiş ve Durma Açısı',
         paragraphs: [
-          '<a href="/bolgeler/tem-gebze-oto-cekici.html">TEM Otoyolu Gebze geçişi</a>, <a href="/bolgeler/d100-gebze-oto-cekici.html">D-100 Karayolu</a> ve <a href="/bolgeler/osmangazi-koprusu-oto-cekici.html">Osmangazi Köprüsü</a> bağlantı yolları, Marmara Bölgesi’nin en yoğun lojistik ve tır koridorlarıdır. Araçta ani güç kaybı, lastik patlaması veya kaput altından buhar çıkışı fark ettiğinizde sert fren yapmak yerine sağ aynayı kontrol edip kademeli biçimde emniyet şeridine yönelin.',
+          '<a href="/bolgeler/tem-gebze-cekici.html">TEM Otoyolu Gebze geçişi</a>, <a href="/bolgeler/d100-gebze-cekici.html">D-100 Karayolu</a> ve <a href="/bolgeler/osmangazi-koprusu-cekici.html">Osmangazi Köprüsü</a> bağlantı yolları, Marmara Bölgesi’nin en yoğun lojistik ve tır koridorlarıdır. Araçta ani güç kaybı, lastik patlaması veya kaput altından buhar çıkışı fark ettiğinizde sert fren yapmak yerine sağ aynayı kontrol edip kademeli biçimde emniyet şeridine yönelin.',
           'Emniyet şeridine girdiğinizde aracı beyaz şerit çizgisinden mümkün olduğunca uzaklaştırıp sağ bariyere paralel ve yakın durdurun. Direksiyonu sağa, bariyer yönüne çevirmek olası bir arkadan çarpma halinde aracın tekrar akan trafiğin ortasına savrulmasını önleyen kritik bir refleks tedbiridir.'
         ]
       },
@@ -290,7 +290,7 @@ const BLOG_POSTS = [
     date: '2026-11-08',
     dateDisplay: '8 Kasım 2026',
     readTime: '5 dk okuma',
-    img: 'gebze-gunbatimi',
+    img: 'client-doblo-cekici',
     metaTitle: 'Gebze Oto Çekici Fiyatları 2026 | Şeffaf Ücretlendirme Rehberi',
     metaDesc: 'Gebze şehir içi, OSB, İstanbul ve şehirlerarası oto çekici fiyatları nasıl hesaplanır? Sürpriz masraftan korunma ve kasko fatura iadesi rehberi.',
     excerpt: 'Oto çekici ücretleri rastgele söylenmez; açılış mesafesi, kilometre, araç sınıfı ve ekipman ihtiyacı temel belirleyicilerdir. Sürpriz masraflardan korunmanın yollarını açıkladık.',
@@ -306,15 +306,15 @@ const BLOG_POSTS = [
         h2: 'Çekici Ücretini Belirleyen 5 Somut Kriter',
         paragraphs: [
           'Aracı arızalanan bir sürücünün haklı olarak en çok merak ettiği konu çekici ücretinin ne kadar tutacağıdır. Profesyonel ve şeffaf çalışan oto kurtarma işletmelerinde fiyatlandırma tamamen somut operasyon maliyetlerine dayanır. İlk kalem sabit çıkış (açılış) ücretidir; çekicinin bulunduğu nöbetçi noktadan aracınıza ulaşması, yakıtı, hidrolik platform yüklemesi ve sigorta kapsamını içerir.',
-          'İkinci kalem taşıma mesafesidir. Örneğin <a href="/bolgeler/tatlikuyu-oto-cekici.html">Tatlıkuyu</a>’dan Gebze Oto Sanayi’ye yapılan 5 kilometrelik kısa nakil ile Gebze’den İstanbul Maslak veya İzmit yetkili servisine yapılan 45–55 kilometrelik transfer farklı kilometre tarifesiyle hesaplanır. Üçüncü kriter aracın boyut ve ağırlık sınıfıdır: standart binek otomobil ile uzun şasi ticari panelvan veya forklift nakli farklı tonajlı araç gerektirir.',
-          'Dördüncü kriter özel kurtarma aparatı ihtiyacıdır. Tekerlekleri serbest dönen düz yoldaki bir otomobil standart kayar kasa tarifesiyle yüklenirken; şarampole kaymış, aksı kopmuş, <a href="/hizmetler/kapali-otopark-cekici.html">kapalı otoparkın</a> -3. katında kalmış veya <a href="/hizmetler/ahtapot-cekici.html">ahtapot vinç</a> gerektiren durumlarda ek ekipman ve operasyon süresi hesaba katılır. Beşinci kriter ise şehirlerarası geçişlerde Osmangazi Köprüsü veya otoyol ücretlerinin fiyata dahil edilmesidir.'
+          'İkinci kalem taşıma mesafesidir. Örneğin <a href="/bolgeler/tatlikuyu-cekici.html">Tatlıkuyu</a>’dan Gebze Oto Sanayi’ye yapılan 5 kilometrelik kısa nakil ile Gebze’den İstanbul Maslak veya İzmit yetkili servisine yapılan 45–55 kilometrelik transfer farklı kilometre tarifesiyle hesaplanır. Üçüncü kriter aracın boyut ve ağırlık sınıfıdır: standart binek otomobil ile uzun şasi ticari panelvan veya forklift nakli farklı tonajlı araç gerektirir.',
+          'Dördüncü kriter özel kurtarma aparatı ihtiyacıdır. Tekerlekleri serbest dönen düz yoldaki bir otomobil standart kayar kasa tarifesiyle yüklenirken; şarampole kaymış, aksı kopmuş, <a href="/hizmetler/aparatli-cekici.html">kapalı otoparkın</a> -3. katında kalmış veya <a href="/hizmetler/aparatli-cekici.html">ahtapot vinç</a> gerektiren durumlarda ek ekipman ve operasyon süresi hesaba katılır. Beşinci kriter ise şehirlerarası geçişlerde Osmangazi Köprüsü veya otoyol ücretlerinin fiyata dahil edilmesidir.'
         ]
       },
       {
         id: 'sehir-ici-disi',
         h2: 'Gebze İçi Kısa Mesafe ve Şehirlerarası Farkı',
         paragraphs: [
-          'Gebze ilçe sınırları içindeki mahalleler (<a href="/bolgeler/mutlukent-oto-cekici.html">Mutlukent</a>, <a href="/bolgeler/beylikbagi-oto-cekici.html">Beylikbağı</a>, Arapçeşme, İstasyon, <a href="/bolgeler/gosb-oto-cekici.html">GOSB</a>) ile komşu <a href="/bolgeler/cayirova-oto-cekici.html">Çayırova</a> ve <a href="/bolgeler/darica-oto-cekici.html">Darıca</a> hatlarında ekiplerimiz doğrudan bölgede konuşlu olduğu için gereksiz boş kilometre ücreti oluşmaz. Şehirlerarası nakillerde ise kilometre arttıkça birim kilometre maliyeti düşer ve gidiş-dönüş planlı <a href="/hizmetler/sehirlerarasi-arac-tasima.html">şehirlerarası araç taşıma</a> rotalarında sürücülere çok daha avantajlı toplam fiyatlar sunulabilir.'
+          'Gebze ilçe sınırları içindeki mahalleler (<a href="/bolgeler/mutlukent-cekici.html">Mutlukent</a>, <a href="/bolgeler/beylikbagi-cekici.html">Beylikbağı</a>, Arapçeşme, İstasyon, <a href="/bolgeler/gosb-cekici.html">GOSB</a>) ile komşu <a href="/bolgeler/cayirova-cekici.html">Çayırova</a> ve <a href="/bolgeler/darica-cekici.html">Darıca</a> hatlarında ekiplerimiz doğrudan bölgede konuşlu olduğu için gereksiz boş kilometre ücreti oluşmaz. Şehirlerarası nakillerde ise kilometre arttıkça birim kilometre maliyeti düşer ve gidiş-dönüş planlı <a href="/hizmetler/sehirlerarasi-arac-tasima.html">şehirlerarası araç taşıma</a> rotalarında sürücülere çok daha avantajlı toplam fiyatlar sunulabilir.'
         ]
       },
       {
@@ -324,8 +324,8 @@ const BLOG_POSTS = [
           'Sektörde sürücülerin en sık mağdur olduğu durum, telefonda çok düşük bir açılış rakamı söylenip araç platforma yüklendikten sonra "vinç halatı bağladık", "gece tarifesi", "teker kilitliydi" gibi bahanelerle rakamın iki katına çıkarılmasıdır. Bundan korunmanın tek yolu telefon görüşmesinde aracınızın gerçek durumunu (tekerlek dönüyor mu, kapalı garaj mı, gidecek adres neresi) eksiksiz anlatıp <strong>her şey dahil tek sabit rakam</strong> onayı almaktır.'
         ],
         callout: {
-          title: 'Gebze Çekici Sabit Fiyat Taahhüdü',
-          text: '0533 945 45 14 hattımızda verdiğimiz teklif; yükleme, taşıma sigortası ve teslimatı kapsayan nihai rakamdır. Araç platforma alındıktan sonra trafikte bekleme veya gece farkı adıyla ek bedel çıkarılmaz.'
+          title: 'Gebze Çekici Şeffaf Sabit Fiyat Politikası',
+          text: '0533 945 45 14 hattımızda verdiğimiz teklif; yükleme, fotoğraflı teslim tutanağı ve teslimatı kapsayan nihai rakamdır. Araç platforma alındıktan sonra trafikte bekleme veya gece farkı adıyla ek bedel çıkarılmaz.'
         }
       },
       {
@@ -358,7 +358,7 @@ const BLOG_POSTS = [
     date: '2026-11-15',
     dateDisplay: '15 Kasım 2026',
     readTime: '6 dk okuma',
-    img: 'gebze-kapali-otopark',
+    img: 'svc-aparatli-cekici',
     metaTitle: 'Kapalı Otoparkta & Kilitli Şanzımanda Araç Kurtarma Rehberi | Gebze',
     metaDesc: 'AVM, rezidans ve site kapalı otoparkında çalışmayan veya vitesi P konumunda kilitli kalan araçlar tavan ve tampona zarar vermeden nasıl çıkarılır?',
     excerpt: 'Alçak tavanlı site garajlarında ve AVM otoparklarında standart çekiciler içeri giremez. 1.90m alçak kabinli çekici ve doli aparatıyla hasarsız tahliye sürecini anlattık.',
@@ -373,8 +373,8 @@ const BLOG_POSTS = [
         id: 'tavan-sorunu',
         h2: 'Standart Çekici Neden Kapalı Otoparka Giremez?',
         paragraphs: [
-          'Gebze’de hızla büyüyen <a href="/bolgeler/mutlukent-oto-cekici.html">Mutlukent</a>, <a href="/bolgeler/kirazpinar-oto-cekici.html">Kirazpınar</a> Emlak Konutları, <a href="/bolgeler/tatlikuyu-oto-cekici.html">Tatlıkuyu</a> rezidansları ve Gebze Center AVM gibi yapılarda araçların çoğu çok katlı yeraltı otoparklarına park edilir. Bu otoparkların giriş gabarileri genellikle 2.00 metre ile 2.10 metre aralığındadır; içeride ise havalandırma kanalları, sprinkler yangın boruları ve beton kirişler yüksekliği yer yer 1.95 metreye kadar düşürür.',
-          'Standart kayar kasa çekiciler 2.40–2.55 metre yüksekliğe ve 7 metreyi aşan uzunluğa sahiptir. Bu araçların kapalı garaja girmeye çalışması tavan tesisatına çarpma veya dar virajda kolonlara sıkışma anlamına gelir. Bu yüzden otopark kurtarma işi kesinlikle <a href="/hizmetler/kapali-otopark-cekici.html">alçak tavanlı kapalı otopark çekicisi</a> gerektirir.'
+          'Gebze’de hızla büyüyen <a href="/bolgeler/mutlukent-cekici.html">Mutlukent</a>, <a href="/bolgeler/kirazpinar-cekici.html">Kirazpınar</a> Emlak Konutları, <a href="/bolgeler/tatlikuyu-cekici.html">Tatlıkuyu</a> rezidansları ve Gebze Center AVM gibi yapılarda araçların çoğu çok katlı yeraltı otoparklarına park edilir. Bu otoparkların giriş gabarileri genellikle 2.00 metre ile 2.10 metre aralığındadır; içeride ise havalandırma kanalları, sprinkler yangın boruları ve beton kirişler yüksekliği yer yer 1.95 metreye kadar düşürür.',
+          'Standart kayar kasa çekiciler 2.40–2.55 metre yüksekliğe ve 7 metreyi aşan uzunluğa sahiptir. Bu araçların kapalı garaja girmeye çalışması tavan tesisatına çarpma veya dar virajda kolonlara sıkışma anlamına gelir. Bu yüzden otopark kurtarma işi kesinlikle <a href="/hizmetler/aparatli-cekici.html">alçak tavanlı kapalı otopark çekicisi</a> gerektirir.'
         ]
       },
       {
@@ -394,7 +394,7 @@ const BLOG_POSTS = [
         h2: 'Dar Spiral Rampalarda Sıfır Sürtme Tekniği',
         paragraphs: [
           'Kapalı garajlardaki en hassas aşama katlar arası keskin eğimli çıkış rampalarıdır. Alçak şasili araçlarda ön aks fazla yukarı kaldırıldığında arka tamponun rampa bitişindeki kavisli betona sürtme ihtimali doğar. Deneyimli operatörlerimiz gözlük kaldırma yüksekliğini rampa açısına göre milimetrik dengeler ve rampayı düşük hızda, gözcü kontrolünde çıkar.',
-          'Araç açık havaya çıktığında teslimat noktası yakınsa doğrudan servise ulaştırılır; uzun mesafe, otoyol veya şehirlerarası transfer gerekiyorsa garaj kapısında bekleyen kayar kasa platformumuza aktarılarak kaskolu nakil tamamlanır.'
+          'Araç açık havaya çıktığında teslimat noktası yakınsa doğrudan servise ulaştırılır; uzun mesafe, otoyol veya şehirlerarası transfer gerekiyorsa garaj kapısında bekleyen kayar kasa platformumuza aktarılarak özenli nakil tamamlanır.'
         ]
       },
       {
@@ -411,7 +411,7 @@ const BLOG_POSTS = [
         ['1.95m – 2.10m Alçak Tavan Garaj', '1.88m Alçak Kabin Gözlüklü Çekici', 'Sıfır — tavan borularından rahat geçer'],
         ['EPB Kilitli / P Konumu Otomatik', 'Ön Hidrolik Gözlük + Arka Go-Jak Doli', 'Sıfır — 4 tekerlek de sürüklenmez'],
         ['İki Araç / Kolon Arası Sıkışık Park', '4’lü Hidrolik Tekerlek Kaydırma Krikosu', 'Sıfır — araç eksene yan kaydırılır'],
-        ['Sadece Akü Boşalması', 'Taşınabilir 12V Korumalı Booster', 'Sıfır — çekime gerek kalmadan çalışır']
+        ['Sadece Akü Boşalması', 'Taşınabilir 12V Profesyonel Booster', 'Sıfır — çekime gerek kalmadan çalışır']
       ]
     },
     faqs: [
@@ -427,7 +427,7 @@ const BLOG_POSTS = [
     date: '2026-11-18',
     dateDisplay: '18 Kasım 2026',
     readTime: '6 dk okuma',
-    img: 'gebze-luks-arac',
+    img: 'client-kazali-mercedes',
     metaTitle: 'Elektrikli Araç Gebze Çekici | Togg & Tesla Batarya Korumalı Taşıma',
     metaDesc: 'Togg T10X, Tesla ve diğer elektrikli araçlar (EV) batarya bloğuna zarar vermeden nasıl çekilir? Çekme modu, 6° altı rampa ve Go-Jak doli rehberi.',
     excerpt: 'Elektrikli otomobillerde batarya paketi tüm alt şasiyi kaplar. Çekme modu (Tow Mode) açılmayan veya şarjı biten EV modellerde sıfır hasarlı taşıma kurallarını özetledik.',
@@ -443,7 +443,7 @@ const BLOG_POSTS = [
         h2: 'Elektrikli Araç Neden Standart Çekiciyle Çekilmez?',
         paragraphs: [
           'Togg T10X, Tesla Model Y, Volvo EX30, Hyundai Ioniq, Kia EV6 ve Mercedes EQ serisi gibi tam elektrikli araçlarda yüksek voltajlı lityum-iyon batarya paketi aracın taban şasisinin neredeyse tamamını kaplar. Ayrıca bu araçlarda geleneksel mekanik boş vites yerine doğrudan elektrik motoruna bağlı sabit redüktör dişlisi bulunur.',
-          'Tekerlekleri yere basarken elektrikli bir otomobili halatla veya arka tekerlekleri dönerek çekmeye çalışmak, elektrik motorunu jeneratör gibi döndürerek yüksek voltajlı ters akım (rejeneratif yük) üretir. Bu durum inverter ünitesinde ve motor sargılarında çok ağır hasarlara yol açabilir. Bu nedenle tüm EV modelleri mutlaka dört tekerleği yerden kesik şekilde <a href="/hizmetler/kazali-luks-arac-tasima.html">düşük açılı kayar kasa</a> ile taşınmalıdır.'
+          'Tekerlekleri yere basarken elektrikli bir otomobili halatla veya arka tekerlekleri dönerek çekmeye çalışmak, elektrik motorunu jeneratör gibi döndürerek yüksek voltajlı ters akım (rejeneratif yük) üretir. Bu durum inverter ünitesinde ve motor sargılarında çok ağır hasarlara yol açabilir. Bu nedenle tüm EV modelleri mutlaka dört tekerleği yerden kesik şekilde <a href="/hizmetler/oto-cekici.html">düşük açılı kayar kasa</a> ile taşınmalıdır.'
         ]
       },
       {
@@ -451,7 +451,7 @@ const BLOG_POSTS = [
         h2: '12V Akü Biterse ve Çekme Modu Açılmazsa Ne Yapılır?',
         paragraphs: [
           'Elektrikli araçlarda ana çekiş bataryası dolu olsa bile kapıları, ekranı ve park kilidini yöneten 12V destek aküsü boşaldığında araç ekrandan “Çekme Modu / Tow Mode” seçeneğine geçemez. Tekerlekler elektronik park freniyle (EPB) kilitli kalır.',
-          'Bu senaryoda aracı asla zorla vinçle sürükleyerek kasaya almıyoruz. Önce 12V akü korumalı booster ile sistem uyandırılmaya çalışılır; araç yine de serbest kalmıyorsa dört lastiğin altına rulmanlı Go-Jak doli arabaları yerleştirilerek tekerlekler hiç dönmeden sürtünmesiz biçimde platforma alınır.'
+          'Bu senaryoda aracı asla zorla vinçle sürükleyerek kasaya almıyoruz. Önce 12V profesyonel booster ile sistem uyandırılmaya çalışılır; araç yine de serbest kalmıyorsa dört lastiğin altına rulmanlı Go-Jak doli arabaları yerleştirilerek tekerlekler hiç dönmeden sürtünmesiz biçimde platforma alınır.'
         ],
         callout: {
           title: 'Alt Şasiye Kanca veya Kriko Vurulmamalı',
@@ -470,7 +470,7 @@ const BLOG_POSTS = [
         id: 'gebze-ev-sarj',
         h2: 'Gebze ve Bilişim Vadisi Hattında Şarj Bitmesi Desteği',
         paragraphs: [
-          '<a href="/bolgeler/bilisim-vadisi-oto-cekici.html">Bilişim Vadisi</a>, <a href="/bolgeler/mutlukent-oto-cekici.html">Mutlukent</a>, <a href="/bolgeler/tem-gebze-oto-cekici.html">TEM Gebze</a> ve <a href="/bolgeler/osmangazi-koprusu-oto-cekici.html">Osmangazi Köprüsü</a> hattında şarjı tükenen elektrikli aracınızı hasarsız şekilde platforma alıp en yakın yüksek hızlı DC şarj istasyonuna veya yetkili marka servisine 7/24 kaskolu olarak ulaştırıyoruz.'
+          '<a href="/bolgeler/bilisim-vadisi-cekici.html">Bilişim Vadisi</a>, <a href="/bolgeler/mutlukent-cekici.html">Mutlukent</a>, <a href="/bolgeler/tem-gebze-cekici.html">TEM Gebze</a> ve <a href="/bolgeler/osmangazi-koprusu-cekici.html">Osmangazi Köprüsü</a> hattında şarjı tükenen elektrikli aracınızı hasarsız şekilde platforma alıp en yakın yüksek hızlı DC şarj istasyonuna veya yetkili marka servisine 7/24 özenle ulaştırıyoruz.'
         ]
       }
     ],
@@ -480,12 +480,12 @@ const BLOG_POSTS = [
         ['Şarj Bitmesi', 'Kayar kasa ile en yakın DC istasyona nakil', 'Halatla başka araçla çekmek'],
         ['12V Akü Çökmesi / Kilitli EPB', '4 tekerlek Go-Jak doli + düşük rampa', 'Tekerlekleri kilitte sürüklemek'],
         ['Alçak Şasili Elektrikli Sedan', '6° altı kompozit uzatma rampası', 'Dik açılı klasik rampa kullanmak'],
-        ['Uzun Mesafe Yetkili Servis', 'Tekli VIP emtia kaskolu nakliye', 'Aktarmalı açık çoklu taşıyıcı']
+        ['Uzun Mesafe Yetkili Servis', 'Tekli VIP fotoğraflı tutanaklu nakliye', 'Aktarmalı açık çoklu taşıyıcı']
       ]
     },
     faqs: [
       { q: 'Elektrikli aracımın şarjı TEM Gebze üzerinde biterse kaç dakikada gelirsiniz?', a: 'Bilişim Vadisi ve TEM Gebze nöbetçi araçlarımızla ortalama 10–15 dakika içinde emniyet şeridine ulaşıp aracınızı en yakın hızlı şarj istasyonuna taşıyoruz.' },
-      { q: 'Togg veya Tesla aracımı İstanbul yetkili servisine taşıyor musunuz?', a: 'Evet. Gebze ve çevresinden İstanbul Anadolu ve Avrupa Yakası yetkili servislerine yüksek teminatlı emtia kaskosu ve tekli kayar kasayla aktarmasız teslimat yapıyoruz.' },
+      { q: 'Togg veya Tesla aracımı İstanbul yetkili servisine taşıyor musunuz?', a: 'Evet. Gebze ve çevresinden İstanbul Anadolu ve Avrupa Yakası yetkili servislerine fotoğraflı teslim tutanağı ve tekli kayar kasayla aktarmasız teslimat yapıyoruz.' },
       { q: 'Elektrikli araç çekimi için fiyat bilgisini nasıl alabilirim?', a: '0533 945 45 14 hattımızı arayarak veya WhatsApp konumunuzu paylaşarak saniyeler içinde ücretsiz net sabit fiyat onayı alabilirsiniz.' }
     ]
   },
@@ -496,7 +496,7 @@ const BLOG_POSTS = [
     date: '2026-11-20',
     dateDisplay: '20 Kasım 2026',
     readTime: '6 dk okuma',
-    img: 'gebze-sedan-otoyol',
+    img: 'client-sedan-mahalle',
     metaTitle: 'Eskihisar Feribot & Osmangazi Köprüsü Arıza ve Çekici Rehberi',
     metaDesc: 'Eskihisar feribot kuyruğunda hararet, debriyaj yanması veya Osmangazi Köprüsü gişelerinde araç arızasında hızlı ve güvenli kurtarma adımları.',
     excerpt: 'Tatilde veya iş seyahatinde Eskihisar rampasında ya da Osmangazi Köprüsü yaklaşımında aracınız arızalandığında trafiği riske atmadan izlemeniz gereken 4 kritik adım.',
@@ -511,7 +511,7 @@ const BLOG_POSTS = [
         id: 'eskihisar-rampasi',
         h2: 'Eskihisar Rampasında Hararet ve Debriyaj Sorunları',
         paragraphs: [
-          'Marmara geçişinin en yoğun noktalarından <a href="/bolgeler/eskihisar-oto-cekici.html">Eskihisar Feribot İskelesi</a>, özellikle hafta sonları, bayram dönüşleri ve yaz aylarında uzun araç kuyruklarına sahne olur. Dik Eskihisar rampasında klima açık şekilde dur-kalk beklemek eski baskı balataların yanmasına, soğutma fanı arızalı motorlarda hararetin kırmızı bölgeye çıkmasına ve akünün zayıflamasına neden olur.',
+          'Marmara geçişinin en yoğun noktalarından <a href="/bolgeler/eskihisar-cekici.html">Eskihisar Feribot İskelesi</a>, özellikle hafta sonları, bayram dönüşleri ve yaz aylarında uzun araç kuyruklarına sahne olur. Dik Eskihisar rampasında klima açık şekilde dur-kalk beklemek eski baskı balataların yanmasına, soğutma fanı arızalı motorlarda hararetin kırmızı bölgeye çıkmasına ve akünün zayıflamasına neden olur.',
           'Hararet ibresi yükseldiğinde motoru aniden stop edip radyatör kapağını açmak son derece tehlikelidir; kaynar su basıncı ciddi yanıklara yol açar. Aracı mümkün olan en sağ cepte durdurup kaloriferi sıcağa almak ve profesyonel <a href="/hizmetler/oto-cekici.html">kayar kasa çekici</a> çağırmak motor contası hasarını önler.'
         ]
       },
@@ -519,7 +519,7 @@ const BLOG_POSTS = [
         id: 'osmangazi-emniyet',
         h2: 'Osmangazi Köprüsü Bağlantısında Emniyet Kuralları',
         paragraphs: [
-          '<a href="/bolgeler/osmangazi-koprusu-oto-cekici.html">Osmangazi Köprüsü</a> kuzey yaklaşım viyadüğü ve Muallimköy gişe bağlantılarında araçlar yüksek hızla seyreder. Bu bölgede lastik parçalanması veya mekanik stop yaşandığında ilk 30 saniyede dörtlü flaşörleri yakıp en sağ emniyet şeridine yanaşmak, ardından araçtaki herkesi sağ kapılardan indirip çelik bariyerin arkasına almak hayati önem taşır.',
+          '<a href="/bolgeler/osmangazi-koprusu-cekici.html">Osmangazi Köprüsü</a> kuzey yaklaşım viyadüğü ve Muallimköy gişe bağlantılarında araçlar yüksek hızla seyreder. Bu bölgede lastik parçalanması veya mekanik stop yaşandığında ilk 30 saniyede dörtlü flaşörleri yakıp en sağ emniyet şeridine yanaşmak, ardından araçtaki herkesi sağ kapılardan indirip çelik bariyerin arkasına almak hayati önem taşır.',
           'Kurtarıcı ekibimiz yüksek lümenli LED tepe ikaz sistemleri ve reflektör güvenlik konileriyle çalışma alanını koruma altına alır; aracınızı ortalama 5 dakika içinde platforma sabitler.'
         ],
         callout: {
@@ -539,7 +539,7 @@ const BLOG_POSTS = [
         id: 'sehirlerarasi-devam',
         h2: 'Yolculuğa Devam veya Şehirlerarası Tekli Nakil',
         paragraphs: [
-          'Arızanız sadece akü bitmesi veya stepne değişimiyse mobil yol yardım ekibimiz sorununuzu yerinde çözerek tatilinize devam etmenizi sağlar. Mekanik arıza halinde ise aracınızı dilerseniz Gebze Oto Sanayi’ye, dilerseniz <a href="/hizmetler/sehirlerarasi-arac-tasima.html">şehirlerarası tekli taşıma</a> ile İstanbul, Yalova, Bursa veya İzmir’deki yetkili servisinize kaskolu olarak ulaştırıyoruz.',
+          'Arızanız sadece akü bitmesi veya stepne değişimiyse mobil yol yardım ekibimiz sorununuzu yerinde çözerek tatilinize devam etmenizi sağlar. Mekanik arıza halinde ise aracınızı dilerseniz Gebze Oto Sanayi’ye, dilerseniz <a href="/hizmetler/sehirlerarasi-arac-tasima.html">şehirlerarası tekli taşıma</a> ile İstanbul, Yalova, Bursa veya İzmir’deki yetkili servisinize özenle ulaştırıyoruz.',
           'Yükleme öncesinde telefonda onaylanan net sabit fiyat dışında otoyol çıkışı veya gece saati bahanesiyle ek masraf çıkarılmaz; araç içi mobil POS ve KDV’li e-fatura ile kasko geri ödeme belgeleriniz anında hazırlanır.'
         ]
       }
@@ -566,7 +566,7 @@ const BLOG_POSTS = [
     date: '2026-11-22',
     dateDisplay: '22 Kasım 2026',
     readTime: '6 dk okuma',
-    img: 'gebze-ticari-osb',
+    img: 'client-panelvan-osb',
     metaTitle: 'GOSB & TOSB Kurumsal Filo Çekici ve Vardiya Kurtarma Rehberi',
     metaDesc: 'GOSB, TOSB, Güzeller OSB ve Dilovası fabrikalarında şirket panelvanı, personel servisi ve forklift arızalarında İSG uyumlu faturalı çekici süreci.',
     excerpt: 'Organize sanayi bölgelerinde vardiya çıkışında veya sevkiyat sırasında arızalanan ticari araçlar, personel servisleri ve forkliftler için kurumsal kurtarma standartlarını derledik.',
@@ -574,14 +574,14 @@ const BLOG_POSTS = [
       { id: 'osb-vardiya-krizi', label: 'OSB Vardiya Saatlerinde Hızlı Tahliye Neden Kritik?' },
       { id: 'nizamiye-isg', label: 'Fabrika Nizamiye Girişi ve İSG Kurallarına Uyum' },
       { id: 'ticari-forklift', label: 'Uzun Şasi Panelvan, Minibüs ve Forklift Donanımı' },
-      { id: 'kurumsal-fatura', label: 'Kurumsal KDV’li e-Fatura ve Emtia Sigortası Süreci' }
+      { id: 'kurumsal-fatura', label: 'Kurumsal KDV’li e-Fatura ve Fotoğraflı Teslim Tutanağı Süreci' }
     ],
     sections: [
       {
         id: 'osb-vardiya-krizi',
         h2: 'OSB Vardiya Saatlerinde Hızlı Tahliye Neden Kritik?',
         paragraphs: [
-          '<a href="/bolgeler/gosb-oto-cekici.html">GOSB</a>, <a href="/bolgeler/tosb-oto-cekici.html">TOSB</a>, <a href="/bolgeler/guzeller-osb-oto-cekici.html">Güzeller OSB</a>, <a href="/bolgeler/balcik-oto-cekici.html">Balçık</a> antrepoları ve <a href="/bolgeler/dilovasi-oto-cekici.html">Dilovası İMES OSB</a> koridorlarında sabah 07.30–09.00 ve akşam 17.00–19.30 saatleri arasında dakikalarla yarışan bir servis ve sevkiyat trafiği akar. İhsan Dede Caddesi’nde veya Tembelova köprüsünde arızalanan tek bir panelvan ya da 16+1 servis minibüsü yüzlerce personelin vardiya değişimini geciktirebilir.',
+          '<a href="/bolgeler/gosb-cekici.html">GOSB</a>, <a href="/bolgeler/tosb-cekici.html">TOSB</a>, <a href="/bolgeler/guzeller-osb-cekici.html">Güzeller OSB</a>, <a href="/bolgeler/balcik-cekici.html">Balçık</a> antrepoları ve <a href="/bolgeler/dilovasi-cekici.html">Dilovası İMES OSB</a> koridorlarında sabah 07.30–09.00 ve akşam 17.00–19.30 saatleri arasında dakikalarla yarışan bir servis ve sevkiyat trafiği akar. İhsan Dede Caddesi’nde veya Tembelova köprüsünde arızalanan tek bir panelvan ya da 16+1 servis minibüsü yüzlerce personelin vardiya değişimini geciktirebilir.',
           'OSB arterlerine bitişik konuşlu nöbetçi filomuz çağrınızın ardından ortalama 10–12 dakika içinde olay yerine ulaşarak hem fabrika çıkış yolunu açar hem de sevkiyat yükünüzün gecikmesini önler.'
         ]
       },
@@ -601,23 +601,23 @@ const BLOG_POSTS = [
         id: 'ticari-forklift',
         h2: 'Uzun Şasi Panelvan, Minibüs ve Forklift Donanımı',
         paragraphs: [
-          'Şirket filolarındaki Ford Transit, Mercedes Sprinter, VW Crafter, Fiat Ducato panelvanlar ve personel minibüsleri için güçlendirilmiş uzun şasili <a href="/hizmetler/ticari-arac-cekici.html">ticari araç çekici</a> platformlarımız görev yapar. Depo içinde arızalanan veya başka şubeye nakledilecek 3.5 tona kadar akülü/dizel forklift ve makaslı platformlar ise çelik rampalı <a href="/hizmetler/is-makinesi-tasima.html">iş makinesi taşıyıcılarımızla</a> aynı gün taşınır.',
+          'Şirket filolarındaki Ford Transit, Mercedes Sprinter, VW Crafter, Fiat Ducato panelvanlar ve personel minibüsleri için güçlendirilmiş uzun şasili <a href="/hizmetler/ticari-arac-cekici.html">ticari araç çekici</a> platformlarımız görev yapar. Depo içinde arızalanan veya başka şubeye nakledilecek 3.5 tona kadar akülü/dizel forklift ve makaslı platformlar ise çelik rampalı <a href="/hizmetler/tenteli-arac-nakliye.html">iş makinesi taşıyıcılarımızla</a> aynı gün taşınır.',
           'Yüksek tonajlı ticari araçlarda dingil mesafesi ve yük dağılımı doğru dengelenmediğinde şasi ve arka aks zorlanır. Operatörlerimiz ağır sınıf tekstil spanzet kemerleri, aks takozları ve düşük giriş açılı rampalarla şirket aracınızı yetkili ticari servise hasarsız teslim eder.'
         ]
       },
       {
         id: 'kurumsal-fatura',
-        h2: 'Kurumsal KDV’li e-Fatura ve Emtia Sigortası Süreci',
+        h2: 'Kurumsal KDV’li e-Fatura ve Fotoğraflı Teslim Tutanağı Süreci',
         paragraphs: [
           'OSB firmalarının muhasebe ve satın alma süreçlerine tam uyumlu olarak her operasyonda yükleme öncesi net sabit fiyat onayı verilir; teslimat sonrası şirket vergi numaranıza resmi KDV’li e-fatura düzenlenir. Araç içi mobil POS ile şirket kredi kartı veya kurumsal havale kolaylığı standarttır.',
-          'Tüm şehir içi ve şehirlerarası kurumsal nakillerimiz emtia taşıma kaskosu kapsamındadır; dilediğinizde yükleme ve servis teslimat anı fotoğraflı tutanak olarak filo yöneticinize WhatsApp üzerinden anlık iletilir.'
+          'Tüm şehir içi ve şehirlerarası kurumsal nakillerimiz fotoğraflı teslim tutanağı kapsamındadır; dilediğinizde yükleme ve servis teslimat anı fotoğraflı tutanak olarak filo yöneticinize WhatsApp üzerinden anlık iletilir.'
         ]
       }
     ],
     table: {
       headers: ['OSB Filo İhtiyacı', 'Kullanılan Kurtarıcı', 'Kurumsal Standart'],
       rows: [
-        ['Personel Binek / Yönetici Aracı', '6° Altı Hidrolik Kayar Kasa', 'Emtia kaskosu + e-fatura'],
+        ['Personel Binek / Yönetici Aracı', '6° Altı Hidrolik Kayar Kasa', 'fotoğraflı teslim tutanağı + e-fatura'],
         ['Uzun Şasi Panelvan & 16+1 Minibüs', 'Ağır Hizmet Uzun Platform', 'Yüksek tonaj spanzet + POS'],
         ['Depo İçi Akülü/Dizel Forklift', 'Çelik Rampalı İş Makinesi Aracı', 'İSG uyumlu saha yüklemesi'],
         ['Vardiya Çıkışı Boş Akü (12V/24V)', 'Dijital Booster Mobil Yardım', '15 dk yerinde çalıştırma']

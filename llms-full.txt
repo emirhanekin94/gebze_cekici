@@ -1,6 +1,6 @@
 # Gebze Çekici — Kapsamlı GEO & Operasyonel Bilgi Bankası (llms-full.txt)
 
-> Gebze Çekici & 7/24 Yol Yardım Hizmetleri — Gebze, GOSB, TOSB, Çayırova, Darıca, Dilovası, TEM ve D-100 hattında 7/24 kaskolu kayar kasa oto çekici, kapalı otopark kurtarma, ahtapot vinç ve yol yardım.
+> Gebze Çekici & 7/24 Yol Yardım Hizmetleri — Gebze, GOSB, TOSB, Çayırova, Darıca, Dilovası, TEM ve D-100 hattında 7/24 hidrolik kayar kasa oto çekici, aparatlı çekici, çoklu çekici, 3.5 ton tenteli yük taşımacılığı ve yol yardım.
 > İletişim (7/24): 0533 945 45 14 | Web: https://gebzecekici.tr | Harita: https://maps.app.goo.gl/EsGS9t7TZx7Uz9NW6
 
 ## 1. Fiyatlandırma ve Şeffaflık Politikası
@@ -10,38 +10,43 @@
 
 ## 2. Tüm 12 Hizmetin Teknik Detayları
 ### Kayar Kasa Oto Çekici (https://gebzecekici.tr/hizmetler/oto-cekici.html)
-- Özet: Gebze içi tüm mahalleler, organize sanayi bölgeleri ve otoyol bağlantılarında hidrolik kayar kasa platformlu araçlarımızla binek, spor ve SUV sınıfı araçları tampona dokunmadan güvenle taşıyoruz.
-- Ekipman Standartları: Alüminyum takviyeli düşük eğimli kayar rampa ve düşük şasi uzatma takozları | 5 ton çekme kapasiteli uzaktan kumandalı hidrolik tambur vinci | Çelik jant ve lastik yanaklarını koruyan kauçuk takviyeli 4 nokta bağlama kayışları | Gece otoyol müdahaleleri için yüksek lümenli LED tepe ikaz barı ve 150 metrelik reflektör güvenlik şeridi | Yükleme öncesi ve teslimat anında fotoğraflı tutanak ile taşıma emtia kaskosu güvencesi
+- Özet: Gebze içi tüm mahalleler, organize sanayi bölgeleri ve otoyol bağlantılarında hidrolik kayar kasa platformlu araçlarımızla binek ve SUV sınıfı araçları tampona dokunmadan güvenle taşıyoruz.
+- Ekipman Standartları: Alüminyum takviyeli düşük eğimli kayar rampa ve şasi uzatma takozları | 5 ton çekme kapasiteli uzaktan kumandalı hidrolik tambur vinci | Çelik jant ve lastik yanaklarını koruyan kauçuk takviyeli 4 nokta bağlama kayışları | Gece otoyol müdahaleleri için yüksek lümenli LED tepe ikaz barı ve 150 metrelik reflektör güvenlik şeridi | Yükleme öncesi ve teslimat anında fotoğraflı teslim tutanağı
 - Fiyat Kriteri: Kayar kasa oto çekici fiyatlandırması; Gebze içi çıkış mesafesi, gidilecek servis veya ilçe kilometresi ve aracın ağırlık sınıfına göre hesaplanır. Aracınız platforma alınmadan önce net rakam yazılı veya sözlü olarak onayınıza sunulur; yol trafiği nedeniyle bekleme veya gece sürpriz farkı uygulanmaz.
 
 ### Kazalı & Şarampol Oto Kurtarma (https://gebzecekici.tr/hizmetler/oto-kurtarma.html)
-- Özet: Trafik kazası, kaygan zemin kaynaklı yoldan çıkma, refüje çıkma veya tekerlek-aks kopması gibi zorlu durumlarda ikinci bir hasar oluşturmadan kontrollü kurtarma operasyonu gerçekleştiriyoruz.
-- Ekipman Standartları: Çift tamburlu yön değiştirmeli makara sistemi ve yüksek mukavemetli sentetik kurtarma halatları | Kırık aks ve patlak tekerlekler için ağır yük taşımalı tekerlek altı polietilen kızaklar | Gece kaza alanını gündüze çeviren 360 derece döner LED projektörler | Yangın söndürme tüpü, akü kutup ayırıcı el aletleri ve yağ-sıvı emici güvenlik kiti | Kaza sonrası kasko ve trafik sigortası dosyalarına uygun detaylı fatura düzenleme
-- Fiyat Kriteri: Oto kurtarma operasyonlarında ücret; şarampol derinliği, ek vinç veya kızak aparatı gereksinimi ve teslimat mesafesi baz alınarak şeffaf şekilde belirlenir. Konumdan gelen iki adet fotoğraf üzerinden telefonda kesin teklif sunulur.
+- Özet: Trafik kazası, kaygan zemin kaynaklı yoldan çıkma, refüje çıkma veya tekerlek-aks kopması gibi zorlu durumlarda ikinci bir hasar oluşturmadan kayar kasa ve tekerlek kızaklarıyla kontrollü kurtarma operasyonu gerçekleştiriyoruz.
+- Ekipman Standartları: Yüksek çekiş kapasiteli uzaktan kumandalı tambur ve sentetik kurtarma halatları | Kırık aks ve patlak tekerlekler için ağır yük taşımalı tekerlek altı polietilen kızaklar | Gece kaza alanını aydınlatan yüksek lümenli LED çalışma lambaları | Yangın söndürme tüpü, akü kutup ayırıcı el aletleri ve güvenlik koni kiti | Kaza sonrası kasko dosyalarına uygun detaylı KDV’li fatura düzenleme
+- Fiyat Kriteri: Oto kurtarma operasyonlarında ücret; şarampol eğimi, ek kızak aparatı gereksinimi ve teslimat mesafesi baz alınarak şeffaf şekilde belirlenir. Konumdan gelen iki adet fotoğraf üzerinden telefonda kesin teklif sunulur.
 
-### Kapalı Otopark Çekici (https://gebzecekici.tr/hizmetler/kapali-otopark-cekici.html)
-- Özet: Gebze Center AVM, Mutlukent ve Kirazpınar toplu konut projeleri, iş merkezi ve hastane katlı otoparklarında standart çekicilerin giremediği alçak tavanlı katlara özel kompakt kurtarıcımızla iniyoruz.
-- Ekipman Standartları: 1.90m altındaki tavanlara ve dik otopark giriş rampalarına uyumlu kompakt 4x4 çekici kabini | Hidrolik açılır-kapanır tekerlek kavrama gözlüğü (tampon ve karter teması sıfır) | Kilitli arka tekerlekler için rulmanlı ağır hizmet doli (go-jak) taşıma arabaları | Otopark içi diğer park halindeki araçlara zarar vermemek için kısa dönüş yarıçapı | Otopark çıkışından sonra şehir içi veya şehirlerarası nakil için dışarıda hazır kayar kasa aktarım seçeneği
-- Fiyat Kriteri: Kapalı otopark çekici ücreti; kat sayısı, doli (tekerlek arabası) gereksinimi ve açık alana çıkarıldıktan sonraki servis mesafesine göre sabit olarak belirlenir.
+### Aparatlı Çekici (https://gebzecekici.tr/hizmetler/aparatli-cekici.html)
+- Özet: Otomatik şanzımanı P konumunda kilitlenen, elektronik park freni (EPB) açılmayan, direksiyonu kilitli kalan veya aks arızası nedeniyle tekerlekleri dönmeyen araçları özel tekerlek aparatlarımızla sürüklemeden taşıyoruz.
+- Ekipman Standartları: Her tekerlek için bağımsız çalışan hidrolik ayak pedallı Go-Jak doli taşıyıcılar | Kilitli lastikleri asfaltta ve rampada sürtünmesiz kaydıran polietilen paten (skates) seti | Tekerlek kavrama gözlüğü ve düşük açılı hidrolik kayar kasa kombinasyonu | Jant boyasına ve şasi altına temas etmeden yalnızca lastik sırtını kavrayan aparatlar | Gebze içi 10–15 dakikada aparatlı ekip yönlendirme ve sabit fiyat politikası
+- Fiyat Kriteri: Aparatlı çekici ücreti; kullanılan tekerlek aparatı adedi (2 veya 4 tekerlek) ve teslimat mesafesine göre aramanız sırasında netleştirilir, yükleme sonrasında sürpriz ek ücret talep edilmez.
 
-### Ahtapot Çekici & Vinçli Kurtarma (https://gebzecekici.tr/hizmetler/ahtapot-cekici.html)
-- Özet: Yürüyemeyen, vitesi boşa alınamayan, elektrikli park freni devre dışı bırakılamayan veya park ettiği yerde önü-arkası kapalı kalan araçlar için dört tekerlek askılı ahtapot vinçli çekici hizmeti sunuyoruz.
-- Ekipman Standartları: 360 derece dönebilen yüksek tonajlı hidrolik katlanır bomlu vinç sistemi | Ağırlık dengesini otomatik eşitleyen terazili H-bar kaldırma traversi | Çamurluk ve jant boyasına kesinlikle değmeyen ayarlanabilir tekerlek kavrama çatalı | Elektrikli araç batarya alt tablasına baskı yapmadan yalnızca lastik sırtından taşıma | Sertifikalı vinç operatörü ve yüksek limitli taşıma kaskosu
-- Fiyat Kriteri: Ahtapot vinçli çekici tarifesi, özel vinç operatörü ve ağır hidrolik ekipman kullanımı nedeniyle standart kayar kasadan farklı hesaplanır; konum ve servis mesafesine göre çağrı sırasında sabit fiyat verilir.
+### Çoklu Çekici (https://gebzecekici.tr/hizmetler/coklu-cekici.html)
+- Özet: Gebze merkezli çoklu çekici filomuzla; oto galeriler, araç kiralama şirketleri, kurumsal filolar ve şehirlerarası ekonomik taşıma arayan bireysel araç sahipleri için güvenli çoklu araç nakliyesi sunuyoruz.
+- Ekipman Standartları: Hidrolik hareketli çift katlı çoklu araç taşıma platformu | Her araç için ayrı tekerlek sabitleme takozu ve 4 nokta spanzet kilitleme | Sedan, hatchback, SUV ve hafif ticari araç karma yükleme kapasitesi | Düzenli Gebze–İstanbul–Ankara–İzmir–Bursa–Antalya planlı sefer ağı | Galeri, filo ve bireysel müşteriler için KDV’li kurumsal e-fatura
+- Fiyat Kriteri: Çoklu çekici fiyatlandırması araç adedi, kasa tipi ve gidilecek şehir mesafesine göre belirlenir. Çoklu seferlerde tekli çekiciye kıyasla çok daha ekonomik taşıma imkânı sunulur.
+
+### Şehir İçi & Şehirlerarası Yük Taşımacılığı (https://gebzecekici.tr/hizmetler/tenteli-arac-nakliye.html)
+- Özet: Gebze, GOSB, TOSB, Kocaeli, İstanbul ve Türkiye’nin 81 iline 3.5 tona kadar tenteli aracımızla şehir içi ve şehirlerarası özel yük taşımacılığı yapıyoruz. Acil ve taşıması önem arz eden yükleriniz özenle taşınır.
+- Ekipman Standartları: 3.5 tona kadar yasal taşıma kapasiteli bakımlı tenteli araç | Yağmur, rüzgâr ve yol tozuna karşı kapalı branda kasa | Forklift ve transpalet yüklemesine uygun yandan açılır kayar tente | Acil ve önem arz eden özel yükler için kasa içi spanzet sabitleme düzeni | Bireysel ve OSB kurumsal firmalar için resmi KDV’li nakliye faturası
+- Fiyat Kriteri: Şehir içi ve şehirlerarası tenteli yük taşımacılığı fiyatları; yük ağırlığı (3.5 tona kadar), güzergâh mesafesi ve teslimat planına göre aramanız sırasında netleştirilir.
 
 ### Yerinde Akü Takviye (https://gebzecekici.tr/hizmetler/aku-takviye.html)
-- Özet: Soğuk sabahlarda, farların açık unutulmasında veya uzun süre park halinde kalan araçlarda boşalan aküyü, başka bir araçtan kablo bağlayıp elektronik beyni riske atmadan profesyonel booster cihazıyla yerinde çalıştırıyoruz.
-- Ekipman Standartları: Pik akım ve ters bağlantı korumalı profesyonel 12V / 24V yüksek amperli booster cihazları | Start-Stop (AGM / EFB) ve hibrit araçların yardımcı 12V akülerine uyumlu hassas mod | Dijital akü sağlık (CCA) ve şarj dinamosu voltaj analiz cihazı | Kutup başı oksit temizleme fırçası ve gevşek kelepçe sabitleme el takımları | Kapalı otopark ve dar sitelere hızlı ulaşan mobil yol yardım aracı
+- Özet: Soğuk sabahlarda, farların açık unutulmasında veya uzun süre park halinde kalan araçlarda boşalan aküyü profesyonel 12V/24V booster cihazlarımızla bulunduğunuz noktada hızlıca çalıştırıyoruz.
+- Ekipman Standartları: 12V binek/SUV ve 24V ticari araçlara uyumlu yüksek amperli profesyonel booster cihazları | Start-Stop (AGM / EFB) ve standart akü tiplerine tam uyum | Dijital akü voltaj ve şarj dinamosu (alternatör) test ölçüm cihazı | Kutup başı oksit temizleme fırçası ve gevşek kelepçe sabitleme el takımları | Gebze içi site, otopark ve iş yerlerine 15 dakikada ulaşan mobil ekip
 - Fiyat Kriteri: Yerinde akü takviye ücreti, aracın çekilmesine kıyasla çok daha ekonomiktir. Gebze merkez ve çevre mahallelerde sabit servis bedeli telefonda net şekilde bildirilir.
 
 ### Mobil Lastik Yol Yardım (https://gebzecekici.tr/hizmetler/lastik-yol-yardim.html)
-- Özet: D-100, TEM otoyolu, Osmangazi Köprüsü yaklaşımı veya OSB güzergâhlarında aniden inen ya da yarılan lastiklerde can güvenliğinizi riske atmadan hızlı mobil lastik desteği ve güvenli değişim sağlıyoruz.
-- Ekipman Standartları: 3 ton kapasiteli hızlı kaldırma özellikli alçak profil hidrolik kriko | Jant boyasını çizmeyen teflon korumalı lokma uçları ve akülü tork anahtarı | Yüksek basınçlı taşınabilir dijital hava kompresörü ve hassas PSI basınç göstergesi | Sıkışmış şifreli bijon ve paslı saplamalar için özel söküm el takımları | Stepne uyumsuzluğu halinde anında 7/24 açık lastikçiye kayar kasa nakil seçeneği
+- Özet: D-100, TEM otoyolu, Osmangazi Köprüsü yaklaşımı veya OSB güzergâhlarında aniden inen ya da yarılan lastiklerde can güvenliğinizi riske atmadan hızlı stepne değişimi ve nöbetçi lastikçiye nakil desteği sağlıyoruz.
+- Ekipman Standartları: 3 ton kapasiteli hızlı kaldırma özellikli alçak profil hidrolik kriko | Jant boyasını çizmeyen korumalı lokma uçları ve akülü tork anahtarı | Yüksek basınçlı taşınabilir dijital hava kompresörü ve hassas PSI basınç göstergesi | Gece otoyol müdahalesi için yüksek görünürlüklü ışıklı ikaz ve reflektör seti | Stepne bulunmayan araçlarda anında 7/24 açık lastikçiye kayar kasa nakil seçeneği
 - Fiyat Kriteri: Yerinde stepne değişimi veya lastikçiye kısa mesafe taşıma ücretleri, bulunduğunuz noktaya göre aramanız esnasında sabit olarak bildirilir.
 
 ### Motosiklet Çekici & Nakliye (https://gebzecekici.tr/hizmetler/motosiklet-cekici.html)
 - Özet: Motosikletlerin otomobil çekicilerinde gelişigüzel yan yatırılarak veya gevşek bağlanarak taşınması grenaj kırıklarına ve ayna hasarlarına yol açar. Özel motosiklet sabitleme ekipmanlarımızla motorunuzu dik, dengeli ve tek çiziksiz taşıyoruz.
-- Ekipman Standartları: Tüm lastik genişliklerine uyumlu ayarlanabilir çelik ön tekerlek kıskacı | Kaymaz tırtıklı, geniş yüzeyli alüminyum motosiklet yükleme rampası | Boyalı aksam ve kabloları koruyan yumuşak dokuma elcik ve gidon bağlama sapanları | Ağır cruiser, touring ve maxi-scooter modelleri için çift taraflı denge gergisi | Noter devri, TÜVTÜRK muayenesi, servis bakımı ve şehirlerarası kaskolu motosiklet nakli
+- Ekipman Standartları: Tüm lastik genişliklerine uyumlu ayarlanabilir çelik ön tekerlek kıskacı | Kaymaz tırtıklı, geniş yüzeyli alüminyum motosiklet yükleme rampası | Boyalı aksam ve kabloları koruyan yumuşak dokuma elcik ve gidon bağlama sapanları | Ağır cruiser, touring ve maxi-scooter modelleri için çift taraflı denge gergisi | Noter devri, TÜVTÜRK muayenesi, servis bakımı ve şehirlerarası motosiklet nakli
 - Fiyat Kriteri: Motosiklet çekici fiyatları; motorun ağırlık sınıfı ve taşınacak mesafeye göre ekonomik ve sabit tarife üzerinden telefonda netleştirilir.
 
 ### Ticari, Panelvan & OSB Filo Çekici (https://gebzecekici.tr/hizmetler/ticari-arac-cekici.html)
@@ -49,153 +54,143 @@
 - Ekipman Standartları: Uzun dingil mesafeli panelvan ve minibüslere uyumlu güçlendirilmiş geniş hidrolik platform | Yüksek tonajlı çekiş vinci ve ağır sınıf zincirli/spanzetli sabitleme donanımı | OSB tesis ve lojistik depo sahalarında iş güvenliği kurallarına uygun reflektörlü ekipman | Pikap, 4x4 arazi kamyoneti ve kapalı kasa dağıtım araçlarına tam uyum | Kurumsal firmalar için aynı gün KDV’li e-fatura ve mobil POS ödeme
 - Fiyat Kriteri: Ticari araç çekici tarifesi, aracın tonajı, şasi uzunluğu ve teslimat mesafesine göre kurumsal şeffaflıkla belirlenir; şirket onayına sunulmadan işlem başlatılmaz.
 
-### Forklift & İş Makinesi Taşıma (https://gebzecekici.tr/hizmetler/is-makinesi-tasima.html)
-- Özet: Gebze’nin devasa organize sanayi ekosisteminde fabrika içi ekipman değişimleri, kiralık makine teslimatları ve şantiye transferleri için forklift, makaslı platform ve mini iş makinelerini sigortalı taşıyoruz.
-- Ekipman Standartları: Dolgu lastikli forklift ve makaslı platformlara uyumlu alçak açılı ağır çelik rampa | Ağır yük sınıfı çelik zincir gergileri ve kaymaz platform zemini | Çalışmayan arızalı forkliftler için yüksek tonajlı hidrolik çekme vinci | OSB depo rampaları ve fabrika kapılarında İSG kurallarına uygun operasyon | Kaskolu taşıma ve kurumsal sözleşmeli nakliye faturası
-- Fiyat Kriteri: Forklift ve iş makinesi taşıma fiyatları, makinenin tonajı ve OSB/ilçe arası mesafeye göre belirlenir; kiralama firmaları ve fabrikalar için toplu taşıma avantajları sunulur.
-
 ### Şehirlerarası Araç Taşıma (https://gebzecekici.tr/hizmetler/sehirlerarasi-arac-tasima.html)
-- Özet: Gebze’den Türkiye’nin herhangi bir şehrine ya da başka bir ilden Gebze’ye aracınızı kilometre yapmadan, yakıt ve yorgunluk harcamadan, tam kapsamlı taşıma kaskosuyla kapıdan kapıya ulaştırıyoruz.
-- Ekipman Standartları: Uzun yol şartlarına uygun bakımlı, yüksek modelli hidrolik kayar kasa filo | Yolculuk boyunca gevşemeyen çift kilitli 4 nokta tekerlek bağlama sistemi | Yükleme öncesi ve teslimat anında fotoğraflı ekspertiz tutanağı | İsteğe bağlı canlı konum paylaşımı ve planlı varış saati bildirimi | K1 / K2 yetki belgeli yasal taşımacılık ve şehirlerarası tam kapsamlı emtia kaskosu
+- Özet: Gebze’den Türkiye’nin herhangi bir şehrine ya da başka bir ilden Gebze’ye aracınızı kilometre yapmadan, yakıt ve yorgunluk harcamadan kapıdan kapıya güvenle ulaştırıyoruz.
+- Ekipman Standartları: Uzun yol şartlarına uygun bakımlı, yüksek modelli hidrolik kayar kasa filo | Yolculuk boyunca gevşemeyen çift kilitli 4 nokta tekerlek bağlama sistemi | Yükleme öncesi ve teslimat anında fotoğraflı ekspertiz tutanağı | İsteğe bağlı canlı konum paylaşımı ve planlı varış saati bildirimi | K1 / K2 yetki belgeli yasal taşımacılık ve kurumsal KDV’li e-fatura
 - Fiyat Kriteri: Şehirlerarası araç taşıma fiyatlandırması toplam kilometre, otoyol/köprü geçişleri ve aracın kasa tipine göre belirlenir. Dönüş güzergâhına denk gelen planlı transferlerde özel ekonomik fiyat imkânı sunulur.
-
-### Lüks, Spor & Elektrikli Araç Çekici (https://gebzecekici.tr/hizmetler/kazali-luks-arac-tasima.html)
-- Özet: Gebze Bilişim Vadisi, Mutlukent, Darıca Bayramoğlu ve otoyol hattındaki lüks, sportif ve tam elektrikli araçların hassas batarya tabanı, karbon lip ve jant yapısına özel ekipmanlarla sıfır temaslı VIP nakil hizmeti veriyoruz.
-- Ekipman Standartları: Süper spor ve Airmatic arızalı araçlar için kademeli 6° altı kompozit rampa seti | Elektrikli araçlarda rejeneratif motor hasarını sıfırlayan 4 tekerlekli serbest taşıma | Kumaş korumalı, çizmez jant koruyucu lastik üstü ağ spanzetler | Togg, Tesla ve Avrupa premium marka yetkili servis prosedürlerine hakim deneyimli operatörler | Yüksek bedelli özel VIP emtia taşıma sigortası
-- Fiyat Kriteri: Lüks ve elektrikli araç taşıma hizmetimizde ek düşük açı rampa kurulumu standart olarak dahildir; şeffaf sabit ücret yolculuk öncesi onayınıza sunulur.
 
 ### Karavan, ATV & Özel Araç Taşıma (https://gebzecekici.tr/hizmetler/atv-karavan-ozel-tasima.html)
 - Özet: Standart binek otomobillerin dışında kalan çekme karavan, ATV/UTV, buggi, klasik koleksiyon aracı ve hafif tekne römorkları için ağırlık merkezi hesaplı özel platform nakliyesi sunuyoruz.
-- Ekipman Standartları: Farklı iz genişliğine sahip ATV/UTV ve klasik araçlara uyumlu ayarlanabilir sabitleme rayları | Yürümeyen restorasyon ve proje araçları için kontrollü hassas vinç çekişi | Yüksek ağırlık merkezli karavan ve kamp araçlarında çapraz denge spanzetleri | Römork ve karavan bağlantıları için elektrik fişi ve emniyet zinciri desteği | Şehir içi ve şehirlerarası sigortalı özel taşıma tutanağı
+- Ekipman Standartları: Farklı iz genişliğine sahip ATV/UTV ve klasik araçlara uyumlu ayarlanabilir sabitleme rayları | Yürümeyen restorasyon ve proje araçları için kontrollü hassas vinç çekişi | Yüksek ağırlık merkezli karavan ve kamp araçlarında çapraz denge spanzetleri | Römork ve karavan bağlantıları için elektrik fişi ve emniyet zinciri desteği | Şehir içi ve şehirlerarası fotoğraflı özel taşıma tutanağı
 - Fiyat Kriteri: ATV, karavan ve klasik araç nakliyelerinde fiyat; ebat, mesafe ve tek yön/gidiş-dönüş planına göre önceden netleştirilir.
 
 ## 3. Tüm 26 Hizmet Bölgesinin Detaylı Kapsama Verisi
-### Gebze Çekici (https://gebzecekici.tr/bolgeler/gebze-merkez-oto-cekici.html)
+### Gebze Çekici (https://gebzecekici.tr/bolgeler/gebze-merkez-cekici.html)
 - Ortalama Varış: 10 Dk | Koordinat: 40.8027, 29.4307
 - Özet: Hacıhalil, Sultan Orhan, Osman Yılmaz ve Gebze çarşı merkezindeki yoğun caddelerde 10 dakika içinde konumunuza ulaşan nöbetçi kayar kasa ve mobil yol yardım filomuzla yanınızdayız.
 - Başlıca Noktalar: Hacıhalil Mahallesi, Atatürk Caddesi ve Gebze Kent Meydanı yeraltı otopark çıkışı | Sultan Orhan Mahallesi, İlyasbey Caddesi ve eski terminal çevresi | Osman Yılmaz Mahallesi, Kızılay Caddesi, Şehit Numan Dede bağlantısı ve hastane önleri | Yeni Bağdat Caddesi, Gebze Kaymakamlığı ve adliye çevresi dar sokaklar
 
-### GOSB Çekici (https://gebzecekici.tr/bolgeler/gosb-oto-cekici.html)
+### GOSB Çekici (https://gebzecekici.tr/bolgeler/gosb-cekici.html)
 - Ortalama Varış: 10 Dk | Koordinat: 40.8474, 29.4316
-- Özet: Gebze Organize Sanayi Bölgesi’nin (GOSB) tüm kapıları, İhsan Dede Caddesi, Tembelova kavşağı ve fabrika içi lojistik sahalarında vardiya aksatmayan kaskolu çekici ve ticari kurtarıcı desteği.
+- Özet: Gebze Organize Sanayi Bölgesi’nin (GOSB) tüm kapıları, İhsan Dede Caddesi, Tembelova kavşağı ve fabrika içi lojistik sahalarında vardiya aksatmayan nöbetçi çekici ve ticari kurtarıcı desteği.
 - Başlıca Noktalar: GOSB İhsan Dede Caddesi, Meydan AVM, banka şubeleri ve Teknopark çevresi | Tembelova Köprüsü, GOSB Ana Giriş Kapısı ve TEM bağlantı yolu | GOSB 1000., 2000. ve 3000. sokaklar ile lojistik tır parkı çevresi | GOSB – TOSB ve GOSB – Güzeller OSB ara geçiş güzergâhları
 
-### Beylikbağı Çekici (https://gebzecekici.tr/bolgeler/beylikbagi-oto-cekici.html)
+### Beylikbağı Çekici (https://gebzecekici.tr/bolgeler/beylikbagi-cekici.html)
 - Ortalama Varış: 10 Dk | Koordinat: 40.8065, 29.3948
 - Özet: Beylikbağı, Ulus, Yavuz Selim ve Hürriyet mahallelerinin tamamında, Ankara Caddesi ve D-100 kuzey yan yollarında 10 dakikada yanınıza ulaşan 7/24 nöbetçi çekici.
 - Başlıca Noktalar: Beylikbağı Merkez, Ankara Caddesi, Sarı Cami ve Yaşar Doğu Caddesi | Ulus Mahallesi, Namık Kemal Caddesi ve Şehit Mevlüt Duru bağlantısı | Yavuz Selim ve Hürriyet mahalleleri ile D-100 kuzey yan yol girişi | Beylikbağı – Çayırova köprüsü ve Gebze Sanayi geçiş güzergâhı
 
-### TEM Gebze Çekici (https://gebzecekici.tr/bolgeler/tem-gebze-oto-cekici.html)
+### TEM Gebze Çekici (https://gebzecekici.tr/bolgeler/tem-gebze-cekici.html)
 - Ortalama Varış: 10–15 Dk | Koordinat: 40.8282, 29.4291
 - Özet: O-4 TEM Anadolu Otoyolu Gebze Gişeleri, Şekerpınar çıkışları, Muallimköy bağlantısı ve Ankara–İstanbul her iki istikamette 10–15 dakikada ışıklı emniyetle müdahale.
 - Başlıca Noktalar: TEM Otoyolu Gebze Gişeleri giriş-çıkışları ve bağlantı viyadükleri | Şekerpınar Gişeleri, TOSB–Çayırova otoyol geçişi ve İstanbul yönü | Muallimköy Kavşağı, Osmangazi Köprüsü ayrımı ve Dilovası tırmanışı | TEM Otoyolu dinlenme tesisleri, akaryakıt istasyonları ve hızlı şarj noktaları
 
-### Çayırova Çekici (https://gebzecekici.tr/bolgeler/cayirova-oto-cekici.html)
+### Çayırova Çekici (https://gebzecekici.tr/bolgeler/cayirova-cekici.html)
 - Ortalama Varış: 10–15 Dk | Koordinat: 40.8245, 29.3736
 - Özet: Çayırova’nın tüm mahalleleri — Özgürlük, Yenimahalle, Akse, Atatürk, Emek, İnönü ve Cumhuriyet — ile Fatih Caddesi ve Tuzla geçişinde 10–15 dakikada yanınızda olan 7/24 çekici.
 - Başlıca Noktalar: Özgürlük Mahallesi, Yenimahalle, Fatih Caddesi ve Adnan Kahveci Caddesi | Akse Mahallesi site yerleşimleri, Rahmi Dibek Caddesi ve Mutlukent geçişi | Atatürk, Emek ve İnönü mahalleleri ile Çayırova Marmaray istasyonu çevresi | Çayırova – Şekerpınar bağlantı bulvarı ve Tuzla D-100 geçiş köprüsü
 
-### Darıca Çekici (https://gebzecekici.tr/bolgeler/darica-oto-cekici.html)
+### Darıca Çekici (https://gebzecekici.tr/bolgeler/darica-cekici.html)
 - Ortalama Varış: 10–15 Dk | Koordinat: 40.7739, 29.3708
 - Özet: Darıca’nın tüm mahalleleri — Bayramoğlu, Fevzi Çakmak, Kazım Karabekir, Osmangazi, Nenehatun, Bağlarbaşı, Piri Reis ve Sırasöğütler — ile Darıca sahil hattında 10–15 dakikada 7/24 çekici.
 - Başlıca Noktalar: Bayramoğlu Yarımadası, Fatih Sultan Mehmet Caddesi, marina ve sahil siteleri | Darıca Merkez, Fevzi Çakmak, Bağlarbaşı, Piri Reis ve Sırasöğütler mahalleleri | Kazım Karabekir, Osmangazi, Nenehatun ve Abdi İpekçi mahalleleri | Darıca Farabi Eğitim ve Araştırma Hastanesi, Marmaray durakları ve sahil parkı
 
-### Mutlukent Çekici (https://gebzecekici.tr/bolgeler/mutlukent-oto-cekici.html)
+### Mutlukent Çekici (https://gebzecekici.tr/bolgeler/mutlukent-cekici.html)
 - Ortalama Varış: 10 Dk | Koordinat: 40.8228, 29.4192
 - Özet: Mutlukent Bulvarı, Yenikent sitesi, kapalı rezidans otoparkları ve GOSB–TEM bağlantı akslarında modern binek, SUV ve elektrikli araçlar için 7/24 hassas çekici desteği.
 - Başlıca Noktalar: Mutlukent Bulvarı, Issıkgöl Caddesi kesişimi ve Yenikent Merkez Çarşı | Mutlukent güvenlikli site kapalı otoparkları ve Doğa Konakları çevresi | Mutlukent – GOSB bağlantı yolu ve TEM otoyol üst geçidi | Gebze Teknik Üniversitesi yakın bağlantı ve Çayırova geçiş güzergâhı
 
-### Tatlıkuyu Çekici (https://gebzecekici.tr/bolgeler/tatlikuyu-oto-cekici.html)
+### Tatlıkuyu Çekici (https://gebzecekici.tr/bolgeler/tatlikuyu-cekici.html)
 - Ortalama Varış: 8–12 Dk | Koordinat: 40.7931, 29.4368
 - Özet: Tatlıkuyu Mahallesi, Gebze Center AVM otoparkları, Ahmet Penbegüllü Bulvarı ve Tatlıkuyu Vadisi çevresinde 8–12 dakikada ulaşan nöbetçi çekici ve garaj kurtarıcısı.
 - Başlıca Noktalar: Gebze Center AVM kapalı ve açık otopark katları ile otel girişleri | Ahmet Penbegüllü Bulvarı, Körfez Caddesi ve Tatlıkuyu Vadisi çevresi | Tatlıkuyu Köprüsü, D-100 güney yan yol ve Eskihisar bağlantı çıkışı | Tatlıkuyu yeni nesil site garajları ve Barış Mahallesi sınır hattı
 
-### İstasyon Mahallesi Çekici (https://gebzecekici.tr/bolgeler/istasyon-oto-cekici.html)
+### İstasyon Mahallesi Çekici (https://gebzecekici.tr/bolgeler/istasyon-cekici.html)
 - Ortalama Varış: 10–15 Dk | Koordinat: 40.7858, 29.4087
-- Özet: Gebze Marmaray ve Yüksek Hızlı Tren (YHT) Garı otoparkları, İstasyon Caddesi ve Darıca–Eskihisar bağlantı aksında 7/24 hızlı, kaskolu çekici ve yol yardım.
+- Özet: Gebze Marmaray ve Yüksek Hızlı Tren (YHT) Garı otoparkları, İstasyon Caddesi ve Darıca–Eskihisar bağlantı aksında 7/24 hızlı, nöbetçi çekici ve yol yardım.
 - Başlıca Noktalar: Gebze Marmaray İstasyonu ve Yüksek Hızlı Tren (YHT) Garı otopark alanları | İstasyon Caddesi, 1400’lü sokaklar ve pazar yeri çevresi | İstasyon – Darıca İstasyon Caddesi geçişi ve sahil bağlantı kavşağı | Eskihisar yolu alt geçit bağlantısı ve D-100 kuzey çıkış rampası
 
-### Arapçeşme Çekici (https://gebzecekici.tr/bolgeler/arapcesme-oto-cekici.html)
+### Arapçeşme Çekici (https://gebzecekici.tr/bolgeler/arapcesme-cekici.html)
 - Ortalama Varış: 10–12 Dk | Koordinat: 40.8112, 29.4384
 - Özet: Arapçeşme Mahallesi, Kavaklı Caddesi, Şehit Oktay Kaya Caddesi ve Gaziler–Kirazpınar geçiş yollarında 10–12 dakikada ulaşan güvenilir 7/24 oto çekici.
 - Başlıca Noktalar: Kavaklı Caddesi, Şehit Oktay Kaya Caddesi ve Arapçeşme Meydanı | Gaziler Mahallesi sınırı, Gaziler Dağı Tabiat Parkı yolu ve üst bağlantılar | Zafer Caddesi, okul çevreleri ve semt pazarı bağlantı sokakları | Arapçeşme – Sultan Orhan – Gebze Oto Sanayi hızlı geçiş hattı
 
-### Kirazpınar Çekici (https://gebzecekici.tr/bolgeler/kirazpinar-oto-cekici.html)
+### Kirazpınar Çekici (https://gebzecekici.tr/bolgeler/kirazpinar-cekici.html)
 - Ortalama Varış: 12–15 Dk | Koordinat: 40.8249, 29.4547
-- Özet: Kirazpınar Mahallesi, Emlak Konutları etapları, TOKİ konutları ve TEM otoyolu kuzey bağlantılarında 12–15 dakikada yanınızda olan kaskolu 7/24 oto çekici.
+- Özet: Kirazpınar Mahallesi, Emlak Konutları etapları, TOKİ konutları ve TEM otoyolu kuzey bağlantılarında 12–15 dakikada yanınızda olan özenli 7/24 oto çekici.
 - Başlıca Noktalar: Kirazpınar Emlak Konutları 1., 2. ve 3. etap site girişleri ile kapalı otoparklar | Kirazpınar TOKİ konutları, Yeni Bağdat üst bağlantısı ve Şehit Ali Gaffar Okkan çevresi | Kirazpınar – TEM Otoyolu kuzey yan yol ve Güzeller OSB geçiş aksı | Kirazpınar – Pelitli ve Gebze Yeni Sanayi bağlantı güzergâhları
 
-### Barış Mahallesi Çekici (https://gebzecekici.tr/bolgeler/baris-mahallesi-oto-cekici.html)
+### Barış Mahallesi Çekici (https://gebzecekici.tr/bolgeler/baris-mahallesi-cekici.html)
 - Ortalama Varış: 10 Dk | Koordinat: 40.7897, 29.4508
-- Özet: Barış Mahallesi, Dr. Zeki Acar Caddesi, TÜBİTAK Marmara Araştırma Merkezi bağlantı yolu ve D-100 güney kuşağında 10 dakikada müdahale eden kaskolu çekici.
+- Özet: Barış Mahallesi, Dr. Zeki Acar Caddesi, TÜBİTAK Marmara Araştırma Merkezi bağlantı yolu ve D-100 güney kuşağında 10 dakikada müdahale eden nöbetçi çekici.
 - Başlıca Noktalar: Dr. Zeki Acar Caddesi, Barış Caddesi ve 1800’lü yerleşim sokakları | TÜBİTAK Marmara Araştırma Merkezi (MAM) giriş yolu ve bağlantı kavşağı | Barış Mahallesi – Tatlıkuyu ve D-100 güney yan yol geçişi | Eskihisar – Muallimköy sahil bağlantısı ve çevre site otoparkları
 
-### Mevlana Mahallesi Çekici (https://gebzecekici.tr/bolgeler/mevlana-mahallesi-oto-cekici.html)
+### Mevlana Mahallesi Çekici (https://gebzecekici.tr/bolgeler/mevlana-mahallesi-cekici.html)
 - Ortalama Varış: 10–14 Dk | Koordinat: 40.8165, 29.4038
 - Özet: Mevlana Mahallesi, Issıkgöl Caddesi, Şehitler Caddesi ve Mutlukent–Çayırova geçiş aksında 10–14 dakikada ulaşan 7/24 nöbetçi kayar kasa ve yol yardım ekibi.
 - Başlıca Noktalar: Issıkgöl Caddesi, Erenler Caddesi ve Mevlana Kapalı Pazar alanı çevresi | Mevlana Mahallesi 800’lü sokaklar ve çevre site girişleri | Mevlana – Beylikbağı ve Mevlana – Mutlukent bağlantı kavşakları | Çayırova Akse ve Yenimahalle sınır geçiş noktaları
 
-### Adem Yavuz Çekici (https://gebzecekici.tr/bolgeler/adem-yavuz-oto-cekici.html)
+### Adem Yavuz Çekici (https://gebzecekici.tr/bolgeler/adem-yavuz-cekici.html)
 - Ortalama Varış: 12–15 Dk | Koordinat: 40.8181, 29.3832
-- Özet: Adem Yavuz ve Cumhuriyet mahalleleri, Yeni Bağdat Caddesi batı aksı, okul ve site çevreleri ile Şekerpınar–Çayırova bağlantı koridorunda 7/24 kaskolu çekici.
+- Özet: Adem Yavuz ve Cumhuriyet mahalleleri, Yeni Bağdat Caddesi batı aksı, okul ve site çevreleri ile Şekerpınar–Çayırova bağlantı koridorunda 7/24 nöbetçi çekici.
 - Başlıca Noktalar: Adem Yavuz Mahallesi, Yeni Bağdat Caddesi batı aksı ve 2300’lü sokaklar | Cumhuriyet Mahallesi, 2200’lü sokaklar ve Çayırova geçiş bağlantıları | Şekerpınar – Adem Yavuz sanayi ve lojistik bağlantı güzergâhı | Hürriyet ve Ulus Mahallesi sınır kavşakları
 
-### Mustafapaşa Çekici (https://gebzecekici.tr/bolgeler/mustafapasa-oto-cekici.html)
+### Mustafapaşa Çekici (https://gebzecekici.tr/bolgeler/mustafapasa-cekici.html)
 - Ortalama Varış: 10 Dk | Koordinat: 40.8058, 29.4239
 - Özet: Mustafapaşa ve İnönü mahalleleri, Bağdat Caddesi, Şehit Yılmaz Argon Caddesi ve merkez ara sokaklarında 10 dakikada müdahale eden nöbetçi çekici ekibi.
 - Başlıca Noktalar: Bağdat Caddesi, Şehit Yılmaz Argon Caddesi ve Mustafapaşa Camii çevresi | İnönü Mahallesi 1900’lü sokaklar ve pazar alanı çevresi | Mustafapaşa – Köşklü Çeşme ve Güzeller bağlantı yolları | Gebze merkez devlet ve özel sağlık kurumları çevresi
 
-### Mimar Sinan Çekici (https://gebzecekici.tr/bolgeler/mimarsinan-oto-cekici.html)
+### Mimar Sinan Çekici (https://gebzecekici.tr/bolgeler/mimarsinan-cekici.html)
 - Ortalama Varış: 10 Dk | Koordinat: 40.8019, 29.4126
 - Özet: Mimar Sinan ve Köşklü Çeşme mahalleleri, İstanbul Caddesi, Yeni Bağdat bağlantısı ve D-100 kuzey yan yolunda 10 dakikada yanınızda olan 7/24 nöbetçi çekici.
 - Başlıca Noktalar: İstanbul Caddesi, Köşklü Çeşme Meydanı ve 500’lü yerleşim sokakları | Mimar Sinan Mahallesi, Mimar Sinan Caddesi ve D-100 kuzey yan yol girişi | Yeni Bağdat Caddesi geçiş noktası ve galeri-işletme çevreleri | Köşklü Çeşme – Beylikbağı ve İstasyon alt geçit bağlantı yolları
 
-### TOSB Çekici (https://gebzecekici.tr/bolgeler/tosb-oto-cekici.html)
+### TOSB Çekici (https://gebzecekici.tr/bolgeler/tosb-cekici.html)
 - Ortalama Varış: 12–15 Dk | Koordinat: 40.8588, 29.3924
-- Özet: TOSB Otomotiv Yan Sanayi İhtisas OSB ana bulvarları, fabrika otoparkları ve Şekerpınar–TEM bağlantı yollarında 7/24 kaskolu binek, ticari ve forklift çekici.
+- Özet: TOSB Otomotiv Yan Sanayi İhtisas OSB ana bulvarları, fabrika otoparkları ve Şekerpınar–TEM bağlantı yollarında 7/24 özenli binek, ticari ve forklift çekici.
 - Başlıca Noktalar: TOSB 1. Cadde, 2. Cadde, Yönetim Binası ve ana giriş nizamiyesi | TOSB – Şekerpınar ve TEM gişeleri bağlantı bulvarı | TOSB – GOSB iç geçiş yolu ve lojistik tır rampaları çevresi | Fabrika içi personel otoparkları ve Ar-Ge tesis sahaları
 
-### Güzeller OSB Çekici (https://gebzecekici.tr/bolgeler/guzeller-osb-oto-cekici.html)
+### Güzeller OSB Çekici (https://gebzecekici.tr/bolgeler/guzeller-osb-cekici.html)
 - Ortalama Varış: 10–14 Dk | Koordinat: 40.8295, 29.4496
-- Özet: Güzeller Organize Sanayi Bölgesi (GGOSB) ve Gebze Plastikçiler OSB (GEPOSB) tesis sahaları, ana caddeleri ve TEM bağlantılarında 7/24 kaskolu kurtarıcı desteği.
+- Özet: Güzeller Organize Sanayi Bölgesi (GGOSB) ve Gebze Plastikçiler OSB (GEPOSB) tesis sahaları, ana caddeleri ve TEM bağlantılarında 7/24 özenli kurtarıcı desteği.
 - Başlıca Noktalar: Güzeller OSB Fatih Sultan Mehmet Bulvarı, Alp Arslan Caddesi ve ana nizamiye | Gebze Plastikçiler OSB (GEPOSB) İnönü Caddesi, Cumhuriyet Caddesi ve tesis girişleri | Güzeller OSB – GOSB ara bağlantı yolu ve TEM otoyolu geçiş kavşağı | Güzeller Mahallesi, Gebze Yeni Sanayi ve Kirazpınar bağlantı hattı
 
-### Bilişim Vadisi Çekici (https://gebzecekici.tr/bolgeler/bilisim-vadisi-oto-cekici.html)
+### Bilişim Vadisi Çekici (https://gebzecekici.tr/bolgeler/bilisim-vadisi-cekici.html)
 - Ortalama Varış: 12–15 Dk | Koordinat: 40.7851, 29.5067
 - Özet: Muallimköy, Bilişim Vadisi kampüsü, teknoloji geliştirme merkezi otoparkları ve Kuzey Marmara–Osmangazi bağlantı kavşağında elektrikli ve binek araçlara özel 7/24 çekici.
 - Başlıca Noktalar: Bilişim Vadisi Ana Giriş Nizamiyesi, Ar-Ge blok otoparkları ve DC şarj alanları | Muallimköy Merkez, Deniz Caddesi ve Muallimköy sahil bağlantı yolu | Osmangazi Köprüsü Muallimköy Kavşağı ve Kuzey Marmara bağlantı rampası | Muallimköy – TÜBİTAK – Barış Mahallesi sahil geçiş güzergâhı
 
-### Pelitli Çekici (https://gebzecekici.tr/bolgeler/pelitli-oto-cekici.html)
+### Pelitli Çekici (https://gebzecekici.tr/bolgeler/pelitli-cekici.html)
 - Ortalama Varış: 15–18 Dk | Koordinat: 40.8692, 29.4614
 - Özet: Pelitli Sanayi bölgesi, Kuzey Marmara Otoyolu Pelitli Gişeleri, Mollafenari, Ovacık ve Ballıkayalar güzergâhında 7/24 vinçli kurtarma ve ağır hizmet oto çekici.
 - Başlıca Noktalar: Pelitli Köyü Merkez, Pelitli Sanayi Bölgesi ve lojistik depo kampüsleri | Kuzey Marmara Otoyolu (O-7) Pelitli Gişeleri ve bağlantı kavşağı | Mollafenari, Cumaköy, Kadıllı, Ovacık ve Denizli Köyü bağlantı yolları | Ballıkayalar Tabiat Parkı girişi ve Pelitli – GOSB üst bağlantı yolu
 
-### Balçık Çekici (https://gebzecekici.tr/bolgeler/balcik-oto-cekici.html)
+### Balçık Çekici (https://gebzecekici.tr/bolgeler/balcik-cekici.html)
 - Ortalama Varış: 12–15 Dk | Koordinat: 40.8614, 29.4235
 - Özet: Balçık Mahallesi, Balçık sanayi ve antrepo tesisleri, Tembelova aksı ile GOSB–Pelitli lojistik koridorunda 12–15 dakikada yanınızda olan 7/24 kurtarıcı.
 - Başlıca Noktalar: Balçık Mahallesi Merkez, Organize Caddesi ve 3200’lü sanayi sokakları | E-ticaret dağıtım depoları, lojistik antrepo girişleri ve tır parkı çevresi | Balçık – GOSB kuzey kapısı ve Tembelova bağlantı hattı | Balçık – Şekerpınar ve Pelitli ara geçiş güzergâhı
 
-### Eskihisar Çekici (https://gebzecekici.tr/bolgeler/eskihisar-oto-cekici.html)
+### Eskihisar Çekici (https://gebzecekici.tr/bolgeler/eskihisar-cekici.html)
 - Ortalama Varış: 10–14 Dk | Koordinat: 40.7712, 29.4278
 - Özet: Eskihisar–Topçular Feribot İskelesi gişeleri, dik Eskihisar rampası, kale çevresi ve sahil restoran hattında 10–14 dakikada müdahale eden 7/24 oto çekici.
 - Başlıca Noktalar: Eskihisar–Topçular Feribot İskelesi gişe girişleri ve gemi çıkış alanı | Eskihisar Feribot Yolu dik tırmanış rampası ve D-100 üst bağlantısı | Eskihisar Kalesi çevresi, Osman Hamdi Bey Müzesi yolu ve sahil otoparkları | Eskihisar – Darıca Bayramoğlu ve Eskihisar – TÜBİTAK sahil geçişleri
 
-### D-100 Gebze Çekici (https://gebzecekici.tr/bolgeler/d100-gebze-oto-cekici.html)
+### D-100 Gebze Çekici (https://gebzecekici.tr/bolgeler/d100-gebze-cekici.html)
 - Ortalama Varış: 8–12 Dk | Koordinat: 40.7998, 29.4355
 - Özet: D-100 Gebze geçişinin tamamında, Anibal Kavşağı, Gebze Center önü, köprü altları ve her iki yan yolda 8–12 dakikada ulaşan 7/24 acil oto çekici.
 - Başlıca Noktalar: Anibal Kavşağı tünel içi, üst geçiş ve Gebze Merkez çıkış kolları | Gebze Center AVM önü, Tatlıkuyu Köprüsü ve Eskihisar ayrımı | Beylikbağı, Köşklü Çeşme ve Mimar Sinan D-100 kuzey/güney yan yolları | Çayırova McDonald’s / Tuzla sınırı ile Barış – Dilovası karayolu girişi
 
-### Osmangazi Köprüsü Çekici (https://gebzecekici.tr/bolgeler/osmangazi-koprusu-oto-cekici.html)
+### Osmangazi Köprüsü Çekici (https://gebzecekici.tr/bolgeler/osmangazi-koprusu-cekici.html)
 - Ortalama Varış: 12–18 Dk | Koordinat: 40.7689, 29.5138
 - Özet: Osmangazi Köprüsü yaklaşım viyadükleri, Muallimköy gişe çıkışları, O-5 Gebze–Orhangazi–İzmir ve O-7 Kuzey Marmara Otoyolu’nda 7/24 uzun yol ve acil kurtarma filosu.
 - Başlıca Noktalar: Osmangazi Köprüsü Muallimköy – Dilovası kuzey gişeleri ve dinlenme alanı | Kuzey Marmara Otoyolu (O-7) Gebze, Sevindikli, Pelitli ve Kurnaköy bağlantıları | O-5 Otoyolu Hersek – Altınova yönü transfer ve acil karşılama noktası | TEM – Kuzey Marmara – Osmangazi üçlü kavşak bağlantı kolları
 
-### Şekerpınar Çekici (https://gebzecekici.tr/bolgeler/sekerpinar-oto-cekici.html)
+### Şekerpınar Çekici (https://gebzecekici.tr/bolgeler/sekerpinar-cekici.html)
 - Ortalama Varış: 10–15 Dk | Koordinat: 40.8548, 29.3765
 - Özet: Şekerpınar Mahallesi, bankacılık ve teknoloji operasyon merkezleri, lojistik antrepolar, Muhsin Yazıcıoğlu Caddesi ve TEM Şekerpınar Gişeleri’nde 7/24 kurumsal ve bireysel çekici.
 - Başlıca Noktalar: Banka operasyon merkezleri kampüs girişleri ve açık/kapalı personel otoparkları | Muhsin Yazıcıoğlu Caddesi, Fevzi Çakmak Caddesi ve Şekerpınar Meydanı | TEM Otoyolu Şekerpınar Gişeleri ve Tuzla Orhanlı bağlantı yolu | Şekerpınar lojistik depoları, TOSB girişi ve Akpınar sanayi çevresi
 
-### Dilovası Çekici (https://gebzecekici.tr/bolgeler/dilovasi-oto-cekici.html)
+### Dilovası Çekici (https://gebzecekici.tr/bolgeler/dilovasi-cekici.html)
 - Ortalama Varış: 12–18 Dk | Koordinat: 40.7878, 29.5389
 - Özet: Dilovası Merkez, Diliskelesi, İMES OSB, Makine İhtisas OSB, Kömürcüler, Tavşancıl ve zorlu D-100 Dilovası Rampası’nda 7/24 yüksek kapasiteli oto çekici ve vinçli kurtarma.
 - Başlıca Noktalar: D-100 ve TEM Otoyolu Dilovası Rampası (iniş ve tırmanış şeritleri) | İMES OSB, Makine İhtisas OSB, Dilovası OSB ve Mermerciler Sanayi | Diliskelesi Mahallesi, liman giriş yolları ve Osmangazi Köprüsü çıkışı | Tavşancıl, Mimar Sinan, Orhangazi ve Kayapınar mahalleleri
@@ -205,11 +200,11 @@
   **C:** Gebze Merkez, GOSB, Tatlıkuyu, Beylikbağı, Mutlukent, Çayırova, Darıca ve TEM/D-100 bağlantı noktalarında konuşlu nöbetçi araçlarımız sayesinde ortalama 10–15 dakika içinde yanınıza ulaşıyoruz. Yoğun saatlerde dahi en yakın mobil ekibimiz canlı konumunuza yönlendirilir.
 - **S:** Çekici fiyatları nasıl belirlenir, araç yüklendikten sonra ek ücret çıkar mı?
   **C:** Ücretlendirme aracınızın bulunduğu nokta, gideceği mesafe, araç tipi (binek, SUV, ticari) ve kilitli şanzıman/kapalı otopark gibi özel ekipman ihtiyacına göre telefonda netleştirilir. Onayladığınız sabit fiyat dışında gece farkı veya sürpriz ek masraf talep edilmez.
-- **S:** Otomatik vitesli, elektrikli veya şanzımanı kilitli araçlar hasarsız çekiliyor mu?
-  **C:** Evet. Otomatik, hibrit ve elektrikli araçlarda tekerleklerin çekilerek sürüklenmesi aktarma organlarına zarar verir. Filomuzdaki düşük eğimli hidrolik kayar kasa platformlar ve tekerlek altı paten/ahtapot aparatlarıyla aracı 4 tekerleği havada, şasi ve tampona temas ettirmeden taşıyoruz.
-- **S:** Taşıma sırasında aracım sigortalı mı? Kurumsal fatura kesiyor musunuz?
-  **C:** Tüm şehir içi ve şehirlerarası nakillerimiz yükleme anından servis teslimatına kadar taşıma emtia sigortası kapsamındadır. Bireysel ve OSB kurumsal filo müşterilerimiz için KDV’li e-fatura ve araç içi mobil POS ile kredi kartı ödeme imkânı sunuyoruz.
+- **S:** Otomatik vitesli veya şanzımanı kilitli araçlar hasarsız çekiliyor mu?
+  **C:** Evet. Otomatik vitesli araçlarda tekerleklerin çekilerek sürüklenmesi aktarma organlarına zarar verir. Filomuzdaki düşük eğimli hidrolik kayar kasa platformlar ve tekerlek altı paten/doli aparatlarıyla aracı sürüklemeden, şasi ve tampona temas ettirmeden taşıyoruz.
+- **S:** Kurumsal fatura kesiyor musunuz ve kredi kartıyla ödeme yapılabilir mi?
+  **C:** Evet. Tüm şehir içi, şehirlerarası çekici ve 3.5 tona kadar tenteli nakliye hizmetlerimizde bireysel ve OSB kurumsal filo müşterilerimiz için KDV’li e-fatura ve araç içi mobil POS ile kredi kartı ödeme imkânı sunuyoruz.
 - **S:** Gece yarısı veya resmi tatillerde Gebze’de nöbetçi çekici bulabilir miyim?
   **C:** Evet. Haftanın 7 günü 24 saat, bayram ve resmi tatiller dahil kesintisiz nöbetçi vardiya sistemiyle çalışıyoruz. Gece 03.00’te dahi 0533 945 45 14 numaramızdan doğrudan saha operatörümüze ulaşabilirsiniz.
 - **S:** Sadece çekici mi var yoksa yerinde akü takviye ve lastik desteği de veriyor musunuz?
-  **C:** Aracın servise çekilmesine gerek kalmayan akü bitmesi, stepne değişimi veya lastik patlaması durumlarında mobil yol yardım ekibimiz 12V/24V akım korumalı booster cihazları ve hidrolik kriko ekipmanlarıyla doğrudan bulunduğunuz noktada müdahale eder.
+  **C:** Aracın servise çekilmesine gerek kalmayan akü bitmesi, stepne değişimi veya lastik patlaması durumlarında mobil yol yardım ekibimiz 12V/24V profesyonel booster cihazları ve hidrolik kriko ekipmanlarıyla doğrudan bulunduğunuz noktada müdahale eder.

@@ -2,7 +2,7 @@
 /**
  * ============================================================================
  * GEBZE YOL YARDIM — DERİN YEREL SEO GENİŞLETMELERİ (BÖLGELER 14–26)
- * %100 özgün, gerçek mahalle/cadde/kavşak adlarıyla sıfır kopya yerel içerik
+ * tam özgün, gerçek mahalle/cadde/kavşak adlarıyla sıfır kopya yerel içerik
  * ============================================================================
  */
 
@@ -26,7 +26,7 @@ const REGIONS_SEO_2 = {
       {
         h2: 'Adem Yavuz Oto Kurtarma Sabit Fiyat ve Hızlı Servis Ulaşımı',
         paragraphs: [
-          'Adem Yavuz ve Cumhuriyet Mahallesi’nden Gebze Oto Sanayi Sitesi’ne, Çayırova tamir atölyelerine veya D-100 yetkili servislerine yapılan tüm nakiller emtia taşıma kaskosu güvencesi altındadır. Yükleme öncesinde net sabit fiyat bildirilir, sürpriz ek ücret çıkarılmaz.',
+          'Adem Yavuz ve Cumhuriyet Mahallesi’nden Gebze Oto Sanayi Sitesi’ne, Çayırova tamir atölyelerine veya D-100 yetkili servislerine yapılan tüm nakiller fotoğraflı teslim tutanağı güvencesi altındadır. Yükleme öncesinde net sabit fiyat bildirilir, sürpriz ek ücret çıkarılmaz.',
           '7/24 kesintisiz nöbetçi kadromuz, kredi kartına uyumlu mobil POS cihazımız ve KDV’li e-fatura standardımızla Adem Yavuz’da güvenilir yol arkadaşınızız.'
         ]
       }
@@ -50,10 +50,10 @@ const REGIONS_SEO_2 = {
         ]
       },
       {
-        h2: 'Mustafapaşa Oto Kurtarma Ücretleri ve Kaskolu Teslimat Standardı',
+        h2: 'Mustafapaşa Oto Kurtarma Ücretleri ve özenli Teslimat Standardı',
         paragraphs: [
           'Mustafapaşa oto kurtarma çağrılarında Gebze Oto Sanayi Sitesi’ne olan yakın konum avantajıyla son derece ekonomik sabit fiyat tarifesi uygulanır. Telefon görüşmesinde belirlenen rakam kesin olup yükleme sonrası değişiklik yapılmaz.',
-          'Dört tekerlekten jant koruyucu spanzet sabitlemesi, emtia taşıma sigortası, mobil POS ödeme ve resmi KDV’li e-fatura ile 7/24 yanınızdayız.'
+          'Dört tekerlekten jant koruyucu spanzet sabitlemesi, güvenli taşıma fotoğraflı teslim tutanağı, mobil POS ödeme ve resmi KDV’li e-fatura ile 7/24 yanınızdayız.'
         ]
       }
     ]
@@ -71,14 +71,14 @@ const REGIONS_SEO_2 = {
       {
         h2: 'Mimar Sinan ve Köşklü Çeşme’de Kayar Kasa, Ahtapot ve Mobil Yol Yardım',
         paragraphs: [
-          'Bölgedeki ticari esnaf araçları, binek otomobiller ve aile SUV’ları için düşük eğimli hidrolik kayar kasalarımız her saat hazırdır. Ön tamponu alçak spor araçlarda veya karter koruyucusu yere yakın sedanlarda uzatma kompozit rampalarla sıfır sürtme garantili yükleme yapılır.',
+          'Bölgedeki ticari esnaf araçları, binek otomobiller ve aile SUV’ları için düşük eğimli hidrolik kayar kasalarımız her saat hazırdır. Ön tamponu alçak spor araçlarda veya karter koruyucusu yere yakın sedanlarda uzatma kompozit rampalarla düşük eğimli özenli yükleme yapılır.',
           'Sabah işe gidiş saatlerinde evinizin önünde aküsü boşalan veya lastiği yarılan araçlar için mobil yol yardım aracımız 15 dakika içinde adresinize gelerek çekiciye ihtiyaç bırakmadan sorununuzu yerinde çözer.'
         ]
       },
       {
         h2: 'Mimar Sinan Oto Kurtarma Sabit Fiyat ve 7/24 Sigortalı Taşıma',
         paragraphs: [
-          'Mimar Sinan ve Köşklü Çeşme’den Gebze Oto Sanayi Sitesi’ne, Darıca servislerine veya İstanbul Tuzla–Pendik yetkili servislerine yapacağınız nakillerde telefonda net sabit fiyat onayı alırsınız. Tüm taşımalar emtia kaskosu kapsamında gerçekleşir.',
+          'Mimar Sinan ve Köşklü Çeşme’den Gebze Oto Sanayi Sitesi’ne, Darıca servislerine veya İstanbul Tuzla–Pendik yetkili servislerine yapacağınız nakillerde telefonda net sabit fiyat onayı alırsınız. Tüm taşımalar fotoğraflı teslim tutanağı kapsamında gerçekleşir.',
           'Araç içi mobil POS, kasko poliçesine uygun KDV’li e-fatura ve 7/24 nöbetçi ekip disipliniyle her zaman ulaşılabilir durumdayız.'
         ]
       }
@@ -104,7 +104,7 @@ const REGIONS_SEO_2 = {
       {
         h2: 'TOSB Kurumsal e-Fatura, İSG Uyumlu Yükleme ve Sabit Fiyat Standardı',
         paragraphs: [
-          'TOSB içindeki global ve yerli sanayi kuruluşlarının iş güvenliği standartlarına uygun olarak reflektör emniyet şeridi, ikaz aydınlatması ve sertifikalı operatör kadromuzla çalışıyoruz. Taşıma emtia sigortası her yüklemede standarttır.',
+          'TOSB içindeki global ve yerli sanayi kuruluşlarının iş güvenliği standartlarına uygun olarak reflektör emniyet şeridi, ikaz aydınlatması ve sertifikalı operatör kadromuzla çalışıyoruz. Taşıma fotoğraflı teslim tutanağı her yüklemede standarttır.',
           'Şirketiniz adına kesilen resmi KDV’li e-fatura, mobil POS ile anında ödeme ve yükleme öncesi yazılı sabit fiyat onayıyla kurumsal süreçlerinize hız kazandırıyoruz.'
         ]
       }
@@ -128,9 +128,9 @@ const REGIONS_SEO_2 = {
         ]
       },
       {
-        h2: 'Güzeller OSB Oto Kurtarma: Resmi Faturalı ve Kaskolu Kurumsal Çözüm',
+        h2: 'Güzeller OSB Oto Kurtarma: Resmi Faturalı ve Özenli Kurumsal Çözüm',
         paragraphs: [
-          'Güzeller OSB ve GEPOSB firmalarına sunduğumuz tüm çekici, yol yardım ve iş makinesi taşıma hizmetlerinde telefonda onaylanan net sabit fiyat geçerlidir. Yükleme anından teslimata kadar emtia kaskosu korumanız altındadır.',
+          'Güzeller OSB ve GEPOSB firmalarına sunduğumuz tüm çekici, yol yardım ve iş makinesi taşıma hizmetlerinde telefonda onaylanan net sabit fiyat geçerlidir. Yükleme anından teslimata kadar fotoğraflı teslim tutanağı korumanız altındadır.',
           'Mobil POS ödeme, KDV’li resmi e-fatura ve 7/24 gece vardiyası nöbetçi desteğiyle sanayi üretiminizin ve çalışanlarınızın her saat yanındayız.'
         ]
       }
@@ -156,7 +156,7 @@ const REGIONS_SEO_2 = {
       {
         h2: 'Bilişim Vadisi Oto Kurtarma: Yüksek Teminatlı VIP Kasko ve Kurumsal Fatura',
         paragraphs: [
-          'Teknoloji firmalarının şirket araçları ve bireysel elektrikli otomobil sahipleri için yüksek limitli emtia taşıma kaskosu, yükleme-teslimat fotoğraflı tutanak ve şeffaf sabit fiyat garantisi standarttır.',
+          'Teknoloji firmalarının şirket araçları ve bireysel elektrikli otomobil sahipleri için yüksek limitli fotoğraflı teslim tutanağı, yükleme-teslimat fotoğraflı tutanak ve şeffaf şeffaf sabit fiyat politikası standarttır.',
           'Muallimköy’den İstanbul Ataşehir, Kartal, Kozyatağı veya İzmit yetkili marka servislerine aktarmasız, tekli ve resmi KDV’li e-fatura eşliğinde 7/24 profesyonel nakliye sağlıyoruz.'
         ]
       }
@@ -183,7 +183,7 @@ const REGIONS_SEO_2 = {
         h2: 'Pelitli Oto Kurtarma Sabit Fiyat ve Gece Aydınlatmalı Güvenli Operasyon',
         paragraphs: [
           'Pelitli ve Mollafenari’nin merkeze uzak kırsal yollarında dahi fırsatçı ücret politikası uygulamıyoruz; konumunuza göre telefonda şeffaf sabit fiyat verilip onayınızla yola çıkılır.',
-          '360 derece yüksek lümenli LED projektör donanımımız, tam kapsamlı taşıma kaskosu, mobil POS ve KDV’li e-fatura güvencemizle Pelitli hattında gece gündüz yanınızdayız.'
+          '360 derece yüksek lümenli LED projektör donanımımız, fotoğraflı teslim tutanağı, mobil POS ve KDV’li e-fatura güvencemizle Pelitli hattında gece gündüz yanınızdayız.'
         ]
       }
     ]
@@ -206,9 +206,9 @@ const REGIONS_SEO_2 = {
         ]
       },
       {
-        h2: 'Balçık Oto Kurtarma Kurumsal Faturalandırma ve Sabit Ücret Garantisi',
+        h2: 'Balçık Oto Kurtarma Kurumsal Faturalandırma ve Şeffaf Sabit Ücret Politikası',
         paragraphs: [
-          'Balçık’taki antrepo, kargo ve üretim şirketlerinin filo operasyonları için resmi KDV’li e-fatura, emtia taşıma kaskosu ve mobil POS ödeme kolaylığı standart olarak sunulur.',
+          'Balçık’taki antrepo, kargo ve üretim şirketlerinin filo operasyonları için resmi KDV’li e-fatura, fotoğraflı teslim tutanağı ve mobil POS ödeme kolaylığı standart olarak sunulur.',
           'Hem bireysel çalışan araçları hem de kurumsal ticari filolar için telefonda net sabit fiyat vererek 7/24 kesintisiz Balçık oto kurtarma hizmeti sunuyoruz.'
         ]
       }
@@ -235,7 +235,7 @@ const REGIONS_SEO_2 = {
         h2: 'Eskihisar Oto Kurtarma: Şehirlerarası Devam ve Şeffaf Sabit Fiyat',
         paragraphs: [
           'Eskihisar’da uzun yola çıkarken veya tatilden dönerken yolda kalan sürücüler için yalnızca Gebze içine değil, İstanbul, Yalova, Bursa, İzmit ve Türkiye’nin 81 iline aktarmasız tekli araç taşıma seçeneği sunuyoruz.',
-          'Mesafe bazlı şeffaf sabit fiyat, tam emtia kaskosu, çift kişilik konforlu yolcu kabini ve 7/24 nöbetçi destekle Eskihisar’da mağduriyetinizi dakikalar içinde çözüyoruz.'
+          'Mesafe bazlı şeffaf sabit fiyat, tam fotoğraflı teslim tutanağı, çift kişilik konforlu yolcu kabini ve 7/24 nöbetçi destekle Eskihisar’da mağduriyetinizi dakikalar içinde çözüyoruz.'
         ]
       }
     ]
@@ -258,10 +258,10 @@ const REGIONS_SEO_2 = {
         ]
       },
       {
-        h2: 'D-100 Gebze Oto Kurtarma: En Yakın Servise Ekonomik ve Kaskolu Nakil',
+        h2: 'D-100 Gebze Oto Kurtarma: En Yakın Servise Ekonomik ve Hızlı Nakil',
         paragraphs: [
           'D-100 üzerinde arızalanan araçları hemen karayolu kenarındaki Gebze Oto Sanayi Sitesi’ne, yetkili marka servislerine veya İstanbul Pendik–Kartal ve İzmit servislerine en kısa güzergâhtan ulaştırıyoruz.',
-          'Telefonda netleştirilen sabit fiyat, emtia taşıma kaskosu, 4 tekerlek spanzet güvenliği ve KDV’li resmi e-fatura ile D-100 hattında 7/24 güvenilir desteğiniziz.'
+          'Telefonda netleştirilen sabit fiyat, fotoğraflı teslim tutanağı, 4 tekerlek spanzet güvenliği ve KDV’li resmi e-fatura ile D-100 hattında 7/24 güvenilir desteğiniziz.'
         ]
       }
     ]
@@ -287,7 +287,7 @@ const REGIONS_SEO_2 = {
         h2: 'Osmangazi Köprüsü Oto Kurtarma: Bursa, İzmir ve İstanbul’a Tekli Nakliye',
         paragraphs: [
           'Uzun yolculuk sırasında Osmangazi Köprüsü çevresinde arızalanan araçlar için yalnızca Gebze içine değil; Yalova, Bursa, Balıkesir, İzmir veya İstanbul’un tüm ilçelerine aktarmasız şehirlerarası tekli araç taşıma hizmeti veriyoruz.',
-          'Yola çıkmadan önce net sabit fiyat onayı, tam kapsamlı emtia kaskosu, konforlu çift yolcu kabini ve resmi e-fatura güvencesiyle yolculuğunuzu emniyete alıyoruz.'
+          'Yola çıkmadan önce net sabit fiyat onayı, tam kapsamlı fotoğraflı teslim tutanağı, konforlu çift yolcu kabini ve resmi e-fatura güvencesiyle yolculuğunuzu emniyete alıyoruz.'
         ]
       }
     ]
@@ -313,7 +313,7 @@ const REGIONS_SEO_2 = {
         h2: 'Şekerpınar Oto Kurtarma: Tuzla–Pendik ve Gebze Servislerine Hızlı Teslimat',
         paragraphs: [
           'Şekerpınar’dan hem Gebze Oto Sanayi Sitesi’ne hem de İstanbul Tuzla, Pendik, Kurtköy ve Sabiha Gökçen çevresindeki yetkili servislere en kısa rotadan sigortalı teslimat yapıyoruz. Sabit fiyat politikamızla telefonda onaylanan rakam dışında hiçbir ek masraf çıkmaz.',
-          'Emtia taşıma kaskosu, mobil POS ödeme kolaylığı ve kurumsal KDV’li e-fatura standartlarımızla Şekerpınar’da 7/24 yanınızdayız.'
+          'Fotoğraflı teslim tutanağı, mobil POS ödeme kolaylığı ve kurumsal KDV’li e-fatura standartlarımızla Şekerpınar’da 7/24 yanınızdayız.'
         ]
       }
     ]
@@ -336,9 +336,9 @@ const REGIONS_SEO_2 = {
         ]
       },
       {
-        h2: 'Dilovası Oto Kurtarma: Gebze ve İzmit Servislerine Kaskolu ve Faturalı Sevk',
+        h2: 'Dilovası Oto Kurtarma: Gebze ve İzmit Servislerine Faturalı ve Özenli Sevk',
         paragraphs: [
-          'Dilovası’nda yolda kalan binek ve ticari araçları tercihinize göre Gebze Oto Sanayi Sitesi’ne, İzmit yetkili servislerine veya İstanbul Anadolu Yakası’na tek seferde, emtia kaskolu olarak naklediyoruz. Bölge uzaklık bahanesiyle fahiş fiyat uygulanmaz; telefonda şeffaf sabit ücret verilir.',
+          'Dilovası’nda yolda kalan binek ve ticari araçları tercihinize göre Gebze Oto Sanayi Sitesi’ne, İzmit yetkili servislerine veya İstanbul Anadolu Yakası’na tek seferde, fotoğraflı tutanaklu olarak naklediyoruz. Bölge uzaklık bahanesiyle fahiş fiyat uygulanmaz; telefonda şeffaf sabit ücret verilir.',
           'OSB firmaları için İSG uyumlu çalışma, mobil POS ödeme ve resmi KDV’li e-fatura hizmetimizle Dilovası’nda 7/24 görev başındayız.'
         ]
       }

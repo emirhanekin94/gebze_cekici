@@ -17,7 +17,7 @@ const BUSINESS = {
   shortName: 'Gebze Çekici',
   legalName: 'Gebze Çekici & 7/24 Yol Yardım Hizmetleri',
   navSub: '7/24 Gebze Nöbetçi Çekici Filosu',
-  slogan: 'Gebze, OSB, TEM ve D-100 Hattında 7/24 Kaskolu Oto Çekici ve Acil Yol Yardım',
+  slogan: 'Gebze, OSB, TEM ve D-100 Hattında 7/24 Oto Çekici, Yol Yardım ve Yük Taşımacılığı',
   themeId: 'swiss-editorial',
 
   phoneDisplay: '0533 945 45 14',
@@ -58,19 +58,20 @@ const BUSINESS = {
    * tüm 45+ sayfada anında aktifleşmesi için yeterlidir.
    */
   analytics: {
-    gtmId: 'GTM-5MQQRFLD',        // Google Tag Manager (Ana Etiket Yöneticisi)
+    gtmId: 'GTM-5MQQRFLD',        // Google Tag Manager (Analitik)
+    adsGtmId: 'GTM-54S5TZ7J',     // Google Tag Manager (Google Ads Etiketi)
     ga4Id: '',                    // Örn: 'G-XXXXXXXXXX' (GTM üzerinden veya doğrudan)
     adsId: '',                    // Örn: 'AW-XXXXXXXXXX'
     adsCallConversion: '',        // 1. Birincil Dönüşüm (Telefon): 'AW-XXXXXXXXXX/...'
     adsWhatsappConversion: '',    // 2. İkincil Dönüşüm (WhatsApp): 'AW-XXXXXXXXXX/...'
-    searchConsoleVerification: '' // Örn: 'google-site-verification-token'
+    searchConsoleVerification: 'pj4qXgccgb0ZBIcvvpBPZeyYaJmFYoDzKXZrjQBVsUE' // Google Search Console doğrulama kodu
   },
 
   heroImage: {
-    base: 'gebze-hero-otoyol',
-    w: 640,
-    h: 360,
-    alt: 'Gebze TEM ve D-100 otoyol hattında hidrolik kayar kasa ile hasarsız araç yükleme operasyonu'
+    base: 'client-pickup-osb',
+    w: 800,
+    h: 600,
+    alt: 'Gebze Çekici TEM ve D-100 otoyol hattında hidrolik kayar kasa ile 4x4 araç taşıma operasyonu'
   }
 };
 
@@ -99,22 +100,60 @@ const IMAGE_META = {
   'gebze-is-makinesi':       { w: 640, h: 480, portrait: false },
   'gebze-atv-ozel':          { w: 800, h: 600, portrait: false },
   'gebze-luks-arac':         { w: 800, h: 1067, portrait: true },
-  'gebze-e5-yardim':         { w: 800, h: 1067, portrait: true }
+  'gebze-e5-yardim':         { w: 800, h: 1067, portrait: true },
+  'svc-kayar-kasa':          { w: 800, h: 600, portrait: false },
+  'svc-oto-kurtarma':        { w: 800, h: 600, portrait: false },
+  'svc-aparatli-cekici':     { w: 800, h: 600, portrait: false },
+  'svc-coklu-cekici':        { w: 800, h: 600, portrait: false },
+  'svc-tenteli-nakliye':     { w: 800, h: 600, portrait: false },
+  'svc-aku-takviye':         { w: 800, h: 600, portrait: false },
+  'svc-lastik-yardim':       { w: 800, h: 600, portrait: false },
+  'svc-motosiklet-cekici':   { w: 800, h: 600, portrait: false },
+  'svc-ticari-cekici':       { w: 800, h: 600, portrait: false },
+  'svc-sehirlerarasi':       { w: 800, h: 600, portrait: false },
+  'svc-atv-karavan':         { w: 800, h: 600, portrait: false },
+  'client-pickup-osb':       { w: 800, h: 600, portrait: false },
+  'client-doblo-cekici':     { w: 800, h: 600, portrait: false },
+  'client-kazali-mercedes':  { w: 800, h: 600, portrait: false },
+  'client-panelvan-osb':     { w: 800, h: 600, portrait: false },
+  'client-iveco-panelvan':   { w: 800, h: 600, portrait: false },
+  'client-motosiklet':       { w: 800, h: 600, portrait: false },
+  'client-traktor-ozel':     { w: 800, h: 600, portrait: false },
+  'client-sedan-mahalle':    { w: 800, h: 600, portrait: false },
+  'client-kamyonet':         { w: 800, h: 600, portrait: false },
+  'client-traktor-2':        { w: 800, h: 600, portrait: false },
+  'client-sanayi-yuk':       { w: 800, h: 600, portrait: false },
+  'client-karavan-ozel':     { w: 800, h: 600, portrait: false },
+  'client-bmw-cekici':       { w: 800, h: 600, portrait: false },
+  'client-mikro-arac':       { w: 800, h: 600, portrait: false },
+  'client-kia-mahalle':      { w: 800, h: 600, portrait: false },
+  'client-gece-panelvan':    { w: 800, h: 600, portrait: false },
+  'client-accent-otoyol':    { w: 800, h: 600, portrait: false },
+  'client-gece-sedan':       { w: 800, h: 600, portrait: false },
+  'client-audi-otoyol':      { w: 800, h: 600, portrait: false },
+  'client-suv-yagmur':       { w: 800, h: 600, portrait: false },
+  'client-ticari-istasyon':  { w: 800, h: 600, portrait: false },
+  'client-suv-cadde':        { w: 800, h: 600, portrait: false },
+  'client-atv-feribot':      { w: 800, h: 600, portrait: false },
+  'client-klasik-mercedes':  { w: 800, h: 600, portrait: false },
+  'client-gece-rangerover':  { w: 800, h: 600, portrait: false },
+  'client-tenteli-yuk':      { w: 800, h: 600, portrait: false },
+  'client-tenteli-teslimat': { w: 800, h: 600, portrait: false }
 };
 
 const GALLERY_ITEMS = [
-  { img: 'gebze-hero-otoyol',       cap: 'TEM Gebze geçişinde hidrolik kayar kasa ile binek araç nakli' },
-  { img: 'gebze-gunbatimi',         cap: 'D-100 Gebze hattında gün batımı acil yol yardım ve platform yükleme' },
-  { img: 'gebze-istasyon',          cap: 'Şekerpınar bağlantı istasyonunda arızalı araç hızlı çekici intikali' },
-  { img: 'gebze-ticari-osb',        cap: 'GOSB sanayi bölgesinde ticari panelvan aracın uzun şasi ile nakli' },
-  { img: 'gebze-ahtapot-vinc',      cap: 'Kuzey Marmara bağlantı yolunda vinç destekli şarampol kurtarma' },
-  { img: 'gebze-sedan-otoyol',      cap: 'Osmangazi Köprüsü yaklaşımında sedan araç güvenli otoyol tahliyesi' },
-  { img: 'gebze-suv-kurtarma',      cap: 'Mutlukent caddesinde SUV aracın 4 tekerlekten spanzetli yüklenmesi' },
-  { img: 'gebze-kamyonet-tasima',   cap: 'Dilovası ve TOSB hattında 4x4 pikap ağır hizmet platform taşıması' },
-  { img: 'gebze-aku-takviye',       cap: 'Gebze Merkez otoparkında 12V akım korumalı booster akü takviye' },
-  { img: 'gebze-lastik-yardim',     cap: 'Darıca sahil yolunda yarılan lastik için yerinde mobil lastik desteği' },
-  { img: 'gebze-is-makinesi',       cap: 'Güzeller OSB tesis sahasında iş makinesi ve ekipman nakliyesi' },
-  { img: 'gebze-cadde-operasyon',   cap: 'Beylikbağı ve Tatlıkuyu ara sokaklarında dar alan çekici müdahalesi' }
+  { img: 'client-bmw-cekici',       cap: 'Gebze Merkez’de BMW sedan aracın düşük eğimli kayar kasa ile hasarsız yüklenmesi' },
+  { img: 'client-gece-rangerover',  cap: '7/24 gece nöbetçi ekibimizle Range Rover SUV aracın güvenli çekici nakli' },
+  { img: 'client-audi-otoyol',      cap: 'TEM ve Osmangazi Köprüsü hattında Audi sedan şehirlerarası transferi' },
+  { img: 'client-tenteli-yuk',      cap: '3.5 tona kadar tenteli nakliye aracımızla OSB paletli ve kolili yük taşımacılığı' },
+  { img: 'client-atv-feribot',      cap: 'Eskihisar feribot hattında ATV aracın kayar kasa platform üzerinde güvenli transferi' },
+  { img: 'client-klasik-mercedes',  cap: 'Klasik koleksiyon otomobilin hassas rampa ve spanzetlerle özel nakliyesi' },
+  { img: 'client-kazali-mercedes',  cap: 'Kazalı binek otomobilin 4 noktadan sabitlenerek yetkili servise nakli' },
+  { img: 'client-gece-panelvan',    cap: 'GOSB ve sanayi bölgesinde gece vardiyası ticari panelvan çekici müdahalesi' },
+  { img: 'client-suv-cadde',        cap: 'Darıca ve Çayırova caddelerinde SUV aracın kayar kasaya temassız yüklenmesi' },
+  { img: 'client-motosiklet',       cap: 'Motosikletlerin spanzet kemerlerle dik ve çiziksiz şekilde sabitlenerek taşınması' },
+  { img: 'client-pickup-osb',       cap: 'Gebze OSB hattında 4x4 pikap aracın hidrolik kayar kasa ile güvenli nakli' },
+  { img: 'client-tenteli-teslimat', cap: 'Tenteli nakliye aracımızla Gebze ve İstanbul arası kapıdan kapıya yük teslimatı' }
 ];
 
 const REVIEWS = [
@@ -131,7 +170,7 @@ const REVIEWS = [
   {
     name: 'Hakan D.',
     region: 'Darıca / Bayramoğlu',
-    text: 'Site kapalı otoparkında akü tamamen boşalmıştı ve direksiyon kilitliydi. Alçak tavanlı araçla inip akım korumalı cihazla aracın beynine zarar vermeden çalıştırdılar. İşini bilen düzgün ekip.'
+    text: 'Otoparkta akü tamamen boşalmıştı ve marş basmıyordu. 15 dakika içinde gelip profesyonel booster cihazıyla aracımı hızlıca çalıştırdılar ve şarj dinamosunu ölçtüler. İşini bilen düzgün ekip.'
   },
   {
     name: 'Emre Y.',
@@ -146,7 +185,7 @@ const REVIEWS = [
   {
     name: 'Kadir S.',
     region: 'Muallimköy / Bilişim Vadisi',
-    text: 'Elektrikli aracımın yüksek voltaj uyarısı sonrası çekilmesi gerekti. Ahtapot aparatlı ekip aracı sürüklemeden platforma aldı, taşıma sigortası poliçesini yükleme öncesi paylaştılar.'
+    text: 'Otomatik aracımın şanzımanı P konumunda kilitlenmişti. Tekerlek altı aparatlı ekip aracı hiç sürüklemeden platforma aldı, servisin kapısına kadar hasarsız teslim ettiler.'
   }
 ];
 
@@ -160,12 +199,12 @@ const HOME_FAQS = [
     a: 'Ücretlendirme aracınızın bulunduğu nokta, gideceği mesafe, araç tipi (binek, SUV, ticari) ve kilitli şanzıman/kapalı otopark gibi özel ekipman ihtiyacına göre telefonda netleştirilir. Onayladığınız sabit fiyat dışında gece farkı veya sürpriz ek masraf talep edilmez.'
   },
   {
-    q: 'Otomatik vitesli, elektrikli veya şanzımanı kilitli araçlar hasarsız çekiliyor mu?',
-    a: 'Evet. Otomatik, hibrit ve elektrikli araçlarda tekerleklerin çekilerek sürüklenmesi aktarma organlarına zarar verir. Filomuzdaki düşük eğimli hidrolik kayar kasa platformlar ve tekerlek altı paten/ahtapot aparatlarıyla aracı 4 tekerleği havada, şasi ve tampona temas ettirmeden taşıyoruz.'
+    q: 'Otomatik vitesli veya şanzımanı kilitli araçlar hasarsız çekiliyor mu?',
+    a: 'Evet. Otomatik vitesli araçlarda tekerleklerin çekilerek sürüklenmesi aktarma organlarına zarar verir. Filomuzdaki düşük eğimli hidrolik kayar kasa platformlar ve tekerlek altı paten/doli aparatlarıyla aracı sürüklemeden, şasi ve tampona temas ettirmeden taşıyoruz.'
   },
   {
-    q: 'Taşıma sırasında aracım sigortalı mı? Kurumsal fatura kesiyor musunuz?',
-    a: 'Tüm şehir içi ve şehirlerarası nakillerimiz yükleme anından servis teslimatına kadar taşıma emtia sigortası kapsamındadır. Bireysel ve OSB kurumsal filo müşterilerimiz için KDV’li e-fatura ve araç içi mobil POS ile kredi kartı ödeme imkânı sunuyoruz.'
+    q: 'Kurumsal fatura kesiyor musunuz ve kredi kartıyla ödeme yapılabilir mi?',
+    a: 'Evet. Tüm şehir içi, şehirlerarası çekici ve 3.5 tona kadar tenteli nakliye hizmetlerimizde bireysel ve OSB kurumsal filo müşterilerimiz için KDV’li e-fatura ve araç içi mobil POS ile kredi kartı ödeme imkânı sunuyoruz.'
   },
   {
     q: 'Gece yarısı veya resmi tatillerde Gebze’de nöbetçi çekici bulabilir miyim?',
@@ -173,7 +212,7 @@ const HOME_FAQS = [
   },
   {
     q: 'Sadece çekici mi var yoksa yerinde akü takviye ve lastik desteği de veriyor musunuz?',
-    a: 'Aracın servise çekilmesine gerek kalmayan akü bitmesi, stepne değişimi veya lastik patlaması durumlarında mobil yol yardım ekibimiz 12V/24V akım korumalı booster cihazları ve hidrolik kriko ekipmanlarıyla doğrudan bulunduğunuz noktada müdahale eder.'
+    a: 'Aracın servise çekilmesine gerek kalmayan akü bitmesi, stepne değişimi veya lastik patlaması durumlarında mobil yol yardım ekibimiz 12V/24V profesyonel booster cihazları ve hidrolik kriko ekipmanlarıyla doğrudan bulunduğunuz noktada müdahale eder.'
   }
 ];
 

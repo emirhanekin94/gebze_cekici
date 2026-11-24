@@ -3,689 +3,679 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://gebzecekici.tr/</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-hero-otoyol.webp</image:loc>
-      <image:title>Gebze TEM ve D-100 otoyol hattında hidrolik kayar kasa ile hasarsız araç yükleme operasyonu</image:title>
+      <image:loc>https://gebzecekici.tr/images/client-pickup-osb.webp</image:loc>
+      <image:title>Gebze Çekici TEM ve D-100 otoyol hattında hidrolik kayar kasa ile 4x4 araç taşıma operasyonu</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/gebze-cekici-fiyatlari.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-hero-otoyol.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-pickup-osb.webp</image:loc>
       <image:title>Gebze Çekici Sabit Fiyat Politikası ve Teklif Rehberi</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/bolgeler/</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://gebzecekici.tr/hizmetler/</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://gebzecekici.tr/blog/</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gebzecekici.tr/galeri.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-hero-otoyol.webp</image:loc>
-      <image:title>TEM Gebze geçişinde hidrolik kayar kasa ile binek araç nakli</image:title>
+      <image:loc>https://gebzecekici.tr/images/client-bmw-cekici.webp</image:loc>
+      <image:title>Gebze Merkez’de BMW sedan aracın düşük eğimli kayar kasa ile hasarsız yüklenmesi</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-gunbatimi.webp</image:loc>
-      <image:title>D-100 Gebze hattında gün batımı acil yol yardım ve platform yükleme</image:title>
+      <image:loc>https://gebzecekici.tr/images/client-gece-rangerover.webp</image:loc>
+      <image:title>7/24 gece nöbetçi ekibimizle Range Rover SUV aracın güvenli çekici nakli</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-istasyon.webp</image:loc>
-      <image:title>Şekerpınar bağlantı istasyonunda arızalı araç hızlı çekici intikali</image:title>
+      <image:loc>https://gebzecekici.tr/images/client-audi-otoyol.webp</image:loc>
+      <image:title>TEM ve Osmangazi Köprüsü hattında Audi sedan şehirlerarası transferi</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-ticari-osb.webp</image:loc>
-      <image:title>GOSB sanayi bölgesinde ticari panelvan aracın uzun şasi ile nakli</image:title>
+      <image:loc>https://gebzecekici.tr/images/client-tenteli-yuk.webp</image:loc>
+      <image:title>3.5 tona kadar tenteli nakliye aracımızla OSB paletli ve kolili yük taşımacılığı</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-ahtapot-vinc.webp</image:loc>
-      <image:title>Kuzey Marmara bağlantı yolunda vinç destekli şarampol kurtarma</image:title>
+      <image:loc>https://gebzecekici.tr/images/client-atv-feribot.webp</image:loc>
+      <image:title>Eskihisar feribot hattında ATV aracın kayar kasa platform üzerinde güvenli transferi</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-sedan-otoyol.webp</image:loc>
-      <image:title>Osmangazi Köprüsü yaklaşımında sedan araç güvenli otoyol tahliyesi</image:title>
+      <image:loc>https://gebzecekici.tr/images/client-klasik-mercedes.webp</image:loc>
+      <image:title>Klasik koleksiyon otomobilin hassas rampa ve spanzetlerle özel nakliyesi</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-suv-kurtarma.webp</image:loc>
-      <image:title>Mutlukent caddesinde SUV aracın 4 tekerlekten spanzetli yüklenmesi</image:title>
+      <image:loc>https://gebzecekici.tr/images/client-kazali-mercedes.webp</image:loc>
+      <image:title>Kazalı binek otomobilin 4 noktadan sabitlenerek yetkili servise nakli</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-kamyonet-tasima.webp</image:loc>
-      <image:title>Dilovası ve TOSB hattında 4x4 pikap ağır hizmet platform taşıması</image:title>
+      <image:loc>https://gebzecekici.tr/images/client-gece-panelvan.webp</image:loc>
+      <image:title>GOSB ve sanayi bölgesinde gece vardiyası ticari panelvan çekici müdahalesi</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-aku-takviye.webp</image:loc>
-      <image:title>Gebze Merkez otoparkında 12V akım korumalı booster akü takviye</image:title>
+      <image:loc>https://gebzecekici.tr/images/client-suv-cadde.webp</image:loc>
+      <image:title>Darıca ve Çayırova caddelerinde SUV aracın kayar kasaya temassız yüklenmesi</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-lastik-yardim.webp</image:loc>
-      <image:title>Darıca sahil yolunda yarılan lastik için yerinde mobil lastik desteği</image:title>
+      <image:loc>https://gebzecekici.tr/images/client-motosiklet.webp</image:loc>
+      <image:title>Motosikletlerin spanzet kemerlerle dik ve çiziksiz şekilde sabitlenerek taşınması</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-is-makinesi.webp</image:loc>
-      <image:title>Güzeller OSB tesis sahasında iş makinesi ve ekipman nakliyesi</image:title>
+      <image:loc>https://gebzecekici.tr/images/client-pickup-osb.webp</image:loc>
+      <image:title>Gebze OSB hattında 4x4 pikap aracın hidrolik kayar kasa ile güvenli nakli</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-cadde-operasyon.webp</image:loc>
-      <image:title>Beylikbağı ve Tatlıkuyu ara sokaklarında dar alan çekici müdahalesi</image:title>
+      <image:loc>https://gebzecekici.tr/images/client-tenteli-teslimat.webp</image:loc>
+      <image:title>Tenteli nakliye aracımızla Gebze ve İstanbul arası kapıdan kapıya yük teslimatı</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/hakkimizda.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-istasyon.webp</image:loc>
-      <image:title>Gebze Çekici 7/24 Kaskolu Çekici Filosu</image:title>
+      <image:loc>https://gebzecekici.tr/images/client-kamyonet.webp</image:loc>
+      <image:title>Gebze Çekici 7/24 Nöbetçi Çekici Filosu</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/iletisim.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gebzecekici.tr/gizlilik-politikasi.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/gebze-merkez-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/gebze-merkez-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-merkez-cekici.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-klasik-mercedes.webp</image:loc>
       <image:title>Gebze 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-cadde-operasyon.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-kia-mahalle.webp</image:loc>
       <image:title>Gebze Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/gosb-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/gosb-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-ticari-osb.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-gece-panelvan.webp</image:loc>
       <image:title>GOSB 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-is-makinesi.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-tenteli-yuk.webp</image:loc>
       <image:title>GOSB Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/beylikbagi-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/beylikbagi-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-cadde-operasyon.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-sedan-mahalle.webp</image:loc>
       <image:title>Beylikbağı 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-gunbatimi.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-gece-sedan.webp</image:loc>
       <image:title>Beylikbağı Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/tem-gebze-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/tem-gebze-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-hero-otoyol.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-audi-otoyol.webp</image:loc>
       <image:title>TEM Gebze 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-sedan-otoyol.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-gece-rangerover.webp</image:loc>
       <image:title>TEM Gebze Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/cayirova-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/cayirova-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-istasyon.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-suv-cadde.webp</image:loc>
       <image:title>Çayırova 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-suv-kurtarma.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-mikro-arac.webp</image:loc>
       <image:title>Çayırova Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/darica-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/darica-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-suv-kurtarma.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-bmw-cekici.webp</image:loc>
       <image:title>Darıca 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-lastik-yardim.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-suv-yagmur.webp</image:loc>
       <image:title>Darıca Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/mutlukent-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/mutlukent-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-suv-kurtarma.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-gece-rangerover.webp</image:loc>
       <image:title>Mutlukent 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-kapali-otopark.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-suv-cadde.webp</image:loc>
       <image:title>Mutlukent Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/tatlikuyu-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/tatlikuyu-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-gunbatimi.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-kia-mahalle.webp</image:loc>
       <image:title>Tatlıkuyu 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-merkez-cekici.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-doblo-cekici.webp</image:loc>
       <image:title>Tatlıkuyu Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/istasyon-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/istasyon-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-istasyon.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-gece-sedan.webp</image:loc>
       <image:title>İstasyon Mahallesi 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-sedan-otoyol.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-bmw-cekici.webp</image:loc>
       <image:title>İstasyon Mahallesi Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/arapcesme-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/arapcesme-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-kamyonet-tasima.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-kia-mahalle.webp</image:loc>
       <image:title>Arapçeşme 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-merkez-cekici.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-doblo-cekici.webp</image:loc>
       <image:title>Arapçeşme Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/kirazpinar-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/kirazpinar-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-suv-kurtarma.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-suv-yagmur.webp</image:loc>
       <image:title>Kirazpınar 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-istasyon.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-pickup-osb.webp</image:loc>
       <image:title>Kirazpınar Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/baris-mahallesi-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/baris-mahallesi-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-sedan-otoyol.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-suv-yagmur.webp</image:loc>
       <image:title>Barış Mahallesi 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-hero-otoyol.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-sedan-mahalle.webp</image:loc>
       <image:title>Barış Mahallesi Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/mevlana-mahallesi-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/mevlana-mahallesi-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-merkez-cekici.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-gece-sedan.webp</image:loc>
       <image:title>Mevlana Mahallesi 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-cadde-operasyon.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-sedan-mahalle.webp</image:loc>
       <image:title>Mevlana Mahallesi Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/adem-yavuz-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/adem-yavuz-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-istasyon.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-doblo-cekici.webp</image:loc>
       <image:title>Adem Yavuz 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-ticari-osb.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-kia-mahalle.webp</image:loc>
       <image:title>Adem Yavuz Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/mustafapasa-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/mustafapasa-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-cadde-operasyon.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-doblo-cekici.webp</image:loc>
       <image:title>Mustafapaşa 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-aku-takviye.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-kia-mahalle.webp</image:loc>
       <image:title>Mustafapaşa Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/mimarsinan-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/mimarsinan-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-e5-yardim.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-suv-cadde.webp</image:loc>
       <image:title>Mimar Sinan 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-gunbatimi.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-bmw-cekici.webp</image:loc>
       <image:title>Mimar Sinan Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/tosb-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/tosb-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-kamyonet-tasima.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-panelvan-osb.webp</image:loc>
       <image:title>TOSB 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-ticari-osb.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-tenteli-yuk.webp</image:loc>
       <image:title>TOSB Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/guzeller-osb-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/guzeller-osb-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-is-makinesi.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-ticari-istasyon.webp</image:loc>
       <image:title>Güzeller OSB 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-ticari-osb.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-tenteli-teslimat.webp</image:loc>
       <image:title>Güzeller OSB Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/bilisim-vadisi-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/bilisim-vadisi-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-luks-arac.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-mikro-arac.webp</image:loc>
       <image:title>Bilişim Vadisi 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-sedan-otoyol.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-suv-cadde.webp</image:loc>
       <image:title>Bilişim Vadisi Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/pelitli-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/pelitli-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-ahtapot-vinc.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-pickup-osb.webp</image:loc>
       <image:title>Pelitli 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-kamyonet-tasima.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-kamyonet.webp</image:loc>
       <image:title>Pelitli Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/balcik-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/balcik-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-ticari-osb.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-tenteli-yuk.webp</image:loc>
       <image:title>Balçık 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-is-makinesi.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-iveco-panelvan.webp</image:loc>
       <image:title>Balçık Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/eskihisar-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/eskihisar-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-gunbatimi.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-atv-feribot.webp</image:loc>
       <image:title>Eskihisar 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-sedan-otoyol.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-klasik-mercedes.webp</image:loc>
       <image:title>Eskihisar Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/d100-gebze-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/d100-gebze-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-e5-yardim.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-accent-otoyol.webp</image:loc>
       <image:title>D-100 Gebze 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-hero-otoyol.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-kazali-mercedes.webp</image:loc>
       <image:title>D-100 Gebze Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/osmangazi-koprusu-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/osmangazi-koprusu-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-sedan-otoyol.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-audi-otoyol.webp</image:loc>
       <image:title>Osmangazi Köprüsü 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-ahtapot-vinc.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-bmw-cekici.webp</image:loc>
       <image:title>Osmangazi Köprüsü Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/sekerpinar-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/sekerpinar-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-istasyon.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-ticari-istasyon.webp</image:loc>
       <image:title>Şekerpınar 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-ticari-osb.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-gece-panelvan.webp</image:loc>
       <image:title>Şekerpınar Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/bolgeler/dilovasi-oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/bolgeler/dilovasi-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-kamyonet-tasima.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-kazali-mercedes.webp</image:loc>
       <image:title>Dilovası 7/24 Oto Çekici ve Yol Yardım</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-ahtapot-vinc.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-accent-otoyol.webp</image:loc>
       <image:title>Dilovası Saha Kurtarma Operasyonu</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/hizmetler/oto-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-hero-otoyol.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-bmw-cekici.webp</image:loc>
       <image:title>Gebze Kayar Kasa Oto Çekici</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/hizmetler/oto-kurtarma.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-kazali-kurtarma.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-kazali-mercedes.webp</image:loc>
       <image:title>Gebze Kazalı &amp; Şarampol Oto Kurtarma</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/hizmetler/kapali-otopark-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/hizmetler/aparatli-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-kapali-otopark.webp</image:loc>
-      <image:title>Gebze Kapalı Otopark Çekici</image:title>
+      <image:loc>https://gebzecekici.tr/images/svc-aparatli-cekici.webp</image:loc>
+      <image:title>Gebze Aparatlı Çekici</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/hizmetler/ahtapot-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <loc>https://gebzecekici.tr/hizmetler/coklu-cekici.html</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-ahtapot-vinc.webp</image:loc>
-      <image:title>Gebze Ahtapot Çekici &amp; Vinçli Kurtarma</image:title>
+      <image:loc>https://gebzecekici.tr/images/svc-coklu-cekici.webp</image:loc>
+      <image:title>Gebze Çoklu Çekici</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gebzecekici.tr/hizmetler/tenteli-arac-nakliye.html</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://gebzecekici.tr/images/client-tenteli-yuk.webp</image:loc>
+      <image:title>Gebze Şehir İçi &amp; Şehirlerarası Yük Taşımacılığı</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/hizmetler/aku-takviye.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-aku-takviye.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/svc-aku-takviye.webp</image:loc>
       <image:title>Gebze Yerinde Akü Takviye</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/hizmetler/lastik-yol-yardim.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-lastik-yardim.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/svc-lastik-yardim.webp</image:loc>
       <image:title>Gebze Mobil Lastik Yol Yardım</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/hizmetler/motosiklet-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-motosiklet-cekici.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-motosiklet.webp</image:loc>
       <image:title>Gebze Motosiklet Çekici &amp; Nakliye</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/hizmetler/ticari-arac-cekici.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-ticari-osb.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-panelvan-osb.webp</image:loc>
       <image:title>Gebze Ticari, Panelvan &amp; OSB Filo Çekici</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/hizmetler/is-makinesi-tasima.html</loc>
-    <lastmod>2026-11-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-    <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-is-makinesi.webp</image:loc>
-      <image:title>Gebze Forklift &amp; İş Makinesi Taşıma</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://gebzecekici.tr/hizmetler/sehirlerarasi-arac-tasima.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-sehirlerarasi.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-audi-otoyol.webp</image:loc>
       <image:title>Gebze Şehirlerarası Araç Taşıma</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://gebzecekici.tr/hizmetler/kazali-luks-arac-tasima.html</loc>
-    <lastmod>2026-11-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-    <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-luks-arac.webp</image:loc>
-      <image:title>Gebze Lüks, Spor &amp; Elektrikli Araç Çekici</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://gebzecekici.tr/hizmetler/atv-karavan-ozel-tasima.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-atv-ozel.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-atv-feribot.webp</image:loc>
       <image:title>Gebze Karavan, ATV &amp; Özel Araç Taşıma</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/blog/gebze-en-yakin-oto-cekici-cagirma-rehberi.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-hero-otoyol.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-pickup-osb.webp</image:loc>
       <image:title>Gebze’de En Yakın Oto Çekici Nasıl Çağrılır? Hızlı ve Güvenli Adımlar</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/blog/otomatik-vites-ve-elektrikli-araclar-nasil-cekilir.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-luks-arac.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-kazali-mercedes.webp</image:loc>
       <image:title>Otomatik Vitesli ve Elektrikli Araçlar Nasıl Çekilir? Hasarsız Taşıma Teknikleri</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/blog/aku-neden-aniden-biter-yerinde-aku-takviye-rehberi.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-aku-takviye.webp</image:loc>
-      <image:title>Akü Neden Aniden Biter? Beyin Korumalı Yerinde Akü Takviye Rehberi</image:title>
+      <image:loc>https://gebzecekici.tr/images/svc-aku-takviye.webp</image:loc>
+      <image:title>Akü Neden Aniden Biter? Yerinde Hızlı Akü Takviye Rehberi</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/blog/tem-ve-d100-otoyolunda-arac-arizasinda-guvenlik-adimlari.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-sedan-otoyol.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-sedan-mahalle.webp</image:loc>
       <image:title>TEM ve D-100 Otoyolunda Araç Arızalandığında Hayati Güvenlik Adımları</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/blog/gebze-oto-cekici-fiyatlari-nasil-hesaplanir.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-gunbatimi.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-doblo-cekici.webp</image:loc>
       <image:title>Gebze Oto Çekici Fiyatları 2026: Ücretler Neye Göre Hesaplanır?</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/blog/kapali-otoparkta-ve-kilitli-sanzimanda-arac-kurtarma.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-kapali-otopark.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/svc-aparatli-cekici.webp</image:loc>
       <image:title>Kapalı Otoparkta veya Kilitli Şanzımanla Kalan Araç Nasıl Kurtarılır?</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/blog/elektrikli-arac-gebze-cekici-batarya-koruma.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-luks-arac.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-kazali-mercedes.webp</image:loc>
       <image:title>Elektrikli Araç (Togg, Tesla) Gebze Çekici ve Batarya Korumalı Taşıma</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/blog/eskihisar-feribot-osmangazi-koprusu-ariza-rehberi.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-sedan-otoyol.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-sedan-mahalle.webp</image:loc>
       <image:title>Eskihisar Feribot ve Osmangazi Köprüsü Yolunda Arıza Rehberi</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://gebzecekici.tr/blog/gosb-tosb-kurumsal-filo-cekici-proseduru.html</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
     <image:image>
-      <image:loc>https://gebzecekici.tr/images/gebze-ticari-osb.webp</image:loc>
+      <image:loc>https://gebzecekici.tr/images/client-panelvan-osb.webp</image:loc>
       <image:title>GOSB ve TOSB Fabrikalarında Kurumsal Filo Çekici ve Vardiya Rehberi</image:title>
     </image:image>
   </url>

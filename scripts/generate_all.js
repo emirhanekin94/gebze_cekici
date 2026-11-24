@@ -50,7 +50,7 @@ function stepsSection(eyebrow, title, desc, customSteps = null) {
   const steps = customSteps || [
     { num: '01', icon: P.ICONS.phone, title: 'İhbar & Konum Paylaşımı', desc: '0533 945 45 14 numaramızdan arayın veya WhatsApp üzerinden tek dokunuşla konumunuzu iletin; net sabit fiyatı anında onaylayın.' },
     { num: '02', icon: P.ICONS.clock, title: '10–15 Dk Hızlı İntikal', desc: 'Gebze Merkez, GOSB, TEM, D-100, Çayırova ve Darıca’daki nöbetçi ekibimiz ışıklı emniyetle konumunuza ulaşır.' },
-    { num: '03', icon: P.ICONS.truck, title: 'Hasarsız & Kaskolu Yükleme', desc: 'Düşük eğimli hidrolik kayar kasa veya aparatlı kurtarıcımızla aracınız 4 tekerlekten jant koruyucu kemerlerle sabitlenir.' },
+    { num: '03', icon: P.ICONS.truck, title: 'Hasarsız & özenli Yükleme', desc: 'Düşük eğimli hidrolik kayar kasa veya aparatlı kurtarıcımızla aracınız 4 tekerlekten jant koruyucu kemerlerle sabitlenir.' },
     { num: '04', icon: P.ICONS.shield, title: 'Servise Güvenli Teslim', desc: 'Gebze Sanayi, yetkili servis veya belirttiğiniz adrese hasarsız indirme, mobil POS ve KDV’li e-fatura ile süreç tamamlanır.' }
   ];
 
@@ -75,7 +75,7 @@ function stepsSection(eyebrow, title, desc, customSteps = null) {
 </section>`;
 }
 
-function whyUsBentoSection(eyebrow = 'Neden Biz?', title = 'Sadece çekici değil, sıfır hasar mühendisliği.', desc = 'Şeffaf sabit fiyat, emtia taşıma kaskosu ve Gebze arterlerine hâkim nöbetçi filo disiplini.') {
+function whyUsBentoSection(eyebrow = 'Neden Biz?', title = 'Sadece çekici değil, sıfır hasar mühendisliği.', desc = 'Şeffaf sabit fiyat, fotoğraflı teslim tutanağı ve Gebze arterlerine hâkim nöbetçi filo disiplini.') {
   return `<section class="section cv-auto">
   <div class="container">
     <div class="why-editorial-grid">
@@ -86,10 +86,10 @@ function whyUsBentoSection(eyebrow = 'Neden Biz?', title = 'Sadece çekici deği
           <p class="section-desc">${P.esc(desc)}</p>
         </div>
         <div class="why-media-card">
-          ${P.pictureTag('gebze-istasyon', 'Gebze Çekici modern kayar kasa çekici filosu', false)}
+          ${P.pictureTag('client-kamyonet', 'Gebze Çekici modern kayar kasa çekici filosu', false)}
           <div class="why-media-stats">
             <div class="why-media-stat"><strong>10–15 Dk</strong><span>Ort. Varış</span></div>
-            <div class="why-media-stat"><strong>%100</strong><span>Emtia Kasko</span></div>
+            <div class="why-media-stat"><strong>7/24</strong><span>Sabit Fiyat</span></div>
             <div class="why-media-stat"><strong>14+ Yıl</strong><span>Saha Deneyimi</span></div>
           </div>
         </div>
@@ -109,7 +109,7 @@ function whyUsBentoSection(eyebrow = 'Neden Biz?', title = 'Sadece çekici deği
             <span class="why-deck-code">02 / Sıfır Hasar Protokolü</span>
             <span class="why-icon-wrap">${P.ICONS.shield}</span>
           </div>
-          <h3>6° Altı Kayar Kasa &amp; Emtia Kaskosu</h3>
+          <h3>6° Altı Kayar Kasa &amp; Fotoğraflı Tutanak</h3>
           <p>Düşük eğimli hidrolik platformlar ve 4 noktadan lastik üstü tekstil spanzet sabitlemesiyle binek, alçak spor, SUV ve elektrikli araçları tampona temas etmeden taşıyoruz.</p>
         </div>
         <div class="why-deck-item reveal">
@@ -126,7 +126,7 @@ function whyUsBentoSection(eyebrow = 'Neden Biz?', title = 'Sadece çekici deği
             <span class="why-icon-wrap">${P.ICONS.wrench}</span>
           </div>
           <h3>Her Senaryoya Özel Kurtarıcı Filosu</h3>
-          <p>1.88m kapalı otopark çekicisi, 4 teker askılı ahtapot vinç, uzun şasi OSB ticari platformu ve 12V/24V pik korumalı dijital akü booster tek çatı altında 7/24 hazır bekler.</p>
+          <p>Hidrolik kayar kasa, tekerlek aparatlı çekici, çoklu çekici, 3.5 ton tenteli nakliye ve uzun şasi OSB ticari platformu ve 12V/24V profesyonel 12V/24V dijital akü booster tek çatı altında 7/24 hazır bekler.</p>
         </div>
       </div>
     </div>
@@ -159,7 +159,7 @@ function galleryPreviewSection(limit = 6, title = 'Gerçek Saha Operasyonlarım�
 function regionCardHtml(r, isExtraHidden = false) {
   const hiddenCls = isExtraHidden ? ' is-hidden' : '';
   const extraAttr = isExtraHidden ? ' data-extra-region="true"' : '';
-  return `<a href="/bolgeler/${r.slug}-oto-cekici.html" class="region-card${hiddenCls}"${extraAttr}>
+  return `<a href="/bolgeler/${r.slug}-cekici.html" class="region-card${hiddenCls}"${extraAttr}>
   <div class="region-card-top">
     <h3>${P.esc(r.name)} Çekici</h3>
     <span class="region-status-pill"><span class="status-dot"></span> 7/24</span>
@@ -173,11 +173,12 @@ function regionCardHtml(r, isExtraHidden = false) {
 }
 
 function serviceCardHtml(s, idx = 0) {
-  const pCls = P.isPortrait(s.img) ? ' is-portrait' : '';
+  const coverImg = s.cardImg || s.img;
+  const pCls = P.isPortrait(coverImg) ? ' is-portrait' : '';
   const numStr = String(idx + 1).padStart(2, '0');
   return `<a href="/hizmetler/${s.slug}.html" class="service-card reveal${pCls}">
   <div class="service-media">
-    ${P.pictureTag(s.img, `Gebze ${s.name}`, false)}
+    ${P.pictureTag(coverImg, `Gebze ${s.name}`, false)}
   </div>
   <div class="service-scrim" aria-hidden="true"></div>
   <div class="service-top-bar">
@@ -205,7 +206,7 @@ function buildHomePage() {
 
   const html = `${P.head({
     title: 'Gebze Oto Çekici & 7/24 Acil Yol Yardım | Gebze Çekici',
-    description: 'Gebze, GOSB, Çayırova, Darıca, Dilovası, TEM ve D-100 hattında 10–15 dk varışlı kaskolu kayar kasa oto çekici, ahtapot kurtarma ve akü takviye: 0533 945 45 14.',
+    description: 'Gebze, GOSB, Çayırova, Darıca, Dilovası, TEM ve D-100 hattında 10–15 dk varışlı kayar kasa oto çekici, aparatlı çekici, çoklu çekici ve 3.5 ton tenteli nakliye: 0533 945 45 14.',
     canonical,
     heroPreload: BUSINESS.heroImage.base,
     schemas,
@@ -213,31 +214,33 @@ function buildHomePage() {
   })}
 ${P.headerNav('home')}
 <main id="main-content">
-  <section class="hero-section">
+  <section class="hero-section is-cover-hero">
+    <div class="cover-hero-bg" aria-hidden="true">
+      ${P.pictureTag(BUSINESS.heroImage.base, BUSINESS.heroImage.alt, true)}
+    </div>
+    <div class="cover-hero-scrim" aria-hidden="true"></div>
     <div class="container">
-      <div class="hero-editorial-top">
-        <div>
-          <div class="telemetry-bar">
-            <span class="telemetry-live"><span class="live-dot"></span> Canlı Nöbetçi Filo</span>
-            <span class="telemetry-sep">/</span>
-            <span>40.7998° N, 29.4414° E</span>
-            <span class="telemetry-sep">/</span>
-            <span>Gebze &middot; GOSB &middot; TEM &middot; D-100</span>
+      <div class="cover-hero-inner">
+        <div class="cover-hero-copy">
+          <div class="hero-status-pill">
+            <span class="live-dot"></span>
+            <span>7/24 Gebze Nöbetçi Çekici &middot; Ortalama ${BUSINESS.etaMinutes} Varış</span>
           </div>
-          <h1>Gebze 7/24 Oto Çekici <span>&amp; Acil Yol Yardım.</span></h1>
-        </div>
-        <div class="hero-top-side">
-          <p class="hero-lead">Gebze Merkez, GOSB, TOSB, Çayırova, Darıca, Dilovası ve otoyol koridorlarında düşük eğimli kayar kasa filomuzla 10–15 dakikada yanınızdayız.</p>
+          <h1>Gebze 7/24 Oto Çekici <span>&amp; Acil Yol Yardım</span></h1>
+          <p class="hero-lead">Gebze Merkez, GOSB, TOSB, Çayırova, Darıca, Dilovası, TEM ve D-100 koridorlarında düşük eğimli kayar kasa, aparatlı çekici, çoklu çekici ve 3.5 ton tenteli nakliye filomuzla dakikalar içinde yanınızdayız.</p>
+          <div class="cover-hero-trust">
+            <span class="cover-trust-chip">${P.ICONS.clock} 10–15 Dk Hızlı İntikal</span>
+            <span class="cover-trust-chip">${P.ICONS.check} Telefonda Net Sabit Fiyat</span>
+            <span class="cover-trust-chip">${P.ICONS.truck} 7/24 Kayar Kasa &amp; Aparatlı Filo</span>
+          </div>
           <div class="hero-desktop-actions cta-row">
-            <a href="tel:${BUSINESS.phoneTel}" class="btn btn-call">${P.ICONS.phone} <span>${BUSINESS.phoneDisplay}</span></a>
-            <a href="${P.waUrl('Gebze')}" class="btn btn-whatsapp btn-send-location" data-region="Gebze" target="_blank" rel="noopener noreferrer">${P.ICONS.whatsapp} <span>Konum Gönder</span></a>
+            <a href="tel:${BUSINESS.phoneTel}" class="btn btn-call">${P.ICONS.phone} <span>Hemen Ara: ${BUSINESS.phoneDisplay}</span></a>
+            <a href="${P.waUrl('Gebze')}" class="btn btn-whatsapp btn-send-location" data-region="Gebze" target="_blank" rel="noopener noreferrer">${P.ICONS.whatsapp} <span>WhatsApp Konum Gönder</span></a>
           </div>
         </div>
-      </div>
-
-      <div class="hero-stage">
-        ${P.showcaseCard(BUSINESS.heroImage.base, BUSINESS.heroImage.alt, 'Gebze')}
-        ${P.dispatchPanel('Gebze', 'home-quote', BUSINESS.etaMinutes)}
+        <div>
+          ${P.dispatchPanel('Gebze', 'home-quote', BUSINESS.etaMinutes)}
+        </div>
       </div>
     </div>
   </section>
@@ -258,7 +261,7 @@ ${P.headerNav('home')}
         <div class="section-head" style="margin-bottom:0;">
           <span class="section-eyebrow">01 / Uzman Ekipman &amp; Filo</span>
           <h2 class="section-title">Gebze Oto Çekici &amp; Yol Yardım Hizmetlerimiz</h2>
-          <p class="section-desc">Binek otomobilden elektrikli araca, kapalı otoparktan OSB ticari filosuna kadar her arıza senaryosu için doğru ekipmanı yönlendiriyoruz.</p>
+          <p class="section-desc">Binek otomobilden kazalı kurtarmaya, aparatlı ve çoklu çekiciden 3.5 ton tenteli nakliyeye kadar her ihtiyaca doğru ekipmanı yönlendiriyoruz.</p>
         </div>
         <a href="/hizmetler/" class="btn btn-outline">Tüm ${SERVICES.length} Hizmet ${P.ICONS.arrowRight}</a>
       </div>
@@ -369,7 +372,7 @@ ${P.headerNav('home')}
           <div class="section-head" style="margin-bottom:0;">
             <span class="section-eyebrow">Sıkça Sorulan Sorular</span>
             <h2 class="section-title">Merak Edilenlerin Net Yanıtları</h2>
-            <p class="section-desc">Varış süresi, sabit fiyat politikası, taşıma kaskosu ve 7/24 gece vardiyası hakkında en sık sorulan sorular.</p>
+            <p class="section-desc">Varış süresi, sabit fiyat politikası, fotoğraflı teslim tutanağı ve 7/24 gece vardiyası hakkında en sık sorulan sorular.</p>
           </div>
           <div class="faq-support-card">
             <strong>Farklı bir sorunuz mu var?</strong>
@@ -448,7 +451,7 @@ function buildRegionsIndex() {
     { q: 'OSB içindeki fabrikalara ve kapalı otoparklara çekici girebiliyor mu?', a: 'Evet. GOSB, TOSB, Güzeller OSB, GEPOSB, İMES OSB ve Balçık tesislerine kurumsal belgeli araçlarımızla giriş yapıyor; alçak tavanlı kapalı otoparklar için 1.88m özel kurtarıcı kullanıyoruz.' },
     { q: 'Çayırova, Darıca ve Dilovası’nda ekstra uzaklık ücreti alınıyor mu?', a: 'Hayır. Bu ilçeler Gebze ana faaliyet havzamızın doğrudan parçasıdır; bölgesel standart ekonomik tarife üzerinden telefonda sabit fiyat verilir.' },
     { q: 'TEM, D-100 veya Osmangazi Köprüsü çıkışında çekici ne kadar sürede gelir?', a: 'Otoyol bağlantılarına yakın konuşlu nöbetçi araçlarımız sayesinde doğru yön kavşağından giriş yaparak ortalama 10–15 dakikada yanınızda oluyoruz.' },
-    { q: 'Gebze’den İstanbul veya İzmit’teki yetkili servise çekim yapıyor musunuz?', a: 'Evet. Tüm 26 bölgemizden İstanbul Anadolu/Avrupa yakasına, İzmit’e ve Türkiye’nin 81 iline kaskolu araç nakliyesi sağlıyoruz.' }
+    { q: 'Gebze’den İstanbul veya İzmit’teki yetkili servise çekim yapıyor musunuz?', a: 'Evet. Tüm 26 bölgemizden İstanbul Anadolu/Avrupa yakasına, İzmit’e ve Türkiye’nin 81 iline özenli araç nakliyesi sağlıyoruz.' }
   ];
 
   const schemas = [
@@ -471,13 +474,7 @@ ${P.headerNav('regions')}
       ${P.breadcrumbs(bc)}
       <div class="hero-editorial-top" style="margin-bottom:0;">
         <div>
-          <div class="telemetry-bar">
-            <span class="telemetry-live"><span class="live-dot"></span> ${REGIONS.length} Nöbetçi Nokta</span>
-            <span class="telemetry-sep">/</span>
-            <span>Gebze &middot; OSB &middot; Otoyol</span>
-            <span class="telemetry-sep">/</span>
-            <span>10–15 Dk İntikal</span>
-          </div>
+          <div class="hero-status-pill"><span class="live-dot"></span><span>Gebze &middot; OSB &middot; Otoyol &middot; 10–15 Dk İntikal</span></div>
           <h1>Gebze ve Çevresi <span>${REGIONS.length} Hizmet Bölgemiz.</span></h1>
         </div>
         <div class="hero-top-side">
@@ -511,7 +508,7 @@ ${P.scripts()}`;
 
 function buildRegionDetailPages() {
   REGIONS.forEach((r, idx) => {
-    const relPath = `bolgeler/${r.slug}-oto-cekici.html`;
+    const relPath = `bolgeler/${r.slug}-cekici.html`;
     const canonical = `${SITE_URL}/${relPath}`;
     const bc = [
       { label: 'Ana Sayfa', href: '/' },
@@ -554,13 +551,7 @@ ${P.headerNav('regions', { navbarTitle: r.navbarTitle, navbarSub: r.navbarSub })
       ${P.breadcrumbs(bc)}
       <div class="hero-editorial-top">
         <div>
-          <div class="telemetry-bar">
-            <span class="telemetry-live"><span class="live-dot"></span> ${P.esc(r.name)} Nöbetçi Filo</span>
-            <span class="telemetry-sep">/</span>
-            <span>${r.lat}° N, ${r.lng}° E</span>
-            <span class="telemetry-sep">/</span>
-            <span>${P.esc(r.eta)} İntikal</span>
-          </div>
+          <div class="hero-status-pill"><span class="live-dot"></span><span>${P.esc(r.eta)} İntikal</span></div>
           <h1>${P.esc(r.name)} Çekici <span>&amp; Oto Kurtarma.</span></h1>
         </div>
         <div class="hero-top-side">
@@ -579,7 +570,7 @@ ${P.headerNav('regions', { navbarTitle: r.navbarTitle, navbarSub: r.navbarSub })
     </div>
   </section>
 
-  <!-- %100 Özgün Yerel SEO İçeriği + Sidebar (Safari Reader/Özet tetiklememesi için semantik div) -->
+  <!-- tam Özgün Yerel SEO İçeriği + Sidebar (Safari Reader/Özet tetiklememesi için semantik div) -->
   <section class="section" style="padding-top:16px;">
     <div class="container">
       <div class="prose-layout">
@@ -629,7 +620,7 @@ ${P.headerNav('regions', { navbarTitle: r.navbarTitle, navbarSub: r.navbarSub })
           <div class="sidebar-card">
             <h3>Yakın Bölgeler</h3>
             <div class="sidebar-links">
-              ${neighbors.slice(0, 6).map(n => `<a href="/bolgeler/${n.slug}-oto-cekici.html"><span>${P.esc(n.name)}</span>${P.ICONS.arrowRight}</a>`).join('\n              ')}
+              ${neighbors.slice(0, 6).map(n => `<a href="/bolgeler/${n.slug}-cekici.html"><span>${P.esc(n.name)}</span>${P.ICONS.arrowRight}</a>`).join('\n              ')}
             </div>
           </div>
         </aside>
@@ -663,11 +654,11 @@ ${P.headerNav('regions', { navbarTitle: r.navbarTitle, navbarSub: r.navbarSub })
               <td><strong>Binek &amp; Spor Otomobil</strong></td>
               <td>Düşük Eğimli Hidrolik Kayar Kasa</td>
               <td>6° altı uzatma rampası + 4 tekerlek lastik üstü spanzet</td>
-              <td>Tam kapsamlı emtia kaskosu + e-fatura</td>
+              <td>Fotoğraflı teslim tutanağı + e-fatura</td>
             </tr>
             <tr>
               <td><strong>SUV, 4x4 &amp; Elektrikli (EV)</strong></td>
-              <td>Kayar Kasa veya Ahtapot Vinç</td>
+              <td>Kayar Kasa veya Aparatlı Çekici</td>
               <td>Batarya altı temassız yükleme + tekerlek doli aparatı</td>
               <td>Yüksek teminatlı VIP sigorta + e-fatura</td>
             </tr>
@@ -675,7 +666,7 @@ ${P.headerNav('regions', { navbarTitle: r.navbarTitle, navbarSub: r.navbarSub })
               <td><strong>Motosiklet &amp; ATV</strong></td>
               <td>Özel Motor Kıskaçlı Platform</td>
               <td>Ön tekerlek kıskacı + yumuşak gidon sapanları</td>
-              <td>Çiziksiz dik taşıma garantisi</td>
+              <td>Ön teker kıskacıyla dik ve özenli taşıma</td>
             </tr>
             <tr>
               <td><strong>Panelvan, Minibüs &amp; Ticari</strong></td>
@@ -726,9 +717,9 @@ function buildServicesIndex() {
   const srvFaqs = [
     { q: 'Hangi araç tiplerine çekici ve kurtarma hizmeti veriyorsunuz?', a: 'Binek otomobiller, spor araçlar, SUV/4x4, tam elektrikli araçlar, motosiklet, ATV, uzun şasi panelvan, 16+1 servis minibüsü, kamyonet, karavan ve 3.5 tona kadar forklift/iş makinelerine özel donanımlı filomuzla hizmet veriyoruz.' },
     { q: 'Çekici çağırmak yerine sadece akü takviye veya lastik değişimi isteyebilir miyim?', a: 'Evet. Aracın servise taşınmasına gerek olmayan boş akü ve patlak lastik vakalarında mobil yol yardım aracımızla doğrudan bulunduğunuz yerde çözüm sağlıyoruz.' },
-    { q: 'Kapalı otopark ve kilitli şanzıman için ayrı ekipmanınız mevcut mu?', a: 'Evet. 1.88m alçak tavanlı gözlüklü kapalı otopark kurtarıcısı, tekerlek altı Go-Jak doli arabaları ve 4 teker askılı ahtapot vinçli aracımız filomuzda 7/24 hazır bekler.' },
-    { q: 'Hizmetlerinizde taşıma sigortası ve KDV’li fatura standart mı?', a: 'Evet. Tüm şehir içi ve şehirlerarası çekici hizmetlerimiz taşıma emtia kaskosu kapsamındadır; bireysel ve kurumsal müşterilerimize mobil POS ile KDV’li e-fatura düzenlenir.' },
-    { q: 'Gebze dışına şehirlerarası araç taşıma yapıyor musunuz?', a: 'Evet. Gebze çıkışlı veya Gebze varışlı olarak İstanbul, Ankara, İzmir, Bursa, Antalya dahil Türkiye’nin 81 iline aktarmasız tekli kaskolu taşıma yapıyoruz.' }
+    { q: 'Kilitli şanzıman ve otomatik araçlar için özel ekipmanınız mevcut mu?', a: 'Evet. Tekerlek altı Go-Jak doli arabaları, kaydırma patenleri ve düşük eğimli hidrolik kayar kasa araçlarımız filomuzda 7/24 hazır bekler.' },
+    { q: 'Hizmetlerinizde fotoğraflı teslim tutanağı ve KDV’li fatura standart mı?', a: 'Evet. Tüm şehir içi ve şehirlerarası çekici hizmetlerimiz fotoğraflı teslim tutanağı kapsamındadır; bireysel ve kurumsal müşterilerimize mobil POS ile KDV’li e-fatura düzenlenir.' },
+    { q: 'Gebze dışına şehirlerarası araç taşıma yapıyor musunuz?', a: 'Evet. Gebze çıkışlı veya Gebze varışlı olarak İstanbul, Ankara, İzmir, Bursa, Antalya dahil Türkiye’nin 81 iline aktarmasız tekli özenli taşıma yapıyoruz.' }
   ];
 
   const schemas = [
@@ -739,7 +730,7 @@ function buildServicesIndex() {
 
   const html = `${P.head({
     title: `Gebze Oto Çekici & Yol Yardım Hizmetlerimiz | ${SERVICES.length} Uzman Çözüm`,
-    description: 'Gebze kayar kasa oto çekici, oto kurtarma, kapalı otopark çekici, ahtapot vinç, akü takviye, lastik yardım, motosiklet, ticari ve şehirlerarası araç taşıma.',
+    description: 'Gebze kayar kasa oto çekici, oto kurtarma, aparatlı çekici, çoklu çekici, 3.5 ton tenteli nakliye, akü takviye, lastik yardım, motosiklet ve şehirlerarası araç taşıma.',
     canonical,
     schemas,
     regionName: 'Gebze'
@@ -752,17 +743,11 @@ ${P.headerNav('services')}
       ${P.breadcrumbs(bc)}
       <div class="hero-editorial-top" style="margin-bottom:0;">
         <div>
-          <div class="telemetry-bar">
-            <span class="telemetry-live"><span class="live-dot"></span> ${SERVICES.length} Uzman Çözüm</span>
-            <span class="telemetry-sep">/</span>
-            <span>Sıfır Hasar Donanım</span>
-            <span class="telemetry-sep">/</span>
-            <span>%100 Emtia Kaskosu</span>
-          </div>
+          <div class="hero-status-pill"><span class="live-dot"></span><span>Sıfır Hasar Donanım &middot; Fotoğraflı Teslim Tutanağı</span></div>
           <h1>Gebze Oto Çekici <span>&amp; Yol Yardım Hizmetlerimiz.</span></h1>
         </div>
         <div class="hero-top-side">
-          <p class="hero-lead">Her arıza ve araç sınıfı kendi teknik ekipmanını gerektirir. Hidrolik kayar kasadan alçak tavan otopark kurtarıcısına, ahtapot vinçten ECU korumalı akü takviyeye kadar ${SERVICES.length} uzman hizmetimiz.</p>
+          <p class="hero-lead">Her arıza ve araç sınıfı kendi teknik ekipmanını gerektirir. Hidrolik kayar kasadan tekerlek aparatlı çekiciye, çoklu çekiciden 3.5 ton tenteli nakliyeye ve 12V/24V yerinde akü takviyeye kadar ${SERVICES.length} uzman hizmetimiz.</p>
         </div>
       </div>
     </div>
@@ -779,7 +764,7 @@ ${P.headerNav('services')}
   ${stepsSection('Standart Operasyon', 'Tüm Hizmetlerimizde 4 Adımlı Güvenli Süreç', 'Doğru araç yönlendirmesinden sigortalı teslimata kadar şeffaf ve disiplinli saha yönetimi.')}
   ${whyUsBentoSection('Hizmet Güvencemiz', 'Neden Gebze Çekici Ekipmanları?', 'Araç şasisini, batarya altını ve kaportayı koruyan yeni nesil donanımlarla sıfır hasarlı taşımacılık.')}
   ${galleryPreviewSection(6, 'Hizmetlerimizden Gerçek Saha Kareleri')}
-  ${faqSplitSection('Hizmetler SSS', 'Hizmetlerimiz Hakkında Sıkça Sorulanlar', 'Araç sınıfları, kapalı otopark donanımları, taşıma kaskosu ve şehirlerarası nakliye süreçleri.', srvFaqs, true)}
+  ${faqSplitSection('Hizmetler SSS', 'Hizmetlerimiz Hakkında Sıkça Sorulanlar', 'Araç sınıfları, aparatlı çekici, 3.5 ton tenteli yük taşımacılığı, fotoğraflı teslim tutanağı ve şehirlerarası nakliye süreçleri.', srvFaqs, true)}
 </main>
 ${P.lightboxModal()}
 ${P.footer()}
@@ -824,13 +809,7 @@ ${P.headerNav('services')}
       ${P.breadcrumbs(bc)}
       <div class="hero-editorial-top">
         <div>
-          <div class="telemetry-bar">
-            <span class="telemetry-live"><span class="live-dot"></span> ${P.esc(s.tag)}</span>
-            <span class="telemetry-sep">/</span>
-            <span>Gebze 7/24 Nöbetçi</span>
-            <span class="telemetry-sep">/</span>
-            <span>%100 Taşıma Kaskosu</span>
-          </div>
+          <div class="hero-status-pill"><span class="live-dot"></span><span>Gebze 7/24 Nöbetçi &middot; tam fotoğraflı teslim tutanağı</span></div>
           <h1>Gebze <span>${P.esc(s.name)}.</span></h1>
         </div>
         <div class="hero-top-side">
@@ -847,7 +826,7 @@ ${P.headerNav('services')}
           </div>
           <div class="spec-panel-rows">
             <div class="spec-row"><span>Ortalama İntikal</span><strong>10–15 Dakika</strong></div>
-            <div class="spec-row"><span>Taşıma Güvencesi</span><strong>%100 Emtia Kaskosu</strong></div>
+            <div class="spec-row"><span>Taşıma Güvencesi</span><strong>Fotoğraflı Teslim Tutanağı</strong></div>
             <div class="spec-row"><span>Fiyat Politikası</span><strong>Telefonda Net Sabit Fiyat</strong></div>
             <div class="spec-row"><span>Ödeme &amp; Belge</span><strong>Mobil POS &amp; KDV’li e-Fatura</strong></div>
             <div class="spec-row"><span>Çalışma Düzeni</span><strong>7 Gün 24 Saat Nöbetçi</strong></div>
@@ -902,7 +881,7 @@ ${P.headerNav('services')}
           <div class="sidebar-card">
             <h3>Öncelikli Gebze Bölgeleri</h3>
             <div class="sidebar-links">
-              ${REGIONS.slice(0, 8).map(r => `<a href="/bolgeler/${r.slug}-oto-cekici.html"><span>${P.esc(r.name)}</span>${P.ICONS.arrowRight}</a>`).join('\n              ')}
+              ${REGIONS.slice(0, 8).map(r => `<a href="/bolgeler/${r.slug}-cekici.html"><span>${P.esc(r.name)}</span>${P.ICONS.arrowRight}</a>`).join('\n              ')}
             </div>
           </div>
         </aside>
@@ -930,7 +909,7 @@ function buildBlogPages() {
   const blogFaqs = [
     { q: 'Otomatik vitesli aracım arızalandığında halatla çekilebilir mi?', a: 'Hayır. Motor çalışmadığında şanzıman yağ pompası devrede olmadığı için otomatik araçların halatla çekilmesi ciddi şanzıman hasarı doğurur; mutlaka kayar kasa ile taşınmalıdır.' },
     { q: 'Otoyolda aracım durduğunda reflektörü kaç metre geriye koymalıyım?', a: 'Şehir içi yollarda en az 30–50 metre, D-100 ve TEM gibi yüksek hızlı otoyollarda ise aracın 100–150 metre gerisine reflektör konulmalı ve yolcular bariyer arkasına geçmelidir.' },
-    { q: 'Yeni nesil araçta başka otomobilden kablo ile akü takviyesi güvenli mi?', a: 'Ters kutup veya voltaj sıçraması (pik akım) riski nedeniyle yeni nesil ECU’lu araçlarda akım korumalı profesyonel booster cihazı kullanılması çok daha güvenlidir.' },
+    { q: 'Yeni nesil araçta başka otomobilden kablo ile akü takviyesi güvenli mi?', a: 'Ters kutup veya voltaj sıçraması (pik akım) riski nedeniyle yeni nesil ECU’lu araçlarda profesyonel 12V/24V booster cihazı kullanılması çok daha güvenlidir.' },
     { q: 'Kasko poliçemdeki çekici hakkı için faturanız geçerli mi?', a: 'Evet. KDV’li resmi oto kurtarma e-faturamızı sigorta şirketinize ileterek poliçe limitleri dahilinde geri ödeme alabilirsiniz.' }
   ];
 
@@ -948,13 +927,7 @@ ${P.headerNav('blog')}
       ${P.breadcrumbs(indexBc)}
       <div class="hero-editorial-top" style="margin-bottom:0;">
         <div>
-          <div class="telemetry-bar">
-            <span class="telemetry-live"><span class="live-dot"></span> Sürücü Rehberi</span>
-            <span class="telemetry-sep">/</span>
-            <span>${BLOG_POSTS.length} Teknik Kılavuz</span>
-            <span class="telemetry-sep">/</span>
-            <span>Güvenli Çekim &amp; Emniyet</span>
-          </div>
+          <div class="hero-status-pill"><span class="live-dot"></span><span>${BLOG_POSTS.length} Teknik Kılavuz &middot; Güvenli Çekim &amp; Emniyet</span></div>
           <h1>Gebze Sürücü Rehberi <span>&amp; Teknik Kılavuzlar.</span></h1>
         </div>
         <div class="hero-top-side">
@@ -1036,13 +1009,7 @@ ${P.headerNav('blog')}
       ${P.breadcrumbs(bc)}
       <div class="blog-hero-grid">
         <div>
-          <div class="telemetry-bar">
-            <span class="telemetry-live"><span class="live-dot"></span> ${P.esc(post.category)}</span>
-            <span class="telemetry-sep">/</span>
-            <span>${P.esc(post.dateDisplay)}</span>
-            <span class="telemetry-sep">/</span>
-            <span>${P.esc(post.readTime)}</span>
-          </div>
+          <div class="hero-status-pill"><span class="live-dot"></span><span>${P.esc(post.dateDisplay)} &middot; ${P.esc(post.readTime)}</span></div>
           <h1 class="blog-detail-h1">${P.esc(post.title)}</h1>
           <p class="hero-lead" style="margin-top:14px;">${P.esc(post.excerpt)}</p>
         </div>
@@ -1129,7 +1096,7 @@ function buildGalleryPage() {
     { label: 'Saha Galerisi', href: '/galeri.html' }
   ];
   const galFaqs = [
-    { q: 'Galerideki fotoğraflar gerçekten kendi operasyonlarınıza mı ait?', a: 'Evet. Paylaştığımız görsellerin tamamı kayar kasa, ahtapot vinç, ticari taşıma ve mobil yol yardım operasyonlarımızda sahada çekilmiş gerçek operasyon kareleridir.' },
+    { q: 'Galerideki fotoğraflar gerçekten kendi operasyonlarınıza mı ait?', a: 'Evet. Paylaştığımız görsellerin tamamı kayar kasa, aparatlı çekici, çoklu çekici, tenteli nakliye ve mobil yol yardım operasyonlarımızda sahada çekilmiş gerçek operasyon kareleridir.' },
     { q: 'Araçlar platforma nasıl bağlanıyor, jant veya tampon çizilir mi?', a: 'Metal zincir veya jant içi kanca kullanmıyoruz. Dört lastiğin tamamı kauçuk korumalı tekstil spanzetlerle tekerlek sırtından kilitlenir; tampon ve kaportaya temas sıfırdır.' },
     { q: 'Gece operasyonlarında yeterli aydınlatma ve güvenlik sağlanıyor mu?', a: 'Evet. Tüm kurtarıcılarımızda yüksek lümenli LED tepe ikaz barları, çalışma projektörleri ve 150 metrelik reflektör güvenlik konileri standarttır.' },
     { q: 'Aracımın yükleme ve indirme anı fotoğraflarını benimle paylaşıyor musunuz?', a: 'Evet. Özellikle şehirlerarası nakillerde ve sürücünün araç başında bulunamadığı teslimatlarda dört açıdan fotoğraflı tutanak WhatsApp üzerinden anlık paylaşılır.' }
@@ -1137,7 +1104,7 @@ function buildGalleryPage() {
 
   const html = `${P.head({
     title: 'Gebze Oto Çekici Saha Galerisi | Gerçek Operasyon Fotoğrafları',
-    description: 'Gebze, TEM, D-100, GOSB, Darıca ve Çayırova’da gerçekleştirdiğimiz kayar kasa, ahtapot vinç, ticari araç ve akü takviye operasyonlarından gerçek kareler.',
+    description: 'Gebze, TEM, D-100, GOSB, Darıca ve Çayırova’da gerçekleştirdiğimiz kayar kasa, aparatlı çekici, çoklu çekici, tenteli nakliye ve akü takviye operasyonlarından gerçek kareler.',
     canonical,
     schemas: [P.localBusinessSchema({ canonical }), P.breadcrumbSchema(bc), P.faqSchema(galFaqs)],
     regionName: 'Gebze'
@@ -1149,17 +1116,11 @@ ${P.headerNav('gallery')}
       ${P.breadcrumbs(bc)}
       <div class="hero-editorial-top" style="margin-bottom:0;">
         <div>
-          <div class="telemetry-bar">
-            <span class="telemetry-live"><span class="live-dot"></span> Canlı Saha Arşivi</span>
-            <span class="telemetry-sep">/</span>
-            <span>${GALLERY_ITEMS.length} Gerçek Operasyon</span>
-            <span class="telemetry-sep">/</span>
-            <span>Stok Görsel Yok</span>
-          </div>
+          <div class="hero-status-pill"><span class="live-dot"></span><span>${GALLERY_ITEMS.length} Gerçek Operasyon &middot; Stok Görsel Yok</span></div>
           <h1>Gerçek Saha <span>Operasyon Galerisi.</span></h1>
         </div>
         <div class="hero-top-side">
-          <p class="hero-lead">Gebze’nin otoyollarında, organize sanayi bölgelerinde ve mahalle sokaklarında hasarsız tamamladığımız çekici, vinçli kurtarma ve yol yardım kareleri. Büyütmek için fotoğraflara dokunun.</p>
+          <p class="hero-lead">Gebze’nin otoyollarında, organize sanayi bölgelerinde ve mahalle sokaklarında hasarsız tamamladığımız kayar kasa çekici, aparatlı kurtarma, çoklu çekici ve yol yardım kareleri. Büyütmek için fotoğraflara dokunun.</p>
         </div>
       </div>
     </div>
@@ -1195,10 +1156,10 @@ ${P.headerNav('gallery')}
         </div>
         <div class="fleet-card">
           <div class="why-deck-head">
-            <span class="why-deck-code">02 / Ahtapot &amp; Vinç</span>
+            <span class="why-deck-code">02 / Aparatlı &amp; Çoklu Çekici</span>
             <span class="why-icon-wrap">${P.ICONS.wrench}</span>
           </div>
-          <h3>Ahtapot &amp; Vinçli Kurtarıcılar</h3>
+          <h3>Aparatlı &amp; Çoklu Çekici Filosu</h3>
           <p class="section-desc">Kilitli şanzıman, sıkışık park ve şarampol kurtarmalarında dört lastikten dikey kaldırma ve makaralı çekiş gücü.</p>
         </div>
         <div class="fleet-card">
@@ -1207,7 +1168,7 @@ ${P.headerNav('gallery')}
             <span class="why-icon-wrap">${P.ICONS.shield}</span>
           </div>
           <h3>1.88m Kapalı Otopark &amp; Mobil Yardım</h3>
-          <p class="section-desc">AVM ve site garajları için alçak kabinli kurtarıcı ile 12V/24V pik korumalı dijital akü takviye üniteleri.</p>
+          <p class="section-desc">Kilitli araçlar için tekerlek aparatlı çekici, 3.5 ton tenteli nakliye ve 12V/24V profesyonel dijital akü takviye üniteleri.</p>
         </div>
       </div>
     </div>
@@ -1233,7 +1194,7 @@ function buildAboutPage() {
     { label: 'Hakkımızda', href: '/hakkimizda.html' }
   ];
   const aboutFaqs = [
-    { q: 'Taşıma kaskosu hangi aşamadan itibaren geçerli oluyor?', a: 'Emtia taşıma sigortamız aracınızın çekici rampasına alınmaya başladığı ilk andan hedef servise indirilip teslim tutanağının imzalanmasına kadar tam kapsamlı olarak geçerlidir.' },
+    { q: 'Fotoğraflı teslim tutanağı hangi aşamadan itibaren geçerli oluyor?', a: 'Fotoğraflı teslim tutanağı ve K1/K2 belgeli güvenli nakil sürecimiz aracınızın çekici rampasına alınmaya başladığı ilk andan hedef servise indirilip teslim tutanağının imzalanmasına kadar tam kapsamlı olarak geçerlidir.' },
     { q: 'Sabit fiyat politikanız nasıl işliyor?', a: 'Aracınızın konumu, tipi ve teslim adresine göre çağrı sırasında tek bir net rakam veriyoruz. Onayladığınız bu rakam dışında gece, trafik veya yükleme aparatı bahanesiyle ek ücret talep edilmez.' },
     { q: 'OSB şirket filoları için düzenli faturalı çalışma yapıyor musunuz?', a: 'Evet. GOSB, TOSB, Güzeller OSB, Dilovası ve Şekerpınar’daki kurumsal işletmelere resmi KDV’li e-fatura ve öncelikli filo müdahale desteği sunuyoruz.' },
     { q: 'Yasal yetki belgeleriniz (K1 / K2) ve operatör sertifikalarınız tam mı?', a: 'Evet. Tüm kurtarıcı filomuz karayolu taşıma mevzuatına uygun yasal yetki belgelerine, periyodik hidrolik bakım kayıtlarına ve SRC/psikoteknik belgeli deneyimli operatörlere sahiptir.' },
@@ -1241,11 +1202,11 @@ function buildAboutPage() {
   ];
 
   const html = `${P.head({
-    title: 'Hakkımızda & Filomuz | Gebze Çekici 7/24 Kaskolu Çekici',
-    description: '14+ yıllık Gebze saha tecrübesi, K1/K2 yetki belgeli modern kayar kasa, ahtapot ve kapalı otopark çekici filomuzla %100 kaskolu oto kurtarma.',
+    title: 'Hakkımızda & Filomuz | Gebze Çekici 7/24 Nöbetçi Çekici',
+    description: '14+ yıllık Gebze saha tecrübesi, K1/K2 yetki belgeli modern kayar kasa, aparatlı çekici, çoklu çekici ve 3.5 ton tenteli nakliye filomuzla tam profesyonel oto kurtarma.',
     canonical,
-    ogImage: 'gebze-istasyon',
-    heroPreload: 'gebze-istasyon',
+    ogImage: 'client-kamyonet',
+    heroPreload: 'client-kamyonet',
     schemas: [P.localBusinessSchema({ canonical }), P.breadcrumbSchema(bc), P.faqSchema(aboutFaqs)],
     regionName: 'Gebze'
   })}
@@ -1257,14 +1218,8 @@ ${P.headerNav('about')}
       ${P.breadcrumbs(bc)}
       <div class="hero-editorial-top">
         <div>
-          <div class="telemetry-bar">
-            <span class="telemetry-live"><span class="live-dot"></span> Lisanslı &amp; Kaskolu Filo</span>
-            <span class="telemetry-sep">/</span>
-            <span>K1 &amp; K2 Yetki Belgeli</span>
-            <span class="telemetry-sep">/</span>
-            <span>14+ Yıl Tecrübe</span>
-          </div>
-          <h1>Gebze’de Şeffaf ve <span>Kaskolu Oto Kurtarma.</span></h1>
+          <div class="hero-status-pill"><span class="live-dot"></span><span>K1 &amp; K2 Yetki Belgeli &middot; 14+ Yıl Tecrübe</span></div>
+          <h1>Gebze’de Şeffaf ve <span>Profesyonel Oto Kurtarma.</span></h1>
         </div>
         <div class="hero-top-side">
           <p class="hero-lead">14 yılı aşkın saha tecrübemizle Gebze’nin tüm mahallelerinde, organize sanayi bölgelerinde ve otoyol koridorlarında modern kayar kasa filomuzla sürücülerin yanındayız.</p>
@@ -1273,7 +1228,7 @@ ${P.headerNav('about')}
       <div class="obsidian-stats-strip">
         <div class="obsidian-stat"><strong>10–15 Dk</strong><span>Ortalama Gebze Varışı</span></div>
         <div class="obsidian-stat"><strong>7/24</strong><span>Aktif Nöbetçi Filo</span></div>
-        <div class="obsidian-stat"><strong>%100</strong><span>Emtia Taşıma Kaskosu</span></div>
+        <div class="obsidian-stat"><strong>7/24</strong><span>Nöbetçi Çekici Filosu</span></div>
         <div class="obsidian-stat"><strong>5.0 / 5</strong><span>420+ Müşteri Puanı</span></div>
       </div>
     </div>
@@ -1291,7 +1246,7 @@ ${P.headerNav('about')}
           <p style="color:var(--ink-2);">İster tek bir binek aracın akü takviyesi ister büyük bir OSB işletmesinin ticari filo nakli olsun; her operasyonda aynı şeffaflık, aynı temizlik ve aynı güvenlik protokolünü uyguluyoruz.</p>
         </div>
         <div class="about-media-wrap">
-          ${P.pictureTag('gebze-istasyon', 'Gebze Çekici modern kayar kasa çekici filosu', true)}
+          ${P.pictureTag('client-kamyonet', 'Gebze Çekici modern kayar kasa çekici filosu', true)}
           <div class="why-stat">
             <strong>14+ Yıl</strong>
             <span>Kesintisiz Gebze Saha Tecrübesi</span>
@@ -1320,11 +1275,11 @@ ${P.headerNav('about')}
         </div>
         <div class="fleet-card">
           <div class="why-deck-head">
-            <span class="why-deck-code">02 / Ahtapot &amp; Vinç</span>
+            <span class="why-deck-code">02 / Aparatlı &amp; Çoklu Çekici</span>
             <span class="why-icon-wrap">${P.ICONS.wrench}</span>
           </div>
-          <h3>Ahtapot &amp; Vinç Donanımlı Kurtarıcılar</h3>
-          <p class="section-desc">Tekerleği dönmeyen, şanzımanı P konumunda kilitli, sıkışık park etmiş veya şarampole inmiş araçlar için tekerlek askılı vinçli kurtarma.</p>
+          <h3>Aparatlı &amp; Çoklu Çekici Donanımı</h3>
+          <p class="section-desc">Tekerleği dönmeyen ve şanzımanı P konumunda kilitli araçlar için tekerlek aparatlı kurtarıcılar ve şehirlerarası ekonomik çoklu çekici filosu.</p>
         </div>
         <div class="fleet-card">
           <div class="why-deck-head">
@@ -1348,7 +1303,7 @@ ${P.headerNav('about')}
             <span class="why-icon-wrap">${P.ICONS.check}</span>
           </div>
           <h3>Mobil Yol Yardım &amp; Akü Booster Donanımı</h3>
-          <p class="section-desc">12V/24V pik akım korumalı dijital akü takviye istasyonları, alternatör test cihazı ve akülü torklu yerinde lastik değişim kiti.</p>
+          <p class="section-desc">12V/24V profesyonel 12V/24V dijital akü takviye istasyonları, alternatör test cihazı ve akülü torklu yerinde lastik değişim kiti.</p>
         </div>
       </div>
     </div>
@@ -1358,13 +1313,13 @@ ${P.headerNav('about')}
   ${stepsSection('Operasyon Standardımız', 'Nasıl Çalışıyoruz? 4 Aşamalı Süreç', 'İlk telefon çağrısından faturalı teslimata kadar her adım kayıtlı ve şeffaf ilerler.')}
 
   <!-- Blok 5: Müşteri Güvencelerimiz & Kurumsal Standartlarımız -->
-  ${whyUsBentoSection('Kurumsal Güvencelerimiz', 'Temel Hizmet & Güven Standartlarımız', 'K1/K2 yetki belgeli yasal taşımacılık, tam emtia sigortası ve sürprizsiz sabit fiyat politikası.')}
+  ${whyUsBentoSection('Kurumsal Güvencelerimiz', 'Temel Hizmet & Güven Standartlarımız', 'K1/K2 yetki belgeli yasal taşımacılık, tam fotoğraflı teslim tutanağı ve sürprizsiz sabit fiyat politikası.')}
 
   <!-- Blok 6: Gerçek Saha Operasyonları Galeri Önizlemesi -->
   ${galleryPreviewSection(6, 'Sahadan Gerçek Operasyon Kareleri')}
 
   <!-- Blok 7: Kurumsal SSS -->
-  ${faqSplitSection('Kurumsal SSS', 'Kasko, Fatura ve Filo Hakkında Merak Edilenler', 'Emtia taşıma kaskosu, K1/K2 yetki belgeleri, OSB kurumsal anlaşmaları ve sabit fiyat politikamız.', aboutFaqs, true)}
+  ${faqSplitSection('Kurumsal SSS', 'Kasko, Fatura ve Filo Hakkında Merak Edilenler', 'Fotoğraflı teslim tutanağı, K1/K2 yetki belgeleri, OSB kurumsal anlaşmaları ve sabit fiyat politikamız.', aboutFaqs, true)}
 </main>
 ${P.lightboxModal()}
 ${P.footer()}
@@ -1398,13 +1353,7 @@ ${P.headerNav('contact')}
       ${P.breadcrumbs(bc)}
       <div class="hero-editorial-top" style="margin-bottom:0;">
         <div>
-          <div class="telemetry-bar">
-            <span class="telemetry-live"><span class="live-dot"></span> 7/24 Nöbetçi İntikal</span>
-            <span class="telemetry-sep">/</span>
-            <span>40.7998° N, 29.4414° E</span>
-            <span class="telemetry-sep">/</span>
-            <span>${BUSINESS.phoneDisplay}</span>
-          </div>
+          <div class="hero-status-pill"><span class="live-dot"></span><span>${BUSINESS.phoneDisplay}</span></div>
           <h1>7/24 İletişim <span>&amp; Acil Çekici Hattı.</span></h1>
         </div>
         <div class="hero-top-side">
@@ -1487,11 +1436,7 @@ ${P.headerNav('')}
       ${P.breadcrumbs(bc)}
       <div class="hero-editorial-top" style="margin-bottom:0;">
         <div>
-          <div class="telemetry-bar">
-            <span class="telemetry-live"><span class="live-dot"></span> 6698 Sayılı KVKK</span>
-            <span class="telemetry-sep">/</span>
-            <span>Yasal Aydınlatma</span>
-          </div>
+          <div class="hero-status-pill"><span class="live-dot"></span><span>Yasal Aydınlatma</span></div>
           <h1>Gizlilik, KVKK <span>&amp; Çerez Politikası.</span></h1>
         </div>
         <div class="hero-top-side">
@@ -1511,7 +1456,7 @@ ${P.headerNav('')}
         <p>Acil çekici talebi oluşturduğunuzda telefon, WhatsApp veya teklif yönlendirme formu üzerinden tarafımıza ilettiğiniz telefon numarası, konum bilgisi, araç tipi ve faturalandırma talep etmeniz halinde ad-soyad/unvan ile vergi/TC kimlik bilgileri yalnızca aşağıdaki amaçlarla işlenir:</p>
         <ul class="prose-list">
           <li>${P.ICONS.check} <span>Bulunduğunuz noktaya en yakın nöbetçi kurtarıcının yönlendirilmesi ve güvenli araç naklinin tamamlanması</span></li>
-          <li>${P.ICONS.check} <span>Taşıma emtia sigortası ve teslim tutanağı süreçlerinin yasal mevzuata uygun yürütülmesi</span></li>
+          <li>${P.ICONS.check} <span>fotoğraflı teslim tutanağı ve taşıma süreçlerinin yasal mevzuata uygun yürütülmesi</span></li>
           <li>${P.ICONS.check} <span>Resmi e-fatura düzenlenmesi, ödeme kayıtlarının ve kasko geri ödeme belgelerinin hazırlanması</span></li>
           <li>${P.ICONS.check} <span>Hizmet kalitesinin ölçülmesi, sahte reklam tıklamalarının (click fraud) ve spam bot trafiğinin engellenmesi</span></li>
         </ul>
@@ -1578,7 +1523,7 @@ function buildPricingPage() {
   ];
   const pricingFaqs = [
     { q: 'Gebze çekici fiyatını yola çıkmadan kesin olarak öğrenebilir miyim?', a: 'Evet. 0533 945 45 14 numaramızdan aradığınızda veya WhatsApp üzerinden konumunuzu paylaştığınızda bulunduğunuz bölge, araç sınıfı ve teslimat adresine göre saniyeler içinde tamamen ücretsiz ve kesin sabit fiyat bilgisi verilir.' },
-    { q: 'Neden web sitesinde sabit bir TL listesi yerine telefonda fiyat veriyorsunuz?', a: 'Her arıza senaryosu birbirinden farklıdır; şehir içi kısa mesafe, otoyol çıkışı, kapalı otopark alçak tavan kurtarıcısı, ahtapot vinç veya uzun şasi ticari panelvan farklı ekipman ve mesafe gerektirir. Sizi yanıltacak tahmini listeler yerine doğrudan durumunuza özel en doğru ve ekonomik net rakamı telefonda bildiriyoruz.' },
+    { q: 'Neden web sitesinde sabit bir TL listesi yerine telefonda fiyat veriyorsunuz?', a: 'Her arıza senaryosu birbirinden farklıdır; şehir içi kısa mesafe, otoyol çıkışı, aparatlı çekici, çoklu çekici, 3.5 ton tenteli nakliye veya uzun şasi ticari panelvan farklı ekipman ve mesafe gerektirir. Sizi yanıltacak tahmini listeler yerine doğrudan durumunuza özel en doğru ve ekonomik net rakamı telefonda bildiriyoruz.' },
     { q: 'Gece vardiyasında, hafta sonu veya trafikte ekstra ücret çıkıyor mu?', a: 'Hayır. Yükleme öncesinde telefonda onayladığınız sabit ücret kesindir; yol trafiği, gece saati, rampa uzatma aparatı veya bekleme bahanesiyle yükleme sonrası ek ücret talep edilmez.' },
     { q: 'Kredi kartı, mobil POS ve kasko uyumlu fatura seçenekleriniz var mı?', a: 'Evet. Tüm kurtarıcı araçlarımızda taşınabilir mobil POS cihazı standarttır. Nakit, kredi/banka kartı veya havale ile ödeme yapabilir, kasko geri ödemesine ve şirket muhasebesine uygun KDV’li resmi e-fatura alabilirsiniz.' },
     { q: 'Sadece akü takviyesi veya lastik değişimi için çekici ücreti mi ödenir?', a: 'Hayır. Aracın servise taşınmasına gerek olmayan boş akü veya stepne değişimi vakalarında çekici yerine ekonomik mobil yol yardım tarifemiz uygulanır.' },
@@ -1606,13 +1551,7 @@ ${P.headerNav('')}
       ${P.breadcrumbs(bc)}
       <div class="hero-editorial-top">
         <div>
-          <div class="telemetry-bar">
-            <span class="telemetry-live"><span class="live-dot"></span> Sabit Fiyat Politikası</span>
-            <span class="telemetry-sep">/</span>
-            <span>Telefonda 30 Sn Net Teklif</span>
-            <span class="telemetry-sep">/</span>
-            <span>Sürpriz Ek Ücret Yok</span>
-          </div>
+          <div class="hero-status-pill"><span class="live-dot"></span><span>Telefonda 30 Sn Net Teklif &middot; Sürpriz Ek Ücret Yok</span></div>
           <h1>Gebze Çekici Fiyatları <span>&amp; Şeffaf Teklif Politikası.</span></h1>
         </div>
         <div class="hero-top-side">
@@ -1663,7 +1602,7 @@ ${P.headerNav('')}
                   </tr>
                   <tr>
                     <td><strong>Gerekli Özel Donanım</strong></td>
-                    <td>Kayar kasa, 1.88m kapalı otopark çekicisi, ahtapot vinç veya Go-Jak tekerlek dolisi</td>
+                    <td>Kayar kasa, Go-Jak tekerlek aparatı, çoklu çekici veya 3.5 ton tenteli nakliye</td>
                     <td>Kilitli şanzıman ve garaj vakalarında tek paket net teklif</td>
                   </tr>
                   <tr>
@@ -1678,7 +1617,7 @@ ${P.headerNav('')}
 
           <div class="seo-section-block">
             <h2>Sürprizsiz Sabit Fiyat, Mobil POS ve Kasko Uyumlu e-Fatura</h2>
-            <p>Telefonda onayladığınız fiyat dışında yol trafiği beklemesi, gece vardiyası, hafta sonu veya düşük eğimli uzatma rampası gibi gerekçelerle kesinlikle ek ücret talep edilmez. Tüm şehir içi ve şehirlerarası çekimlerimiz aracınız platforma alınmaya başladığı andan teslimata kadar <strong>tam kapsamlı emtia taşıma kaskosu</strong> güvencesi altındadır.</p>
+            <p>Telefonda onayladığınız fiyat dışında yol trafiği beklemesi, gece vardiyası, hafta sonu veya düşük eğimli uzatma rampası gibi gerekçelerle kesinlikle ek ücret talep edilmez. Tüm şehir içi ve şehirlerarası çekimlerimiz aracınız platforma alınmaya başladığı andan teslimata kadar <strong>fotoğraflı teslim tutanağı ve K1/K2 belgeli güvenli taşıma</strong> güvencesi altındadır.</p>
             <p>Ödemenizi nakit, araç içi taşınabilir mobil POS cihazımızla kredi/banka kartı veya kurumsal havale şeklinde gerçekleştirebilirsiniz. Bireysel kasko poliçenizin çekici geri ödeme süreci veya OSB şirket muhasebeniz için aynı gün resmi KDV’li e-fatura düzenlenir.</p>
           </div>
 
@@ -1711,7 +1650,7 @@ ${P.headerNav('')}
           <div class="sidebar-card">
             <h3>Öncelikli Gebze Bölgeleri</h3>
             <div class="sidebar-links">
-              ${REGIONS.slice(0, 6).map(r => `<a href="/bolgeler/${r.slug}-oto-cekici.html"><span>${P.esc(r.name)}</span>${P.ICONS.arrowRight}</a>`).join('\n              ')}
+              ${REGIONS.slice(0, 6).map(r => `<a href="/bolgeler/${r.slug}-cekici.html"><span>${P.esc(r.name)}</span>${P.ICONS.arrowRight}</a>`).join('\n              ')}
             </div>
           </div>
         </aside>
