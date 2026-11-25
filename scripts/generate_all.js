@@ -534,8 +534,12 @@ function buildRegionDetailPages() {
       P.faqSchema(r.faqs)
     ];
 
+    const regionTitle = r.name.length > 14
+      ? `${r.name} Oto Çekici & Yol Yardım | 7/24 En Yakın Kurtarıcı`
+      : `${r.name} Oto Çekici & 7/24 Yol Yardım | ${r.eta} En Yakın Kurtarıcı`;
+
     const html = `${P.head({
-      title: r.metaTitle,
+      title: regionTitle,
       description: r.metaDesc,
       canonical,
       ogImage: r.heroImg,
@@ -552,7 +556,7 @@ ${P.headerNav('regions', { navbarTitle: r.navbarTitle, navbarSub: r.navbarSub })
       <div class="hero-editorial-top">
         <div>
           <div class="hero-status-pill"><span class="live-dot"></span><span>${P.esc(r.eta)} İntikal</span></div>
-          <h1>${P.esc(r.name)} Çekici <span>&amp; Oto Kurtarma.</span></h1>
+          <h1>${P.esc(r.name)} Oto Çekici <span>&amp; Yol Yardım.</span></h1>
         </div>
         <div class="hero-top-side">
           <p class="hero-lead">${P.esc(r.heroLead)}</p>
@@ -576,6 +580,7 @@ ${P.headerNav('regions', { navbarTitle: r.navbarTitle, navbarSub: r.navbarSub })
       <div class="prose-layout">
         <div class="article-body">
           <h2>${P.esc(r.seoTitle)}</h2>
+          <p><strong>${P.esc(r.name)} oto çekici</strong>, <strong>${P.esc(r.name)} oto kurtarıcı</strong> ve 7/24 <strong>${P.esc(r.name)} yol yardım</strong> ihtiyaçlarınızda <strong>en yakın oto çekici</strong> ekibimizi ${P.esc(r.eta)} ortalama süreyle konumunuza yönlendiriyoruz. ${P.esc(r.name)} oto kurtarma ve ${P.esc(r.name)} acil çekici hattımız gece gündüz doğrudan saha şoförüne bağlanır.</p>
           ${r.paragraphs.map(p => `<p>${p}</p>`).join('\n          ')}
 
           <h3>${P.esc(r.localPointsTitle)}</h3>
@@ -602,8 +607,8 @@ ${P.headerNav('regions', { navbarTitle: r.navbarTitle, navbarSub: r.navbarSub })
 
         <aside class="sidebar-stack" aria-label="Hızlı Hizmetler ve Yakın Bölgeler">
           <div class="sidebar-card is-dark">
-            <h3>${P.esc(r.name)} Acil Destek</h3>
-            <p style="font-size:0.86rem;color:#CBD5E1;margin-bottom:14px;">${P.esc(r.name)} ve çevresinde 7/24 kesintisiz saha ekibimize doğrudan ulaşın.</p>
+            <h3>${P.esc(r.name)} Acil Çekici Numarası</h3>
+            <p style="font-size:0.86rem;color:#CBD5E1;margin-bottom:14px;">${P.esc(r.name)} çekici numarası 7/24 aktiftir. ${P.esc(r.name)} en yakın çekici ve ${P.esc(r.name)} yol yardım ekibine tek tıkla ulaşın.</p>
             <div style="display:flex;flex-direction:column;gap:9px;">
               <a href="tel:${BUSINESS.phoneTel}" class="btn btn-call" style="width:100%;">${P.ICONS.phone} <span>${BUSINESS.phoneDisplay}</span></a>
               <a href="${P.waUrl(r.name)}" class="btn btn-whatsapp btn-send-location" data-region="${P.esc(r.name)}" target="_blank" rel="noopener noreferrer" style="width:100%;">${P.ICONS.whatsapp} <span>Konum Gönder</span></a>

@@ -60,10 +60,10 @@ const BUSINESS = {
   analytics: {
     gtmId: 'GTM-5MQQRFLD',        // Google Tag Manager (Analitik)
     adsGtmId: 'GTM-54S5TZ7J',     // Google Tag Manager (Google Ads Etiketi)
-    ga4Id: '',                    // Örn: 'G-XXXXXXXXXX' (GTM üzerinden veya doğrudan)
-    adsId: '',                    // Örn: 'AW-XXXXXXXXXX'
-    adsCallConversion: '',        // 1. Birincil Dönüşüm (Telefon): 'AW-XXXXXXXXXX/...'
-    adsWhatsappConversion: '',    // 2. İkincil Dönüşüm (WhatsApp): 'AW-XXXXXXXXXX/...'
+    ga4Id: '',                    // GA4 GTM-5MQQRFLD üzerinden yüklü
+    adsId: 'AW-18592243052',      // Google Ads Hesabı (875-467-1480)
+    adsCallConversion: 'AW-18592243052/LRa6CMPV7L4dEOy6vKFF',     // 1. Birincil Dönüşüm (Telefon)
+    adsWhatsappConversion: 'AW-18592243052/L4gWCMbV7L4dEOy6vKFF', // 2. İkincil Dönüşüm (WhatsApp)
     searchConsoleVerification: 'pj4qXgccgb0ZBIcvvpBPZeyYaJmFYoDzKXZrjQBVsUE' // Google Search Console doğrulama kodu
   },
 

@@ -550,7 +550,7 @@ function stickyActions(regionName = 'Gebze') {
 }
 
 function scripts() {
-  return `<script src="/js/main.js?v=3" defer></script>
+  return `<script src="/js/main.js?v=4" defer></script>
 <script src="/js/anti-fraud.js" defer></script>
 </body>
 </html>`;

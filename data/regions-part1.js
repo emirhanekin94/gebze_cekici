@@ -19,22 +19,23 @@ const REGIONS_PART_1 = [
     lat: '40.8027',
     lng: '29.4307',
     cardSummary: 'Hacıhalil, Sultan Orhan, Osman Yılmaz, Yeni Bağdat Caddesi ve Eski Çarşı hattında 7/24 anında müdahale.',
-    metaTitle: 'Gebze Çekici & 7/24 Oto Kurtarma | 10 Dk Hızlı İntikal',
-    metaDesc: 'Gebze Merkez, Hacıhalil, Sultan Orhan ve Osman Yılmaz mahallelerinde 7/24 hidrolik kayar kasa oto çekici ve yol yardım. Hemen ara: 0533 945 45 14.',
+    metaTitle: 'Gebze Oto Çekici & 7/24 Yol Yardım | 10 Dk En Yakın Kurtarıcı',
+    metaDesc: 'Gebze oto çekici, Gebze oto kurtarıcı ve 7/24 Gebze yol yardım. Hacıhalil, Sultan Orhan, Osman Yılmaz, Gebze Oto Sanayi, GOSB ve Şekerpınar hattında 10 dk en yakın çekici: 0533 945 45 14.',
     heroLead: 'Hacıhalil, Sultan Orhan, Osman Yılmaz ve Gebze çarşı merkezindeki yoğun caddelerde 10 dakika içinde konumunuza ulaşan nöbetçi kayar kasa ve mobil yol yardım filomuzla yanınızdayız.',
     seoTitle: 'Gebze Merkez’de Dar Caddelerden Ana Arterlere Kesintisiz Çekici Desteği',
     paragraphs: [
       'Gebze ilçe merkezinin kalbini oluşturan Hacıhalil, Sultan Orhan, Osman Yılmaz ve Güzeller yerleşim kuşağı; bankalar, kamu kurumları, Gebze Belediyesi hizmet binaları ve ticari çarşı akışıyla günün her saatinde yoğun araç sirkülasyonu barındırır. Özellikle Yeni Bağdat Caddesi, Atatürk Caddesi, Hükümet Caddesi ve İbrahim Ağa Caddesi üzerinde yaşanan ani bir motor stopu ya da debriyaj arızası saniyeler içinde uzun araç kuyruklarına neden olur.',
       'Ana intikal noktamızın tam ilçe merkezinde konumlanması sayesinde <a href="/hizmetler/oto-kurtarma.html">Gebze Merkez oto çekici</a> çağrılarına dış ilçelerden araç beklemeden ortalama 10 dakikada yanıt veriyoruz. Çarşı içi tek yönlü sokaklarda uzun tır tipi kurtarıcıların manevra yapamadığı noktalara kompakt dönüş yarıçapına sahip hidrolik kayar kasalarımızla girerek park halindeki diğer araçlara dokunmadan yükleme gerçekleştiriyoruz.',
       'Merkezdeki apartman altı kapalı garajlarda veya Gebze Kent Meydanı yeraltı otoparkında aküsü boşalan, marş basmayan ya da şanzımanı kilitlenen binek otomobiller için de ayrı bir ekibe ihtiyaç duymazsınız. Alçak kabinli <a href="/hizmetler/aparatli-cekici.html">kapalı otopark çekicimiz</a> ve dijital akım korumalı booster takviye cihazlarımız aynı merkez vardiyasında hazır bekler.',
-      'Yüklenen aracınız talebinize göre Gebze Oto Sanayi Sitesi’ndeki kendi ustanıza, D-100 üzerindeki yetkili marka servislerine veya evinizin önüne fotoğraflı teslim tutanağı ile ulaştırılır. Gece geç saatlerde açık tamirci bulamadığınızda aracınızı sabah servis açılışına kadar emniyetli teslimat planıyla yönlendiriyoruz.'
+      'Yüklenen aracınız talebinize göre Gebze Oto Sanayi Sitesi’ndeki kendi ustanıza (7/24 Gebze oto sanayi çekici hattımızla), D-100 üzerindeki yetkili marka servislerine veya evinizin önüne fotoğraflı teslim tutanağı ile ulaştırılır. Merkez ekibimiz ayrıca <a href="/bolgeler/gosb-cekici.html">GOSB çekici</a>, Mutlukent ve <a href="/bolgeler/sekerpinar-cekici.html">Şekerpınar çekici</a> geçiş koridorlarında da aralıksız destek sağlar.'
     ],
     localPointsTitle: 'Gebze Merkez Nöbetçi İntikal Noktalarımız',
     localPoints: [
       'Hacıhalil Mahallesi, Atatürk Caddesi ve Gebze Kent Meydanı yeraltı otopark çıkışı',
       'Sultan Orhan Mahallesi, İlyasbey Caddesi ve eski terminal çevresi',
       'Osman Yılmaz Mahallesi, Kızılay Caddesi, Şehit Numan Dede bağlantısı ve hastane önleri',
-      'Yeni Bağdat Caddesi, Gebze Kaymakamlığı ve adliye çevresi dar sokaklar'
+      'Yeni Bağdat Caddesi, Gebze Kaymakamlığı ve adliye çevresi dar sokaklar',
+      'Gebze Oto Sanayi Sitesi, GOSB, D-100, TEM ve Şekerpınar çekici bağlantı hattı'
     ],
     fieldLogTitle: 'Gebze Merkez Saha Operasyon Kaydı',
     fieldLogDesc: 'Hacıhalil Mahallesi ara sokağında marş dinamosu arızalanan sedan otomobil, trafiği kilitlemeden 11 dakika içinde hidrolik kayar kasaya alınıp Gebze Oto Sanayi’deki elektrik servisine hasarsız teslim edildi.',

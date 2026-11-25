@@ -33,40 +33,38 @@
   }
 
   if (cfg.ga4Id || cfg.adsId) {
-    ['pointerdown', 'click', 'touchstart', 'scroll', 'keydown'].forEach(function (ev) {
-      window.addEventListener(ev, loadGtagOnce, { once: true, passive: true });
-    });
-    if ('requestIdleCallback' in window) {
-      window.requestIdleCallback(loadGtagOnce, { timeout: 4000 });
+    // Google Ads tıklamasıyla gelindiyse (gclid/gad_source vb.) gtag.js'yi beklemeden ANINDA yükle
+    if (/[?&](gclid|wbraid|gbraid|gad_source)=/i.test(window.location.search)) {
+      loadGtagOnce();
     } else {
-      window.setTimeout(loadGtagOnce, 4000);
+      ['pointerdown', 'click', 'touchstart', 'scroll', 'keydown'].forEach(function (ev) {
+        window.addEventListener(ev, loadGtagOnce, { once: true, passive: true });
+      });
+      if ('requestIdleCallback' in window) {
+        window.requestIdleCallback(loadGtagOnce, { timeout: 4000 });
+      } else {
+        window.setTimeout(loadGtagOnce, 4000);
+      }
     }
   }
 
-  // ── 2. Google Ads Single-Line Conversion Helper ────────────────────────────
+  // ── 2. Google Ads Single-Line Conversion Helper (0ms Beacon, iOS Safari Safe) ──
   function gtag_report_conversion(sendTo, callback) {
-    var done = false;
-    var finish = function () {
-      if (done) return;
-      done = true;
-      if (typeof callback === 'function') callback();
-    };
-
+    loadGtagOnce();
     if (sendTo && typeof window.gtag === 'function') {
       try {
         window.gtag('event', 'conversion', {
           send_to: sendTo,
-          transport_type: 'beacon',
-          event_callback: finish
+          value: 1.0,
+          currency: 'TRY',
+          transport_type: 'beacon'
         });
-      } catch (e) {
-        finish();
-      }
-      window.setTimeout(finish, 180);
-    } else {
-      window.setTimeout(finish, 120);
+      } catch (e) {}
     }
-    return false;
+    if (typeof callback === 'function') {
+      callback();
+    }
+    return true;
   }
   window.gtag_report_conversion = gtag_report_conversion;
 
@@ -256,10 +254,8 @@
         phone: href
       });
       if (cfg.adsCallConversion) {
-        e.preventDefault();
-        gtag_report_conversion(cfg.adsCallConversion, function () {
-          window.location.href = href;
-        });
+        // e.preventDefault() olmadan 0ms anında arama açılır, dönüşüm beacon ile arka planda gider
+        gtag_report_conversion(cfg.adsCallConversion);
       }
     }
 
