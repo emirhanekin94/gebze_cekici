@@ -268,7 +268,13 @@
           click_source: 'footer_secondary',
           phone_number: num
         });
-        window.location.href = 'tel:' + num;
+        if (cfg.adsCallConversion) {
+          gtag_report_conversion(cfg.adsCallConversion, function () {
+            window.location.href = 'tel:' + num;
+          });
+        } else {
+          window.location.href = 'tel:' + num;
+        }
       }
     }
   });

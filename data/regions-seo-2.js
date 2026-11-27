@@ -296,24 +296,24 @@ const REGIONS_SEO_2 = {
   'sekerpinar': {
     extraSections: [
       {
-        h2: 'Şekerpınar Çekici: Bankacılık Üssü, Muhsin Yazıcıoğlu ve TEM Bağlantısı',
+        h2: 'Çayırova Şekerpınar Çekici: Bankacılık Üssü, Muhsin Yazıcıoğlu ve TEM Bağlantısı',
         paragraphs: [
-          'Kocaeli’nin İstanbul kapısı Şekerpınar; büyük bankaların operasyon ve teknoloji merkezleri, gıda ve lojistik dağıtım üsleri, Muhsin Yazıcıoğlu Caddesi, Anadolu Caddesi, Şekerpınar TEM Gişeleri ve TOSB bağlantı yollarıyla yüksek yoğunluklu bir iş ve yaşam merkezidir.',
-          'Şekerpınar çekici nöbetçi filomuz Çayırova–TOSB–Şekerpınar üçgeninde konuşlu araçlarıyla çağrınızın ardından ortalama 10–12 dakika içinde kampüs otoparkınıza veya TEM gişe çıkışına ulaşır.'
+          'Kocaeli’nin İstanbul kapısı Çayırova Şekerpınar; büyük bankaların operasyon ve teknoloji merkezleri, gıda ve lojistik dağıtım üsleri, Muhsin Yazıcıoğlu Caddesi, Anadolu Caddesi, Şekerpınar TEM Gişeleri ve TAYSAD (TOSB) bağlantı yollarıyla yüksek yoğunluklu bir iş ve yaşam merkezidir.',
+          'Şekerpınar nöbetçi çekici filomuz Çayırova–TOSB–Şekerpınar üçgeninde konuşlu araçlarıyla 7/24 Şekerpınar çekici numarası üzerinden gelen çağrılara ortalama 10–12 dakika içinde yanıt verir.'
         ]
       },
       {
-        h2: 'Şekerpınar Kurumsal Kampüs Otoparkları ve Lojistik Araç Kurtarma',
+        h2: 'Şekerpınar Kurumsal Kampüs Otoparkları ve Araç Kurtarma',
         paragraphs: [
           'Bankacılık ve teknoloji kampüslerinin çok katlı kapalı garajlarında gün boyu park halinde kalan personel araçlarında akşam çıkış saatinde akü bitmesi veya elektronik el freni kilidi sık görülür. 1.88 metre alçak kabinli kapalı otopark çekicimiz ve dijital korumalı akü takviye ekibimizle kampüs garajlarına doğrudan girip hızlı çözüm üretiyoruz.',
-          'Şekerpınar lojistik depolarından çıkış yapan soğutuculu dağıtım araçları, uzun şasi panelvanlar ve personel servis minibüsleri için yüksek tonajlı ticari platformlarımız 7/24 hazır bekler.'
+          'Şekerpınar lojistik depolarından çıkış yapan soğutuculu dağıtım araçları, uzun şasi panelvanlar ve personel servis minibüsleri için yüksek tonajlı ticari araç çekici platformlarımız 7/24 hazır bekler.'
         ]
       },
       {
-        h2: 'Şekerpınar Oto Kurtarma: Tuzla–Pendik ve Gebze Servislerine Hızlı Teslimat',
+        h2: 'Şekerpınar Çekici Fiyatları, Tuzla–Pendik ve Gebze Servis Teslimatı',
         paragraphs: [
-          'Şekerpınar’dan hem Gebze Oto Sanayi Sitesi’ne hem de İstanbul Tuzla, Pendik, Kurtköy ve Sabiha Gökçen çevresindeki yetkili servislere en kısa rotadan sigortalı teslimat yapıyoruz. Sabit fiyat politikamızla telefonda onaylanan rakam dışında hiçbir ek masraf çıkmaz.',
-          'Fotoğraflı teslim tutanağı, nakit ve havale ödeme kolaylığı ve kurumsal fotoğraflı teslim tutanağı standartlarımızla Şekerpınar’da 7/24 yanınızdayız.'
+          'Şekerpınar’dan hem Gebze Oto Sanayi Sitesi’ne hem de İstanbul Tuzla, Pendik, Kurtköy ve Sabiha Gökçen çevresindeki yetkili servislere en kısa rotadan sigortalı teslimat yapıyoruz. Net Şekerpınar çekici fiyatları ve sabit ücret politikamızla telefonda onaylanan rakam dışında hiçbir ek masraf çıkmaz.',
+          'Fotoğraflı teslim tutanağı, nakit ve havale ödeme kolaylığı standartlarımızla Çayırova Şekerpınar bölgesinde 7/24 yanınızdayız.'
         ]
       }
     ]

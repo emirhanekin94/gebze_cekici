@@ -50,7 +50,7 @@ function stepsSection(eyebrow, title, desc, customSteps = null) {
   const steps = customSteps || [
     { num: '01', icon: P.ICONS.phone, title: 'İhbar & Konum Paylaşımı', desc: '0533 945 45 14 numaramızdan arayın veya WhatsApp üzerinden tek dokunuşla konumunuzu iletin; net sabit fiyatı anında onaylayın.' },
     { num: '02', icon: P.ICONS.clock, title: '10–15 Dk Hızlı İntikal', desc: 'Gebze Merkez, GOSB, TEM, D-100, Çayırova ve Darıca’daki nöbetçi ekibimiz ışıklı emniyetle konumunuza ulaşır.' },
-    { num: '03', icon: P.ICONS.truck, title: 'Hasarsız & özenli Yükleme', desc: 'Düşük eğimli hidrolik kayar kasa veya aparatlı kurtarıcımızla aracınız 4 tekerlekten jant koruyucu kemerlerle sabitlenir.' },
+    { num: '03', icon: P.ICONS.truck, title: 'Hasarsız & Özenli Yükleme', desc: 'Düşük eğimli hidrolik kayar kasa veya aparatlı kurtarıcımızla aracınız 4 tekerlekten jant koruyucu kemerlerle sabitlenir.' },
     { num: '04', icon: P.ICONS.shield, title: 'Servise Güvenli Teslim', desc: 'Gebze Sanayi, yetkili servis veya belirttiğiniz adrese hasarsız indirme, fotoğraflı teslim tutanağı ile süreç tamamlanır.' }
   ];
 
@@ -651,7 +651,7 @@ ${P.headerNav('regions', { navbarTitle: r.navbarTitle, navbarSub: r.navbarSub })
               <th>Araç Sınıfı</th>
               <th>Kullanılan Kurtarıcı</th>
               <th>Sabitleme &amp; Koruma Yöntemi</th>
-              <th>Kasko &amp; teslim tutanağı</th>
+              <th>Kasko &amp; Teslim Tutanağı</th>
             </tr>
           </thead>
           <tbody>
@@ -659,7 +659,7 @@ ${P.headerNav('regions', { navbarTitle: r.navbarTitle, navbarSub: r.navbarSub })
               <td><strong>Binek &amp; Spor Otomobil</strong></td>
               <td>Düşük Eğimli Hidrolik Kayar Kasa</td>
               <td>6° altı uzatma rampası + 4 tekerlek lastik üstü spanzet</td>
-              <td>Fotoğraflı teslim tutanağı + teslim tutanağı</td>
+              <td>Fotoğraflı teslim tutanağı</td>
             </tr>
             <tr>
               <td><strong>SUV, 4x4 &amp; Elektrikli (EV)</strong></td>
@@ -693,7 +693,7 @@ ${P.headerNav('regions', { navbarTitle: r.navbarTitle, navbarSub: r.navbarSub })
           <span class="section-eyebrow">Komşu Kapsama Alanları</span>
           <h2 class="section-title">${P.esc(r.name)} Çevresindeki Diğer Hizmet Bölgelerimiz</h2>
         </div>
-        <a href="/bolgeler/" class="btn btn-outline">Tüm 29 Bölge ${P.ICONS.arrowRight}</a>
+        <a href="/bolgeler/" class="btn btn-outline">Tüm 30 Bölge ${P.ICONS.arrowRight}</a>
       </div>
       <div class="regions-grid">
         ${neighbors.slice(0, 6).map(n => regionCardHtml(n, false)).join('\n        ')}

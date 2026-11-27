@@ -333,26 +333,26 @@ const REGIONS_PART_2 = [
     cardSummary: 'Şekerpınar, banka operasyon merkezleri, lojistik depolar, TEM Şekerpınar Gişeleri ve TOSB geçişinde 7/24 kurumsal çekici.',
     metaTitle: 'Şekerpınar Çekici | Bankacılık Üssü & 7/24 Oto Kurtarma',
     metaDesc: 'Çayırova Şekerpınar, banka operasyon merkezleri, lojistik depolar, Muhsin Yazıcıoğlu Caddesi ve TEM Şekerpınar Gişeleri’nde 7/24 çekici: 0533 945 45 14.',
-    heroLead: 'Şekerpınar Mahallesi, bankacılık ve teknoloji operasyon merkezleri, lojistik antrepolar, Muhsin Yazıcıoğlu Caddesi ve TEM Şekerpınar Gişeleri’nde 7/24 kurumsal ve bireysel çekici.',
-    seoTitle: 'Şekerpınar Bankacılık Üssü ve Lojistik Bölgesinde Hızlı Çekici',
+    heroLead: 'Çayırova Şekerpınar Mahallesi, bankacılık ve teknoloji operasyon merkezleri, lojistik antrepolar, Muhsin Yazıcıoğlu Caddesi ve TEM Şekerpınar Gişeleri’nde 7/24 kurumsal araç çekici.',
+    seoTitle: 'Çayırova Şekerpınar Çekici & Bankacılık Üssü Hızlı Kurtarma',
     paragraphs: [
-      'Kocaeli’nin İstanbul’a açılan en dinamik kurumsal merkezlerinden Şekerpınar; Türkiye’nin en büyük bankalarının operasyon kampüslerine (Akbank, özen BBVA, İş Bankası, Yapı Kredi, Kuveyt Türk), uluslararası lojistik firmalarının dev depolarına ve TEM Şekerpınar Gişeleri’ne ev sahipliği yapar. Muhsin Yazıcıoğlu Caddesi, Fevzi Çakmak Caddesi ve Anadolu Caddesi boyunca sabah-akşam yoğun kurumsal binek ve ticari araç akışı görülür.',
-      'Kampüs otoparklarında mesai bitiminde çalışmayan kurumsal kiralık araçlar, soğuk havalarda akü sorunu yaşayan binek otomobiller ve lojistik depolar arasında seyreden panelvan/kamyonetler için Şekerpınar’a ortalama 10–15 dakikada ulaşıyoruz. Binek araçlarda düşük eğimli <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekici</a>, şirket kapalı otoparklarında ise alçak kabinli <a href="/hizmetler/aparatli-cekici.html">otopark kurtarıcısı</a> görev yapar.',
-      'Şekerpınar’daki filo ve lojistik şirketleri için uzun şasili <a href="/hizmetler/ticari-arac-cekici.html">ticari araç çekici</a>, depo içi <a href="/hizmetler/tenteli-arac-nakliye.html">forklift nakli</a> ve 12V/24V korumalı <a href="/hizmetler/aku-takviye.html">yerinde akü takviye</a> hizmetleri tek bir 7/24 operasyon merkezinden yönetilir.',
-      'Kiralık filo araçları ve şirket otomobilleri için hızlı fotoğraflı teslim tutanağı, yükleme öncesi sabit fiyat teyidiyle iş gününüzün bölünmesini engelliyoruz.'
+      'Kocaeli’nin İstanbul’a açılan en dinamik kurumsal merkezlerinden Şekerpınar; Türkiye’nin en büyük bankalarının operasyon kampüslerine (Akbank, Garanti BBVA, İş Bankası, Yapı Kredi, Kuveyt Türk), uluslararası lojistik firmalarının dev depolarına ve TEM Şekerpınar Gişeleri’ne ev sahipliği yapar. Muhsin Yazıcıoğlu Caddesi, Fevzi Çakmak Caddesi ve Anadolu Caddesi boyunca sabah-akşam yoğun kurumsal binek ve ticari araç akışı görülür.',
+      'Kampüs otoparklarında mesai bitiminde çalışmayan kurumsal kiralık araçlar, soğuk havalarda akü sorunu yaşayan binek otomobiller ve lojistik depolar arasında seyreden panelvanlar için <strong>Şekerpınar nöbetçi çekici</strong> ve <strong>Şekerpınar araç çekici</strong> ekiplerimiz ortalama 10–15 dakikada ulaşır. Binek araçlarda düşük eğimli <a href="/hizmetler/oto-kurtarma.html">kayar kasa oto çekici</a>, şirket kapalı otoparklarında ise alçak kabinli <a href="/hizmetler/aparatli-cekici.html">otopark kurtarıcısı</a> görev yapar.',
+      'Şekerpınar’daki filo, TAYSAD ve TOSB çekici ihtiyaçları için uzun şasili <a href="/hizmetler/ticari-arac-cekici.html">ticari araç çekici</a>, depo içi <a href="/hizmetler/tenteli-arac-nakliye.html">forklift nakli</a> ve 12V/24V korumalı <a href="/hizmetler/aku-takviye.html">yerinde akü takviye</a> hizmetleri tek bir 7/24 <strong>Şekerpınar çekici numarası</strong> üzerinden yönetilir.',
+      'Şeffaf <strong>Şekerpınar çekici fiyatları</strong>, yükleme öncesi sabit fiyat onayı ve fotoğraflı teslim tutanağı ile iş gününüzün bölünmesini engelliyoruz.'
     ],
     localPointsTitle: 'Şekerpınar Hızlı İntikal Noktalarımız',
     localPoints: [
       'Banka operasyon merkezleri kampüs girişleri ve açık/kapalı personel otoparkları',
       'Muhsin Yazıcıoğlu Caddesi, Fevzi Çakmak Caddesi ve Şekerpınar Meydanı',
       'TEM Otoyolu Şekerpınar Gişeleri ve Tuzla Orhanlı bağlantı yolu',
-      'Şekerpınar lojistik depoları, TOSB girişi ve Akpınar sanayi çevresi'
+      'Şekerpınar lojistik depoları, TAYSAD / TOSB girişi ve Akpınar sanayi çevresi'
     ],
     fieldLogTitle: 'Şekerpınar Saha Operasyon Kaydı',
     fieldLogDesc: 'Şekerpınar Muhsin Yazıcıoğlu Caddesi’ndeki banka kampüsü otoparkında aküsü biten otomatik filo aracı, 11 dakikada gelen mobil ekibimizin korumalı booster cihazıyla çalıştırılıp alternatör ölçümüyle teslim edildi.',
     faqs: [
       { q: 'Şekerpınar’daki banka operasyon merkezi otoparkına çekici veya akü takviye gelebiliyor mu?', a: 'Evet. Güvenlik kaydımızı vererek kampüs açık veya kapalı otoparklarına girip yerinde akü takviye ya da çekici yüklemesi yapıyoruz.' },
-      { q: 'Şirket kiralık aracım Şekerpınar’da arızalandı, özenli çalışıyor musunuz?', a: 'Evet. Filo kiralama şirketlerine ve kurumsal muhasebeye ibraz edebileceğiniz resmi fotoğraflı teslim tutanağı kesiyoruz.' },
+      { q: 'Şirket kiralık aracım Şekerpınar’da arızalandı, kurumsal süreç nasıl işliyor?', a: 'Filo kiralama şirketlerine ve kurumsal muhasebeye ibraz edebileceğiniz resmi fotoğraflı teslim tutanağı düzenliyoruz.' },
       { q: 'TEM Şekerpınar Gişeleri önünde aracım hararet yaptı, kaç dakikada ulaşırsınız?', a: 'Şekerpınar Gişeleri’ne 10–15 dakika içinde ulaşarak ışıklı ikaz altında aracınızı hızla güvenli platforma alıyoruz.' },
       { q: 'Şekerpınar’dan Sabiha Gökçen Havalimanı çevresi veya Tuzla servisine çekiyor musunuz?', a: 'Evet. Şekerpınar Sabiha Gökçen ve Tuzla’ya komşu olduğundan çok hızlı ve ekonomik nakil sağlıyoruz.' },
       { q: 'Lojistik depomuzdaki ticari panelvan ve kamyonetler için 7/24 desteğiniz var mı?', a: 'Evet. Gece sevkiyatlarında dahi uzun şasili ticari çekicimiz ve 24V takviye ekibimiz kesintisiz aktiftir.' }
